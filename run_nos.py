@@ -18,6 +18,17 @@ for m in methods:
             nruns = 100
     subprocess.Popen(f'python run_perm_test.py -i data/nostratic.tsv -m {m} -p -n {nruns}'.split()) 
 
+for m in methods:
+    if os.path.isfile(f"results/perm_test/mayan_mixezoque_utoaztecan_{m}.json"):
+        continue
+
+    if m in ['p1-dolgo', 'turchin']:
+            nruns = 1000
+    else:
+            nruns = 100
+    subprocess.Popen(f'python run_perm_test.py -i data/mayan_mixezoque_utoaztecan.tsv -m {m} -p -n {nruns}'.split()) 
+
+
 for data_files in data_files_sets:
     skip = True
     for d in data_files:

@@ -76,10 +76,31 @@ for i in range(mat.shape[0]):
 most_similar = lambda x: sort_by_similarity(x, mat, langs, p_mat)
 print('similarity:',round(ret_dict['last_score'],3),'p-value:',round(ret_dict['last_pval'],3))
 
-labels = ['Georgian', 'Old_Kannada', 'Old_Telugu', 'Old_Tamil', 'Old_Malayalam', 'Greek_Anc', 'Armenian', 'Middle_Persian','Sanskrit', 'Pali', \
+prefix = 'nos'
+if 'nostratic' in args.infile:
+    labels = ['Georgian', 'Old_Kannada', 'Old_Telugu', 'Old_Tamil', 'Old_Malayalam', 'Greek_Anc', 'Armenian', 'Middle_Persian','Sanskrit', 'Pali', \
          'Old_Church_Slavonic', 'Old_Irish', 'Latin', 'Old_French', 'Old_High_German', 'Old_English', 'Old_Norse']
-short_labels = ['Ge', 'Ka', 'Te', 'Ta', 'Ma', 'Gr', 'Ar', 'Pe', 'Sa', 'Pa', \
+    short_labels = ['Ge', 'Ka', 'Te', 'Ta', 'Ma', 'Gr', 'Ar', 'Pe', 'Sa', 'Pa', \
          'CS', 'Ir', 'La', 'Fr', 'HG', 'En', 'No']
+else: ## mayan_mixezoque_utoaztecan
+    prefix = 'mmu'
+    labels = ['HUASTEC', 'TOJOLABAL', 'CHUJ', 'JACALTEC', \
+       'QANJOBAL_SANTA_EULALIA', 'ACATECO_SAN_MIGUEL_ACATAN', \
+       'IXIL_CHAJUL', 'AGUACATEC', 'TECO_TECTITAN', 'MAM_NORTHERN', \
+       'SIPAKAPENSE', 'SACAPULTECO_SACAPULAS_CENTRO', 'CENTRAL_QUICHE', \
+       'SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA', \
+       'TZUTUJIL_SAN_JUAN_LA_LAGUNA', 'POQOMCHI_WESTERN', \
+       'POCOMAM_EASTERN', 'USPANTEKO', 'EASTERN_KEKCHI_CAHABON', \
+       'TZELTAL_BACHAJON', 'CHOL_TUMBALA', 'CHORTI', 'ITZAJ', 'MOPAN', \
+       'MAYA_YUCATAN', 'ZINACANTAN_TZOTZIL', 'CHONTAL_TABASCO', \
+       'LACANDON', 'MOCHO', 'CHICOMUCELTEC', 'NORTH_HIGHLAND_MIXE', \
+       'SOUTH_HIGHLAND_MIXE', 'LOWLAND_MIXE', 'SAYULA_POPOLUCA', \
+       'OLUTA_POPOLUCA', 'TEXISTEPEC_ZOQUE', 'SOTEAPAN_ZOQUE', \
+       'MARIA_CHIMALAPA', 'MIGUEL_CHIMALAPA', 'CHIAPAS_ZOQUE', \
+       'ClassicalNahuatl', 'TetelcingoNahuatl', 'NorthPueblaNahuatl', \
+       'MecayapanNahuat', 'PajapanNahuat', 'JalupaNahuat', 'Pipil', \
+       'Pochutec', 'ProtoAztecan']
+    short_labels = [str(i+1) for i in range(len(labels))]
 
 if args.plotfig:
     inds = [langs.index(l) for l in labels]
@@ -89,7 +110,7 @@ if args.plotfig:
     ax.invert_yaxis()
     plt.yticks(np.arange(0.5,len(labels)), short_labels)
     plt.xticks(np.arange(0.5,len(labels)), short_labels)
-    plt.savefig(f'results/{method}.png')
+    plt.savefig(f'results/{prefix}_{method}.png')
 
 save_dict = {'sim_score': ret_dict['last_score'], 'p_val': ret_dict['last_pval'], 'p_val_ls': 1/nruns, 'tree': ret_dict['tree']}
 with open(f"results/perm_test/{dataset_name}_{method}.json",'w') as fp:

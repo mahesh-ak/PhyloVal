@@ -3,7 +3,7 @@ from src.lrt import LRT
 import os
 
 families = ['drav', 'ie', 'drav_ie', 'nostratic','monkhmer', 'munda', 'monkhmer_munda', 'mayan', 'mixezoque', 'mayan_mixezoque', 'afrasian_loloburmese', 'utoaztecan', 'mayan_utoaztecan', 'monkhmer1_utoaztecan',\
-            'monkhmer1_mayan']
+            'monkhmer1_mayan', 'mayan_mixezoque_utoaztecan']
 
 for family in families:
     if os.path.isfile(f"results/lrt_{family}.json"):

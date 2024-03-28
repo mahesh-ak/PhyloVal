@@ -10,7 +10,7 @@ Path(pth).mkdir(parents=True, exist_ok=True)
 
 
 ################################ MPT with LRT #################################################################################
-families = ['drav', 'ie', 'drav_ie', 'nostratic', 'mayan', 'mixezoque', 'utoaztecan', 'mayan_mixezoque', 'mayan_utoaztecan', 'monkhmer', 'munda', 'monkhmer_munda', 'monkhmer1_utoaztecan' , 'monkhmer1_mayan', 'afrasian_loloburmese']
+families = ['drav', 'ie', 'drav_ie', 'nostratic', 'mayan', 'mixezoque', 'utoaztecan', 'mayan_mixezoque', 'mayan_utoaztecan', 'mayan_mixezoque_utoaztecan', 'monkhmer', 'munda', 'monkhmer_munda', 'monkhmer1_utoaztecan' , 'monkhmer1_mayan', 'afrasian_loloburmese']
 methods = ['p1-dolgo','turchin','lexstat', 'sca']
 
 lines = ["Method\t" + '\t'.join(families)]
