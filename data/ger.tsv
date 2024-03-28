@@ -1,0 +1,556 @@
+CONCEPT	DOCULECT	IPA	ID
+I (1sg)	Old_Norse	ek	1
+I (1sg)	Old_High_German	ix	2
+I (1sg)	Old_English	it͡ʃ	3
+you (2sg)	Old_Norse	θuː	4
+you (2sg)	Old_High_German	duː	5
+you (2sg)	Old_English	θuː	6
+he (3sg)	Old_Norse	hanː	7
+he (3sg)	Old_High_German	er	8
+he (3sg)	Old_English	heː	9
+we (1pl)	Old_Norse	veːr	10
+we (1pl)	Old_High_German	wiːr	11
+we (1pl)	Old_English	weː	12
+you (2pl)	Old_Norse	θeːr	13
+you (2pl)	Old_High_German	iːr	14
+you (2pl)	Old_English	jeː	15
+they (3pl)	Old_Norse	θɛir	16
+they (3pl)	Old_High_German	siː	17
+they (3pl)	Old_English	hiːy̯	18
+this	Old_Norse	ˈθesːi	19
+this	Old_High_German	deseːr	20
+this	Old_English	θis	21
+that	Old_Norse	θat	22
+that	Old_High_German	jeneːr	23
+that	Old_English	θæt	24
+here	Old_Norse	heːr	25
+here	Old_High_German	hiːr	26
+here	Old_English	heːr	27
+there	Old_Norse	θar	28
+there	Old_High_German	daːr	29
+there	Old_English	θæːr	30
+who	Old_Norse	ɣverː	31
+who	Old_High_German	weːr	32
+who	Old_English	ʍɑː	33
+what	Old_Norse	ɣvat	34
+what	Old_High_German	was	35
+what	Old_English	ʍæt	36
+where	Old_Norse	ɣvar	37
+where	Old_High_German	xwaːr	38
+where	Old_English	ʍæːr	39
+when	Old_Norse	ˈɣveːˌnɛːr	40
+when	Old_High_German	wanːə	41
+when	Old_English	ˈʍænːe	42
+how	Old_Norse	ɣveː	43
+how	Old_High_German	xwio	44
+how	Old_English	huː	45
+not	Old_Norse	ˈekːi	46
+not	Old_High_German	nio	47
+not	Old_English	ne	48
+all	Old_Norse	alːɪr	49
+all	Old_High_German	al	50
+all	Old_English	æɑ̯ɫː	51
+many	Old_Norse	ˈmarɡir	52
+many	Old_High_German	manaɡ	53
+many	Old_English	ˈmɒnij	54
+some	Old_Norse	ˈnokːurir	55
+some	Old_High_German	sum	56
+some	Old_English	sum	57
+few	Old_Norse	faːr	58
+few	Old_High_German	fao	59
+few	Old_English	fæːɑ̯w	60
+other	Old_Norse	ˈanːarː	61
+other	Old_High_German	ˈandar	62
+other	Old_English	ˈoːðer	63
+one	Old_Norse	ɛinː	64
+one	Old_High_German	aɪn	65
+one	Old_English	ɑːn	66
+two	Old_Norse	tvau	67
+two	Old_High_German	t͡sweːnə	68
+two	Old_English	ˈtweːjen	69
+three	Old_Norse	θrju	70
+three	Old_High_German	driː	71
+three	Old_English	θriː	72
+four	Old_Norse	ˈfjoɡur	73
+four	Old_High_German	fior	74
+four	Old_English	ˈfeːo̯wer	75
+five	Old_Norse	fimː	76
+five	Old_High_German	fimf	77
+five	Old_English	fiːf	78
+long	Old_Norse	lanɣr	79
+long	Old_High_German	lanɡ	80
+long	Old_English	lɒŋɡ	81
+wide	Old_Norse	viðr	82
+wide	Old_High_German	wiːt	83
+wide	Old_English	wiːd	84
+thick	Old_Norse	θykːr	85
+thick	Old_High_German	dikxi	86
+thick	Old_English	ˈθikːe	87
+heavy	Old_Norse	θunɣr	88
+heavy	Old_High_German	swaːr	89
+heavy	Old_English	ˈhevij	90
+short	Old_Norse	stutːr	91
+short	Old_High_German	skurt	92
+short	Old_English	ʃorˠt	93
+narrow	Old_Norse	mjoːr	94
+narrow	Old_High_German	enɡi	95
+narrow	Old_English	ˈnæɑ̯ru	96
+thin	Old_Norse	θunːr	97
+thin	Old_High_German	ˈdunːi	98
+thin	Old_English	ˈθynːe	99
+woman	Old_Norse	ˈkvenː	100
+woman	Old_High_German	kwɛn	101
+woman	Old_English	wiːf	102
+man (adult male)	Old_Norse	karl	103
+man (adult male)	Old_High_German	ɡomo	104
+man (adult male)	Old_English	wer	105
+man (human being)	Old_Norse	maðr	106
+man (human being)	Old_High_German	man	107
+man (human being)	Old_English	mɒnː	108
+child	Old_Norse	barn	109
+child	Old_High_German	kint	110
+child	Old_English	t͡ʃild	111
+wife	Old_Norse	ˈkona	112
+wife	Old_High_German	fraʊ	113
+wife	Old_English	wiːf	114
+husband	Old_Norse	ˈboːndi	115
+husband	Old_High_German	bruːtiɡomo	116
+husband	Old_English	wer	117
+animal	Old_Norse	dyːr	118
+animal	Old_High_German	tior	119
+animal	Old_English	ˈniːy̯ten	120
+fish	Old_Norse	fiskr	121
+fish	Old_High_German	fisk	122
+fish	Old_English	fiʃ	123
+dog	Old_Norse	hundr	124
+dog	Old_High_German	hunt	125
+dog	Old_English	hund	126
+louse	Old_Norse	luːs	127
+louse	Old_High_German	luːs	128
+louse	Old_English	luːs	129
+snake	Old_Norse	snaːkr	130
+snake	Old_High_German	slaːnɡo	131
+snake	Old_English	ˈnæːdre	132
+worm	Old_Norse	ormr	133
+worm	Old_High_German	wurm	134
+worm	Old_English	wyrˠm	135
+tree	Old_Norse	treː	136
+tree	Old_High_German	boum	137
+tree	Old_English	treːo̯w	138
+forest	Old_Norse	skoːɡr	139
+forest	Old_High_German	forst	140
+forest	Old_English	ˈwudu	141
+stick	Old_Norse	stavr	142
+stick	Old_High_German	stok	143
+stick	Old_English	ˈstikːɑ	144
+fruit	Old_Norse	ˈavoxtr	145
+fruit	Old_High_German	obəs	146
+fruit	Old_English	ˈwæstm̩	147
+seed	Old_Norse	frjoː	148
+seed	Old_High_German	saːmo	149
+seed	Old_English	sæːd	150
+leaf	Old_Norse	lauv	151
+leaf	Old_High_German	loub	152
+leaf	Old_English	læːɑ̯f	153
+root	Old_Norse	roːt	154
+root	Old_High_German	wurt͡s	155
+root	Old_English	ˈwyrˠt	156
+bark (of a tree)	Old_Norse	bɔrkr	157
+bark (of a tree)	Old_High_German	rinta	158
+bark (of a tree)	Old_English	rind	159
+flower	Old_Norse	bloːm	160
+flower	Old_High_German	bluːmə	161
+flower	Old_English	ˈbloːstmɑ	162
+grass	Old_Norse	ɡras	163
+grass	Old_High_German	ɡras	164
+grass	Old_English	ɣærˠs	165
+rope	Old_Norse	rɛip	166
+rope	Old_High_German	raɪf	167
+rope	Old_English	rɑːp	168
+skin	Old_Norse	huːð	169
+skin	Old_High_German	huːt	170
+skin	Old_English	hyːd	171
+meat	Old_Norse	kjɔt	172
+meat	Old_High_German	flaɪsk	173
+meat	Old_English	flæːʃ	174
+blood	Old_Norse	bloːð	175
+blood	Old_High_German	bluːt	176
+blood	Old_English	bloːd	177
+bone	Old_Norse	bɛin	178
+bone	Old_High_German	knoxːa	179
+bone	Old_English	bɑːn	180
+fat (noun)	Old_Norse	morː	181
+fat (noun)	Old_High_German	smalt͡s	182
+fat (noun)	Old_English	ˈryzel	183
+egg	Old_Norse	eɡː	184
+egg	Old_High_German	aɪ	185
+egg	Old_English	æːj	186
+horn	Old_Norse	horn	187
+horn	Old_High_German	horn	188
+horn	Old_English	horˠn	189
+tail	Old_Norse	ˈhali	190
+tail	Old_High_German	stɛrts	191
+tail	Old_English	ˈtæjl̩	192
+feather	Old_Norse	fjɔðr	193
+feather	Old_High_German	feːdərə	194
+feather	Old_English	ˈfeðer	195
+hair	Old_Norse	haːr	196
+hair	Old_High_German	haːr	197
+hair	Old_English	hæːr	198
+head	Old_Norse	ˈhɔvuð	199
+head	Old_High_German	haʊbit	200
+head	Old_English	ˈhæːɑ̯vod	201
+ear	Old_Norse	ˈɛyra	202
+ear	Old_High_German	oːra	203
+ear	Old_English	æːɑ̯re	204
+eye	Old_Norse	ˈauɣa	205
+eye	Old_High_German	aʊɡə	206
+eye	Old_English	ˈæːɑ̯ɣe	207
+nose	Old_Norse	nef	208
+nose	Old_High_German	ˈnaːsə	209
+nose	Old_English	ˈnozu	210
+mouth	Old_Norse	munːr	211
+mouth	Old_High_German	munt	212
+mouth	Old_English	muːθ	213
+tooth	Old_Norse	tɔnː	214
+tooth	Old_High_German	t͡saːnt	215
+tooth	Old_English	toːθ	216
+tongue (organ)	Old_Norse	ˈtunɣa	217
+tongue (organ)	Old_High_German	t͡suŋə	218
+tongue (organ)	Old_English	ˈtuŋɡe	219
+fingernail	Old_Norse	naɣl	220
+fingernail	Old_High_German	naːɡəl	221
+fingernail	Old_English	næjl̩	222
+foot	Old_Norse	foːtr	223
+foot	Old_High_German	fuoz	224
+foot	Old_English	foːt	225
+leg	Old_Norse	leɡːr	226
+leg	Old_High_German	baɪn	227
+leg	Old_English	ˈʃɒŋkɑ	228
+knee	Old_Norse	kneː	229
+knee	Old_High_German	kniː	230
+knee	Old_English	kneːo̯w	231
+hand	Old_Norse	hɔnd	232
+hand	Old_High_German	hant	233
+hand	Old_English	hɒnd	234
+wing	Old_Norse	vɛnɣr	235
+wing	Old_High_German	feːdərax	236
+wing	Old_English	ˈfiðre	237
+guts	Old_Norse	inːyfli	238
+guts	Old_High_German	darm	239
+guts	Old_English	ˈθæɑ̯rˠmɑs	240
+neck	Old_Norse	hals	241
+neck	Old_High_German	hals	242
+neck	Old_English	ˈsweːo̯rɑ	243
+back	Old_Norse	bak	244
+back	Old_High_German	bax	245
+back	Old_English	hr̥ydd͡ʒ	246
+heart	Old_Norse	ˈɣjarta	247
+heart	Old_High_German	hɛrt͡sə	248
+heart	Old_English	ˈheo̯rˠte	249
+liver	Old_Norse	lifr	250
+liver	Old_High_German	leːbarə	251
+liver	Old_English	ˈliver	252
+to drink	Old_Norse	ˈdrekːa	253
+to drink	Old_High_German	triŋka	254
+to drink	Old_English	ˈdriŋkɑ	255
+to eat	Old_Norse	ˈeta	256
+to eat	Old_High_German	ɛt͡sa	257
+to eat	Old_English	ˈetɑ	258
+to bite	Old_Norse	ˈbiːta	259
+to bite	Old_High_German	biːsa	260
+to bite	Old_English	ˈbiːtɑ	261
+to spit	Old_Norse	ˈspyːja	262
+to spit	Old_High_German	spiːwa	263
+to spit	Old_English	ˈspæːtɑ	264
+to vomit	Old_Norse	ˈspyːja	265
+to vomit	Old_High_German	spiːwa	266
+to vomit	Old_English	ˈspiːwɑ	267
+to see	Old_Norse	ˈseːa	268
+to see	Old_High_German	seːə	269
+to see	Old_English	jeˈseːo̯	270
+to hear	Old_Norse	ˈhɛyra	271
+to hear	Old_High_German	hoːrə	272
+to hear	Old_English	jeˈhiːy̯rɑ	273
+to know	Old_Norse	ˈviːta	274
+to know	Old_High_German	kenːa	275
+to know	Old_English	ˈkunːɑ	276
+to think	Old_Norse	ˈθɛkja	277
+to think	Old_High_German	denkə	278
+to think	Old_English	ˈθent͡ʃɑ	279
+to smell	Old_Norse	ˈθɛva	280
+to smell	Old_High_German	rioxːa	281
+to smell	Old_English	ˈstiŋkɑ	282
+to fear	Old_Norse	ˈuɡːa	283
+to fear	Old_High_German	furixta	284
+to fear	Old_English	ondˈræːdɑ	285
+to sleep	Old_Norse	ˈsova	286
+to sleep	Old_High_German	slaːfən	287
+to sleep	Old_English	ˈslæːpɑ	288
+to live	Old_Norse	ˈlifa	289
+to live	Old_High_German	lebeː	290
+to live	Old_English	ˈlibːɑ	291
+to die	Old_Norse	ˈdɛyja	292
+to die	Old_High_German	stɛrbə	293
+to die	Old_English	ˈsweltɑ	294
+to kill	Old_Norse	ˈdrepa	295
+to kill	Old_High_German	toːdə	296
+to kill	Old_English	ˈkwelːɑ	297
+to hunt	Old_Norse	ˈbak	298
+to hunt	Old_High_German	jaːɡə	299
+to hunt	Old_English	ˈhuntiɑ	300
+to stab	Old_Norse	ˈstinɣa	301
+to stab	Old_High_German	stɛxːə	302
+to stab	Old_English	ˈstiŋɡɑ	303
+to scratch	Old_Norse	klaː	304
+to scratch	Old_High_German	krat͡soː	305
+to scratch	Old_English	ˈklɑwiɑ	306
+to dig	Old_Norse	ˈɡrava	307
+to dig	Old_High_German	ɡraba	308
+to dig	Old_English	ˈdelvɑ	309
+to swim	Old_Norse	ˈsvima	310
+to swim	Old_High_German	swimːma	311
+to swim	Old_English	ˈswimːɑ	312
+to walk	Old_Norse	ˈɡanɣa	313
+to walk	Old_High_German	ɡaː	314
+to walk	Old_English	ɣɑː	315
+to come	Old_Norse	ˈkoma	316
+to come	Old_High_German	kwema	317
+to come	Old_English	ˈkumɑ	318
+to lie (as in a bed)	Old_Norse	ˈliɡːja	319
+to lie (as in a bed)	Old_High_German	liɡa	320
+to lie (as in a bed)	Old_English	ˈlidd͡ʒɑ	321
+to sit	Old_Norse	ˈsitja	322
+to sit	Old_High_German	sit͡sːə	323
+to sit	Old_English	ˈsitːɑ	324
+to stand	Old_Norse	ˈstanda	325
+to stand	Old_High_German	staː	326
+to stand	Old_English	ˈstɒndɑ	327
+to turn (intransitive)	Old_Norse	ˈsnuːask	328
+to turn (intransitive)	Old_High_German	draːə	329
+to turn (intransitive)	Old_English	ˈwendɑ	330
+to give	Old_Norse	ˈɡeva	331
+to give	Old_High_German	ɡeba	332
+to give	Old_English	ˈsellɑ	333
+to hold	Old_Norse	ˈhalda	334
+to hold	Old_High_German	haltə	335
+to hold	Old_English	ˈhæɑ̯ɫdɑ	336
+to rub	Old_Norse	ˈɡnuːa	337
+to rub	Old_High_German	riːba	338
+to rub	Old_English	ˈɣniːdɑ	339
+to wash	Old_Norse	ˈvaska	340
+to wash	Old_High_German	waska	341
+to wash	Old_English	ˈwɑskɑ	342
+to wipe	Old_Norse	ˈθurka	343
+to wipe	Old_High_German	wiskə	344
+to wipe	Old_English	ˈwiːpiɑ	345
+to pull	Old_Norse	ˈdraɣa	346
+to pull	Old_High_German	t͡sioha	347
+to pull	Old_English	ˈteːo̯	348
+to push	Old_Norse	ˈɣrinda	349
+to push	Old_High_German	skiopa	350
+to push	Old_English	ˈʃuːvɑ	351
+to throw	Old_Norse	ˈkasta	352
+to throw	Old_High_German	wɛrfə	353
+to throw	Old_English	ˈweo̯rˠpɑ	354
+to tie	Old_Norse	ˈbinda	355
+to tie	Old_High_German	binta	356
+to tie	Old_English	ˈtiːy̯jɑ	357
+to sew	Old_Norse	ˈsauma	358
+to sew	Old_High_German	naːjə	359
+to sew	Old_English	ˈsiːy̯wiɑ	360
+to count	Old_Norse	ˈtelja	361
+to count	Old_High_German	t͡selːə	362
+to count	Old_English	ˈtelːɑ	363
+to say	Old_Norse	ˈseɣja	364
+to say	Old_High_German	saɡeː	365
+to say	Old_English	ˈsedd͡ʒɑ	366
+to sing	Old_Norse	ˈsynɣva	367
+to sing	Old_High_German	siŋɡa	368
+to sing	Old_English	ˈsiŋɡɑ	369
+to play	Old_Norse	ˈlɛika	370
+to play	Old_High_German	spiloː	371
+to play	Old_English	ˈpleɣiɑ	372
+to float	Old_Norse	ˈfljoːta	373
+to float	Old_High_German	swɛbeː	374
+to float	Old_English	ˈfleːo̯tɑ	375
+to flow	Old_Norse	ˈstrɛyma	376
+to flow	Old_High_German	fliot͡sa	377
+to flow	Old_English	ˈfloːwɑ	378
+to freeze	Old_Norse	ˈfrjoːsa	379
+to freeze	Old_High_German	friosa	380
+to freeze	Old_English	ˈfreːo̯zɑ	381
+to swell	Old_Norse	ˈsvelːa	382
+to swell	Old_High_German	swelːa	383
+to swell	Old_English	ˈswelːɑ	384
+sun	Old_Norse	soːl	385
+sun	Old_High_German	sonə	386
+sun	Old_English	ˈsunːe	387
+moon	Old_Norse	tunɣl	388
+moon	Old_High_German	maːno	389
+moon	Old_English	ˈmoːnɑ	390
+star	Old_Norse	ˈstjarna	391
+star	Old_High_German	stɛrno	392
+star	Old_English	ˈsteo̯rˠrˠɑ	393
+water	Old_Norse	vatn	394
+water	Old_High_German	wasːar	395
+water	Old_English	ˈwæter	396
+rain	Old_Norse	reɣn	397
+rain	Old_High_German	reɡan	398
+rain	Old_English	ˈrejn̩	399
+river	Old_Norse	aː	400
+river	Old_High_German	fluot	401
+river	Old_English	æːɑ̯	402
+lake	Old_Norse	vatn	403
+lake	Old_High_German	laxa	404
+lake	Old_English	ˈmere	405
+sea	Old_Norse	hav	406
+sea	Old_High_German	seːo	407
+sea	Old_English	sæː	408
+salt	Old_Norse	salt	409
+salt	Old_High_German	salt͡s	410
+salt	Old_English	sæɑ̯ɫt	411
+stone	Old_Norse	stɛinː	412
+stone	Old_High_German	staɪn	413
+stone	Old_English	stɑːn	414
+sand	Old_Norse	sandr	415
+sand	Old_High_German	sant	416
+sand	Old_English	sɒnd	417
+dust	Old_Norse	ˈdust	418
+dust	Old_High_German	stuːp	419
+dust	Old_English	dust	420
+earth	Old_Norse	jɔrð	421
+earth	Old_High_German	erda	422
+earth	Old_English	eo̯rˠðe	423
+cloud	Old_Norse	skyː	424
+cloud	Old_High_German	wolkan	425
+cloud	Old_English	ˈwoɫkn̩	426
+fog	Old_Norse	ˈθoka	427
+fog	Old_High_German	nebul	428
+fog	Old_English	mist	429
+sky	Old_Norse	ˈhiminː	430
+sky	Old_High_German	himil	431
+sky	Old_English	ˈheo̯von	432
+snow	Old_Norse	snjoːr	433
+snow	Old_High_German	sneːo	434
+snow	Old_English	snɑːw	435
+ice	Old_Norse	iːsː	436
+ice	Old_High_German	iːs	437
+ice	Old_English	iːs	438
+smoke	Old_Norse	rɛykr	439
+smoke	Old_High_German	rouh	440
+smoke	Old_English	smiːy̯t͡ʃ	441
+fire	Old_Norse	eldr	442
+fire	Old_High_German	fiur	443
+fire	Old_English	fyːr	444
+ash	Old_Norse	ˈaska	445
+ash	Old_High_German	aska	446
+ash	Old_English	ˈæʃːe	447
+to burn	Old_Norse	ˈbrenːa	448
+to burn	Old_High_German	brinːa	449
+to burn	Old_English	ˈbirˠnɑ	450
+road	Old_Norse	veɡr	451
+road	Old_High_German	weɡ	452
+road	Old_English	wej	453
+mountain	Old_Norse	fjalː	454
+mountain	Old_High_German	berɡ	455
+mountain	Old_English	beo̯rˠɣ	456
+red	Old_Norse	rauðr	457
+red	Old_High_German	roːt	458
+red	Old_English	ræːɑ̯d	459
+green	Old_Norse	ɡrøːnː	460
+green	Old_High_German	ɡruoni	461
+green	Old_English	ˈɣreːne	462
+yellow	Old_Norse	ɡulr	463
+yellow	Old_High_German	ɡelo	464
+yellow	Old_English	ˈjeo̯ɫu	465
+white	Old_Norse	ɣviːtr	466
+white	Old_High_German	wiːs	467
+white	Old_English	ʍiːt	468
+black	Old_Norse	svartr	469
+black	Old_High_German	swart͡s	470
+black	Old_English	swæɑ̯rˠt	471
+night	Old_Norse	noːtː	472
+night	Old_High_German	naxt	473
+night	Old_English	niçt	474
+day	Old_Norse	daɣr	475
+day	Old_High_German	taɡ	476
+day	Old_English	dæj	477
+year	Old_Norse	aːr	478
+year	Old_High_German	jaːr	479
+year	Old_English	jæːɑ̯r	480
+warm	Old_Norse	ɣlyːr	481
+warm	Old_High_German	warm	482
+warm	Old_English	wæɑ̯rˠm	483
+cold	Old_Norse	kaldr	484
+cold	Old_High_German	kalt	485
+cold	Old_English	t͡ʃæɑ̯ɫd	486
+full	Old_Norse	fulːr	487
+full	Old_High_German	folː	488
+full	Old_English	fuɫː	489
+new	Old_Norse	nyːr	490
+new	Old_High_German	niuwi	491
+new	Old_English	ˈniːy̯we	492
+old	Old_Norse	ˈɡamalː	493
+old	Old_High_German	alt	494
+old	Old_English	æɑ̯ɫd	495
+good	Old_Norse	ɡoːðr	496
+good	Old_High_German	ɡuot	497
+good	Old_English	ɣoːd	498
+straight	Old_Norse	bɛinː	499
+straight	Old_High_German	strak	500
+straight	Old_English	riçt	501
+round	Old_Norse	ˈkrinɣˌloːtːr	502
+round	Old_High_German	kraɪziɡ	503
+round	Old_English	ˈsinewæɑ̯ɫt	504
+sharp (as a knife)	Old_Norse	skarpr	505
+sharp (as a knife)	Old_High_German	skarf	506
+sharp (as a knife)	Old_English	ʃæɑ̯rˠp	507
+dull (as a knife)	Old_Norse	sljoːr	508
+dull (as a knife)	Old_High_German	sleːo	509
+dull (as a knife)	Old_English	stump	510
+smooth	Old_Norse	sleːtːr	511
+smooth	Old_High_German	ɡlat	512
+smooth	Old_English	ˈsmeːðe	513
+wet	Old_Norse	vaːtr	514
+wet	Old_High_German	nas	515
+wet	Old_English	wæːt	516
+dry	Old_Norse	θurː	517
+dry	Old_High_German	trukːan	518
+dry	Old_English	ˈdryːje	519
+correct	Old_Norse	reːtːr	520
+correct	Old_High_German	rext	521
+correct	Old_English	riçt	522
+near	Old_Norse	nɛr	523
+near	Old_High_German	naːh	524
+near	Old_English	næːɑ̯x	525
+far	Old_Norse	ˈfjarːi	526
+far	Old_High_German	ferːana	527
+far	Old_English	feo̯rˠː	528
+right	Old_Norse	ˈhøːɡri	529
+right	Old_High_German	rext	530
+right	Old_English	ˈswiːðrɑ	531
+left	Old_Norse	ˈvinstri	532
+left	Old_High_German	liŋk	533
+left	Old_English	ˈwinestrɑ	534
+at	Old_Norse	við	535
+at	Old_High_German	as	536
+at	Old_English	æt	537
+in	Old_Norse	iː	538
+in	Old_High_German	in	539
+in	Old_English	on	540
+with	Old_Norse	með	541
+with	Old_High_German	miti	542
+with	Old_English	mid	543
+and	Old_Norse	ɔk	544
+and	Old_High_German	unti	545
+and	Old_English	ɒnd	546
+if	Old_Norse	ef	547
+if	Old_High_German	ibu	548
+if	Old_English	jif	549
+because	Old_Norse	at	550
+because	Old_High_German	wanta	551
+because	Old_English	for	552
+name	Old_Norse	nafn	553
+name	Old_High_German	namo	554
+name	Old_English	ˈnɒmɑ	555

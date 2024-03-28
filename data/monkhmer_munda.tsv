@@ -1,0 +1,1321 @@
+ID	DOCULECT	CONCEPT	IPA
+1	Bahnar-Golar	I, me	ʔiɲ
+2	Bahnar-Kontum	I, me	ʔiɲ
+3	Bahnar-Pleiku	I, me	ʔiɲ
+4	Bru-Talan	I, me	kɨː
+5	Bru-Ubon	I, me	kɤw
+6	Khmer-Surin	I, me	ʔaɲ
+7	Khmer-Standard	I, me	kʰɲum
+8	Mon	I, me	ʔoa
+9	Bahnar-Golar	alcohol/liquor	hədroː
+10	Bahnar-Kontum	alcohol/liquor	siːk
+11	Bahnar-Pleiku	alcohol/liquor	siːk
+12	Bru-Ubon	alcohol/liquor	blɔŋ
+13	Khmer-Surin	alcohol/liquor	sraː
+14	Khmer-Standard	alcohol/liquor	sraː
+15	Mon	alcohol/liquor	ʔarèak
+16	Vietnamese	alcohol/liquor	rượu
+17	Bahnar-Golar	alive/live	hədrih
+18	Bahnar-Kontum	alive/live	ʔadrih
+19	Bahnar-Pleiku	alive/live	ʔadrih
+20	Bru-Talan	alive/live	moŋʔ
+21	Bru-Ubon	alive/live	nɔ̤ŋʔaːmɔ̤ŋ
+22	Khmer-Surin	alive/live	ruah
+23	Khmer-Standard	alive/live	rʊəh
+24	Mon	alive/live	càŋ
+25	Vietnamese	alive/live	sống
+26	Bahnar-Golar	ant	hmoːc
+27	Bahnar-Kontum	ant	hmoc
+28	Bahnar-Pleiku	ant	hmoːc
+29	Bru-Talan	ant	mic
+30	Bru-Ubon	ant	səmuːc
+31	Khmer-Surin	ant	smɔːc
+32	Khmer-Standard	ant	srɑmaoc
+33	Mon	ant	həmo̱t
+34	Vietnamese	ant	kiến
+35	Bahnar-Golar	arrow	mrɔm
+36	Bahnar-Kontum	arrow	mrɔm
+37	Bahnar-Pleiku	arrow	ɓrəm
+38	Bru-Talan	arrow	craˀah
+39	Bru-Ubon	arrow	kam
+40	Khmer-Surin	arrow	prʊːɲ
+41	Khmer-Standard	arrow	pruəɲ
+42	Mon	arrow	lə̀
+43	Vietnamese	arrow	căm
+44	Bahnar-Golar	ashes	tənuh
+45	Bahnar-Kontum	ashes	tənuh
+46	Bahnar-Pleiku	ashes	tənuhʔuɲ
+47	Bru-Ubon	ashes	bɔh
+48	Khmer-Surin	ashes	pʰɛh
+49	Khmer-Standard	ashes	pʰəːh
+50	Mon	ashes	pətɑɲ
+51	Vietnamese	ashes	mun
+52	Bahnar-Golar	bamboo	pəlɛː
+53	Bahnar-Kontum	bamboo	pəlɛː
+54	Bahnar-Pleiku	bamboo	pəlɛː
+55	Bru-Talan	bamboo	lɔˀɔŋkoʔ
+56	Bru-Ubon	bamboo	ʔaːluaŋsərɔŋ
+57	Khmer-Surin	bamboo	rsɛj
+58	Khmer-Standard	bamboo	rəsɤj
+59	Mon	bamboo	tùn
+60	Vietnamese	bamboo	pheo
+61	Bahnar-Golar	banana	priːt
+62	Bahnar-Kontum	banana	priːt
+63	Bahnar-Pleiku	banana	priːt
+64	Bru-Talan	banana	prinʔ
+65	Bru-Ubon	banana	priat
+66	Khmer-Surin	banana	ʨeːɁ
+67	Khmer-Standard	banana	ceiɁ
+68	Mon	banana	pràt
+69	Vietnamese	banana	chuối
+70	Bahnar-Golar	beans/peas	təh
+71	Bahnar-Kontum	beans/peas	təh
+72	Bahnar-Pleiku	beans/peas	təh
+73	Bru-Talan	beans/peas	tɔˀɔŋ
+74	Bru-Ubon	beans/peas	sətɔːŋ
+75	Khmer-Surin	beans/peas	snɛːɁ
+76	Khmer-Standard	beans/peas	sɑndaek
+77	Mon	beans/peas	boa
+78	Vietnamese	beans/peas	đậu
+79	Bahnar-Golar	bear	ɟəkøu
+80	Bahnar-Kontum	bear	həgøu
+81	Bahnar-Pleiku	bear	cəgəw
+82	Bru-Talan	bear	haŋkaːw
+83	Bru-Ubon	bear	səkaw
+84	Khmer-Standard	bear	kʰmùm
+85	Mon	bear	mɛm
+86	Vietnamese	bear	gấu
+87	Bahnar-Golar	bee/honeybee	suːt
+88	Bahnar-Kontum	bee/honeybee	suːt
+89	Bahnar-Pleiku	bee/honeybee	suːt
+90	Bru-Talan	bee/honeybee	kihial
+91	Bru-Ubon	bee/honeybee	kəheal
+92	Khmer-Surin	bee/honeybee	kʰmum
+93	Khmer-Standard	bee/honeybee	kmum
+94	Mon	bee/honeybee	sai
+95	Vietnamese	bee/honeybee	ong
+96	Bahnar-Golar	belly/stomach	klaːk
+97	Bahnar-Kontum	belly/stomach	klaːk
+98	Bahnar-Pleiku	belly/stomach	klaːk
+99	Bru-Talan	belly/stomach	pəːm
+100	Bru-Ubon	belly/stomach	pṳŋ
+101	Khmer-Surin	belly/stomach	puah
+102	Khmer-Standard	belly/stomach	puŋ
+103	Mon	belly/stomach	pɜ̀ŋ
+104	Vietnamese	belly/stomach	bụng
+105	Bahnar-Golar	bird	sɛːm
+106	Bahnar-Kontum	bird	sɛːm
+107	Bahnar-Pleiku	bird	sɛːm
+108	Bru-Talan	bird	kaˀjleːmʔ
+109	Bru-Ubon	bird	cɤm
+110	Mon	bird	hacem
+111	Vietnamese	bird	chim
+112	Bahnar-Golar	bitter	taŋ
+113	Bahnar-Kontum	bitter	taŋ
+114	Bahnar-Pleiku	bitter	taŋ
+115	Bru-Talan	bitter	taŋʔ
+116	Bru-Ubon	bitter	ntaŋ
+117	Khmer-Surin	bitter	lwiːɲ
+118	Khmer-Standard	bitter	lwiːŋ
+119	Mon	bitter	kataŋ
+120	Vietnamese	bitter	đắng
+121	Bahnar-Golar	black	gam
+122	Bahnar-Kontum	black	gam
+123	Bahnar-Pleiku	black	gam
+124	Bru-Talan	black	koːm
+125	Bru-Ubon	black	kuːm
+126	Khmer-Surin	black	kʰmaw
+127	Khmer-Standard	black	kmaw
+128	Mon	black	kacɑk
+129	Vietnamese	black	đen
+130	Bahnar-Golar	blood	pʰaːm
+131	Bahnar-Kontum	blood	pʰaːm
+132	Bahnar-Pleiku	blood	pʰaːm
+133	Bru-Talan	blood	haˀam
+134	Bru-Ubon	blood	ʔaːhaːm
+135	Khmer-Surin	blood	ʨhiːam
+136	Khmer-Standard	blood	cʰiem
+137	Mon	blood	cʰim
+138	Vietnamese	blood	máu
+139	Bahnar-Pleiku	boat	pluŋ
+140	Bru-Talan	boat	roŋ
+141	Bru-Ubon	boat	tṳǝʔ
+142	Khmer-Surin	boat	tuːɁ
+143	Khmer-Standard	boat	tùːk
+144	Mon	boat	klə̀ŋ
+145	Vietnamese	boat	nốc
+146	Bahnar-Golar	body hair/feathers	sɔk
+147	Bahnar-Kontum	body hair/feathers	sɔk
+148	Bahnar-Pleiku	body hair/feathers	sɔk
+149	Bru-Talan	body hair/feathers	cʰɔkmɔˀɔr
+150	Bru-Ubon	body hair/feathers	soʔ
+151	Khmer-Surin	body hair/feathers	mmɪːh
+152	Khmer-Standard	body hair/feathers	saʔrəjraːkaː
+153	Mon	body hair/feathers	sok
+154	Vietnamese	body hair/feathers	tóc
+155	Bahnar-Golar	bone	kətiːŋ
+156	Bahnar-Kontum	bone	kətiːŋ
+157	Bahnar-Pleiku	bone	kətiːŋ
+158	Bru-Talan	bone	haˀaŋ
+159	Bru-Ubon	bone	ŋhaːŋ
+160	Khmer-Surin	bone	ʨɁʌŋ
+161	Khmer-Standard	bone	cʔəŋ
+162	Mon	bone	cùt
+163	Vietnamese	bone	xương
+164	Bahnar-Golar	bow, crossbow	hraʔ
+165	Bahnar-Kontum	bow, crossbow	hără
+166	Bahnar-Pleiku	bow, crossbow	hraʔ
+167	Bru-Talan	bow, crossbow	thənuːpɛːɲ
+168	Bru-Ubon	bow, crossbow	sənaː
+169	Khmer-Surin	bow, crossbow	snaː
+170	Khmer-Standard	bow, crossbow	snaː
+171	Mon	bow, crossbow	ŋaʔ
+172	Vietnamese	bow, crossbow	ná
+173	Bahnar-Golar	brain	ʔŋɔːk
+174	Bahnar-Kontum	brain	ʔŋɔːk
+175	Bahnar-Pleiku	brain	ʔŋɔːk
+176	Bru-Ubon	brain	kubɔʔ
+177	Khmer-Surin	brain	kʰʊːr
+178	Khmer-Standard	brain	kʰuə
+179	Mon	brain	dɔh
+180	Vietnamese	brain	óc
+181	Bahnar-Golar	branch	təɓlaː
+182	Bahnar-Kontum	branch	təba
+183	Bahnar-Pleiku	branch	təɓlaː
+184	Bru-Talan	branch	ŋkɛːŋ
+185	Bru-Ubon	branch	wil
+186	Khmer-Surin	branch	meːɁ
+187	Khmer-Standard	branch	mɛːɁ
+188	Mon	branch	naɲcʰuʔ
+189	Vietnamese	branch	cành
+190	Bahnar-Golar	breast	tɔh
+191	Bahnar-Kontum	breast	tɔh
+192	Bahnar-Pleiku	breast	tɔh
+193	Bru-Talan	breast	toh
+194	Bru-Ubon	breast	toh
+195	Khmer-Surin	breast	dâh
+196	Khmer-Standard	breast	dɔh
+197	Mon	breast	tah
+198	Vietnamese	breast	vú
+199	Bahnar-Golar	chicken/fowl	ʔjɛr
+200	Bahnar-Kontum	chicken/fowl	ʔjɛr
+201	Bahnar-Pleiku	chicken/fowl	ʔjɛr
+202	Bru-Talan	chicken/fowl	ntruˀj
+203	Bru-Ubon	chicken/fowl	ntruəj
+204	Khmer-Surin	chicken/fowl	mɯan
+205	Khmer-Standard	chicken/fowl	mòən
+206	Mon	chicken/fowl	caɲ
+207	Vietnamese	chicken/fowl	gà
+208	Bahnar-Golar	child/son	kɔːn
+209	Bahnar-Kontum	child/son	kɔːn
+210	Bahnar-Pleiku	child/son	kɔːn
+211	Bru-Talan	child/son	kərnian
+212	Bru-Ubon	child/son	rənɛːn
+213	Khmer-Surin	child/son	koːn
+214	Khmer-Standard	child/son	koun
+215	Mon	child/son	kon
+216	Vietnamese	child/son	con
+217	Bahnar-Golar	cloud	həməl
+218	Bahnar-Kontum	cloud	həməl
+219	Bahnar-Pleiku	cloud	həməl
+220	Bru-Talan	cloud	təluk
+221	Bru-Ubon	cloud	rəmil
+222	Khmer-Surin	cloud	ppuəʔ
+223	Khmer-Standard	cloud	pɔpɔːɁ
+224	Mon	cloud	mòtprèa
+225	Vietnamese	cloud	mây
+226	Bahnar-Golar	cold	təŋjɛt
+227	Bahnar-Kontum	cold	təŋjɛt
+228	Bahnar-Pleiku	cold	təŋjɛt
+229	Bru-Talan	cold	ŋaˀar
+230	Bru-Ubon	cold	səŋɛːt
+231	Khmer-Surin	cold	rŋiːa
+232	Khmer-Standard	cold	rɔŋie
+233	Mon	cold	bɑh
+234	Bahnar-Golar	dog	kɔʔ
+235	Bahnar-Kontum	dog	kɔʔ
+236	Bahnar-Pleiku	dog	kɔʔ
+237	Bru-Talan	dog	cɔˀɔ
+238	Bru-Ubon	dog	ʔaːcɔː
+239	Khmer-Surin	dog	ckɛː
+240	Khmer-Standard	dog	cʰəkɛː
+241	Mon	dog	kluiw
+242	Vietnamese	dog	chó
+243	Bahnar-Golar	dry	hrɛŋ
+244	Bahnar-Kontum	dry	hrɛŋ
+245	Bahnar-Pleiku	dry	srɛŋ
+246	Bru-Talan	dry	crɛˀɛŋ
+247	Bru-Ubon	dry	səʔəːt
+248	Khmer-Surin	dry	sŋʊːt
+249	Khmer-Standard	dry	riːŋ
+250	Mon	dry	kɔh
+251	Vietnamese	dry	khô
+252	Bahnar-Golar	ear	ɗɔːn
+253	Bahnar-Kontum	ear	ɗɔːn
+254	Bahnar-Pleiku	ear	ɗɔːn
+255	Bru-Talan	ear	kətoːr
+256	Bru-Ubon	ear	kətuːr
+257	Khmer-Surin	ear	tʨɪːɁ
+258	Khmer-Standard	ear	trɑciəʔ
+259	Mon	ear	kato
+260	Vietnamese	ear	tai
+261	Bahnar-Golar	earth -soil	tɛh
+262	Bahnar-Kontum	earth -soil	tɛh
+263	Bahnar-Pleiku	earth -soil	tɛh
+264	Bru-Talan	earth -soil	kətɛˀɛʔ
+265	Bru-Ubon	earth -soil	kətɛːʔ
+266	Khmer-Surin	earth -soil	dɛj
+267	Khmer-Standard	earth -soil	dɤj
+268	Mon	earth -soil	tɔeʔ
+269	Vietnamese	earth -soil	đất
+270	Bahnar-Golar	egg	kətap
+271	Bahnar-Kontum	egg	kətap
+272	Bahnar-Pleiku	egg	kətap
+273	Bru-Talan	egg	triˀal
+274	Bru-Ubon	egg	ntre̤ːl
+275	Khmer-Surin	egg	puːaŋ
+276	Khmer-Standard	egg	pɔːŋ
+277	Mon	egg	həmaɛ
+278	Vietnamese	egg	trứng
+279	Bahnar-Golar	eight	təhŋam
+280	Bahnar-Kontum	eight	təhŋam
+281	Bahnar-Pleiku	eight	təhŋaːm
+282	Bru-Talan	eight	təkɔˀɔl
+283	Bru-Ubon	eight	təkṳal
+284	Khmer-Surin	eight	prambaj
+285	Khmer-Standard	eight	prambaj
+286	Mon	eight	həcam
+287	Vietnamese	eight	tám
+288	Bahnar-Golar	excrement/shit	ʔic
+289	Bahnar-Kontum	excrement/shit	ʔic
+290	Bahnar-Pleiku	excrement/shit	ʔic
+291	Bru-Talan	excrement/shit	ʔɔˀɔʔ
+292	Bru-Ubon	excrement/shit	krɛʔ
+293	Khmer-Surin	excrement/shit	ʔac
+294	Khmer-Standard	excrement/shit	ʔac
+295	Mon	excrement/shit	ʔɔc
+296	Vietnamese	excrement/shit	iả
+297	Bahnar-Golar	eye	mat
+298	Bahnar-Kontum	eye	mat
+299	Bahnar-Pleiku	eye	mat
+300	Bru-Talan	eye	manʔ
+301	Bru-Ubon	eye	ma̤t
+302	Khmer-Surin	eye	pʰneːʔ
+303	Khmer-Standard	eye	pnɛːk
+304	Mon	eye	mòt
+305	Vietnamese	eye	mắt
+306	Bahnar-Golar	far/distant	hətɔl
+307	Bahnar-Kontum	far/distant	ʔatajh
+308	Bahnar-Pleiku	far/distant	ʔatajh
+309	Bru-Talan	far/distant	jəˀəŋ
+310	Bru-Ubon	far/distant	jɨːŋ
+311	Khmer-Surin	far/distant	ʨhŋaːj
+312	Khmer-Standard	far/distant	cŋaːj
+313	Mon	far/distant	hòa
+314	Vietnamese	far/distant	ngái
+315	Bru-Talan	fat/oil/grease	ɲcʰɛˀɛŋ
+316	Bru-Ubon	fat/oil/grease	nseːŋ
+317	Khmer-Surin	fat/oil/grease	kʰlaɲ
+318	Khmer-Standard	fat/oil/grease	kʰlaɲ
+319	Mon	fat/oil/grease	klɑɲ
+320	Vietnamese	fat/oil/grease	mỡ
+321	Bahnar-Golar	fear/afraid	hliː
+322	Bahnar-Kontum	fear/afraid	ʔjuʔ
+323	Bahnar-Pleiku	fear/afraid	hliː
+324	Bru-Talan	fear/afraid	ŋkɔˀɔh
+325	Bru-Ubon	fear/afraid	ŋkɔh
+326	Khmer-Surin	fear/afraid	kʰlaːc
+327	Khmer-Standard	fear/afraid	klaːc
+328	Mon	fear/afraid	pʰɑc
+329	Vietnamese	fear/afraid	phạ
+330	Bahnar-Golar	field -irrigated	cun
+331	Bahnar-Kontum	field -irrigated	miːr
+332	Bahnar-Pleiku	field -irrigated	miːr
+333	Bru-Talan	field -irrigated	cʰrɛː
+334	Khmer-Standard	field -irrigated	srae
+335	Mon	field -irrigated	ŋɛ̀ʔ
+336	Vietnamese	field -irrigated	ruộng
+337	Bahnar-Golar	field -swidden/hill	miːr
+338	Bahnar-Kontum	field -swidden/hill	miːr
+339	Bahnar-Pleiku	field -swidden/hill	miːr
+340	Bru-Ubon	field -swidden/hill	saraj
+341	Bahnar-Golar	finger	aŋlo
+342	Bahnar-Kontum	finger	aŋlo
+343	Bahnar-Pleiku	finger	aŋlo
+344	Bru-Talan	finger	kəɲcɛˀɛŋ
+345	Bru-Ubon	finger	rədɔːj
+346	Khmer-Surin	finger	mriːam
+347	Khmer-Standard	finger	mriəmdəj
+348	Mon	finger	kənə̀ŋtoa
+349	Vietnamese	finger	ngón
+350	Bahnar-Golar	fire	ʔuɲ
+351	Bahnar-Kontum	fire	ʔuɲ
+352	Bahnar-Pleiku	fire	ʔuɲ
+353	Bru-Talan	fire	ʔujh
+354	Bru-Ubon	fire	ʔuːs
+355	Khmer-Surin	fire	pʰləːŋ
+356	Khmer-Standard	fire	pləːŋ
+357	Mon	fire	kəmot
+358	Vietnamese	fire	lửa
+359	Bahnar-Golar	fish	kaː
+360	Bahnar-Kontum	fish	kaː
+361	Bahnar-Pleiku	fish	kaː
+362	Bru-Talan	fish	peˀeʔ
+363	Bru-Ubon	fish	ʔaːkaː
+364	Khmer-Surin	fish	trɛj
+365	Khmer-Standard	fish	triː
+366	Mon	fish	kaʔ
+367	Vietnamese	fish	cá
+368	Bahnar-Golar	five	pəɗam
+369	Bahnar-Kontum	five	pəɗam
+370	Bahnar-Pleiku	five	pəɗam
+371	Bru-Talan	five	cʰə:ŋ
+372	Bru-Ubon	five	sɨːŋ
+373	Khmer-Surin	five	pram
+374	Khmer-Standard	five	pram
+375	Mon	five	pəsɔn
+376	Vietnamese	five	năm
+377	Bahnar-Golar	flesh/meat	ʔɲɛm
+378	Bahnar-Kontum	flesh/meat	sɛc
+379	Bahnar-Pleiku	flesh/meat	ʔɲɛm
+380	Bru-Talan	flesh/meat	cʰɛc
+381	Bru-Ubon	flesh/meat	sac
+382	Khmer-Surin	flesh/meat	sac
+383	Khmer-Standard	flesh/meat	sac
+384	Mon	flesh/meat	pʰjun
+385	Vietnamese	flesh/meat	thịt
+386	Bahnar-Golar	flower	pəkaːw
+387	Bahnar-Kontum	flower	raːŋ
+388	Bahnar-Pleiku	flower	pəkaːw
+389	Bru-Talan	flower	piˀir
+390	Bru-Ubon	flower	pear
+391	Khmer-Surin	flower	pʰkaː
+392	Khmer-Standard	flower	pʰkaː
+393	Mon	flower	kao
+394	Vietnamese	flower	bống
+395	Bahnar-Golar	foot	kəpaːjɟəŋ
+396	Bahnar-Kontum	foot	kəpaːjɟəŋ
+397	Bahnar-Pleiku	foot	kəpaːjɟəŋ
+398	Bru-Talan	foot	jɨːŋ
+399	Bru-Ubon	foot	ʔaːjɨːŋ
+400	Khmer-Surin	foot	ʨɤːŋ
+401	Khmer-Standard	foot	cɤ̀ːŋ
+402	Mon	foot	càŋ
+403	Vietnamese	foot	chân
+404	Bahnar-Golar	four	pwan
+405	Bahnar-Kontum	four	pwan
+406	Bahnar-Pleiku	four	pwan
+407	Bru-Talan	four	puˀan
+408	Bru-Ubon	four	pʉːn
+409	Khmer-Surin	four	bʊːn
+410	Khmer-Standard	four	buən
+411	Mon	four	pɔn
+412	Vietnamese	four	bốn
+413	Bahnar-Golar	frog	kiːt
+414	Bahnar-Kontum	frog	kit
+415	Bahnar-Pleiku	frog	kɨːt
+416	Bru-Talan	frog	kṳnʔ
+417	Bru-Ubon	frog	ʔakṳat
+418	Khmer-Surin	frog	ŋkɛːp
+419	Khmer-Standard	frog	kɑŋkaep
+420	Mon	frog	ŋɛ̀a
+421	Vietnamese	frog	ếch
+422	Bahnar-Golar	fruit	plɛːj
+423	Bahnar-Kontum	fruit	plɛːj
+424	Bahnar-Pleiku	fruit	plɛːj
+425	Bru-Talan	fruit	kəlaːj
+426	Bru-Ubon	fruit	pəlaj
+427	Khmer-Surin	fruit	pʰlɛː
+428	Khmer-Standard	fruit	plae
+429	Mon	fruit	sɔt
+430	Vietnamese	fruit	trái
+431	Bahnar-Golar	full	ɓeɲ
+432	Bahnar-Kontum	full	ɓeɲ
+433	Bahnar-Pleiku	full	ɓeɲ
+434	Bru-Talan	full	krəjh
+435	Bru-Ubon	full	pɔn
+436	Khmer-Surin	full	pɪɲ
+437	Khmer-Standard	full	pɨɲ
+438	Mon	full	pɑɲ
+439	Vietnamese	full	lăm
+440	Bahnar-Golar	grandchild	sɔw
+441	Bahnar-Kontum	grandchild	sɔw
+442	Bahnar-Pleiku	grandchild	sɔw
+443	Bru-Talan	grandchild	caw
+444	Bru-Ubon	grandchild	ʔacaw
+445	Khmer-Surin	grandchild	ʨaw
+446	Khmer-Standard	grandchild	caw
+447	Mon	grandchild	cao
+448	Vietnamese	grandchild	cháutrai
+449	Bahnar-Golar	grass	ʔɲɛt
+450	Bahnar-Kontum	grass	ʔɲɛt
+451	Bahnar-Pleiku	grass	ʔɲɛt
+452	Bru-Talan	grass	cʰak
+453	Bru-Ubon	grass	bat
+454	Khmer-Surin	grass	smaw
+455	Khmer-Standard	grass	smaw
+456	Mon	grass	kəmot
+457	Vietnamese	grass	cỏ
+458	Bahnar-Golar	green	ɟəːk
+459	Bahnar-Pleiku	green	ɟəːk
+460	Bru-Talan	green	hoʔ
+461	Bru-Ubon	green	siəw
+462	Mon	green	sacŋeak
+463	Vietnamese	green	xanh
+464	Bahnar-Golar	hair -head	sɔk
+465	Bahnar-Kontum	hair -head	sɔk
+466	Bahnar-Pleiku	hair -head	sɔk
+467	Bru-Talan	hair -head	cʰɔk
+468	Bru-Ubon	hair -head	soʔ
+469	Khmer-Surin	hair -head	sɑɁ
+470	Khmer-Standard	hair -head	sɑʔ
+471	Mon	hair -head	sok
+472	Vietnamese	hair -head	tóc
+473	Bahnar-Golar	hand	təpaːjtiː
+474	Bahnar-Kontum	hand	kəpaːjtiː
+475	Bahnar-Pleiku	hand	təpaːjtiː
+476	Bru-Talan	hand	tiː
+477	Bru-Ubon	hand	ʔatiː
+478	Khmer-Surin	hand	daj
+479	Khmer-Standard	hand	dəj
+480	Mon	hand	toa
+481	Vietnamese	hand	tay
+482	Bahnar-Golar	head	kəl
+483	Bahnar-Kontum	head	kəl
+484	Bahnar-Pleiku	head	kəl
+485	Bru-Talan	head	plɔː
+486	Bru-Ubon	head	pləː
+487	Khmer-Surin	head	kbaːl
+488	Khmer-Standard	head	kbaːl
+489	Mon	head	dɑp
+490	Bahnar-Golar	heart	nujh
+491	Bahnar-Kontum	heart	nujh
+492	Bahnar-Pleiku	heart	nujh
+493	Bru-Talan	heart	reŋɨh
+494	Bru-Ubon	heart	rəŋɨh
+495	Khmer-Surin	heart	bɛhdoːŋ
+496	Khmer-Standard	heart	behdoːŋ
+497	Mon	heart	cɑt
+498	Vietnamese	heart	tim
+499	Bahnar-Golar	heavy	trap
+500	Bahnar-Kontum	heavy	hŋam
+501	Bahnar-Pleiku	heavy	trap
+502	Bru-Talan	heavy	ntaʔŋ
+503	Bru-Ubon	heavy	ntɔŋ
+504	Khmer-Surin	heavy	tʰmuan
+505	Khmer-Standard	heavy	tŋʊən
+506	Mon	heavy	sàŋ
+507	Vietnamese	heavy	nặng
+508	Bahnar-Golar	horn	həkɛː
+509	Bahnar-Kontum	horn	ʔakɛː
+510	Bahnar-Pleiku	horn	ʔakɛː
+511	Bru-Talan	horn	təŋᵏɔ̤ːj
+512	Bru-Ubon	horn	takɔːj
+513	Khmer-Surin	horn	snɛːɲ
+514	Khmer-Standard	horn	snaeŋ
+515	Mon	horn	krèaŋ
+516	Vietnamese	horn	sừng
+517	Bahnar-Golar	hot/warm	tɔʔ
+518	Bahnar-Kontum	hot/warm	tɔʔ
+519	Bahnar-Pleiku	hot/warm	tɔʔ
+520	Bru-Talan	hot/warm	toʔ
+521	Khmer-Surin	hot/warm	kdaw
+522	Khmer-Standard	hot/warm	kdaw
+523	Mon	hot/warm	kataɔ
+524	Vietnamese	hot/warm	ấm
+525	Bahnar-Golar	house	hnam
+526	Bahnar-Kontum	house	hnam
+527	Bahnar-Pleiku	house	hnaːm
+528	Bru-Talan	house	duŋ
+529	Bru-Ubon	house	dʉŋ
+530	Khmer-Surin	house	ptiah
+531	Khmer-Standard	house	pteah
+532	Mon	house	hɑɛʔ
+533	Vietnamese	house	nhà
+534	Bahnar-Golar	intestine/gut	klaːk
+535	Bahnar-Kontum	intestine/gut	klaːk
+536	Bahnar-Pleiku	intestine/gut	klaːk
+537	Bru-Talan	intestine/gut	rɔːjʔ
+538	Bru-Ubon	intestine/gut	rṳajʔ
+539	Khmer-Standard	intestine/gut	ʔɑntaʔ
+540	Mon	intestine/gut	krɔt
+541	Vietnamese	intestine/gut	ruột
+542	Bahnar-Golar	iron	maːm
+543	Bahnar-Kontum	iron	maːm
+544	Bahnar-Pleiku	iron	maːm
+545	Bru-Talan	iron	taˀa
+546	Bru-Ubon	iron	təːʔ
+547	Khmer-Surin	iron	dɛːɁ
+548	Khmer-Standard	iron	daeɁ
+549	Vietnamese	iron	sắt
+550	Bahnar-Golar	leaf	hlaː
+551	Bahnar-Kontum	leaf	hlaː
+552	Bahnar-Pleiku	leaf	hlaː
+553	Bru-Talan	leaf	həlaˀa
+554	Bru-Ubon	leaf	səlaː
+555	Khmer-Surin	leaf	slʌʔ
+556	Khmer-Standard	leaf	slək
+557	Mon	leaf	hlaʔ
+558	Vietnamese	leaf	lá
+559	Bahnar-Golar	leech -land	pləːm
+560	Bahnar-Kontum	leech -land	pləːm
+561	Bahnar-Pleiku	leech -land	pləːm
+562	Bru-Talan	leech -land	plɔːm
+563	Bru-Ubon	leech -land	pləːm
+564	Khmer-Standard	leech -land	tiəʔ
+565	Mon	leech -land	klɔm
+566	Vietnamese	leech -land	conđỉa
+567	Bahnar-Golar	left -side	ŋiãɔ
+568	Bahnar-Kontum	left -side	ŋiãɔ
+569	Bahnar-Pleiku	left -side	ʔŋjɛw
+570	Bru-Talan	left -side	wiˀar
+571	Bru-Ubon	left -side	ʔaːwe̤ːr
+572	Khmer-Surin	left -side	ʨhweːɲ
+573	Khmer-Standard	left -side	cweiŋ
+574	Mon	left -side	paɛ
+575	Vietnamese	left -side	trái
+576	Bahnar-Golar	light -weight	hjəːc
+577	Bahnar-Kontum	light -weight	hjəːc
+578	Bahnar-Pleiku	light -weight	həʔjəːc
+579	Bru-Talan	light -weight	həŋaːlʔ
+580	Bru-Ubon	light -weight	ŋhɛːl
+581	Khmer-Standard	light -weight	sraːl
+582	Mon	light -weight	sa
+583	Vietnamese	light -weight	nhẹ
+584	Bahnar-Golar	liver	kləːm
+585	Bahnar-Kontum	liver	kləːm
+586	Bahnar-Pleiku	liver	kləːm
+587	Bru-Talan	liver	lɔˀɔm
+588	Bru-Ubon	liver	luəm
+589	Khmer-Surin	liver	tʰlʌːm
+590	Khmer-Standard	liver	tʰlaəm
+591	Mon	liver	krə̀h
+592	Bahnar-Golar	long	kəɟuːŋ
+593	Bahnar-Kontum	long	kəɟuːŋ
+594	Bahnar-Pleiku	long	kəɟuːŋ
+595	Bru-Talan	long	kəjɨːŋ
+596	Bru-Ubon	long	ti̤ː
+597	Khmer-Surin	long	weːɲ
+598	Khmer-Standard	long	wɛːŋ
+599	Mon	long	kliŋ
+600	Vietnamese	long	dài
+601	Bahnar-Golar	louse	siː
+602	Bahnar-Kontum	louse	siː
+603	Bahnar-Pleiku	louse	siː
+604	Bru-Talan	louse	ŋcaːj
+605	Bru-Ubon	louse	ɲciː
+606	Khmer-Surin	louse	ʨaj
+607	Khmer-Standard	louse	caj
+608	Mon	louse	coa
+609	Vietnamese	louse	chấy
+610	Bahnar-Golar	man -male human	drɔʔŋlɔː
+611	Bahnar-Kontum	man -male human	drɔʔŋlɔː
+612	Bahnar-Pleiku	man -male human	drɔʔŋlɔː
+613	Bru-Talan	man -male human	koːɲ
+614	Bru-Ubon	man -male human	troːs
+615	Khmer-Surin	man -male human	prɔh
+616	Khmer-Standard	man -male human	proh
+617	Mon	man -male human	kraoh
+618	Vietnamese	man -male human	đànông
+619	Bru-Talan	many	həʔɨj
+620	Bru-Ubon	many	səʔɨj
+621	Khmer-Surin	many	ʨrʌːn
+622	Khmer-Standard	many	craən
+623	Mon	many	klàŋ
+624	Vietnamese	many	nhiều
+625	Bahnar-Golar	medicine	pəgaːŋ
+626	Bahnar-Kontum	medicine	pəgaːŋ
+627	Bahnar-Pleiku	medicine	pəgaːŋ
+628	Bru-Ubon	medicine	rəhəw
+629	Khmer-Surin	medicine	tʰnam
+630	Khmer-Standard	medicine	tʰnam
+631	Mon	medicine	haʔuj
+632	Vietnamese	medicine	thuốc
+633	Bahnar-Golar	monkey/ape	ɗɔk
+634	Bahnar-Kontum	monkey/ape	ɗɔk
+635	Bahnar-Pleiku	monkey/ape	ɗɔk
+636	Bru-Talan	monkey/ape	ɲoˀol
+637	Bru-Ubon	monkey/ape	təmi̤r
+638	Khmer-Surin	monkey/ape	swaː
+639	Khmer-Standard	monkey/ape	svaː
+640	Mon	monkey/ape	nɑe
+641	Vietnamese	monkey/ape	khi
+642	Bahnar-Golar	moon	kʰɛːj
+643	Bahnar-Kontum	moon	kʰɛːj
+644	Bahnar-Pleiku	moon	kʰɛːj
+645	Bru-Talan	moon	kəcʰaːj
+646	Bru-Ubon	moon	kəsaj
+647	Khmer-Surin	moon	kʰɛː
+648	Khmer-Standard	moon	kʰae
+649	Mon	moon	hataɔ
+650	Vietnamese	moon	tháng
+651	Bahnar-Golar	mortar	təpal
+652	Bahnar-Kontum	mortar	hapal
+653	Bahnar-Pleiku	mortar	təpal
+654	Bru-Talan	mortar	təpaˀlloʔ
+655	Bru-Ubon	mortar	tapal
+656	Khmer-Surin	mortar	tbal
+657	Khmer-Standard	mortar	tbal
+658	Mon	mortar	həi
+659	Vietnamese	mortar	cối
+660	Bahnar-Golar	mountain	koːŋ
+661	Bahnar-Kontum	mountain	koːŋ
+662	Bahnar-Pleiku	mountain	koːŋ
+663	Bru-Talan	mountain	koh
+664	Bru-Ubon	mountain	kɔ̤h
+665	Khmer-Surin	mountain	pʰnʊm
+666	Khmer-Standard	mountain	pnum
+667	Mon	mountain	tə̀
+668	Bahnar-Golar	mouth	ɓər
+669	Bahnar-Kontum	mouth	ɓər
+670	Bahnar-Pleiku	mouth	ɓər
+671	Bru-Talan	mouth	bɛˀɛʔ
+672	Bru-Ubon	mouth	bɛːʔ
+673	Khmer-Surin	mouth	mɯat
+674	Khmer-Standard	mouth	mòət
+675	Mon	mouth	paɲ
+676	Vietnamese	mouth	mồm
+677	Bru-Talan	mushroom/fungus	triˀiʔ
+678	Bru-Ubon	mushroom/fungus	tria
+679	Khmer-Surin	mushroom/fungus	psʌt
+680	Khmer-Standard	mushroom/fungus	psət
+681	Mon	mushroom/fungus	pətɑh
+682	Bahnar-Golar	nail/claw	təʔŋjəh
+683	Bahnar-Kontum	nail/claw	kəɗiːɲ
+684	Bahnar-Pleiku	nail/claw	təʔŋjəh
+685	Bru-Talan	nail/claw	kərniʔajh
+686	Bru-Ubon	nail/claw	ntre̤ːh
+687	Khmer-Surin	nail/claw	kcɑːʔ
+688	Khmer-Standard	nail/claw	krəcaok
+689	Mon	nail/claw	hənə̱m
+690	Vietnamese	nail/claw	móng
+691	Bahnar-Golar	name	hənan
+692	Bahnar-Kontum	name	mat
+693	Bahnar-Pleiku	name	ʔanan
+694	Bru-Talan	name	pərnɨh
+695	Bru-Ubon	name	rəmɨh
+696	Khmer-Surin	name	ʨhmoːh
+697	Khmer-Standard	name	cmùəh
+698	Mon	name	camɔ̀ʔ
+699	Vietnamese	name	tên
+700	Bahnar-Golar	navel	klɔk
+701	Bahnar-Kontum	navel	klɔk
+702	Bahnar-Pleiku	navel	klɔk
+703	Bru-Talan	navel	pəːm
+704	Bru-Ubon	navel	talṳːjh
+705	Khmer-Surin	navel	pʨʌt
+706	Khmer-Standard	navel	pcət
+707	Mon	navel	pɔŋlɒt
+708	Vietnamese	navel	rốn
+709	Bahnar-Golar	near	ɟeʔ
+710	Bahnar-Kontum	near	ɟɛʔ
+711	Bahnar-Pleiku	near	ɟeʔ
+712	Bru-Talan	near	təmanʔ
+713	Bru-Ubon	near	cɛ̤ʔ
+714	Khmer-Surin	near	bɪːt
+715	Khmer-Standard	near	biːt
+716	Mon	near	ɲɔn
+717	Vietnamese	near	gần
+718	Bahnar-Golar	neck	həkɔː
+719	Bahnar-Kontum	neck	ʔakɔː
+720	Bahnar-Pleiku	neck	ʔakɔː
+721	Bru-Talan	neck	təkɔˀɔŋ
+722	Bru-Ubon	neck	təkɔːŋ
+723	Khmer-Surin	neck	kɑː
+724	Khmer-Standard	neck	kɔː
+725	Mon	neck	kɔʔ
+726	Vietnamese	neck	cổ
+727	Bru-Talan	needle	coˀor
+728	Bru-Ubon	needle	məɲci̤l
+729	Khmer-Surin	needle	nʨul
+730	Khmer-Standard	needle	mcul
+731	Mon	needle	kanoɲ
+732	Vietnamese	needle	kim
+733	Bahnar-Golar	new	ʔnaːw
+734	Bahnar-Kontum	new	ʔnaːw
+735	Bahnar-Pleiku	new	hlɛː
+736	Bru-Talan	new	təmɛˀɛ
+737	Bru-Ubon	new	təmaj
+738	Khmer-Surin	new	tʰmej
+739	Khmer-Standard	new	tməj
+740	Mon	new	kamɑɛʔ
+741	Vietnamese	new	mới
+742	Bahnar-Golar	night	maŋ
+743	Bahnar-Kontum	night	maŋ
+744	Bahnar-Pleiku	night	maŋ
+745	Bru-Talan	night	təbɨː
+746	Bru-Ubon	night	sədaw
+747	Khmer-Surin	night	jʊp
+748	Khmer-Standard	night	jup
+749	Mon	night	hatɔm
+750	Vietnamese	night	đêm
+751	Bahnar-Golar	nine	təsin
+752	Bahnar-Kontum	nine	təsin
+753	Bahnar-Pleiku	nine	təsin
+754	Bru-Talan	nine	təkiˀajh
+755	Bru-Ubon	nine	təke̤ːh
+756	Khmer-Standard	nine	prambuan
+757	Mon	nine	hacic
+758	Vietnamese	nine	chín
+759	Bahnar-Golar	nose	muh
+760	Bahnar-Kontum	nose	muh
+761	Bahnar-Pleiku	nose	muh
+762	Bru-Talan	nose	moh
+763	Bru-Ubon	nose	muh
+764	Khmer-Surin	nose	ʨmɔh
+765	Khmer-Standard	nose	crɑmoh
+766	Mon	nose	muh
+767	Vietnamese	nose	mũi
+768	Bahnar-Golar	old	kraʔ
+769	Bahnar-Kontum	old	kraʔ
+770	Bahnar-Pleiku	old	kraʔ
+771	Bru-Talan	old	tiˀiʔ
+772	Bru-Ubon	old	ti̤aʔ
+773	Khmer-Surin	old	ʨah
+774	Khmer-Standard	old	cah
+775	Mon	old	karem
+776	Vietnamese	old	già
+777	Bahnar-Golar	one	moːɲ
+778	Bahnar-Kontum	one	moːɲ
+779	Bahnar-Pleiku	one	moːɲ
+780	Bru-Talan	one	mo:j
+781	Bru-Ubon	one	muəj
+782	Khmer-Surin	one	mʊːj
+783	Khmer-Standard	one	mùəj
+784	Mon	one	mòa
+785	Vietnamese	one	một
+786	Bahnar-Golar	palm -of hand	pəlaʔ
+787	Bahnar-Kontum	palm -of hand	pəlaʔ
+788	Bahnar-Pleiku	palm -of hand	pəlaʔ
+789	Bru-Talan	palm -of hand	təlaˀaŋ
+790	Bru-Ubon	palm -of hand	təlaːŋ
+791	Khmer-Surin	palm -of hand	baːt
+792	Khmer-Standard	palm -of hand	baːt
+793	Mon	palm -of hand	həta
+794	Vietnamese	palm -of hand	lòngbàn
+795	Bahnar-Golar	penis	lɔː
+796	Bahnar-Kontum	penis	lɔː
+797	Bahnar-Pleiku	penis	lɔː
+798	Bru-Talan	penis	kəɲjəŋʔ
+799	Bru-Ubon	penis	klaj
+800	Khmer-Surin	penis	kdɑː
+801	Khmer-Standard	penis	kdɑː
+802	Mon	penis	pò
+803	Bahnar-Golar	person	bəŋaːj
+804	Bahnar-Kontum	person	bəŋaːj
+805	Bahnar-Pleiku	person	bəŋaːj
+806	Bru-Talan	person	kuˀj
+807	Bru-Ubon	person	kʉaj
+808	Khmer-Surin	person	mnɯh
+809	Khmer-Standard	person	mɔnuh
+810	Mon	person	nìh
+811	Vietnamese	person	người
+812	Bahnar-Golar	pig	ɲuŋ
+813	Bahnar-Kontum	pig	ɲuŋ
+814	Bahnar-Pleiku	pig	ɲuŋ
+815	Bru-Talan	pig	lik
+816	Bru-Ubon	pig	ʔaːliːʔ
+817	Khmer-Surin	pig	ʨruːɁ
+818	Khmer-Standard	pig	cruːɁ
+819	Mon	pig	kloc
+820	Vietnamese	pig	heocúi
+821	Bahnar-Golar	pigeon/dove	kətəːp
+822	Bahnar-Kontum	pigeon/dove	kətəːp
+823	Bahnar-Pleiku	pigeon/dove	kətəːp
+824	Bru-Talan	pigeon/dove	kuː
+825	Bru-Ubon	pigeon/dove	təriap
+826	Khmer-Surin	pigeon/dove	priəp
+827	Khmer-Standard	pigeon/dove	priːap
+828	Mon	pigeon/dove	hərap
+829	Vietnamese	pigeon/dove	cu
+830	Bahnar-Golar	rain	miː
+831	Bahnar-Kontum	rain	ʔmiː
+832	Bahnar-Pleiku	rain	ʔmiː
+833	Bru-Talan	rain	təŋ
+834	Bru-Ubon	rain	me̤a
+835	Khmer-Surin	rain	pʰlɪːɲ
+836	Khmer-Standard	rain	pliəŋ
+837	Mon	rain	pròa
+838	Vietnamese	rain	mưa
+839	Bahnar-Golar	rat/mouse	kənɛː
+840	Bahnar-Kontum	rat/mouse	kənɛː
+841	Bahnar-Pleiku	rat/mouse	kənɛː
+842	Bru-Talan	rat/mouse	bəl
+843	Bru-Ubon	rat/mouse	kənaj
+844	Khmer-Surin	rat/mouse	knʌr
+845	Khmer-Standard	rat/mouse	kɑndol
+846	Mon	rat/mouse	nəɛʔ
+847	Vietnamese	rat/mouse	chuột
+848	Bahnar-Golar	red	ɓreː
+849	Bahnar-Kontum	red	ɓreː
+850	Bahnar-Pleiku	red	ɓreː
+851	Bru-Talan	red	səcʰaʔw
+852	Bru-Ubon	red	kəsaw
+853	Khmer-Surin	red	kʰɑːm
+854	Khmer-Standard	red	krɑhɑːm
+855	Mon	red	haket
+856	Vietnamese	red	đỏ
+857	Bahnar-Golar	rice -cooked	pɔːr
+858	Bahnar-Kontum	rice -cooked	pɔːr
+859	Bahnar-Pleiku	rice -cooked	pɔːr
+860	Bru-Talan	rice -cooked	doˀoj
+861	Bru-Ubon	rice -cooked	doːj
+862	Khmer-Surin	rice -cooked	baːj
+863	Khmer-Standard	rice -cooked	baːj
+864	Mon	rice -cooked	pəŋ
+865	Vietnamese	rice -cooked	cơm
+866	Bahnar-Golar	rice -unhusked	ɓaː
+867	Bahnar-Kontum	rice -unhusked	ɓaː
+868	Bahnar-Pleiku	rice -unhusked	ɓaː
+869	Bru-Talan	rice -unhusked	cʰrɔˀɔ
+870	Bru-Ubon	rice -unhusked	sərɔː
+871	Khmer-Surin	rice -unhusked	srʌw
+872	Khmer-Standard	rice -unhusked	sroːv
+873	Mon	rice -unhusked	sɑʔ
+874	Vietnamese	rice -unhusked	lúa
+875	Bahnar-Golar	right -side	ʔmaː
+876	Bahnar-Kontum	right -side	ʔmaː
+877	Bahnar-Pleiku	right -side	ʔmaː
+878	Bru-Talan	right -side	təmʔ
+879	Bru-Ubon	right -side	ʔaːtɔ̀m
+880	Khmer-Surin	right -side	sdam
+881	Khmer-Standard	right -side	sdam
+882	Mon	right -side	pəŋ
+883	Vietnamese	right -side	đăm
+884	Bahnar-Golar	ripe/cooked	ɗuːm
+885	Bahnar-Kontum	ripe/cooked	ɗuːm
+886	Bahnar-Pleiku	ripe/cooked	ɗuːm
+887	Bru-Talan	ripe/cooked	ceːn
+888	Bru-Ubon	ripe/cooked	ciːn
+889	Khmer-Surin	ripe/cooked	tum
+890	Khmer-Standard	ripe/cooked	tum
+891	Mon	ripe/cooked	cin
+892	Vietnamese	ripe/cooked	chín
+893	Bahnar-Golar	river	krɔːŋ
+894	Bahnar-Kontum	river	krɔːŋ
+895	Bahnar-Pleiku	river	krɔːŋ
+896	Bru-Talan	river	dəˀəʔkrejh
+897	Khmer-Standard	river	tùənleː
+898	Mon	river	bi
+899	Vietnamese	river	sông
+900	Bahnar-Golar	road/path	trɔːŋ
+901	Bahnar-Kontum	road/path	trɔːŋ
+902	Bahnar-Pleiku	road/path	trɔːŋ
+903	Bru-Talan	road/path	kərnaˀa
+904	Bru-Ubon	road/path	rənaː
+905	Khmer-Surin	road/path	tʰnɑl
+906	Khmer-Standard	road/path	pləw
+907	Mon	road/path	klɑŋ
+908	Vietnamese	road/path	sá
+909	Bahnar-Golar	root	rəh
+910	Bahnar-Kontum	root	rəh
+911	Bahnar-Pleiku	root	rəh
+912	Bru-Talan	root	riˀajh
+913	Bru-Ubon	root	re̤ːh
+914	Khmer-Surin	root	rɯh
+915	Khmer-Standard	root	rɨh
+916	Mon	root	rə̀h
+917	Vietnamese	root	rễ
+918	Bahnar-Golar	round	həpoːm
+919	Bahnar-Kontum	round	ʔapoːm
+920	Bahnar-Pleiku	round	ʔapoːm
+921	Bru-Talan	round	mpoːldoːl
+922	Bru-Ubon	round	klam
+923	Khmer-Surin	round	kmol
+924	Khmer-Standard	round	muːl
+925	Mon	round	hadɔm
+926	Vietnamese	round	tròn
+927	Bahnar-Golar	salt	bɔh
+928	Bahnar-Kontum	salt	bɔh
+929	Bahnar-Pleiku	salt	ɓɔh
+930	Bru-Talan	salt	bɔˀɔj
+931	Bru-Ubon	salt	bɔːj
+932	Khmer-Surin	salt	mmel
+933	Khmer-Standard	salt	ʔɑmbəl
+934	Mon	salt	dəŋ
+935	Vietnamese	salt	muối
+936	Bru-Ubon	sand	səŋaːc
+937	Khmer-Surin	sand	ksac
+938	Khmer-Standard	sand	kʰsac
+939	Mon	sand	hatɑɛ
+940	Vietnamese	sand	cát
+941	Bahnar-Golar	seed	gar
+942	Bahnar-Kontum	seed	gar
+943	Bahnar-Pleiku	seed	gar
+944	Bru-Talan	seed	kəlɔˀɔŋ
+945	Bru-Ubon	seed	klɔːŋ
+946	Khmer-Surin	seed	krɯap
+947	Khmer-Standard	seed	kròəp
+948	Mon	seed	mèaʔ
+949	Vietnamese	seed	hạt
+950	Bahnar-Golar	seven	təpəh
+951	Bahnar-Kontum	seven	təpəh
+952	Bahnar-Pleiku	seven	təpəh
+953	Bru-Talan	seven	təpo:l
+954	Bru-Ubon	seven	təpṳːl
+955	Khmer-Standard	seven	prampiː
+956	Mon	seven	hapɔh
+957	Vietnamese	seven	bảy
+958	Bahnar-Golar	shade/shadow	jəp
+959	Bahnar-Kontum	shade/shadow	jɨp
+960	Bahnar-Pleiku	shade/shadow	jəp
+961	Bru-Talan	shade/shadow	moːl
+962	Bru-Ubon	shade/shadow	tṳːp
+963	Khmer-Surin	shade/shadow	smʌːl
+964	Khmer-Standard	shade/shadow	srɑmaol
+965	Mon	shade/shadow	hanoɲ
+966	Vietnamese	shade/shadow	bóng
+967	Bahnar-Kontum	shame/ashamed	kədəʔ
+968	Bahnar-Pleiku	shame/ashamed	kədəʔ
+969	Bru-Talan	shame/ashamed	kədaˀah
+970	Bru-Ubon	shame/ashamed	kumaːl
+971	Khmer-Standard	shame/ashamed	crəɲ
+972	Mon	shame/ashamed	twa
+973	Vietnamese	shame/ashamed	xâuhổ
+974	Bahnar-Golar	sharp -edged	haːn
+975	Bahnar-Kontum	sharp -edged	haːn
+976	Bahnar-Pleiku	sharp -edged	haːn
+977	Bru-Talan	sharp -edged	bak
+978	Bru-Ubon	sharp -edged	plaː
+979	Khmer-Surin	sharp -edged	mut
+980	Khmer-Standard	sharp -edged	mut
+981	Mon	sharp -edged	keak
+982	Vietnamese	sharp -edged	vót
+983	Bahnar-Golar	sick/ill	ɟiʔ
+984	Bahnar-Kontum	sick/ill	ɟiʔ
+985	Bahnar-Pleiku	sick/ill	ɟiʔ
+986	Bru-Talan	sick/ill	ʔajː
+987	Bru-Ubon	sick/ill	tiʔ
+988	Khmer-Surin	sick/ill	ʨŋɯː
+989	Khmer-Standard	sick/ill	cʰɨː
+990	Mon	sick/ill	jòa
+991	Vietnamese	sick/ill	bệnh
+992	Bahnar-Golar	six	tədrɔw
+993	Bahnar-Kontum	six	tədrɔw
+994	Bahnar-Pleiku	six	tədrɔw
+995	Bru-Talan	six	təpat
+996	Bru-Ubon	six	təpa̤t
+997	Khmer-Standard	six	prammuəj
+998	Mon	six	karaɔ
+999	Vietnamese	six	sáu
+1000	Bahnar-Golar	skin/bark	həkaːr
+1001	Bahnar-Kontum	skin/bark	ʔakaːr
+1002	Bahnar-Pleiku	skin/bark	ʔakaːr
+1003	Bru-Talan	skin/bark	ŋkar
+1004	Bru-Ubon	skin/bark	ŋkar
+1005	Khmer-Surin	skin/bark	sbɛːɁ
+1006	Khmer-Standard	skin/bark	sbaek
+1007	Mon	skin/bark	hnam
+1008	Vietnamese	skin/bark	da
+1009	Bahnar-Golar	sky	plɛɲ
+1010	Bahnar-Kontum	sky	plɛɲ
+1011	Bahnar-Pleiku	sky	plɛɲ
+1012	Bru-Talan	sky	praˀah
+1013	Bru-Ubon	sky	mənlɔ̤ŋ
+1014	Khmer-Surin	sky	mɪːɁ
+1015	Khmer-Standard	sky	meːɁ
+1016	Mon	sky	takah
+1017	Vietnamese	sky	trời
+1018	Bahnar-Golar	smoke	ʔɲuːj
+1019	Bahnar-Kontum	smoke	ʔɲuːj
+1020	Bahnar-Pleiku	smoke	ʔɲuːj
+1021	Bru-Talan	smoke	kərɲiˀiʔ
+1022	Bru-Ubon	smoke	pʰeaʔ
+1023	Khmer-Surin	smoke	psɛːɲ
+1024	Khmer-Standard	smoke	psaeŋ
+1025	Mon	smoke	jèak
+1026	Vietnamese	smoke	khói
+1027	Bahnar-Golar	snake	ɓih
+1028	Bahnar-Kontum	snake	ɓih
+1029	Bahnar-Pleiku	snake	ɓih
+1030	Bru-Talan	snake	kes̞ɛɲ
+1031	Bru-Ubon	snake	kəsan
+1032	Khmer-Surin	snake	puah
+1033	Khmer-Standard	snake	pùəh
+1034	Mon	snake	sùŋ
+1035	Vietnamese	snake	rắn
+1036	Bahnar-Golar	soft -touch	rəhiak
+1037	Bahnar-Pleiku	soft -touch	rəmwan
+1038	Bru-Talan	soft -touch	ləŋɔːnʔ
+1039	Bru-Ubon	soft -touch	ləme̤ːn
+1040	Khmer-Surin	soft -touch	tuan
+1041	Khmer-Standard	soft -touch	lvʊəɁ
+1042	Mon	soft -touch	dɒn
+1043	Vietnamese	soft -touch	mềm
+1044	Bahnar-Golar	sour	ʔjuʔ
+1045	Bahnar-Kontum	sour	ʔjuʔ
+1046	Bahnar-Pleiku	sour	ʔɲuʔ
+1047	Bru-Talan	sour	joʔ
+1048	Bru-Ubon	sour	ɲɔʔ
+1049	Khmer-Surin	sour	ʨuː
+1050	Khmer-Standard	sour	cuː
+1051	Mon	sour	pʰjah
+1052	Vietnamese	sour	chua
+1053	Bahnar-Golar	star	həŋlɔŋ
+1054	Bahnar-Kontum	star	həŋlɔŋ
+1055	Bahnar-Pleiku	star	səŋlɔŋ
+1056	Bru-Talan	star	pəntoˀor
+1057	Bru-Ubon	star	məntoːr
+1058	Khmer-Surin	star	pkaːj
+1059	Khmer-Standard	star	pəkaːj
+1060	Mon	star	hnɑŋ
+1061	Bahnar-Pleiku	stick of wood	ʔlɔːŋ
+1062	Bru-Talan	stick of wood	təŋkətlɔˀɔŋ
+1063	Bru-Ubon	stick of wood	ʔaːluaŋkṳan
+1064	Khmer-Surin	stick of wood	ʨhəː
+1065	Khmer-Standard	stick of wood	cʰəː
+1066	Mon	stick of wood	cʰuʔ
+1067	Vietnamese	stick of wood	cáique
+1068	Bahnar-Golar	stone	təmɔː
+1069	Bahnar-Kontum	stone	təmɔː
+1070	Bahnar-Pleiku	stone	təmɔː
+1071	Bru-Talan	stone	tʻmɔˀɔ
+1072	Bru-Ubon	stone	təmaw
+1073	Khmer-Surin	stone	tʰmɑː
+1074	Khmer-Standard	stone	tʰmɔː
+1075	Mon	stone	mɔʔ
+1076	Vietnamese	stone	đá
+1077	Bahnar-Golar	sun/day	nar
+1078	Bahnar-Kontum	sun/day	nar
+1079	Bahnar-Pleiku	sun/day	ʔnar
+1080	Bru-Talan	sun/day	rembaˀaŋ
+1081	Bru-Ubon	sun/day	mənaːŋ
+1082	Khmer-Surin	sun/day	tʰŋaj
+1083	Khmer-Standard	sun/day	tŋaj
+1084	Mon	sun/day	ŋoa
+1085	Vietnamese	sun/day	ngày
+1086	Bahnar-Golar	sweet	ŋaːm
+1087	Bahnar-Kontum	sweet	ŋaːm
+1088	Bahnar-Pleiku	sweet	ʔŋaːm
+1089	Bru-Talan	sweet	ŋaˀam
+1090	Bru-Ubon	sweet	ŋeam
+1091	Khmer-Surin	sweet	pɁɛːm
+1092	Khmer-Standard	sweet	pʔaem
+1093	Mon	sweet	dat
+1094	Vietnamese	sweet	ngọt
+1095	Bahnar-Golar	tail	kjɛŋ
+1096	Bahnar-Kontum	tail	kjɛŋ
+1097	Bahnar-Pleiku	tail	kjɛŋ
+1098	Bru-Talan	tail	s̞ɔːj
+1099	Bru-Ubon	tail	sɔːj
+1100	Khmer-Surin	tail	kantuj
+1101	Khmer-Standard	tail	kɑntuj
+1102	Mon	tail	hataʔ
+1103	Vietnamese	tail	đuôi
+1104	Bahnar-Golar	ten	ɟit
+1105	Bahnar-Kontum	ten	ɟit
+1106	Bahnar-Pleiku	ten	ɟit
+1107	Bru-Talan	ten	məncit
+1108	Bru-Ubon	ten	məcit
+1109	Khmer-Surin	ten	dɑp
+1110	Khmer-Standard	ten	dɑp
+1111	Mon	ten	cɔh
+1112	Vietnamese	ten	mười
+1113	Bahnar-Golar	thick -object	həɓəl
+1114	Bahnar-Kontum	thick -object	həɓəl
+1115	Bahnar-Pleiku	thick -object	həɓəl
+1116	Bru-Talan	thick -object	kəbən
+1117	Bru-Ubon	thick -object	kəben
+1118	Khmer-Surin	thick -object	kraːh
+1119	Khmer-Standard	thick -object	krah
+1120	Mon	thick -object	tɑm
+1121	Vietnamese	thick -object	dày
+1122	Bahnar-Golar	thin -object	hətaŋ
+1123	Bahnar-Kontum	thin -object	hətaŋ
+1124	Bahnar-Pleiku	thin -object	hətaŋ
+1125	Bru-Talan	thin -object	kədaʔ
+1126	Bru-Ubon	thin -object	kədaː
+1127	Khmer-Standard	thin -object	sdaəŋ
+1128	Mon	thin -object	krɑɛ
+1129	Vietnamese	thin -object	mỏng
+1130	Bahnar-Golar	thorn	ɟəlaː
+1131	Bahnar-Kontum	thorn	ɟəlă
+1132	Bahnar-Pleiku	thorn	ɟəlaː
+1133	Bru-Talan	thorn	hərliˀi
+1134	Bru-Ubon	thorn	sərle̤a
+1135	Khmer-Surin	thorn	panlaː
+1136	Khmer-Standard	thorn	bɑnlaː
+1137	Mon	thorn	halèaʔ
+1138	Vietnamese	thorn	gai
+1139	Bahnar-Golar	three	peːŋ
+1140	Bahnar-Kontum	three	peːŋ
+1141	Bahnar-Pleiku	three	peːŋ
+1142	Bru-Talan	three	pɛˀɛ
+1143	Bru-Ubon	three	paj
+1144	Khmer-Surin	three	bɛj
+1145	Khmer-Standard	three	bəj
+1146	Mon	three	pɑɛʔ
+1147	Vietnamese	three	ba
+1148	Bahnar-Golar	to be born	rənɛh
+1149	Bahnar-Kontum	to be born	rənɛh
+1150	Bahnar-Pleiku	to be born	rənɛh
+1151	Bru-Talan	to be born	moŋʔ
+1152	Bru-Ubon	to be born	kəːt
+1153	Khmer-Surin	to be born	knʌːt
+1154	Khmer-Standard	to be born	kaət
+1155	Mon	to be born	bɑŋ
+1156	Vietnamese	to be born	đẻ
+1157	Bahnar-Golar	to bite	kap
+1158	Bahnar-Kontum	to bite	kap
+1159	Bahnar-Pleiku	to bite	kap
+1160	Bru-Talan	to bite	kamʔ
+1161	Bru-Ubon	to bite	kap
+1162	Khmer-Surin	to bite	kʰam
+1163	Khmer-Standard	to bite	kʰam
+1164	Mon	to bite	kit
+1165	Vietnamese	to bite	cắn
+1166	Bahnar-Golar	to blow	hloːm
+1167	Bahnar-Kontum	to blow	hloːm
+1168	Bahnar-Pleiku	to blow	hloːm
+1169	Bru-Talan	to blow	hoːt
+1170	Bru-Ubon	to blow	ploŋ
+1171	Khmer-Surin	to blow	pʰlom
+1172	Khmer-Standard	to blow	plom
+1173	Mon	to blow	həkə̤h
+1174	Vietnamese	to blow	thổi
+1175	Bahnar-Golar	to breathe/breath	ɟəhŋăm
+1176	Bahnar-Kontum	to breathe/breath	ɟəhŋăm
+1177	Bahnar-Pleiku	to breathe/breath	ɟəhŋăm
+1178	Bru-Talan	to breathe/breath	təŋɨh
+1179	Bru-Ubon	to breathe/breath	taŋɯ̤h
+1180	Khmer-Surin	to breathe/breath	thʌːm
+1181	Khmer-Standard	to breathe/breath	dɑŋhaəm
+1182	Mon	to breathe/breath	pəjə̤m
+1183	Vietnamese	to breathe/breath	vụ
+1184	Bahnar-Golar	to burn -tr.	ʔuɲ
+1185	Bahnar-Kontum	to burn -tr.	ʔuɲ
+1186	Bahnar-Pleiku	to burn -tr.	soːŋ
+1187	Bru-Talan	to burn -tr.	cɔŋʔ
+1188	Bru-Ubon	to burn -tr.	cɑŋ
+1189	Khmer-Surin	to burn -tr.	dʌt
+1190	Khmer-Standard	to burn -tr.	dot
+1191	Mon	to burn -tr.	tao
+1192	Vietnamese	to burn -tr.	đốt
+1193	Bahnar-Golar	to buy	rɔt
+1194	Bahnar-Kontum	to buy	rɔt
+1195	Bahnar-Pleiku	to buy	rɔt
+1196	Bru-Talan	to buy	cɔːŋ
+1197	Bru-Ubon	to buy	cəːŋ
+1198	Khmer-Surin	to buy	tiɲ
+1199	Khmer-Standard	to buy	ciev
+1200	Mon	to buy	ràn
+1201	Bahnar-Golar	to climb/ascend	haːw
+1202	Bahnar-Kontum	to climb/ascend	haːw
+1203	Bahnar-Pleiku	to climb/ascend	haːw
+1204	Bru-Talan	to climb/ascend	cʰɔˀɔh
+1205	Bru-Ubon	to climb/ascend	sɔh
+1206	Khmer-Surin	to climb/ascend	lʌːŋ
+1207	Khmer-Standard	to climb/ascend	laəŋ
+1208	Mon	to climb/ascend	tɒn
+1209	Vietnamese	to climb/ascend	lên
+1210	Bahnar-Golar	to cook/boil	paːj
+1211	Bahnar-Kontum	to cook/boil	paːj
+1212	Bahnar-Pleiku	to cook/boil	paːj
+1213	Bru-Talan	to cook/boil	cin
+1214	Bru-Ubon	to cook/boil	ʔɔŋ
+1215	Khmer-Surin	to cook/boil	tnam
+1216	Khmer-Standard	to cook/boil	dam
+1217	Mon	to cook/boil	tom
+1218	Vietnamese	to cook/boil	nâu
+1219	Bahnar-Golar	to cough	hjɛn
+1220	Bahnar-Kontum	to cough	hjɛn
+1221	Bahnar-Pleiku	to cough	hjɛn
+1222	Bru-Talan	to cough	həŋɔʔ
+1223	Bru-Ubon	to cough	ŋhɔʔ
+1224	Khmer-Surin	to cough	kɁɑːɁ
+1225	Khmer-Standard	to cough	kɁɑːɁ
+1226	Mon	to cough	hadaʔ
+1227	Vietnamese	to cough	ho
+1228	Bahnar-Golar	to cry/weep	ɲəm
+1229	Bahnar-Kontum	to cry/weep	ɲəm
+1230	Bahnar-Pleiku	to cry/weep	hmɔːj
+1231	Bru-Talan	to cry/weep	ɲaˀam
+1232	Bru-Ubon	to cry/weep	ɲiam
+1233	Khmer-Surin	to cry/weep	jʊm
+1234	Khmer-Standard	to cry/weep	jum
+1235	Mon	to cry/weep	kərə̀ʔ
+1236	Vietnamese	to cry/weep	khóc
+1237	Bahnar-Golar	to descend	ɟuːr
+1238	Bahnar-Kontum	to descend	ɟuːr
+1239	Bahnar-Pleiku	to descend	ɟuːr
+1240	Bru-Talan	to descend	cʰɛˀɛŋ
+1241	Bru-Ubon	to descend	sɛːŋ
+1242	Khmer-Standard	to descend	coh
+1243	Mon	to descend	cih
+1244	Vietnamese	to descend	xuống
+1245	Bru-Talan	to die	kəceːt
+1246	Bru-Ubon	to die	kəciːt
+1247	Khmer-Surin	to die	slap
+1248	Khmer-Standard	to die	slap
+1249	Mon	to die	cʰɒt
+1250	Vietnamese	to die	chết
+1251	Bahnar-Golar	to dig	siːr
+1252	Bahnar-Kontum	to dig	siːr
+1253	Bahnar-Pleiku	to dig	siːr
+1254	Bru-Talan	to dig	pic
+1255	Bru-Ubon	to dig	piʔ
+1256	Khmer-Surin	to dig	ʨiːɁ
+1257	Khmer-Standard	to dig	ciːɁ
+1258	Mon	to dig	bɑk
+1259	Vietnamese	to dig	đào
+1260	Bahnar-Golar	to dream	həpɔː
+1261	Bahnar-Kontum	to dream	ʔapɔː
+1262	Bahnar-Pleiku	to dream	ʔapɔː
+1263	Bru-Talan	to dream	mpɔˀɔ
+1264	Bru-Ubon	to dream	mpaw
+1265	Khmer-Standard	to dream	soːŋ
+1266	Mon	to dream	kəpɔʔ
+1267	Vietnamese	to dream	bao
+1268	Bahnar-Golar	to drink -water	ʔɛːt
+1269	Bahnar-Kontum	to drink -water	ʔɛːt
+1270	Bahnar-Pleiku	to drink -water	ɲaʔ
+1271	Bru-Talan	to drink -water	ŋɔːjʔ
+1272	Bru-Ubon	to drink -water	ŋuac
+1273	Khmer-Surin	to drink -water	pʰʌʔ
+1274	Khmer-Standard	to drink -water	pʰək
+1275	Mon	to drink -water	səŋ
+1276	Vietnamese	to drink -water	uống
+1277	Bahnar-Golar	to eat	saː
+1278	Bahnar-Kontum	to eat	saː
+1279	Bahnar-Pleiku	to eat	saː
+1280	Bru-Talan	to eat	caˀa
+1281	Bru-Ubon	to eat	caː
+1282	Khmer-Surin	to eat	siː
+1283	Khmer-Standard	to eat	siː
+1284	Mon	to eat	cɛʔ
+1285	Vietnamese	to eat	ăn
+1286	Bahnar-Golar	to extinguish/put out	tək
+1287	Bahnar-Kontum	to extinguish/put out	pəpăt
+1288	Bahnar-Pleiku	to extinguish/put out	pat
+1289	Bru-Talan	to extinguish/put out	həmpat
+1290	Bru-Ubon	to extinguish/put out	ʔaːpat
+1291	Khmer-Surin	to extinguish/put out	luat
+1292	Khmer-Standard	to extinguish/put out	lʊət
+1293	Mon	to extinguish/put out	plɒt
+1294	Vietnamese	to extinguish/put out	tắt
+1295	Bahnar-Golar	to fall	klih
+1296	Bahnar-Kontum	to fall	klih
+1297	Bahnar-Pleiku	to fall	klih
+1298	Bru-Talan	to fall	hətoˀoh
+1299	Bru-Ubon	to fall	səlɛh
+1300	Khmer-Surin	to fall	tʰliaj
+1301	Khmer-Standard	to fall	cruh
+1302	Mon	to fall	prɔh
+1303	Vietnamese	to fall	rũ
+1304	Bahnar-Golar	to flee/run -away	ɟak
+1305	Bahnar-Kontum	to flee/run -away	ɟak
+1306	Bahnar-Pleiku	to flee/run -away	ɟak
+1307	Bru-Talan	to flee/run -away	luh
+1308	Bru-Ubon	to flee/run -away	təlṳh
+1309	Khmer-Surin	to flee/run -away	pɯat
+1310	Khmer-Standard	to flee/run -away	rʊət
+1311	Mon	to flee/run -away	tɛ̀a
+1312	Vietnamese	to flee/run -away	chạy
+1313	Bahnar-Golar	to fly	par
+1314	Bahnar-Kontum	to fly	par
+1315	Bahnar-Pleiku	to fly	par
+1316	Bru-Talan	to fly	par
+1317	Bru-Ubon	to fly	par
+1318	Khmer-Surin	to fly	hʌːr
+1319	Khmer-Standard	to fly	haə
+1320	Mon	to fly	pɔ

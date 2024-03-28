@@ -1,0 +1,760 @@
+ID	DOCULECT	ISO_CODE	CONCEPT	CONCEPTICON_ID	IPA	TOKENS	ASJP	DOLGO	SCA	COGNATE_CLASS	COGID
+1	Gorum	pcj	I, me		miŋ	m i ŋ	m i N	M V N	M I N	1	1
+2	Kharia	khr	I, me		iŋ	i ŋ	i N	V N	I N	1	1
+3	Santali	sat	I, me		ʔɤʔ	ʔ ɤ ʔ	7 o 7	H V H	H E H	11	3
+4	Sora	srb	I, me		iɲ	i ɲ	i H	V N	I N	1	1
+5	Gorum	pcj	alcohol/liquor		ali	a l i	a l i	V R V	A L I	22	21
+6	Kharia	khr	alcohol/liquor		dakh	d a k h	d a k h	T V K H	T A K H	24	22
+7	Santali	sat	alcohol/liquor		hãɖi	h ã ɖ i	h a d i	H V T V	H A T I	28	24
+8	Sora	srb	alcohol/liquor		ʌli	ʌ l i	o l i	V R V	E L I	22	21
+9	Gorum	pcj	alive/live		mḛŋ	m ḛ ŋ	m e N	M V N	M E N	22	44
+10	Kharia	khr	alive/live		bɔˈrɔl	b ɔ ˈr ɔ l	b o r o l	P V R V R	P U R U L	26	46
+11	Santali	sat	alive/live		waɲcaw	w a ɲ c a w	w a H T a w	W V N K V W	W A N C A W	30	48
+12	Sora	srb	alive/live		mʔɛŋ	m ʔ ɛ ŋ	m 7 E N	M H V N	M H E N	22	44
+13	Gorum	pcj	ant		mumoj	m u m o j	m u m o y	M V M V J	M Y M U J	3	68
+14	Kharia	khr	ant		muˀɟɖɑʔ	m uˀ ɟ ɖ ɑ ʔ	m u C d o 7	M V K T V H	M Y C T A H	3	68
+15	Santali	sat	ant		muc˺	m u c˺	m u T	M V K	M Y C	3	68
+16	Sora	srb	ant		muɟ	m u ɟ	m u C	M V K	M Y C	3	68
+17	Gorum	pcj	arrow		amon	a m o n	a m o n	V M V N	A M U N	6	89
+18	Kharia	khr	arrow		kɔm	k ɔ m	k o m	K V M	K U M	6	89
+19	Santali	sat	arrow		sar	s a r	s a r	S V R	S A R	22	81
+20	Sora	srb	arrow		aʔam	a ʔ a m	a 7 a m	V H V M	A H A M	6	89
+21	Gorum	pcj	ashes		buɖi	b u ɖ i	b u d i	P V T V	P Y T I	16	97
+22	Kharia	khr	ashes		kʰarom	kʰ a r o m	k a r o m	K V R V M	K A R U M	18	98
+23	Santali	sat	ashes		toroc˺	t o r o c˺	t o r o T	T V R V K	T U R U C	20	100
+24	Sora	srb	ashes		komab	k o m a b	k o m a b	K V M V P	K U M A P	21	101
+25	Gorum	pcj	bamboo		uruŋ	u r u ŋ	u r u N	V R V N	Y R Y N	33	131
+26	Kharia	khr	bamboo		kɔˈlɛˀɖ	k ɔ ˈl ɛˀ ɖ	k o l E d	K V R V T	K U L E T	35	132
+27	Santali	sat	bamboo		mat˺	m a t˺	m a t	M V T	M A T	37	134
+28	Sora	srb	bamboo		urɨŋ	u r ɨ ŋ	u r I N	V R V N	Y R I N	33	131
+29	Gorum	pcj	banana		uraʔ	u r a ʔ	u r a 7	V R V H	Y R A H	9	157
+30	Kharia	khr	banana		kera	k e r a	k e r a	K V R V	K E R A	9	157
+31	Santali	sat	banana		kajra	k a j r a	k a y r a	K V J R V	K A J R A	9	157
+32	Sora	srb	banana		sɔŋ	s ɔ ŋ	s o N	S V N	S U N	12	146
+33	Gorum	pcj	beans/peas		sikɖiŋ	s i k ɖ i ŋ	s i k d i N	S V K T V N	S I K T I N	17	162
+34	Kharia	khr	beans/peas		ɔrsiŋ	ɔ r s i ŋ	o r s i N	V R S V N	U R S I N	20	164
+35	Santali	sat	beans/peas		malhan	m a l h a n	m a l h a n	M V R H V N	M A L H A N	22	165
+36	Gorum	pcj	bear		kibuˀd	k i b uˀ d	k i b u d	K V P V T	K I P Y T	18	185
+37	Kharia	khr	bear		bɔˈnɔi	b ɔ ˈn ɔi	b o n o	P V N V	P U N U	19	186
+38	Santali	sat	bear		bana	b a n a	b a n a	P V N V	P A N A	19	186
+39	Sora	srb	bear		kʌmbud	k ʌ m b u d	k o m b u d	K V M P V T	K E M P Y T	18	185
+40	Gorum	pcj	bee/honeybee		unroˀdaroj	unroˀd aroj	u a	V V	Y A	20	202
+41	Kharia	khr	bee/honeybee		terom	t e r o m	t e r o m	T V R V M	T E R U M	24	203
+42	Santali	sat	bee/honeybee		tɛrɔm	t ɛ r ɔ m	t E r o m	T V R V M	T E R U M	24	203
+43	Sora	srb	bee/honeybee		ˈteːrəmbud	ˈt eː r ə m b u d	t e r I m b u d	T V R V M P V T	T E R E M P Y T	24	203
+44	Kharia	khr	belly/stomach		laiʔɟ	l ai ʔ ɟ	l a 7 C	R V H K	L A H C	30	230
+45	Santali	sat	belly/stomach		lac˺	l a c˺	l a T	R V K	L A C	30	230
+46	Sora	srb	belly/stomach		puŋ	p u ŋ	p u N	P V N	P Y N	14	218
+47	Gorum	pcj	bird		poɖiˀd	p o ɖ iˀ d	p o d i d	P V T V T	P U T I T	8	246
+48	Kharia	khr	bird		kɔnˈtʰɛˀɖ	k ɔ n ˈtʰ ɛˀ ɖ	k o n t E d	K V N T V T	K U N T E T	10	238
+49	Santali	sat	bird		cẽɳẽ	c ẽ ɳ ẽ	T e n e	K V N V	C E N E	18	239
+50	Sora	srb	bird		tid	t i d	t i d	T V T	T I T	10	238
+51	Gorum	pcj	bitter		asaŋ	a s a ŋ	a s a N	V S V N	A S A N	3	250
+52	Kharia	khr	bitter		ɔˈsɔŋ	ɔ ˈs ɔ ŋ	o s o N	V S V N	U S U N	3	250
+53	Santali	sat	bitter		heber	h e b e r	h e b e r	H V P V R	H E P E R	9	253
+54	Sora	srb	bitter		ʌsaŋ	ʌ s a ŋ	o s a N	V S V N	E S A N	3	250
+55	Gorum	pcj	black		asaˀɟ	a s aˀ ɟ	a s a C	V S V K	A S A C	34	272
+56	Kharia	khr	black		karhaini	k a r h ai n i	k a r h a n i	K V R H V N V	K A R H A N I	36	274
+57	Santali	sat	black		hẽde	h ẽ d e	h e d e	H V T V	H E T E	35	273
+58	Sora	srb	black		jágaː	j á g aː	y a g a	J V K V	J A K A	37	275
+59	Gorum	pcj	blood		mijam	m i j a m	m i y a m	M V J V M	M I J A M	3	287
+60	Kharia	khr	blood		ɛŋɡam	ɛ ŋ ɡ a m	E N g a m	V N K V M	E N K A M	3	287
+61	Santali	sat	blood		majam	m a j a m	m a y a m	M V J V M	M A J A M	3	287
+62	Sora	srb	blood		mɨɲam	m ɨ ɲ a m	m I H a m	M V N V M	M I N A M	3	287
+63	Kharia	khr	boat		ɖoloŋ	ɖ o l o ŋ	d o l o N	T V R V N	T U L U N	9	303
+64	Gorum	pcj	body hair/feathers		burtuy	b u r t uy	b u r t u	P V R T V	P Y R T Y	19	310
+65	Kharia	khr	body hair/feathers		ului	u l ui	u l u	V R V	Y L Y	1	304
+66	Santali	sat	body hair/feathers		up˺	u p˺	u p	V P	Y P	23	311
+67	Sora	srb	body hair/feathers		uppɨr	u pp ɨ r	u p I r	V P V R	Y P I R	23	311
+68	Gorum	pcj	bone		za̰ŋ	z a̰ ŋ	z a N	S V N	S A N	1	320
+69	Kharia	khr	bone		ɟɑŋ	ɟ ɑ ŋ	C o N	K V N	C A N	1	320
+70	Santali	sat	bone		ɟaŋ	ɟ a ŋ	C a N	K V N	C A N	1	320
+71	Sora	srb	bone		ɟʔaŋ	ɟ ʔ a ŋ	C 7 a N	K H V N	C H A N	1	320
+72	Gorum	pcj	bow, crossbow		onaʔ	o n a ʔ	o n a 7	V N V H	U N A H	3	336
+73	Kharia	khr	bow, crossbow		kɑʔ	k ɑ ʔ	k o 7	K V H	K A H	23	333
+74	Santali	sat	bow, crossbow		aʔ	a ʔ	a 7	V H	A H	3	336
+75	Sora	srb	bow, crossbow		ɲʌŋa	ɲ ʌ ŋ a	H o N a	N V N V	N E N A	25	334
+76	Gorum	pcj	brain		guɖi	g u ɖ i	g u d i	K V T V	K Y T I	17	349
+77	Kharia	khr	brain		godi	g o d i	g o d i	K V T V	K U T I	17	349
+78	Santali	sat	brain		hataŋ	h a t a ŋ	h a t a N	H V T V N	H A T A N	13	345
+79	Sora	srb	brain		ʌtʌŋ	ʌ t ʌ ŋ	o t o N	V T V N	E T E N	13	345
+80	Gorum	pcj	branch		ɖruˀb	ɖ r uˀ b	d r u b	T R V P	T R Y P	37	388
+81	Kharia	khr	branch		ɖair	ɖ ai r	d a r	T V R	T A R	35	387
+82	Santali	sat	branch		ɖər	ɖ ə r	d I r	T V R	T E R	35	387
+83	Sora	srb	branch		kəndɑːˈrɑː	k ə n d ɑː ˈr ɑː	k I n d o r o	K V N T V R V	K E N T A R A	35	387
+84	Gorum	pcj	breast		aɖuˀb	a ɖ uˀ b	a d u b	V T V P	A T Y P	14	399
+85	Kharia	khr	breast		ˈnunu	ˈn u n u	n u n u	N V N V	N Y N Y	16	400
+86	Santali	sat	breast		nunu	n u n u	n u n u	N V N V	N Y N Y	16	400
+87	Sora	srb	breast		mɛmɛ	m ɛ m ɛ	m E m E	M V M V	M E M E	13	398
+88	Gorum	pcj	chicken/fowl		aŋoj	a ŋ o j	a N o y	V N V J	A N U J	10	410
+89	Kharia	khr	chicken/fowl		ˈsiŋkɔe	ˈs i ŋ k ɔe	s i N k o	S V N K V	S I N K U	9	422
+90	Santali	sat	chicken/fowl		sim	s i m	s i m	S V M	S I M	11	411
+91	Sora	srb	chicken/fowl		kʌnsim	k ʌ n s i m	k o n s i m	K V N S V M	K E N S I M	11	411
+92	Gorum	pcj	child/son		aŋon	a ŋ o n	a N o n	V N V N	A N U N	3	424
+93	Kharia	khr	child/son		kɔɳˈɖuʔ	k ɔ ɳ ˈɖ u ʔ	k o n d u 7	K V N T V H	K U N T Y H	3	424
+94	Santali	sat	child/son		gidrə	g i d r ə	g i d r I	K V T R V	K I T R E	12	423
+95	Sora	srb	child/son		ɔʔn	ɔ ʔ n	o 7 n	V H N	U H N	3	424
+96	Gorum	pcj	cloud		taruˀb	t a r uˀ b	t a r u b	T V R V P	T A R Y P	21	440
+97	Kharia	khr	cloud		tiˈriˀb	t i ˈr iˀ b	t i r i b	T V R V P	T I R I P	21	440
+98	Santali	sat	cloud		rimil	r i m i l	r i m i l	R V M V R	R I M I L	6	449
+99	Sora	srb	cloud		tʌrɨb	t ʌ r ɨ b	t o r I b	T V R V P	T E R I P	21	440
+100	Gorum	pcj	cold		zieŋ	z ie ŋ	z i N	S V N	S I N	30	470
+101	Kharia	khr	cold		ruŋɡum	r u ŋ ɡ u m	r u N g u m	R V N K V M	R Y N K Y M	19	461
+102	Santali	sat	cold		rejar	r e j a r	r e y a r	R V J V R	R E J A R	34	471
+103	Sora	srb	cold		ˈrɑŋɡɑː	ˈr ɑ ŋ ɡ ɑː	r o N g o	R V N K V	R A N K A	19	461
+104	Gorum	pcj	dog		kusoˀd	k u s oˀ d	k u s o d	K V S V T	K Y S U T	2	485
+105	Kharia	khr	dog		sɔˈlɔʔ	s ɔ ˈl ɔ ʔ	s o l o 7	S V R V H	S U L U H	2	485
+106	Santali	sat	dog		seta	s e t a	s e t a	S V T V	S E T A	7	489
+107	Sora	srb	dog		kinˈsoːd	k i n ˈs oː d	k i n s o d	K V N S V T	K I N S U T	2	485
+108	Gorum	pcj	dry		asar	a s a r	a s a r	V S V R	A S A R	43	520
+109	Kharia	khr	dry		kɔˈsɔr	k ɔ ˈs ɔ r	k o s o r	K V S V R	K U S U R	43	520
+110	Santali	sat	dry		rohoɽ	r o h o ɽ	r o h o r	R V H V R	R U H U R	46	521
+111	Sora	srb	dry		ʌsʌr	ʌ s ʌ r	o s o r	V S V R	E S E R	43	520
+112	Gorum	pcj	ear		luˀd	l uˀ d	l u d	R V T	L Y T	2	540
+113	Kharia	khr	ear		luˈtur	l u ˈt u r	l u t u r	R V T V R	L Y T Y R	2	540
+114	Santali	sat	ear		lutur	l u t u r	l u t u r	R V T V R	L Y T Y R	2	540
+115	Sora	srb	ear		lʔud	l ʔ u d	l 7 u d	R H V T	L H Y T	2	540
+116	Gorum	pcj	earth -soil		loboʔ	l o b o ʔ	l o b o 7	R V P V H	L U P U H	14	550
+117	Kharia	khr	earth -soil		dharti	d h a r t i	d h a r t i	T H V R T V	T H A R T I	1	548
+118	Santali	sat	earth -soil		ɔt	ɔ t	o t	V T	U T	1	548
+119	Sora	srb	earth -soil		lʌbɔ	l ʌ b ɔ	l o b o	R V P V	L E P U	14	550
+120	Gorum	pcj	egg		ariˀɟ	a r iˀ ɟ	a r i C	V R V K	A R I C	17	570
+121	Kharia	khr	egg		anɖa	a n ɖ a	a n d a	V N T V	A N T A	18	571
+122	Santali	sat	egg		bili	b i l i	b i l i	P V R V	P I L I	21	573
+123	Sora	srb	egg		ʌdrɛ	ʌ d r ɛ	o d r E	V T R V	E T R E	18	571
+124	Gorum	pcj	eight		tamgi	t a m g i	t a m g i	T V M K V	T A M K I	1	582
+125	Kharia	khr	eight		tʰɑm	tʰ ɑ m	t o m	T V M	T A M	1	582
+126	Santali	sat	eight		irəl	i r ə l	i r I l	V R V R	I R E L	12	583
+127	Sora	srb	eight		tamɟi	t a m ɟ i	t a m C i	T V M K V	T A M C I	1	582
+128	Gorum	pcj	excrement/shit		asoŋ	a s o ŋ	a s o N	V S V N	A S U N	11	596
+129	Kharia	khr	excrement/shit		iʔɟ	i ʔ ɟ	i 7 C	V H K	I H C	1	594
+130	Santali	sat	excrement/shit		iɟ	i ɟ	i C	V K	I C	1	594
+131	Sora	srb	excrement/shit		ʌsɔŋ	ʌ s ɔ ŋ	o s o N	V S V N	E S U N	11	596
+132	Gorum	pcj	eye		maˀd	m aˀ d	m a d	M V T	M A T	1	608
+133	Kharia	khr	eye		mɔˀɖ	m ɔˀ ɖ	m o d	M V T	M U T	1	608
+134	Santali	sat	eye		met˺	m e t˺	m e t	M V T	M E T	1	608
+135	Sora	srb	eye		mʔɔd	m ʔ ɔ d	m 7 o d	M H V T	M H U T	1	608
+136	Gorum	pcj	far/distant		saŋaj	s a ŋ a j	s a N a y	S V N V J	S A N A J	7	623
+137	Kharia	khr	far/distant		ɖisaʔɖuʔ	ɖ i s a ʔ ɖ u ʔ	d i s a 7 d u 7	T V S V H T V H	T I S A H T Y H	21	617
+138	Santali	sat	far/distant		saṃgiɲ	s a ṃ g i ɲ	s a m g i H	S V M K V N	S A M K I N	7	623
+139	Sora	srb	far/distant		sʌnaɟ	s ʌ n a ɟ	s o n a C	S V N V K	S E N A C	7	623
+140	Gorum	pcj	fat/oil/grease		loruŋ	l o r u ŋ	l o r u N	R V R V N	L U R Y N	27	640
+141	Kharia	khr	fat/oil/grease		ɟɔːl	ɟ ɔː l	C o l	K V R	C U L	28	641
+142	Santali	sat	fat/oil/grease		itil	i t i l	i t i l	V T V R	I T I L	31	642
+143	Sora	srb	fat/oil/grease		kʌri	k ʌ r i	k o r i	K V R V	K E R I	25	639
+144	Gorum	pcj	fear/afraid		butoŋ	b u t o ŋ	b u t o N	P V T V N	P Y T U N	1	655
+145	Kharia	khr	fear/afraid		ˈbɔtɔŋ	ˈb ɔ t ɔ ŋ	b o t o N	P V T V N	P U T U N	1	655
+146	Santali	sat	fear/afraid		botor	b o t o r	b o t o r	P V T V R	P U T U R	25	665
+147	Sora	srb	fear/afraid		bʌtɔŋ	b ʌ t ɔ ŋ	b o t o N	P V T V N	P E T U N	1	655
+148	Gorum	pcj	field -irrigated		lioŋ	l io ŋ	l i N	R V N	L I N	14	683
+149	Kharia	khr	field -irrigated		ɡɔˀɟˈlɔʔ	ɡ ɔˀ ɟ ˈl ɔ ʔ	g o C l o 7	K V K R V H	K U C L U H	17	684
+150	Santali	sat	field -irrigated		ʈə̃ɖi	ʈ ə̃ ɖ i	t I d i	T V T V	T E T I	13	682
+151	Sora	srb	field -irrigated		sʌrɔba	s ʌ r ɔ b a	s o r o b a	S V R V P V	S E R U P A	21	689
+152	Gorum	pcj	field -swidden/hill		malatoila	m a l a t oi l a	m a l a t o l a	M V R V T V R V	M A L A T U L A	20	708
+153	Kharia	khr	field -swidden/hill		ɡɔˀɟˈlɔʔ	ɡ ɔˀ ɟ ˈl ɔ ʔ	g o C l o 7	K V K R V H	K U C L U H	25	709
+154	Santali	sat	field -swidden/hill		ʈə̃ɖi	ʈ ə̃ ɖ i	t I d i	T V T V	T E T I	29	712
+155	Sora	srb	field -swidden/hill		bɨr	b ɨ r	b I r	P V R	P I R	30	713
+156	Gorum	pcj	finger		siʔ	s i ʔ	s i 7	S V H	S I H	27	737
+157	Santali	sat	finger		kəʈup˺	k ə ʈ u p˺	k I t u p	K V T V P	K E T Y P	31	739
+158	Sora	srb	finger		si	s i	s i	S V	S I	27	737
+159	Gorum	pcj	fire		kuɖoŋ	k u ɖ o ŋ	k u d o N	K V T V N	K Y T U N	19	759
+160	Kharia	khr	fire		ˈtimsɔŋ	ˈt i m s ɔ ŋ	t i m s o N	T V M S V N	T I M S U N	11	754
+161	Santali	sat	fire		sẽgel	s ẽ g e l	s e g e l	S V K V R	S E K E L	11	754
+162	Sora	srb	fire		tod	t o d	t o d	T V T	T U T	19	759
+163	Gorum	pcj	fish		ajuʔ	a j u ʔ	a y u 7	V J V H	A J Y H	12	769
+164	Kharia	khr	fish		kɑˈɖɔŋ	k ɑ ˈɖ ɔ ŋ	k o d o N	K V T V N	K A T U N	10	768
+165	Santali	sat	fish		haku	h a k u	h a k u	H V K V	H A K Y	1	767
+166	Sora	srb	fish		ʌjɔ	ʌ j ɔ	o y o	V J V	E J U	12	769
+167	Gorum	pcj	five		monloj	m o n l o j	m o n l o y	M V N R V J	M U N L U J	5	781
+168	Kharia	khr	five		ˈmɔlɔe	ˈm ɔ l ɔe	m o l o	M V R V	M U L U	5	781
+169	Santali	sat	five		mõɳe	m õ ɳ e	m o n e	M V N V	M U N E	5	781
+170	Sora	srb	five		mɔnlɔj	m ɔ n l ɔ j	m o n l o y	M V N R V J	M U N L U J	5	781
+171	Gorum	pcj	flesh/meat		sisiˀd	s i s iˀ d	s i s i d	S V S V T	S I S I T	29	796
+172	Kharia	khr	flesh/meat		ɟelu	ɟ e l u	C e l u	K V R V	C E L Y	29	796
+173	Santali	sat	flesh/meat		ɟil	ɟ i l	C i l	K V R	C I L	29	796
+174	Sora	srb	flesh/meat		ɟɛlu	ɟ ɛ l u	C E l u	K V R V	C E L Y	29	796
+175	Gorum	pcj	flower		tarbaʔ	t a r b a ʔ	t a r b a 7	T V R P V H	T A R P A H	17	811
+176	Kharia	khr	flower		rɑʔrɑʔ	r ɑ ʔ r ɑ ʔ	r o 7 r o 7	R V H R V H	R A H R A H	19	812
+177	Santali	sat	flower		baha	b a h a	b a h a	P V H V	P A H A	20	814
+178	Sora	srb	flower		tarba	t a r b a	t a r b a	T V R P V	T A R P A	20	814
+179	Gorum	pcj	foot		zḭŋ	z ḭ ŋ	z i N	S V N	S I N	2	828
+180	Kharia	khr	foot		ˈsuplikɑʈɑ	ˈs u p l i k ɑ ʈ ɑ	s u p l i k o t o	S V P R V K V T V	S Y P L I K A T A	7	832
+181	Santali	sat	foot		ɟãga	ɟ ã g a	C a g a	K V K V	C A K A	2	828
+182	Sora	srb	foot		ɟʔeŋ	ɟ ʔ e ŋ	C 7 e N	K H V N	C H E N	2	828
+183	Gorum	pcj	four		ungi	u n g i	u n g i	V N K V	Y N K I	4	836
+184	Kharia	khr	four		ˈiʔpɔn	ˈi ʔ p ɔ n	i 7 p o n	V H P V N	I H P U N	1	834
+185	Santali	sat	four		pun	p u n	p u n	P V N	P Y N	1	834
+186	Sora	srb	four		unɟi	u n ɟ i	u n C i	V N K V	Y N C I	4	836
+187	Kharia	khr	frog		kenɖoʔɖ	k e n ɖ o ʔ ɖ	k e n d o 7 d	K V N T V H T	K E N T U H T	27	847
+188	Sora	srb	frog		kʌndod	k ʌ n d o d	k o n d o d	K V N T V T	K E N T U T	18	842
+189	Gorum	pcj	fruit		zoʔ	z o ʔ	z o 7	S V H	S U H	7	861
+190	Kharia	khr	fruit		luku	l u k u	l u k u	R V K V	L Y K Y	8	862
+191	Santali	sat	fruit		ɟo	ɟ o	C o	K V	C U	7	861
+192	Sora	srb	fruit		ɟʔɔ	ɟ ʔ ɔ	C 7 o	K H V	C H U	7	861
+193	Gorum	pcj	full		boriʔ	b o r i ʔ	b o r i 7	P V R V H	P U R I H	14	868
+194	Kharia	khr	full		bhorom	b h o r o m	b h o r o m	P H V R V M	P H U R U M	13	867
+195	Santali	sat	full		perec˺	p e r e c˺	p e r e T	P V R V K	P E R E C	14	868
+196	Sora	srb	full		bariɟ	b a r i ɟ	b a r i C	P V R V K	P A R I C	14	868
+197	Gorum	pcj	grandchild		ḭleŋ	ḭ l e ŋ	i l e N	V R V N	I L E N	5	885
+198	Santali	sat	grandchild		ɟaɛ	ɟ aɛ	C a	K V	C A	3	883
+199	Sora	srb	grandchild		udleŋ	u d l e ŋ	u d l e N	V T R V N	Y T L E N	5	885
+200	Gorum	pcj	grass		kintej	k i n t e j	k i n t e y	K V N T V J	K I N T E J	27	898
+201	Kharia	khr	grass		ghãs	g h ã s	g h a s	K H V S	K H A S	29	900
+202	Santali	sat	grass		ghãs	g h ã s	g h a s	K H V S	K H A S	29	900
+203	Sora	srb	grass		ɟɨŋ	ɟ ɨ ŋ	C I N	K V N	C I N	28	899
+204	Gorum	pcj	green		nilia	n i l ia	n i l i	N V R V	N I L I	39	933
+205	Kharia	khr	green		harijar	h a r i j a r	h a r i y a r	H V R V J V R	H A R I J A R	40	934
+206	Santali	sat	green		hərijəɽ	h ə r i j ə ɽ	h I r i y I r	H V R V J V R	H E R I J E R	40	934
+207	Sora	srb	green		ʌmeŋ	ʌ m e ŋ	o m e N	V M V N	E M E N	42	935
+208	Gorum	pcj	hair -head		bur	b u r	b u r	P V R	P Y R	7	948
+209	Kharia	khr	hair -head		ului	u l ui	u l u	V R V	Y L Y	1	944
+210	Santali	sat	hair -head		up˺	u p˺	u p	V P	Y P	8	949
+211	Sora	srb	hair -head		uʔu	u ʔ u	u 7 u	V H V	Y H Y	1	944
+212	Gorum	pcj	hand		siʔ	s i ʔ	s i 7	S V H	S I H	5	953
+213	Kharia	khr	hand		tiʔ	t i ʔ	t i 7	T V H	T I H	3	951
+214	Santali	sat	hand		ti	t i	t i	T V	T I	3	951
+215	Sora	srb	hand		sʔi	s ʔ i	s 7 i	S H V	S H I	5	953
+216	Gorum	pcj	head		baˀb	b aˀ b	b a b	P V P	P A P	4	961
+217	Kharia	khr	head		bɔʔ	b ɔ ʔ	b o 7	P V H	P U H	4	961
+218	Santali	sat	head		bohoʔ	b o h o ʔ	b o h o 7	P V H V H	P U H U H	4	961
+219	Sora	srb	head		bʔɔb	b ʔ ɔ b	b 7 o b	P H V P	P H U P	4	961
+220	Gorum	pcj	heart		gare	g a r e	g a r e	K V R V	K A R E	29	980
+221	Kharia	khr	heart		dil	d i l	d i l	T V R	T I L	30	981
+222	Santali	sat	heart		inboro	in boro	i b	V P	I P	26	979
+223	Sora	srb	heart		ɡʌrɛ	ɡ ʌ r ɛ	g o r E	K V R V	K E R E	29	980
+224	Gorum	pcj	heavy		lagun	l a g u n	l a g u n	R V K V N	L A K Y N	22	999
+225	Kharia	khr	heavy		kɛˈnɛl	k ɛ ˈn ɛ l	k E n E l	K V N V R	K E N E L	24	1000
+226	Santali	sat	heavy		hamal	h a m a l	h a m a l	H V M V R	H A M A L	25	1001
+227	Sora	srb	heavy		lʌɡɨn	l ʌ ɡ ɨ n	l o g I n	R V K V N	L E K I N	22	999
+228	Gorum	pcj	horn		ɖaraŋ	ɖ a r a ŋ	d a r a N	T V R V N	T A R A N	4	1019
+229	Kharia	khr	horn		ɖɛˈrɛŋ	ɖ ɛ ˈr ɛ ŋ	d E r E N	T V R V N	T E R E N	4	1019
+230	Santali	sat	horn		dereɲ	d e r e ɲ	d e r e H	T V R V N	T E R E N	4	1019
+231	Sora	srb	horn		dereŋ	d e r e ŋ	d e r e N	T V R V N	T E R E N	4	1019
+232	Gorum	pcj	hot/warm		balbal	b a l b a l	b a l b a l	P V R P V R	P A L P A L	32	1034
+233	Kharia	khr	hot/warm		lɔˀblɔˀb	l ɔˀ b l ɔˀ b	l o b l o b	R V P R V P	L U P L U P	35	1036
+234	Santali	sat	hot/warm		lolo	l o l o	l o l o	R V R V	L U L U	39	1038
+235	Sora	srb	hot/warm		tʌɡe	t ʌ ɡ e	t o g e	T V K V	T E K E	30	1033
+236	Gorum	pcj	house		a̰suŋ	a̰ s u ŋ	a s u N	V S V N	A S Y N	3	1058
+237	Kharia	khr	house		oɡaʔ	o ɡ a ʔ	o g a 7	V K V H	U K A H	12	1053
+238	Santali	sat	house		oɽaʔ	o ɽ a ʔ	o r a 7	V R V H	U R A H	13	1054
+239	Sora	srb	house		sɨŋ	s ɨ ŋ	s I N	S V N	S I N	3	1058
+240	Gorum	pcj	intestine/gut		ɖuluŋ	ɖ u l u ŋ	d u l u N	T V R V N	T Y L Y N	14	1079
+241	Kharia	khr	intestine/gut		poʈa	po ʈa	p t	P T	P T	15	1080
+242	Santali	sat	intestine/gut		lac˺tet˺	lac˺ tet˺	l t	R T	L T	13	1078
+243	Sora	srb	intestine/gut		onˈloidɑː	o n ˈl oi d ɑː	o n l o d o	V N R V T V	U N L U T A	15	1080
+244	Gorum	pcj	iron		umal	u m a l	u m a l	V M V R	Y M A L	14	1091
+245	Kharia	khr	iron		loha	l o h a	l o h a	R V H V	L U H A	13	1090
+246	Santali	sat	iron		meɽhet˺	m e ɽ h e t˺	m e r h e t	M V R H V T	M E R H E T	14	1091
+247	Sora	srb	iron		lɔaŋ	l ɔa ŋ	l o N	R V N	L U N	13	1090
+248	Gorum	pcj	leaf		olaʔ	o l a ʔ	o l a 7	V R V H	U L A H	1	1104
+249	Kharia	khr	leaf		uˈlɑʔ	u ˈl ɑ ʔ	u l o 7	V R V H	Y L A H	1	1104
+250	Santali	sat	leaf		sakam	s a k a m	s a k a m	S V K V M	S A K A M	13	1106
+251	Sora	srb	leaf		ɔla	ɔ l a	o l a	V R V	U L A	1	1104
+252	Gorum	pcj	leech -land		ili	i l i	i l i	V R V	I L I	9	1122
+253	Kharia	khr	leech -land		ɟõk	ɟ õ k	C o k	K V K	C U K	10	1114
+254	Sora	srb	leech -land		ilim	i l i m	i l i m	V R V M	I L I M	9	1122
+255	Gorum	pcj	left -side		siner	s i n e r	s i n e r	S V N V R	S I N E R	15	1127
+256	Kharia	khr	left -side		leŋga	l e ŋ g a	l e N g a	R V N K V	L E N K A	18	1128
+257	Santali	sat	left -side		lɛŋɡa	l ɛ ŋ ɡ a	l E N g a	R V N K V	L E N K A	18	1128
+258	Gorum	pcj	light -weight		olu	o l u	o l u	V R V	U L Y	16	1138
+259	Kharia	khr	light -weight		lɔˈjɔˀɖ	l ɔ ˈj ɔˀ ɖ	l o y o d	R V J V T	L U J U T	20	1140
+260	Santali	sat	light -weight		rawal	r a w a l	r a w a l	R V W V R	R A W A L	23	1141
+261	Sora	srb	light -weight		ˈlɑjeːr	ˈl ɑ j eː r	l o y e r	R V J V R	L A J E R	20	1140
+262	Gorum	pcj	liver		gare	g a r e	g a r e	K V R V	K A R E	1	1151
+263	Kharia	khr	liver		ɡɔˈrɛ	ɡ ɔ ˈr ɛ	g o r E	K V R V	K U R E	1	1151
+264	Sora	srb	liver		ɡʌrɛ	ɡ ʌ r ɛ	g o r E	K V R V	K E R E	1	1151
+265	Gorum	pcj	long		ɖuŋk	ɖ u ŋ k	d u N k	T V N K	T Y N K	35	1177
+266	Kharia	khr	long		ɟɛlɔˀb	ɟ ɛ l ɔˀ b	C E l o b	K V R V P	C E L U P	33	1176
+267	Santali	sat	long		ɟiliɲ	ɟ i l i ɲ	C i l i H	K V R V N	C I L I N	32	1175
+268	Sora	srb	long		ɟʌle	ɟ ʌ l e	C o l e	K V R V	C E L E	33	1176
+269	Gorum	pcj	louse		aŋiˀd	a ŋ iˀ d	a N i d	V N V T	A N I T	1	1186
+270	Kharia	khr	louse		sɛʔ	s ɛ ʔ	s E 7	S V H	S E H	1	1186
+271	Santali	sat	louse		si	s i	s i	S V	S I	1	1186
+272	Sora	srb	louse		iʔi	i ʔ i	i 7 i	V H V	I H I	1	1186
+273	Gorum	pcj	man -male human		terom	t e r o m	t e r o m	T V R V M	T E R U M	33	1209
+274	Kharia	khr	man -male human		lebu	l e b u	l e b u	R V P V	L E P Y	37	1210
+275	Santali	sat	man -male human		boda	b o d a	b o d a	P V T V	P U T A	32	1208
+276	Sora	srb	man -male human		ˈoŋɡeːr	ˈo ŋ ɡ eː r	o N g e r	V N K V R	U N K E R	39	1211
+277	Gorum	pcj	many		abuˀd	a b uˀ d	a b u d	V P V T	A P Y T	49	1247
+278	Kharia	khr	many		dɔɽɔʔ	d ɔ ɽ ɔ ʔ	d o r o 7	T V R V H	T U R U H	50	1248
+279	Santali	sat	many		ɖher	ɖ h e r	d h e r	T H V R	T H E R	50	1248
+280	Sora	srb	many		boiboi	b oi b oi	b o b o	P V P V	P U P U	56	1251
+281	Gorum	pcj	medicine		inraŋ	i n r a ŋ	i n r a N	V N R V N	I N R A N	13	1263
+282	Kharia	khr	medicine		kanla	k a n l a	k a n l a	K V N R V	K A N L A	15	1264
+283	Santali	sat	medicine		ran	r a n	r a n	R V N	R A N	16	1265
+284	Sora	srb	medicine		rɛɡɛm	r ɛ ɡ ɛ m	r E g E m	R V K V M	R E K E M	17	1266
+285	Kharia	khr	monkey/ape		sakoj	s a k o j	s a k o y	S V K V J	S A K U J	26	1291
+286	Gorum	pcj	moon		aŋa̰jta	a ŋ a̰ j t a	a N a y t a	V N V J T V	A N A J T A	13	1307
+287	Kharia	khr	moon		leˈraŋ	l e ˈr a ŋ	l e r a N	R V R V N	L E R A N	14	1308
+288	Santali	sat	moon		ɲidəcãdo	ɲidə cãdo	H T	N K	N C	18	1309
+289	Sora	srb	moon		aŋɡaɟta	a ŋ ɡ a ɟ t a	a N g a C t a	V N K V K T V	A N K A C T A	13	1307
+290	Gorum	pcj	mortar		a̰l	a̰ l	a l	V R	A L	15	1326
+291	Kharia	khr	mortar		okʰɽi	o kʰ ɽ i	o k r i	V K R V	U K R I	17	1327
+292	Santali	sat	mortar		kə̃ɖi	k ə̃ ɖ i	k I d i	K V T V	K E T I	17	1327
+293	Sora	srb	mortar		ɔnʌl	ɔ n ʌ l	o n o l	V N V R	U N E L	19	1328
+294	Gorum	pcj	mountain		bur	b u r	b u r	P V R	P Y R	17	1339
+295	Kharia	khr	mountain		ˈbiru	ˈb i r u	b i r u	P V R V	P I R Y	17	1339
+296	Santali	sat	mountain		buru	b u r u	b u r u	P V R V	P Y R Y	17	1339
+297	Sora	srb	mountain		bʌru	b ʌ r u	b o r u	P V R V	P E R Y	17	1339
+298	Gorum	pcj	mouth		toˀd	t oˀ d	t o d	T V T	T U T	33	1377
+299	Kharia	khr	mouth		tɔˈmɔˀɖ	t ɔ ˈm ɔˀ ɖ	t o m o d	T V M V T	T U M U T	33	1377
+300	Santali	sat	mouth		moca	m o c a	m o T a	M V K V	M U C A	36	1378
+301	Sora	srb	mouth		tʔɔd	t ʔ ɔ d	t 7 o d	T H V T	T H U T	33	1377
+302	Gorum	pcj	mushroom/fungus		uʔjupuˀd	u ʔ j u p uˀ d	u 7 y u p u d	V H J V P V T	Y H J Y P Y T	10	1392
+303	Kharia	khr	mushroom/fungus		uˀɖ	uˀ ɖ	u d	V T	Y T	10	1392
+304	Santali	sat	mushroom/fungus		pɔʈkɔɟ	p ɔ ʈ k ɔ ɟ	p o t k o C	P V T K V K	P U T K U C	10	1392
+305	Sora	srb	mushroom/fungus		pɨd	p ɨ d	p I d	P V T	P I T	10	1392
+306	Gorum	pcj	nail/claw		ruaj	r ua j	r u y	R V J	R Y J	16	1406
+307	Kharia	khr	nail/claw		rɑˈmɑ̃ˀɖ	r ɑ ˈm ɑ̃ˀ ɖ	r o m o d	R V M V T	R A M A T	16	1406
+308	Santali	sat	nail/claw		rama	r a m a	r a m a	R V M V	R A M A	20	1408
+309	Sora	srb	nail/claw		kar	k a r	k a r	K V R	K A R	21	1409
+310	Gorum	pcj	name		inum	i n u m	i n u m	V N V M	I N Y M	27	1434
+311	Kharia	khr	name		ˈj̃ĩmi	ˈj̃ ĩ m i	y i m i	J V M V	J I M I	27	1434
+312	Santali	sat	name		ɲutum	ɲ u t u m	H u t u m	N V T V M	N Y T Y M	28	1435
+313	Sora	srb	name		ʌɲɨm	ʌ ɲ ɨ m	o H I m	V N V M	E N I M	27	1434
+314	Kharia	khr	navel		sunɖruʔɟ	s u n ɖ r u ʔ ɟ	s u n d r u 7 C	S V N T R V H K	S Y N T R Y H C	18	1450
+315	Santali	sat	navel		bukə	b u k ə	b u k I	P V K V	P Y K E	20	1451
+316	Sora	srb	navel		ˈpul	ˈp u l	p u l	P V R	P Y L	33	1456
+317	Kharia	khr	near		pase	p a s e	p a s e	P V S V	P A S E	40	1485
+318	Santali	sat	near		sur	s u r	s u r	S V R	S Y R	44	1486
+319	Sora	srb	near		əˈmɑŋ	ə ˈm ɑ ŋ	I m o N	V M V N	E M A N	45	1487
+320	Gorum	pcj	neck		goɖoŋ	g o ɖ o ŋ	g o d o N	K V T V N	K U T U N	19	1505
+321	Kharia	khr	neck		ˈkɔŋkɔ	ˈk ɔ ŋ k ɔ	k o N k o	K V N K V	K U N K U	6	1513
+322	Santali	sat	neck		hoʈoʔ	h o ʈ o ʔ	h o t o 7	H V T V H	H U T U H	22	1507
+323	Sora	srb	neck		əˈsɑŋkɑː	ə ˈs ɑ ŋ k ɑː	I s o N k o	V S V N K V	E S A N K A	6	1513
+324	Sora	srb	needle		bɔɟkab	b ɔ ɟ k a b	b o C k a b	P V K K V P	P U C K A P	17	1523
+325	Gorum	pcj	new		tḛmi	t ḛ m i	t e m i	T V M V	T E M I	6	1540
+326	Kharia	khr	new		ˈtɔnmɛ	ˈt ɔ n m ɛ	t o n m E	T V N M V	T U N M E	6	1540
+327	Sora	srb	new		tʌbmɛ	t ʌ b m ɛ	t o b m E	T V P M V	T E P M E	6	1540
+328	Gorum	pcj	night		ŋoŋ	ŋ o ŋ	N o N	N V N	N U N	22	1552
+329	Kharia	khr	night		iˈɖiˀb	i ˈɖ iˀ b	i d i b	V T V P	I T I P	25	1553
+330	Santali	sat	night		ɲidə	ɲ i d ə	H i d I	N V T V	N I T E	26	1554
+331	Sora	srb	night		ɔrɨb	ɔ r ɨ b	o r I b	V R V P	U R I P	25	1553
+332	Gorum	pcj	nine		tingi	t i n g i	t i n g i	T V N K V	T I N K I	10	1565
+333	Kharia	khr	nine		ˈtɔmsiŋ	ˈt ɔ m s i ŋ	t o m s i N	T V M S V N	T U M S I N	10	1565
+334	Santali	sat	nine		are	a r e	a r e	V R V	A R E	12	1566
+335	Sora	srb	nine		tinɟi	t i n ɟ i	t i n C i	T V N K V	T I N C I	10	1565
+336	Gorum	pcj	nose		muʔ	m u ʔ	m u 7	M V H	M Y H	1	1575
+337	Kharia	khr	nose		rɔˈmɔŋ	r ɔ ˈm ɔ ŋ	r o m o N	R V M V N	R U M U N	5	1578
+338	Santali	sat	nose		mu	m u	m u	M V	M Y	1	1575
+339	Sora	srb	nose		mʔu	m ʔ u	m 7 u	M H V	M H Y	1	1575
+340	Gorum	pcj	old		papur	p a p u r	p a p u r	P V P V R	P A P Y R	28	1595
+341	Kharia	khr	old		bair	b ai r	b a r	P V R	P A R	28	1595
+342	Santali	sat	old		haɽam	h a ɽ a m	h a r a m	H V R V M	H A R A M	31	1597
+343	Sora	srb	old		tələɟba	t ə l ə ɟ b a	t I l I C b a	T V R V K P V	T E L E C P A	32	1598
+344	Gorum	pcj	one		bo̰j	b o̰ j	b o y	P V J	P U J	2	1607
+345	Kharia	khr	one		mɔiŋ	m ɔi ŋ	m o N	M V N	M U N	2	1607
+346	Santali	sat	one		mit˺	m i t˺	m i t	M V T	M I T	2	1607
+347	Sora	srb	one		bɔɟ	b ɔ ɟ	b o C	P V K	P U C	2	1607
+348	Kharia	khr	palm -of hand		tarhatʰi	t a r h a tʰ i	t a r h a t i	T V R H V T V	T A R H A T I	18	1621
+349	Santali	sat	palm -of hand		talkʰa	t a l kʰ a	t a l k a	T V R K V	T A L K A	20	1623
+350	Sora	srb	palm -of hand		ətalsi	ə t a l s i	I t a l s i	V T V R S V	E T A L S I	20	1623
+351	Gorum	pcj	penis		luŋguj	l u ŋ g u j	l u N g u y	R V N K V J	L Y N K Y J	27	1650
+352	Kharia	khr	penis		cuʈulu	cu ʈulu	T t	K T	C T	28	1651
+353	Santali	sat	penis		loc˺	l o c˺	l o T	R V K	L U C	2	1645
+354	Sora	srb	penis		ʌlʌɟ	ʌ l ʌ ɟ	o l o C	V R V K	E L E C	2	1645
+355	Kharia	khr	person		kɔɽ	k ɔ ɽ	k o r	K V R	K U R	23	1669
+356	Santali	sat	person		noɽ	n o ɽ	n o r	N V R	N U R	24	1670
+357	Sora	srb	person		mʌnra	m ʌ n r a	m o n r a	M V N R V	M E N R A	1	1659
+358	Gorum	pcj	pig		kanmun	k a n m u n	k a n m u n	K V N M V N	K A N M Y N	18	1686
+359	Kharia	khr	pig		buˈnu	b u ˈn u	b u n u	P V N V	P Y N Y	19	1687
+360	Santali	sat	pig		sukri	s u k r i	s u k r i	S V K R V	S Y K R I	20	1688
+361	Sora	srb	pig		kʌmbun	k ʌ m b u n	k o m b u n	K V M P V N	K E M P Y N	19	1687
+362	Kharia	khr	pigeon/dove		dudˈmuˀɖ	d u d ˈm uˀ ɖ	d u d m u d	T V T M V T	T Y T M Y T	25	1706
+363	Sora	srb	pigeon/dove		kukkur	k u kk u r	k u k u r	K V K V R	K Y K Y R	5	1713
+364	Kharia	khr	rain		gim	g i m	g i m	K V M	K I M	2	1724
+365	Santali	sat	rain		ɟaput˺	ɟ a p u t˺	C a p u t	K V P V T	C A P Y T	14	1721
+366	Sora	srb	rain		ɡur	ɡ u r	g u r	K V R	K Y R	18	1722
+367	Gorum	pcj	rat/mouse		karkaˀd	k a r k aˀ d	k a r k a d	K V R K V T	K A R K A T	23	1740
+368	Kharia	khr	rat/mouse		cuˈʈia	c u ˈʈ ia	T u t i	K V T V	C Y T I	27	1742
+369	Santali	sat	rat/mouse		guɖu	g u ɖ u	g u d u	K V T V	K Y T Y	27	1742
+370	Sora	srb	rat/mouse		ˈkumbul	ˈk u m b u l	k u m b u l	K V M P V R	K Y M P Y L	9	1752
+371	Kharia	khr	red		ɟɔŋˈɡɔr	ɟ ɔ ŋ ˈɡ ɔ r	C o N g o r	K V N K V R	C U N K U R	26	1765
+372	Santali	sat	red		araʔ	a r a ʔ	a r a 7	V R V H	A R A H	28	1767
+373	Sora	srb	red		ɟe	ɟ e	C e	K V	C E	24	1764
+374	Gorum	pcj	rice -cooked		gagaʔ	g a g a ʔ	g a g a 7	K V K V H	K A K A H	24	1784
+375	Kharia	khr	rice -cooked		pɛʔ	p ɛ ʔ	p E 7	P V H	P E H	28	1787
+376	Santali	sat	rice -cooked		daka	d a k a	d a k a	T V K V	T A K A	32	1788
+377	Sora	srb	rice -cooked		ˈbɑːbɑː	ˈb ɑː b ɑː	b o b o	P V P V	P A P A	1	1773
+378	Gorum	pcj	rice -unhusked		kunɖem	k u n ɖ e m	k u n d e m	K V N T V M	K Y N T E M	17	1804
+379	Kharia	khr	rice -unhusked		bɑʔ	b ɑ ʔ	b o 7	P V H	P A H	1	1799
+380	Santali	sat	rice -unhusked		huɽu	h u ɽ u	h u r u	H V R V	H Y R Y	6	1812
+381	Sora	srb	rice -unhusked		kondɛmsʌr	k o n d ɛ m s ʌ r	k o n d E m s o r	K V N T V M S V R	K U N T E M S E R	17	1804
+382	Gorum	pcj	right -side		giraˀd	g i r aˀ d	g i r a d	K V R V T	K I R A T	9	1827
+383	Kharia	khr	right -side		ɟɔˈnɔŋ	ɟ ɔ ˈn ɔ ŋ	C o n o N	K V N V N	C U N U N	12	1817
+384	Santali	sat	right -side		ɟoɟom	ɟ o ɟ o m	C o C o m	K V K V M	C U C U M	12	1817
+385	Sora	srb	right -side		ɟɑnˈrʔuːm	ɟ ɑ n ˈr ʔ uː m	C o n r 7 u m	K V N R H V M	C A N R H Y M	12	1817
+386	Gorum	pcj	ripe/cooked		gṵr	g ṵ r	g u r	K V R	K Y R	9	1833
+387	Kharia	khr	ripe/cooked		bɛˈlɔŋ	b ɛ ˈl ɔ ŋ	b E l o N	P V R V N	P E L U N	8	1832
+388	Santali	sat	ripe/cooked		bili	b i l i	b i l i	P V R V	P I L I	8	1832
+389	Sora	srb	ripe/cooked		ɡʔur	ɡ ʔ u r	g 7 u r	K H V R	K H Y R	9	1833
+390	Gorum	pcj	river		kinɖaʔ	k i n ɖ a ʔ	k i n d a 7	K V N T V H	K I N T A H	7	1857
+391	Kharia	khr	river		ɟor	ɟ o r	C o r	K V R	C U R	35	1849
+392	Santali	sat	river		ɡaɽa	ɡ a ɽ a	g a r a	K V R V	K A R A	36	1850
+393	Sora	srb	river		ɟoːl	ɟ oː l	C o l	K V R	C U L	35	1849
+394	Gorum	pcj	road/path		kuroŋ	k u r o ŋ	k u r o N	K V R V N	K Y R U N	19	1868
+395	Kharia	khr	road/path		goʔɖɟhuŋ	g o ʔ ɖ ɟ h u ŋ	g o 7 d C h u N	K V H T K H V N	K U H T C H Y N	30	1875
+396	Santali	sat	road/path		hɔr	h ɔ r	h o r	H V R	H U R	11	1861
+397	Sora	srb	road/path		ɡɔdtaŋ	ɡ ɔ d t a ŋ	g o d t a N	K V T T V N	K U T T A N	19	1868
+398	Gorum	pcj	root		unloˀb	u n l oˀ b	u n l o b	V N R V P	Y N L U P	8	1885
+399	Kharia	khr	root		ɟuˑˀɖ	ɟ uˑˀ ɖ	C u d	K V T	C Y T	9	1886
+400	Santali	sat	root		səɽim	s ə ɽ i m	s I r i m	S V R V M	S E R I M	10	1882
+401	Sora	srb	root		ɟʔed	ɟ ʔ e d	C 7 e d	K H V T	C H E T	6	1884
+402	Kharia	khr	round		laɖu	l a ɖ u	l a d u	R V T V	L A T Y	25	1895
+403	Santali	sat	round		acur	a c u r	a T u r	V K V R	A C Y R	27	1897
+404	Sora	srb	round		terker	t e r k e r	t e r k e r	T V R K V R	T E R K E R	35	1902
+405	Gorum	pcj	salt		bosuˀd	b o s uˀ d	b o s u d	P V S V T	P U S Y T	18	1912
+406	Kharia	khr	salt		biˈluŋ	b i ˈl u ŋ	b i l u N	P V R V N	P I L Y N	19	1913
+407	Santali	sat	salt		buluŋ	b u l u ŋ	b u l u N	P V R V N	P Y L Y N	19	1913
+408	Sora	srb	salt		bʌsɨd	b ʌ s ɨ d	b o s I d	P V S V T	P E S I T	18	1912
+409	Gorum	pcj	sand		lakiɟ	l a k i ɟ	l a k i C	R V K V K	L A K I C	10	1923
+410	Kharia	khr	sand		rɔkɛˀɖ	r ɔ k ɛˀ ɖ	r o k E d	R V K V T	R U K E T	10	1923
+411	Santali	sat	sand		gitil	g i t i l	g i t i l	K V T V R	K I T I L	20	1932
+412	Sora	srb	sand		lʌkɨɟ	l ʌ k ɨ ɟ	l o k I C	R V K V K	L E K I C	10	1923
+413	Gorum	pcj	seed		siɽaj	s i ɽ a j	s i r a y	S V R V J	S I R A J	29	1958
+414	Kharia	khr	seed		bijom	b i j o m	b i y o m	P V J V M	P I J U M	32	1960
+415	Santali	sat	seed		bahaɟaŋ	baha ɟaŋ	b C	P K	P C	34	1962
+416	Sora	srb	seed		ɟʌbmɔl	ɟ ʌ b m ɔ l	C o b m o l	K V P M V R	C E P M U L	30	1959
+417	Gorum	pcj	seven		gulgi	g u l g i	g u l g i	K V R K V	K Y L K I	6	1981
+418	Kharia	khr	seven		ɡhul	ɡ h u l	g h u l	K H V R	K H Y L	6	1981
+419	Santali	sat	seven		ejaj	e j a j	e y a y	V J V J	E J A J	7	1982
+420	Sora	srb	seven		ɡulɟi	ɡ u l ɟ i	g u l C i	K V R K V	K Y L C I	6	1981
+421	Gorum	pcj	shade/shadow		luʔŋu	l u ʔ ŋ u	l u 7 N u	R V H N V	L Y H N Y	37	2005
+422	Kharia	khr	shade/shadow		lɔŋˈɡɔi	l ɔ ŋ ˈɡ ɔi	l o N g o	R V N K V	L U N K U	38	2006
+423	Santali	sat	shade/shadow		umul	u m u l	u m u l	V M V R	Y M Y L	10	1983
+424	Sora	srb	shade/shadow		ummul	u mm u l	u m u l	V M V R	Y M Y L	10	1983
+425	Gorum	pcj	shame/ashamed		guroˀɟ	g u r oˀ ɟ	g u r o C	K V R V K	K Y R U C	25	2031
+426	Kharia	khr	shame/ashamed		ˈɡiɔl	ˈɡ iɔ l	g i l	K V R	K I L	24	2030
+427	Santali	sat	shame/ashamed		laɟaw	l a ɟ a w	l a C a w	R V K V W	L A C A W	26	2032
+428	Sora	srb	shame/ashamed		ɡʌrɔɟ	ɡ ʌ r ɔ ɟ	g o r o C	K V R V K	K E R U C	25	2031
+429	Gorum	pcj	sharp -edged		asuˀb	a s uˀ b	a s u b	V S V P	A S Y P	34	2062
+430	Kharia	khr	sharp -edged		ɟɑˀɖ	ɟ ɑˀ ɖ	C o d	K V T	C A T	35	2063
+431	Santali	sat	sharp -edged		laser	l a s e r	l a s e r	R V S V R	L A S E R	38	2065
+432	Sora	srb	sharp -edged		ənəsɨb	ə n ə s ɨ b	I n I s I b	V N V S V P	E N E S I P	34	2062
+433	Gorum	pcj	sick/ill		asu	a s u	a s u	V S V	A S Y	13	2082
+434	Kharia	khr	sick/ill		ˈkɔsu	ˈk ɔ s u	k o s u	K V S V	K U S Y	13	2082
+435	Santali	sat	sick/ill		rua	r ua	r u	R V	R Y	19	2084
+436	Sora	srb	sick/ill		ʌsu	ʌ s u	o s u	V S V	E S Y	13	2082
+437	Gorum	pcj	six		turgi	t u r g i	t u r g i	T V R K V	T Y R K I	1	2097
+438	Kharia	khr	six		ˈtibhru	ˈt i b h r u	t i b h r u	T V P H R V	T I P H R Y	1	2097
+439	Santali	sat	six		turuj	t u r u j	t u r u y	T V R V J	T Y R Y J	1	2097
+440	Sora	srb	six		tudru	t u d r u	t u d r u	T V T R V	T Y T R Y	1	2097
+441	Gorum	pcj	skin/bark		usal	u s a l	u s a l	V S V R	Y S A L	19	2112
+442	Kharia	khr	skin/bark		uˈsɔl	u ˈs ɔ l	u s o l	V S V R	Y S U L	19	2112
+443	Santali	sat	skin/bark		harta	h a r t a	h a r t a	H V R T V	H A R T A	21	2113
+444	Sora	srb	skin/bark		usal	u s a l	u s a l	V S V R	Y S A L	19	2112
+445	Gorum	pcj	sky		taruˀb	t a r uˀ b	t a r u b	T V R V P	T A R Y P	23	2134
+446	Kharia	khr	sky		ˈkiʔtuŋ	ˈk i ʔ t u ŋ	k i 7 t u N	K V H T V N	K I H T Y N	22	2133
+447	Santali	sat	sky		serma	s e r m a	s e r m a	S V R M V	S E R M A	25	2135
+448	Sora	srb	sky		riaŋ	r ia ŋ	r i N	R V N	R I N	27	2136
+449	Gorum	pcj	smoke		mumuˀd	m u m uˀ d	m u m u d	M V M V T	M Y M Y T	21	2153
+450	Kharia	khr	smoke		mɔʔ	m ɔ ʔ	m o 7	M V H	M U H	21	2153
+451	Santali	sat	smoke		dhũwə	d h ũ w ə	d h u w I	T H V W V	T H Y W E	23	2154
+452	Sora	srb	smoke		omod	o m o d	o m o d	V M V T	U M U T	21	2153
+453	Gorum	pcj	snake		bubuˀd	b u b uˀ d	b u b u d	P V P V T	P Y P Y T	12	2169
+454	Kharia	khr	snake		buŋˈɡɔm	b u ŋ ˈɡ ɔ m	b u N g o m	P V N K V M	P Y N K U M	12	2169
+455	Santali	sat	snake		biɲ	b i ɲ	b i H	P V N	P I N	12	2169
+456	Sora	srb	snake		ɟʌd	ɟ ʌ d	C o d	K V T	C E T	14	2171
+457	Kharia	khr	soft -touch		lotem	l o t e m	l o t e m	R V T V M	L U T E M	31	2194
+458	Santali	sat	soft -touch		ləbit˺	l ə b i t˺	l I b i t	R V P V T	L E P I T	34	2196
+459	Sora	srb	soft -touch		lʌmʌd	l ʌ m ʌ d	l o m o d	R V M V T	L E M E T	35	2197
+460	Gorum	pcj	sour		asaŋ	a s a ŋ	a s a N	V S V N	A S A N	15	2209
+461	Kharia	khr	sour		rɔˈɟɔˀɖ	r ɔ ˈɟ ɔˀ ɖ	r o C o d	R V K V T	R U C U T	4	2215
+462	Santali	sat	sour		ɟoɟo	ɟ o ɟ o	C o C o	K V K V	C U C U	4	2215
+463	Sora	srb	sour		arʌŋ	a r ʌ ŋ	a r o N	V R V N	A R E N	15	2209
+464	Gorum	pcj	star		a̰mar	a̰ m a r	a m a r	V M V R	A M A R	12	2221
+465	Kharia	khr	star		simˈkɔm	s i m ˈk ɔ m	s i m k o m	S V M K V M	S I M K U M	13	2222
+466	Santali	sat	star		ipil	i p i l	i p i l	V P V R	I P I L	15	2223
+467	Sora	srb	star		tuɟtuɟ	t u ɟ t u ɟ	t u C t u C	T V K T V K	T Y C T Y C	16	2224
+468	Gorum	pcj	stick of wood		araʔ	a r a ʔ	a r a 7	V R V H	A R A H	21	2246
+469	Kharia	khr	stick of wood		daŋ	d a ŋ	d a N	T V N	T A N	15	2241
+470	Santali	sat	stick of wood		kʰadi	kʰ a d i	k a d i	K V T V	K A T I	23	2247
+471	Sora	srb	stick of wood		daŋɡo	d a ŋ ɡ o	d a N g o	T V N K V	T A N K U	15	2241
+472	Gorum	pcj	stone		areŋ	a r e ŋ	a r e N	V R V N	A R E N	15	2260
+473	Kharia	khr	stone		sɔˈrɛŋ	s ɔ ˈr ɛ ŋ	s o r E N	S V R V N	S U R E N	15	2260
+474	Santali	sat	stone		dhiri	d h i r i	d h i r i	T H V R V	T H I R I	19	2261
+475	Sora	srb	stone		ʌrɛŋ	ʌ r ɛ ŋ	o r E N	V R V N	E R E N	15	2260
+476	Gorum	pcj	sun/day		zaʔɖiŋ	z a ʔ ɖ i ŋ	z a 7 d i N	S V H T V N	S A H T I N	20	2281
+477	Kharia	khr	sun/day		beɽo	b e ɽ o	b e r o	P V R V	P E R U	19	2280
+478	Santali	sat	sun/day		siɲcãdo	siɲ cãdo	s T	S K	S C	7	2290
+479	Sora	srb	sun/day		ujuŋ	u j u ŋ	u y u N	V J V N	Y J Y N	23	2283
+480	Gorum	pcj	sweet		riŋeˀd	r i ŋ eˀ d	r i N e d	R V N V T	R I N E T	22	2301
+481	Kharia	khr	sweet		ɟoŋsur	ɟ o ŋ s u r	C o N s u r	K V N S V R	C U N S Y R	5	2308
+482	Santali	sat	sweet		sibil	s i b i l	s i b i l	S V P V R	S I P I L	21	2300
+483	Sora	srb	sweet		leŋəm	l e ŋ ə m	l e N I m	R V N V M	L E N E M	5	2308
+484	Gorum	pcj	tail		alaʔ	a l a ʔ	a l a 7	V R V H	A L A H	10	2314
+485	Kharia	khr	tail		pɑˈtɑ	p ɑ ˈt ɑ	p o t o	P V T V	P A T A	1	2313
+486	Santali	sat	tail		cupi	c u p i	T u p i	K V P V	C Y P I	13	2315
+487	Sora	srb	tail		ʌla	ʌ l a	o l a	V R V	E L A	10	2314
+488	Gorum	pcj	ten		galgi	g a l g i	g a l g i	K V R K V	K A L K I	2	2325
+489	Kharia	khr	ten		ɡhɔl	ɡ h ɔ l	g h o l	K H V R	K H U L	2	2325
+490	Santali	sat	ten		gel	g e l	g e l	K V R	K E L	2	2325
+491	Sora	srb	ten		ɡʌlɟi	ɡ ʌ l ɟ i	g o l C i	K V R K V	K E L C I	2	2325
+492	Gorum	pcj	thick -object		ura	u r a	u r a	V R V	Y R A	15	2335
+493	Kharia	khr	thick -object		akʰaɽ	a kʰ a ɽ	a k a r	V K V R	A K A R	17	2336
+494	Santali	sat	thick -object		moʈa	m o ʈ a	m o t a	M V T V	M U T A	18	2337
+495	Sora	srb	thick -object		kʌbɨŋ	k ʌ b ɨ ŋ	k o b I N	K V P V N	K E P I N	1	2331
+496	Gorum	pcj	thin -object		metaŋ	m e t a ŋ	m e t a N	M V T V N	M E T A N	8	2364
+497	Kharia	khr	thin -object		metoŋ	m e t o ŋ	m e t o N	M V T V N	M E T U N	8	2364
+498	Santali	sat	thin -object		etaŋ	e t a ŋ	e t a N	V T V N	E T A N	8	2364
+499	Sora	srb	thin -object		mɛtaŋ	m ɛ t a ŋ	m E t a N	M V T V N	M E T A N	8	2364
+500	Gorum	pcj	thorn		ubaʔ	u b a ʔ	u b a 7	V P V H	Y P A H	11	2366
+501	Kharia	khr	thorn		ɟuˈrɑʔ	ɟ u ˈr ɑ ʔ	C u r o 7	K V R V H	C Y R A H	1	2365
+502	Santali	sat	thorn		ɟanum	ɟ a n u m	C a n u m	K V N V M	C A N Y M	12	2367
+503	Sora	srb	thorn		edba	e d b a	e d b a	V T P V	E T P A	11	2366
+504	Gorum	pcj	three		jag	j a g	y a g	J V K	J A K	5	2383
+505	Kharia	khr	three		ˈuʔpʰe	ˈu ʔ pʰ e	u 7 p e	V H P V	Y H P E	1	2380
+506	Santali	sat	three		pe	p e	p e	P V	P E	1	2380
+507	Sora	srb	three		jaɡi	j a ɡ i	y a g i	J V K V	J A K I	5	2383
+508	Santali	sat	to be born		huj	h u j	h u y	H V J	H Y J	19	2394
+509	Gorum	pcj	to bite		lom	l o m	l o m	R V M	L U M	14	2407
+510	Kharia	khr	to bite		kʰɛˀɖ	kʰ ɛˀ ɖ	k E d	K V T	K E T	5	2415
+511	Santali	sat	to bite		ger	g e r	g e r	K V R	K E R	17	2408
+512	Sora	srb	to bite		kor	k o r	k o r	K V R	K U R	26	2412
+513	Gorum	pcj	to blow		peˀd	p eˀ d	p e d	P V T	P E T	25	2425
+514	Kharia	khr	to blow		peʔɖ	p e ʔ ɖ	p e 7 d	P V H T	P E H T	25	2425
+515	Santali	sat	to blow		oŋ	o ŋ	o N	V N	U N	29	2428
+516	Sora	srb	to blow		pɛd	p ɛ d	p E d	P V T	P E T	25	2425
+517	Kharia	khr	to breathe/breath		sãs	s ã s	s a s	S V S	S A S	13	2440
+518	Santali	sat	to breathe/breath		sahet˺	s a h e t˺	s a h e t	S V H V T	S A H E T	13	2440
+519	Sora	srb	to breathe/breath		toŋˈɲeːm	t o ŋ ˈɲ eː m	t o N H e m	T V N N V M	T U N N E M	7	2451
+520	Gorum	pcj	to burn -tr.		abgeˀb	a b g eˀ b	a b g e b	V P K V P	A P K E P	28	2466
+521	Kharia	khr	to burn -tr.		ɡɛˀb	ɡ ɛˀ b	g E b	K V P	K E P	28	2466
+522	Santali	sat	to burn -tr.		lo	l o	l o	R V	L U	31	2469
+523	Sora	srb	to burn -tr.		ɡɛb	ɡ ɛ b	g E b	K V P	K E P	28	2466
+524	Gorum	pcj	to buy		akuˀɟ	a k uˀ ɟ	a k u C	V K V K	A K Y C	23	2494
+525	Kharia	khr	to buy		sɔŋ	s ɔ ŋ	s o N	S V N	S U N	5	2501
+526	Santali	sat	to buy		kiriɲ	k i r i ɲ	k i r i H	K V R V N	K I R I N	25	2495
+527	Sora	srb	to buy		ɲi	ɲ i	H i	N V	N I	26	2496
+528	Gorum	pcj	to climb/ascend		ɖa̰j	ɖ a̰ j	d a y	T V J	T A J	26	2519
+529	Kharia	khr	to climb/ascend		ɖɛˀb	ɖ ɛˀ b	d E b	T V P	T E P	26	2519
+530	Santali	sat	to climb/ascend		deɟoʔ	d e ɟ o ʔ	d e C o 7	T V K V H	T E C U H	26	2519
+531	Sora	srb	to climb/ascend		daɟ	d a ɟ	d a C	T V K	T A C	26	2519
+532	Gorum	pcj	to cook/boil		ɖeɲ	ɖ e ɲ	d e H	T V N	T E N	31	2551
+533	Kharia	khr	to cook/boil		dɛŋ	d ɛ ŋ	d E N	T V N	T E N	31	2551
+534	Santali	sat	to cook/boil		isin	i s i n	i s i n	V S V N	I S I N	34	2553
+535	Sora	srb	to cook/boil		dɨɲ	d ɨ ɲ	d I H	T V N	T I N	31	2551
+536	Gorum	pcj	to cough		kuʔ	k u ʔ	k u 7	K V H	K Y H	9	2581
+537	Kharia	khr	to cough		kʰuʔ	kʰ u ʔ	k u 7	K V H	K Y H	9	2581
+538	Santali	sat	to cough		kʰuʔ	kʰ u ʔ	k u 7	K V H	K Y H	9	2581
+539	Sora	srb	to cough		ko	k o	k o	K V	K U	9	2581
+540	Gorum	pcj	to cry/weep		jeʔ	j e ʔ	y e 7	J V H	J E H	13	2583
+541	Kharia	khr	to cry/weep		iˈjam	i ˈj a m	i y a m	V J V M	I J A M	1	2582
+542	Santali	sat	to cry/weep		raʔ	r a ʔ	r a 7	R V H	R A H	15	2584
+543	Sora	srb	to cry/weep		ɛ	ɛ	E	V	E	13	2583
+544	Gorum	pcj	to descend		maŋta	m a ŋ t a	m a N t a	M V N T V	M A N T A	18	2600
+545	Kharia	khr	to descend		are	a r e	a r e	V R V	A R E	19	2601
+546	Santali	sat	to descend		ãɽgo	ã ɽ g o	a r g o	V R K V	A R K U	21	2602
+547	Sora	srb	to descend		ləɖsɔ	l ə ɖ s ɔ	l I d s o	R V T S V	L E T S U	23	2603
+548	Gorum	pcj	to die		kiˀd	k iˀ d	k i d	K V T	K I T	15	2618
+549	Kharia	khr	to die		ɡɔeˀɟ	ɡ ɔeˀ ɟ	g o C	K V K	K U C	14	2617
+550	Santali	sat	to die		goc˺	g o c˺	g o T	K V K	K U C	14	2617
+551	Sora	srb	to die		kʌɲid	k ʌ ɲ i d	k o H i d	K V N V T	K E N I T	15	2618
+552	Gorum	pcj	to dig		loʔ	l o ʔ	l o 7	R V H	L U H	25	2637
+553	Kharia	khr	to dig		lae	l ae	l a	R V	L A	24	2636
+554	Santali	sat	to dig		la	l a	l a	R V	L A	24	2636
+555	Sora	srb	to dig		ɡaɟ	ɡ a ɟ	g a C	K V K	K A C	23	2635
+556	Gorum	pcj	to dream		gomteʔ	g o m t e ʔ	g o m t e 7	K V M T V H	K U M T E H	11	2648
+557	Kharia	khr	to dream		mui	m ui	m u	M V	M Y	7	2654
+558	Santali	sat	to dream		kukmu	k u k m u	k u k m u	K V K M V	K Y K M Y	7	2654
+559	Sora	srb	to dream		ɡɨmte	ɡ ɨ m t e	g I m t e	K V M T V	K I M T E	11	2648
+560	Gorum	pcj	to drink -water		giɖaʔ	g i ɖ a ʔ	g i d a 7	K V T V H	K I T A H	26	2670
+561	Kharia	khr	to drink -water		uˀɖ	uˀ ɖ	u d	V T	Y T	25	2669
+562	Santali	sat	to drink -water		ɲu	ɲ u	H u	N V	N Y	28	2671
+563	Sora	srb	to drink -water		ɡada	ɡ a d a	g a d a	K V T V	K A T A	26	2670
+564	Gorum	pcj	to eat		zum	z u m	z u m	S V M	S Y M	11	2683
+565	Kharia	khr	to eat		j̃ɔʔ	j̃ ɔ ʔ	y o 7	J V H	J U H	12	2684
+566	Santali	sat	to eat		ɟom	ɟ o m	C o m	K V M	C U M	11	2683
+567	Sora	srb	to eat		ɟom	ɟ o m	C o m	K V M	C U M	11	2683
+568	Gorum	pcj	to extinguish/put out		poŋiˀd	p o ŋ iˀ d	p o N i d	P V N V T	P U N I T	14	2701
+569	Kharia	khr	to extinguish/put out		moˀbliˀb	m oˀ b l iˀ b	m o b l i b	M V P R V P	M U P L I P	13	2700
+570	Sora	srb	to extinguish/put out		pʌɲid	p ʌ ɲ i d	p o H i d	P V N V T	P E N I T	14	2701
+571	Gorum	pcj	to fall		sṵŋ	s ṵ ŋ	s u N	S V N	S Y N	44	2744
+572	Kharia	khr	to fall		ɡur	ɡ u r	g u r	K V R	K Y R	45	2745
+573	Santali	sat	to fall		ɲur	ɲ u r	H u r	N V R	N Y R	51	2746
+574	Sora	srb	to fall		ɡɔsoŋ	ɡ ɔ s o ŋ	g o s o N	K V S V N	K U S U N	45	2745
+575	Gorum	pcj	to flee/run -away		je	j e	y e	J V	J E	36	2776
+576	Kharia	khr	to flee/run -away		jɑr	j ɑ r	y o r	J V R	J A R	36	2776
+577	Santali	sat	to flee/run -away		ɲir	ɲ i r	H i r	N V R	N I R	36	2776
+578	Sora	srb	to flee/run -away		jer	j e r	y e r	J V R	J E R	36	2776
+579	Gorum	pcj	to fly		ur	u r	u r	V R	Y R	13	2793
+580	Kharia	khr	to fly		lɛŋ	l ɛ ŋ	l E N	R V N	L E N	16	2794
+581	Santali	sat	to fly		uɖəw	u ɖ ə w	u d I w	V T V W	Y T E W	12	2792
+582	Sora	srb	to fly		eːŋ	eː ŋ	e N	V N	E N	19	2795
+583	Gorum	pcj	to forget		bana	b a n a	b a n a	P V N V	P A N A	25	2816
+584	Kharia	khr	to forget		iˈriˀb	i ˈr iˀ b	i r i b	V R V P	I R I P	27	2817
+585	Santali	sat	to forget		hiɽiɲ	h i ɽ i ɲ	h i r i H	H V R V N	H I R I N	28	2818
+586	Sora	srb	to forget		kʌroda	k ʌ r o d a	k o r o d a	K V R V T V	K E R U T A	29	2819
+587	Gorum	pcj	to give		ta̰j	t a̰ j	t a y	T V J	T A J	17	2834
+588	Kharia	khr	to give		ɔ̃e	ɔ̃e	o	V	U	10	2829
+589	Santali	sat	to give		em	e m	e m	V M	E M	6	2844
+590	Sora	srb	to give		tɨj	t ɨ j	t I y	T V J	T I J	17	2834
+591	Gorum	pcj	to hear		ɖaːr	ɖ aː r	d a r	T V R	T A R	26	2860
+592	Kharia	khr	to hear		ɔɳɖɔr	ɔ ɳ ɖ ɔ r	o n d o r	V N T V R	U N T U R	26	2860
+593	Santali	sat	to hear		aṃɟom	a ṃ ɟ o m	a m C o m	V M K V M	A M C U M	27	2861
+594	Sora	srb	to hear		dalud	d a l u d	d a l u d	T V R V T	T A L Y T	26	2860
+595	Gorum	pcj	to hide/conceal -tr.		soloʔ	s o l o ʔ	s o l o 7	S V R V H	S U L U H	38	2895
+596	Kharia	khr	to hide/conceal -tr.		okuˀb	o k uˀ b	o k u b	V K V P	U K Y P	40	2896
+597	Santali	sat	to hide/conceal -tr.		oko	o k o	o k o	V K V	U K U	40	2896
+598	Sora	srb	to hide/conceal -tr.		ɖəŋ	ɖ ə ŋ	d I N	T V N	T E N	41	2897
+599	Gorum	pcj	to hunt		sur	s u r	s u r	S V R	S Y R	40	2934
+600	Kharia	khr	to hunt		lɑmlɑm	l ɑ m l ɑ m	l o m l o m	R V M R V M	L A M L A M	41	2935
+601	Santali	sat	to hunt		seṃdra	s e ṃ d r a	s e m d r a	S V M T R V	S E M T R A	42	2936
+602	Sora	srb	to hunt		benta	b e n t a	b e n t a	P V N T V	P E N T A	43	2937
+603	Kharia	khr	to itch/itchy		ɟalɟa	ɟ a l ɟ a	C a l C a	K V R K V	C A L C A	26	2966
+604	Santali	sat	to itch/itchy		babat˺	b a b a t˺	b a b a t	P V P V T	P A P A T	25	2965
+605	Sora	srb	to itch/itchy		gəta	g ə t a	g I t a	K V T V	K E T A	24	2964
+606	Gorum	pcj	to kick		turjaʔ	t u r j a ʔ	t u r y a 7	T V R J V H	T Y R J A H	37	2999
+607	Kharia	khr	to kick		letʰijaj	l e tʰ i j a j	l e t i y a y	R V T V J V J	L E T I J A J	40	3001
+608	Santali	sat	to kick		tʰəjə	tʰ ə j ə	t I y I	T V J V	T E J E	40	3001
+609	Sora	srb	to kick		təŋɲa	t ə ŋ ɲ a	t I N H a	T V N N V	T E N N A	38	3000
+610	Gorum	pcj	to kill		kaiˀd	k aiˀ d	k a d	K V T	K A T	4	3019
+611	Kharia	khr	to kill		goˀɟ	g oˀ ɟ	g o C	K V K	K U C	4	3019
+612	Santali	sat	to kill		goc˺	g o c˺	g o T	K V K	K U C	4	3019
+613	Sora	srb	to kill		ka̤bjed	k a̤ b j e d	k a b y e d	K V P J V T	K A P J E T	4	3019
+614	Gorum	pcj	to know		gulom	g u l o m	g u l o m	K V R V M	K Y L U M	41	3049
+615	Kharia	khr	to know		koŋ	k o ŋ	k o N	K V N	K U N	42	3050
+616	Santali	sat	to know		baɖaj	b a ɖ a j	b a d a y	P V T V J	P A T A J	43	3051
+617	Sora	srb	to know		ɡʌlʌm	ɡ ʌ l ʌ m	g o l o m	K V R V M	K E L E M	41	3049
+618	Gorum	pcj	to laugh		liɖa	l i ɖ a	l i d a	R V T V	L I T A	22	3070
+619	Kharia	khr	to laugh		ˈlɑɖɑ	ˈl ɑ ɖ ɑ	l o d o	R V T V	L A T A	22	3070
+620	Santali	sat	to laugh		laṃda	l a ṃ d a	l a m d a	R V M T V	L A M T A	22	3070
+621	Sora	srb	to laugh		kiɟ	k i ɟ	k i C	K V K	K I C	24	3071
+622	Gorum	pcj	to lick		zal	z a l	z a l	S V R	S A L	22	3095
+623	Kharia	khr	to lick		ɟɑl	ɟ ɑ l	C o l	K V R	C A L	22	3095
+624	Santali	sat	to lick		ɟal	ɟ a l	C a l	K V R	C A L	22	3095
+625	Sora	srb	to lick		ɟal	ɟ a l	C a l	K V R	C A L	22	3095
+626	Gorum	pcj	to rub/wipe		zoˀd	z oˀ d	z o d	S V T	S U T	5	3131
+627	Kharia	khr	to rub/wipe		ɟɔˀɖ	ɟ ɔˀ ɖ	C o d	K V T	C U T	5	3131
+628	Santali	sat	to rub/wipe		ɟot˺	ɟ o t˺	C o t	K V T	C U T	5	3131
+629	Sora	srb	to rub/wipe		ɟoˑɖ	ɟ oˑ ɖ	C o d	K V T	C U T	5	3131
+630	Gorum	pcj	to say/speak		sun	s u n	s u n	S V N	S Y N	71	3188
+631	Kharia	khr	to say/speak		ɡɑm	ɡ ɑ m	g o m	K V M	K A M	74	3190
+632	Santali	sat	to say/speak		roɽ	r o ɽ	r o r	R V R	R U R	79	3193
+633	Sora	srb	to say/speak		ɡam	ɡ a m	g a m	K V M	K A M	74	3190
+634	Gorum	pcj	to scratch/scrape		guˀd	g uˀ d	g u d	K V T	K Y T	31	3225
+635	Kharia	khr	to scratch/scrape		geˀɖ	g eˀ ɖ	g e d	K V T	K E T	31	3225
+636	Santali	sat	to scratch/scrape		kʰaroʔ	kʰ a r o ʔ	k a r o 7	K V R V H	K A R U H	37	3227
+637	Sora	srb	to scratch/scrape		ɡud	ɡ u d	g u d	K V T	K Y T	31	3225
+638	Gorum	pcj	to see		giˀɟ	g iˀ ɟ	g i C	K V K	K I C	42	3266
+639	Kharia	khr	to see		jɔ	j ɔ	y o	J V	J U	41	3265
+640	Santali	sat	to see		ɲel	ɲ e l	H e l	N V R	N E L	45	3267
+641	Sora	srb	to see		ɡɨɟ	ɡ ɨ ɟ	g I C	K V K	K I C	42	3266
+642	Gorum	pcj	to sell		oŋ	o ŋ	o N	V N	U N	17	3281
+643	Kharia	khr	to sell		ɔbsɔŋ	ɔ b s ɔ ŋ	o b s o N	V P S V N	U P S U N	17	3281
+644	Santali	sat	to sell		akʰriɲ	a kʰ r i ɲ	a k r i H	V K R V N	A K R I N	19	3282
+645	Sora	srb	to sell		tem	t e m	t e m	T V M	T E M	20	3284
+646	Gorum	pcj	to sew		pa̰n	p a̰ n	p a n	P V N	P A N	19	3302
+647	Kharia	khr	to sew		suʔ	s u ʔ	s u 7	S V H	S Y H	9	3312
+648	Santali	sat	to sew		roʔ	r o ʔ	r o 7	R V H	R U H	22	3303
+649	Sora	srb	to sew		pʌd	p ʌ d	p o d	P V T	P E T	19	3302
+650	Gorum	pcj	to shoot		tiŋ	t i ŋ	t i N	T V N	T I N	11	3314
+651	Kharia	khr	to shoot		tũj̃	t ũ j̃	t u y	T V J	T Y J	11	3314
+652	Santali	sat	to shoot		tuɲ	t u ɲ	t u H	T V N	T Y N	11	3314
+653	Sora	srb	to shoot		tuɲ	t u ɲ	t u H	T V N	T Y N	11	3314
+654	Gorum	pcj	to sit		koko	k o k o	k o k o	K V K V	K U K U	9	3344
+655	Kharia	khr	to sit		ˈɖɔkɔ	ˈɖ ɔ k ɔ	d o k o	T V K V	T U K U	9	3344
+656	Santali	sat	to sit		duɽup˺	d u ɽ u p˺	d u r u p	T V R V P	T Y R Y P	28	3333
+657	Sora	srb	to sit		ˈtɑŋkum	ˈt ɑ ŋ k u m	t o N k u m	T V N K V M	T A N K Y M	29	3334
+658	Gorum	pcj	to sleep/lie down		ɖimaˀd	ɖ i m aˀ d	d i m a d	T V M V T	T I M A T	23	3353
+659	Kharia	khr	to sleep/lie down		lɛmɛˀɖna	l ɛ m ɛˀ ɖ n a	l E m E d n a	R V M V T N V	L E M E T N A	22	3352
+660	Santali	sat	to sleep/lie down		japit˺	j a p i t˺	y a p i t	J V P V T	J A P I T	24	3354
+661	Sora	srb	to sleep/lie down		dimʌd	d i m ʌ d	d i m o d	T V M V T	T I M E T	23	3353
+662	Gorum	pcj	to smell -receive odor		mumoʔ	m u m o ʔ	m u m o 7	M V M V H	M Y M U H	24	3380
+663	Kharia	khr	to smell -receive odor		ɟũĩ	ɟ ũĩ	C u	K V	C Y	25	3381
+664	Santali	sat	to smell -receive odor		so	s o	s o	S V	S U	23	3379
+665	Sora	srb	to smell -receive odor		ɲu	ɲ u	H u	N V	N Y	29	3382
+666	Gorum	pcj	to spit		biʔtur	b i ʔ t u r	b i 7 t u r	P V H T V R	P I H T Y R	1	3392
+667	Kharia	khr	to spit		ˈbiʔtʰuŋ	ˈb i ʔ tʰ u ŋ	b i 7 t u N	P V H T V N	P I H T Y N	1	3392
+668	Santali	sat	to spit		tʰu	tʰ u	t u	T V	T Y	3	3398
+669	Sora	srb	to spit		biɟɔl	b i ɟ ɔ l	b i C o l	P V K V R	P I C U L	1	3392
+670	Gorum	pcj	to stand		tinaŋ	t i n a ŋ	t i n a N	T V N V N	T I N A N	15	3406
+671	Kharia	khr	to stand		tɔŋˈɡɔn	t ɔ ŋ ˈɡ ɔ n	t o N g o n	T V N K V N	T U N K U N	15	3406
+672	Santali	sat	to stand		tiṃgu	t i ṃ g u	t i m g u	T V M K V	T I M K Y	15	3406
+673	Sora	srb	to stand		tʌnʌŋ	t ʌ n ʌ ŋ	t o n o N	T V N V N	T E N E N	15	3406
+674	Gorum	pcj	to steal		ɖoŋa	ɖ o ŋ a	d o N a	T V N V	T U N A	17	3422
+675	Kharia	khr	to steal		coraj	c o r a j	T o r a y	K V R V J	C U R A J	16	3421
+676	Santali	sat	to steal		ackir	a c k i r	a T k i r	V K K V R	A C K I R	20	3424
+677	Sora	srb	to steal		ˈɟumbur	ˈɟ u m b u r	C u m b u r	K V M P V R	C Y M P Y R	19	3423
+678	Gorum	pcj	to tie/bind		ziʔ	z i ʔ	z i 7	S V H	S I H	29	3452
+679	Kharia	khr	to tie/bind		tɔl	t ɔ l	t o l	T V R	T U L	28	3451
+680	Santali	sat	to tie/bind		tol	t o l	t o l	T V R	T U L	28	3451
+681	Sora	srb	to tie/bind		tol	t o l	t o l	T V R	T U L	28	3451
+682	Gorum	pcj	to urinate/urine		tunɖaʔ	t u n ɖ a ʔ	t u n d a 7	T V N T V H	T Y N T A H	16	3475
+683	Kharia	khr	to urinate/urine		ˈhɑɖɑ	ˈh ɑ ɖ ɑ	h o d o	H V T V	H A T A	16	3475
+684	Santali	sat	to urinate/urine		ɟorja	ɟ o r j a	C o r y a	K V R J V	C U R J A	2	3477
+685	Sora	srb	to urinate/urine		ˈɑɲum	ˈɑ ɲ u m	o H u m	V N V M	A N Y M	1	3469
+686	Gorum	pcj	to vomit		bḛj	b ḛ j	b e y	P V J	P E J	17	3491
+687	Kharia	khr	to vomit		bɑlɑ	b ɑ l ɑ	b o l o	P V R V	P A L A	19	3492
+688	Santali	sat	to vomit		ulə	u l ə	u l I	V R V	Y L E	20	3494
+689	Sora	srb	to vomit		bʌɟ	b ʌ ɟ	b o C	P V K	P E C	17	3491
+690	Gorum	pcj	to wake up/awaken		mar	m a r	m a r	M V R	M A R	36	3527
+691	Kharia	khr	to wake up/awaken		bumɖim	b u m ɖ i m	b u m d i m	P V M T V M	P Y M T I M	40	3528
+692	Santali	sat	to wake up/awaken		ebhen	e b h e n	e b h e n	V P H V N	E P H E N	43	3529
+693	Sora	srb	to wake up/awaken		mʌɽe	m ʌ ɽ e	m o r e	M V R V	M E R E	36	3527
+694	Gorum	pcj	to walk/go		oɖiŋ	o ɖ i ŋ	o d i N	V T V N	U T I N	40	3565
+695	Kharia	khr	to walk/go		sɑnɡɔˀɖ	s ɑ n ɡ ɔˀ ɖ	s o n g o d	S V N K V T	S A N K U T	44	3567
+696	Santali	sat	to walk/go		dãɽa	d ã ɽ a	d a r a	T V R V	T A R A	45	3568
+697	Sora	srb	to walk/go		ɲa	ɲ a	H a	N V	N A	48	3569
+698	Gorum	pcj	to wash -hands, things		goɖaʔ	g o ɖ a ʔ	g o d a 7	K V T V H	K U T A H	27	3596
+699	Kharia	khr	to wash -hands, things		ɡuˀɟ	ɡ uˀ ɟ	g u C	K V K	K Y C	27	3596
+700	Santali	sat	to wash -hands, things		arup˺	a r u p˺	a r u p	V R V P	A R Y P	34	3598
+701	Sora	srb	to wash -hands, things		ɡɨɟɟa	ɡ ɨ ɟɟ a	g I C a	K V K V	K I C A	27	3596
+702	Gorum	pcj	to weave		taɲ	t a ɲ	t a H	T V N	T A N	2	3605
+703	Kharia	khr	to weave		tɑɲ	t ɑ ɲ	t o H	T V N	T A N	2	3605
+704	Santali	sat	to weave		teɲ	t e ɲ	t e H	T V N	T E N	2	3605
+705	Sora	srb	to weave		taɲ	t a ɲ	t a H	T V N	T A N	2	3605
+706	Gorum	pcj	tongue		la̰ŋ	l a̰ ŋ	l a N	R V N	L A N	6	3611
+707	Kharia	khr	tongue		lɑŋ	l ɑ ŋ	l o N	R V N	L A N	6	3611
+708	Santali	sat	tongue		alaŋ	a l a ŋ	a l a N	V R V N	A L A N	6	3611
+709	Sora	srb	tongue		lʔaŋ	l ʔ a ŋ	l 7 a N	R H V N	L H A N	6	3611
+710	Gorum	pcj	tooth		ziʔ	z i ʔ	z i 7	S V H	S I H	7	3622
+711	Kharia	khr	tooth		ˈɡɔnɛ	ˈɡ ɔ n ɛ	g o n E	K V N V	K U N E	12	3615
+712	Sora	srb	tooth		ɟʔi	ɟ ʔ i	C 7 i	K H V	C H I	7	3622
+713	Gorum	pcj	tree		araʔ	a r a ʔ	a r a 7	V R V H	A R A H	13	3626
+714	Kharia	khr	tree		daru	d a r u	d a r u	T V R V	T A R Y	14	3627
+715	Santali	sat	tree		dare	d a r e	d a r e	T V R V	T A R E	14	3627
+716	Sora	srb	tree		ʌra	ʌ r a	o r a	V R V	E R A	13	3626
+717	Gorum	pcj	two		bag	b a g	b a g	P V K	P A K	1	3637
+718	Kharia	khr	two		uˈbɑr	u ˈb ɑ r	u b o r	V P V R	Y P A R	1	3637
+719	Santali	sat	two		bar	b a r	b a r	P V R	P A R	1	3637
+720	Sora	srb	two		baɡu	b a ɡ u	b a g u	P V K V	P A K Y	1	3637
+721	Gorum	pcj	village		ɖauʔ	ɖ au ʔ	d a 7	T V H	T A H	20	3653
+722	Kharia	khr	village		poʔda	p o ʔ d a	p o 7 d a	P V H T V	P U H T A	20	3653
+723	Santali	sat	village		ətu	ə t u	I t u	V T V	E T Y	20	3653
+724	Sora	srb	village		ɡɔrɟaŋ	ɡ ɔ r ɟ a ŋ	g o r C a N	K V R K V N	K U R C A N	23	3654
+725	Gorum	pcj	water		ɖaʔ	ɖ a ʔ	d a 7	T V H	T A H	6	3667
+726	Kharia	khr	water		ɖɑʔ	ɖ ɑ ʔ	d o 7	T V H	T A H	6	3667
+727	Santali	sat	water		daʔ	d a ʔ	d a 7	T V H	T A H	6	3667
+728	Sora	srb	water		dʔa	d ʔ a	d 7 a	T H V	T H A	6	3667
+729	Gorum	pcj	white		asel	a s e l	a s e l	V S V R	A S E L	19	3675
+730	Kharia	khr	white		ɔˈsɛl	ɔ ˈs ɛ l	o s E l	V S V R	U S E L	19	3675
+731	Sora	srb	white		tʔa	t ʔ a	t 7 a	T H V	T H A	20	3676
+732	Gorum	pcj	wind/air		imbur	i m b u r	i m b u r	V M P V R	I M P Y R	18	3696
+733	Kharia	khr	wind/air		kɔˈjɔ	k ɔ ˈj ɔ	k o y o	K V J V	K U J U	6	3703
+734	Santali	sat	wind/air		hoj	h o j	h o y	H V J	H U J	6	3703
+735	Sora	srb	wind/air		rɨŋrəŋge	r ɨ ŋ r ə ŋ g e	r I N r I N g e	R V N R V N K V	R I N R E N K E	21	3697
+736	Gorum	pcj	wing		ɖena	ɖ e n a	d e n a	T V N V	T E N A	13	3711
+737	Kharia	khr	wing		pɛˈnɛr	p ɛ ˈn ɛ r	p E n E r	P V N V R	P E N E R	6	3719
+738	Santali	sat	wing		pʰəkɳə̃	pʰ ə k ɳ ə̃	p I k n I	P V K N V	P E K N E	15	3712
+739	Sora	srb	wing		rɛnɛŋ	r ɛ n ɛ ŋ	r E n E N	R V N V N	R E N E N	10	3708
+740	Gorum	pcj	woman		kuj	k u j	k u y	K V J	K Y J	26	3734
+741	Kharia	khr	woman		kɔnsɛlˈɖuʔ	k ɔ n s ɛ l ˈɖ u ʔ	k o n s E l d u 7	K V N S V R T V H	K U N S E L T Y H	31	3736
+742	Santali	sat	woman		pəʈhi	p ə ʈ h i	p I t h i	P V T H V	P E T H I	32	3737
+743	Sora	srb	woman		ʌnsʌlɔ	ʌ n s ʌ l ɔ	o n s o l o	V N S V R V	E N S E L U	36	3738
+744	Gorum	pcj	year		anum	a n u m	a n u m	V N V M	A N Y M	1	3748
+745	Kharia	khr	year		mɛmɔn	m ɛ m ɔ n	m E m o n	M V M V N	M E M U N	9	3755
+746	Santali	sat	year		bochor	b o c h o r	b o T h o r	P V K H V R	P U C H U R	7	3754
+747	Sora	srb	year		ʌnɨm	ʌ n ɨ m	o n I m	V N V M	E N I M	1	3748
+748	Gorum	pcj	yellow		saŋ	s a ŋ	s a N	S V N	S A N	19	3763
+749	Kharia	khr	yellow		ˈsɔŋsɔŋ	ˈs ɔ ŋ s ɔ ŋ	s o N s o N	S V N S V N	S U N S U N	19	3763
+750	Santali	sat	yellow		sasaŋ	s a s a ŋ	s a s a N	S V S V N	S A S A N	19	3763
+751	Sora	srb	yellow		sɑnˈsɑːŋ	s ɑ n ˈs ɑː ŋ	s o n s o N	S V N S V N	S A N S A N	19	3763
+752	Gorum	pcj	you -pl.		baiŋ	b ai ŋ	b a N	P V N	P A N	18	3781
+753	Kharia	khr	you -pl.		pe	p e	p e	P V	P E	12	3776
+754	Santali	sat	you -pl.		ape	a p e	a p e	V P V	A P E	12	3776
+755	Sora	srb	you -pl.		amben	a m b e n	a m b e n	V M P V N	A M P E N	19	3782
+756	Gorum	pcj	you -sing.		maŋ	m a ŋ	m a N	M V N	M A N	19	3797
+757	Kharia	khr	you -sing.		amdu	am du	a d	V T	A T	20	3799
+758	Santali	sat	you -sing.		am	a m	a m	V M	A M	20	3799
+759	Sora	srb	you -sing.		amʌn	a m ʌ n	a m o n	V M V N	A M E N	20	3799

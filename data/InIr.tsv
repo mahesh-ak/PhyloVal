@@ -1,0 +1,552 @@
+CONCEPT	DOCULECT	IPA	ID
+I (1sg)	Sanskrit	ɐɦɐm	1
+I (1sg)	Pali	ɐɦã	2
+I (1sg)	Middle_Persian	an	3
+you (2sg)	Sanskrit	t̪ʋɐm	4
+you (2sg)	Pali	t̪ʋã	5
+you (2sg)	Middle_Persian	to:	6
+he (3sg)	Sanskrit	sɐ	7
+he (3sg)	Pali	so	8
+he (3sg)	Middle_Persian	o:j	9
+we (1pl)	Sanskrit	ʋɐjɐm	10
+we (1pl)	Pali	ɐmɦe	11
+we (1pl)	Middle_Persian	amɑ:h	12
+you (2pl)	Sanskrit	juːjɐm	13
+you (2pl)	Pali	t̪umɦe	14
+you (2pl)	Middle_Persian	aʃmɑ:h	15
+they (3pl)	Sanskrit	t̪e	16
+they (3pl)	Pali	t̪e	17
+they (3pl)	Middle_Persian	awe:ʃɑ:n	18
+this	Sanskrit	id̪ɐm	19
+this	Pali	id̪ã	20
+this	Middle_Persian	e:n	21
+that	Sanskrit	ɐd̪ɐs	22
+that	Pali	t̪ɐd̪	23
+that	Middle_Persian	ɑ:n	24
+here	Sanskrit	ɐt̪ɾɐ	25
+here	Pali	id̪ʱɐ	26
+here	Middle_Persian	e:daɾ	27
+there	Sanskrit	t̪ɐt̪ɾɐ	28
+there	Pali	t̪ɐt̪ʰːɐ	29
+there	Middle_Persian	ɑ:no:h	30
+who	Sanskrit	kɐ	31
+who	Pali	kɐ	32
+who	Middle_Persian	ke:	33
+what	Sanskrit	kim	34
+what	Pali	kĩ	35
+what	Middle_Persian	t͡ɕe:	36
+where	Sanskrit	kut̪ɾɐ	37
+where	Pali	kɐt̪ʰːɐ	38
+where	Middle_Persian	ku:	39
+when	Sanskrit	kɐdaː	40
+when	Pali	kɐraːɦi	41
+when	Middle_Persian	kaj	42
+how	Sanskrit	kɐt̪ʰɐm	43
+how	Pali	kɐt̪ʰã	44
+how	Middle_Persian	t͡ɕijo:n	45
+not	Sanskrit	nɐ	46
+not	Pali	nɐ	47
+not	Middle_Persian	ne:	48
+all	Sanskrit	sɐɾʋe	49
+all	Pali	sɐbːɐ	50
+all	Middle_Persian	wisp	51
+many	Sanskrit	bɐɦu	52
+many	Pali	bɐɦu	53
+many	Middle_Persian	was	54
+some	Sanskrit	kiɲt͡ɕid̪	55
+some	Pali	kotʃi	56
+some	Middle_Persian	t͡ɕand	57
+few	Sanskrit	ɐlpɐ	58
+few	Pali	ɐpːɐ	59
+few	Middle_Persian	kam	60
+other	Sanskrit	ɐnjɐ	61
+other	Pali	ɐpɐrɐ	62
+other	Middle_Persian	abɑ:ɾi:g	63
+one	Sanskrit	ekɐm	64
+one	Pali	ekɐ	65
+one	Middle_Persian	e:k	66
+two	Sanskrit	d̪ʋe	67
+two	Pali	d̪ʋe	68
+two	Middle_Persian	do:	69
+three	Sanskrit	t̪ɾiːɳi	70
+three	Pali	t̪ɐjo	71
+three	Middle_Persian	se:	72
+four	Sanskrit	t͡ɕɐt̪ʋaːɾi	73
+four	Pali	tʃɐt̪ur	74
+four	Middle_Persian	t͡ɕahɑ:ɾ	75
+five	Sanskrit	pɐɲt͡ɕɐn	76
+five	Pali	pɐɲtʃɐ	77
+five	Middle_Persian	pand͡ʑ	78
+long	Sanskrit	d̪iːɾɡʱɐ	79
+long	Pali	d̪iːɡʱɐ	80
+long	Middle_Persian	dɾɑ:z	81
+wide	Sanskrit	uɾu	82
+wide	Pali	uru	83
+wide	Middle_Persian	fɾɑ:x	84
+thick	Sanskrit	ɡʱɐnɐ	85
+thick	Pali	ɡʱɐnɐ	86
+thick	Middle_Persian	kuluft	87
+heavy	Sanskrit	ɡuɾu	88
+heavy	Pali	gɐru	89
+heavy	Middle_Persian	gaɾɑ:n	90
+short	Sanskrit	ɦɾɐsʋɐ	91
+short	Middle_Persian	ku:k	92
+narrow	Sanskrit	ɐ̃.ɦu	93
+narrow	Middle_Persian	tang	94
+thin	Sanskrit	t̪ɐnu	95
+thin	Middle_Persian	bɑ:ɾi:g	96
+woman	Sanskrit	st̪ɾiː	97
+woman	Pali	it̪ʰːiː	98
+woman	Middle_Persian	zan	99
+man (adult male)	Sanskrit	puɾuʂɐ	100
+man (adult male)	Pali	purisɐ	101
+man (adult male)	Middle_Persian	maɾd	102
+man (human being)	Sanskrit	mɐnuʂjɐ	103
+man (human being)	Pali	mɐnusːɐ	104
+man (human being)	Middle_Persian	kas	105
+child	Sanskrit	baːlɐ	106
+child	Pali	baːlɐkɐ	107
+child	Middle_Persian	wɑ:ag	108
+wife	Sanskrit	pɐt̪niː	109
+wife	Pali	bʱɐrijaː	110
+wife	Middle_Persian	zan	111
+husband	Sanskrit	pɐt̪i	112
+husband	Pali	pɐt̪i	113
+husband	Middle_Persian	gɑ:dɑ:ɾ	114
+animal	Sanskrit	pɐʃu	115
+animal	Pali	migɐ	116
+animal	Middle_Persian	gjɑ:nwaɾ	117
+fish	Sanskrit	mɐt̪sjɐ	118
+fish	Pali	mɐtʃʰːɐ	119
+fish	Middle_Persian	mɑ:hi:g	120
+dog	Sanskrit	ʃʋɐn	121
+dog	Pali	kukːurɐ	122
+dog	Middle_Persian	sag	123
+louse	Sanskrit	juːkaː	124
+louse	Pali	uːkaː	125
+louse	Middle_Persian	spiʃ	126
+snake	Sanskrit	sɐɾpɐ	127
+snake	Pali	sɐpːɐ	128
+snake	Middle_Persian	mɑ:ɾ	129
+worm	Sanskrit	kr̩mi	130
+worm	Pali	kimi	131
+worm	Middle_Persian	kiɾm	132
+tree	Sanskrit	ʋr̩kʂɐ	133
+tree	Pali	rukʰːɐ	134
+tree	Middle_Persian	dɾaxt	135
+forest	Sanskrit	ʋɐnɐ	136
+forest	Pali	ʋɐnɐ	137
+forest	Middle_Persian	ɾazu:ɾ	138
+stick	Sanskrit	d̪ɐɳɖɐ	139
+stick	Pali	lɐʈʰːi	140
+stick	Middle_Persian	t͡ɕo:b	141
+fruit	Sanskrit	pʰɐlɐ	142
+fruit	Pali	pʰɐlɐ	143
+fruit	Middle_Persian	me:wag	144
+seed	Sanskrit	biːd͡ʑɐ	145
+seed	Pali	biːdʒɐ	146
+seed	Middle_Persian	to:m	147
+leaf	Sanskrit	pɐt̪ːɾɐ	148
+leaf	Pali	pɐt̪ːi	149
+leaf	Middle_Persian	waɾg	150
+root	Sanskrit	muːlɐ	151
+root	Pali	muːlɐ	152
+root	Middle_Persian	ɾe:ʃag	153
+bark (of a tree)	Sanskrit	t̪ʋɐt͡ɕ	154
+bark (of a tree)	Pali	t̪ɐtʃɐ	155
+bark (of a tree)	Middle_Persian	po:st	156
+flower	Sanskrit	puʂpɐ	157
+flower	Pali	pupʰːɐ	158
+flower	Middle_Persian	gul	159
+grass	Sanskrit	t̪r̩ɳɐ	160
+grass	Pali	t̪iɳɐ	161
+grass	Middle_Persian	gijɑ:	162
+rope	Sanskrit	ɾɐd͡ʑ:u	163
+rope	Pali	rɐdʒːu	164
+rope	Middle_Persian	ɾasan	165
+skin	Sanskrit	t͡ɕɐɾmɐn	166
+skin	Pali	tʃɐmːɐ	167
+skin	Middle_Persian	po:st	168
+meat	Sanskrit	mɑ̃ːsɐ	169
+meat	Pali	mãsɐ	170
+meat	Middle_Persian	go:ʃt	171
+blood	Sanskrit	ɾɐkt̪ɐ	172
+blood	Pali	loɦit̪ɐ	173
+blood	Middle_Persian	xo:n	174
+bone	Sanskrit	ɐst̪ʰi	175
+bone	Pali	ɐʈʰːi	176
+bone	Middle_Persian	ast	177
+fat (noun)	Sanskrit	piːʋɐs	178
+fat (noun)	Pali	med̪ɐ	179
+fat (noun)	Middle_Persian	t͡ɕaɾbiʃn	180
+egg	Sanskrit	ɐɳɖɐ	181
+egg	Pali	ɐɳɖɐ	182
+egg	Middle_Persian	xɑ:jag	183
+horn	Sanskrit	ʃr̩ŋɡɐ	184
+horn	Pali	singɐ	185
+horn	Middle_Persian	sɾu:	186
+tail	Sanskrit	put͡ɕːʰɐ	187
+tail	Pali	putʃʰːɐ	188
+tail	Middle_Persian	dumb	189
+feather	Sanskrit	pɐɾɳɐ	190
+feather	Pali	pɐɳːɐ	191
+feather	Middle_Persian	par	192
+hair	Sanskrit	keʃɐ	193
+hair	Pali	kesɐ	194
+hair	Middle_Persian	mo:j	195
+head	Sanskrit	ʃiɾɐs	196
+head	Pali	sirɐ	197
+head	Middle_Persian	saɾ	198
+ear	Sanskrit	kɐɾɳɐ	199
+ear	Pali	kɐɳːɐ	200
+ear	Middle_Persian	go:ʃ	201
+eye	Sanskrit	ɐkʂi	202
+eye	Pali	ɐkʰːi	203
+eye	Middle_Persian	t͡ɕaʃm	204
+nose	Sanskrit	naːsɐ	205
+nose	Pali	naːsaː	206
+nose	Middle_Persian	we:ni:g	207
+mouth	Sanskrit	ʋɐkt̪ɾɐ	208
+mouth	Pali	mukʰɐ	209
+mouth	Middle_Persian	dahɑ:n	210
+tooth	Sanskrit	d̪ɐnt̪ɐ	211
+tooth	Pali	d̪ɐnt̪ɐ	212
+tooth	Middle_Persian	dandɑ:n	213
+tongue (organ)	Sanskrit	d͡ʑiɦʋaː	214
+tongue (organ)	Pali	dʒiʋɦaː	215
+tongue (organ)	Middle_Persian	uzwɑ:n	216
+fingernail	Sanskrit	nɐkʰɐ	217
+fingernail	Pali	nɐkʰɐ	218
+fingernail	Middle_Persian	nɑ:xun	219
+foot	Sanskrit	pɐd̪	220
+foot	Pali	paːd̪ɐ	221
+foot	Middle_Persian	pɑ:j	222
+leg	Sanskrit	d͡ʑɐŋɡʱɐ	223
+leg	Pali	dʒɐnɡʱaː	224
+leg	Middle_Persian	pɑ:j	225
+knee	Sanskrit	d͡ʑaːnu	226
+knee	Pali	dʒaːnu	227
+knee	Middle_Persian	snu:g	228
+hand	Sanskrit	ɦɐst̪ɐ	229
+hand	Pali	ɦɐt̪ʰːɐ	230
+hand	Middle_Persian	dast	231
+wing	Sanskrit	pɐkʂɐ	232
+wing	Pali	pɐkʰːɐ	233
+wing	Middle_Persian	parag	234
+guts	Sanskrit	ɐnt̪ɾɐ	235
+guts	Pali	ɐnt̪ɐʋɐʈːi	236
+guts	Middle_Persian	ɾo:di:g	237
+neck	Sanskrit	ɡɐlɐ	238
+neck	Pali	giːʋɐ	239
+neck	Middle_Persian	gaɾdan	240
+back	Sanskrit	pr̩ʂʈʰɐ	241
+back	Pali	piʈʰːɐ	242
+back	Middle_Persian	puʃt	243
+heart	Sanskrit	ɦr̩d̪jɐ	244
+heart	Pali	ɦɐd̪ɐjɐ	245
+heart	Middle_Persian	dil	246
+liver	Sanskrit	jɐkr̩t̪	247
+liver	Pali	jɐkɐnɐ	248
+liver	Middle_Persian	d͡ʑagaɾ	249
+to drink	Sanskrit	pib	250
+to drink	Pali	piʋɐ	251
+to drink	Middle_Persian	xwɑ:ɾi:	252
+to eat	Sanskrit	kʰaːd̪	253
+to eat	Pali	ɐd̪e	254
+to eat	Middle_Persian	xwaɾ	255
+to bite	Sanskrit	d̪ɐʃ	256
+to bite	Pali	ɖɐsɐ	257
+to bite	Middle_Persian	gazi:	258
+to spit	Sanskrit	ʂʈʰiːʋ	259
+to spit	Pali	oʈʰːubʱɐ	260
+to spit	Middle_Persian	tof	261
+to vomit	Sanskrit	ʋɐm	262
+to vomit	Pali	ʋɐmɐ	263
+to vomit	Middle_Persian	wɑ:mi:	264
+to see	Sanskrit	pɐʃ	265
+to see	Pali	d̪ɐkʰːɐ	266
+to see	Middle_Persian	di:	267
+to hear	Sanskrit	ʃr̩ɳu	268
+to hear	Pali	suɳaː	269
+to hear	Middle_Persian	aʃnu:	270
+to know	Sanskrit	d͡ʑaːnɐ	271
+to know	Pali	dʒaːnaː	272
+to know	Middle_Persian	dɑ:nis	273
+to think	Sanskrit	mɐnjɐ	274
+to think	Pali	tʃint̪e	275
+to think	Middle_Persian	hande:si	276
+to smell	Sanskrit	d͡ʑiɡʱɾɐ	277
+to smell	Pali	gɐnd̪ʱɐ	278
+to smell	Middle_Persian	bo:ji:	279
+to fear	Sanskrit	bibʱe	280
+to fear	Pali	d̪ɐrɐ	281
+to fear	Middle_Persian	taɾsi:	282
+to sleep	Sanskrit	sʋɐpi	283
+to sleep	Pali	supɐ	284
+to sleep	Middle_Persian	xuf	285
+to live	Sanskrit	d͡ʑiːʋ	286
+to live	Pali	dʒiːʋɐ	287
+to live	Middle_Persian	zi:s	288
+to die	Sanskrit	mɾij	289
+to die	Pali	mɐrɐ	290
+to die	Middle_Persian	muɾ	291
+to kill	Sanskrit	ɦɐn	292
+to kill	Pali	maːre	293
+to kill	Middle_Persian	kuʃ	294
+to hunt	Sanskrit	mr̩ɡɐjɐ	295
+to hunt	Pali	migɐʋɐ	296
+to hunt	Middle_Persian	ʃikɑːɾ	297
+to stab	Sanskrit	ʋid̪ʱ	298
+to stab	Pali	tʃʰuːrijaːɦɐnɐ	299
+to stab	Middle_Persian	fuɾ:	300
+to scratch	Sanskrit	likʰ	301
+to scratch	Pali	likʰɐ	302
+to scratch	Middle_Persian	ɾandi:	303
+to dig	Sanskrit	kʰɐn	304
+to dig	Pali	kʰɐɳɐ	305
+to dig	Middle_Persian	kan	306
+to swim	Sanskrit	plɐʋ	307
+to swim	Pali	pilɐʋɐ	308
+to swim	Middle_Persian	snɑ:zi:	309
+to walk	Sanskrit	e	310
+to walk	Pali	tʃɐrɐ	311
+to walk	Middle_Persian	ɾaf	312
+to come	Sanskrit	aːɡɐm	313
+to come	Pali	aːjaː	314
+to come	Middle_Persian	ɑ:ma	315
+to lie (as in a bed)	Sanskrit	ʃe	316
+to lie (as in a bed)	Pali	se	317
+to lie (as in a bed)	Middle_Persian	nibas	318
+to sit	Sanskrit	siːd̪	319
+to sit	Pali	nisiːd̪ɐ	320
+to sit	Middle_Persian	niʃas	321
+to stand	Sanskrit	t̪iʂʈʰɐ	322
+to stand	Pali	t̪iʈʈʰɐ	323
+to stand	Middle_Persian	e:sta	324
+to turn (intransitive)	Sanskrit	ʋɐɾt̪ɐ	325
+to turn (intransitive)	Pali	ʋɐʈʈɐ	326
+to turn (intransitive)	Middle_Persian	waʃ	327
+to give	Sanskrit	d̪ɐd̪aː	328
+to give	Pali	d̪ɐd̪aː	329
+to give	Middle_Persian	dɑ:	330
+to hold	Sanskrit	d̪ʱɐɾ	331
+to hold	Pali	d̪ʱɐrɐ	332
+to hold	Middle_Persian	dɑ:ʃ	333
+to rub	Sanskrit	ɡʱɐɾʂɐ	334
+to rub	Pali	ɡʱãsɐ	335
+to rub	Middle_Persian	muʃ	336
+to wash	Sanskrit	kʂaːljɐ	337
+to wash	Pali	d̪ʱopɐ	338
+to wash	Middle_Persian	ʃus	339
+to wipe	Sanskrit	maːɾʂ	340
+to wipe	Pali	mɐdʒːɐ	341
+to wipe	Middle_Persian	awestaɾ	342
+to pull	Sanskrit	kɐɾʂɐ	343
+to pull	Pali	kʰɐɖːɐ	344
+to pull	Middle_Persian	keʃi:	345
+to push	Sanskrit	nud̪	346
+to push	Pali	nud̪ɐ	347
+to push	Middle_Persian	ɾɑ:ne:ni:	348
+to throw	Sanskrit	kʂip	349
+to throw	Pali	kʰipɐ	350
+to throw	Middle_Persian	abgan	351
+to tie	Sanskrit	bɐnd̪ʱ	352
+to tie	Pali	bɐnd̪ʱɐ	353
+to tie	Middle_Persian	bas	354
+to sew	Sanskrit	siːʋjɐ	355
+to sew	Pali	sibːɐ	356
+to sew	Middle_Persian	do:x	357
+to count	Sanskrit	ɡɐɳjɐ	358
+to count	Pali	gɐɳe	359
+to count	Middle_Persian	o:ʃmuɾ	360
+to say	Sanskrit	ʋɐk	361
+to say	Pali	ʋɐt̪	362
+to say	Middle_Persian	guftan	363
+to sing	Sanskrit	ɡaːj	364
+to sing	Pali	gaːjɐ	365
+to sing	Middle_Persian	sɾu:	366
+to play	Sanskrit	d̪iːʋjɐ	367
+to play	Pali	kiːɭɐ	368
+to play	Middle_Persian	wɑ:zi:	369
+to float	Sanskrit	plɐʋ	370
+to float	Pali	pɐlɐʋɐ	371
+to float	Middle_Persian	ʃinɑːwaɾ	372
+to flow	Sanskrit	sɐɾ	373
+to flow	Pali	d̪ʱaːʋɐ	374
+to flow	Middle_Persian	ɾe:x	375
+to freeze	Sanskrit	ʃiːj	376
+to freeze	Pali	siːjɐ	377
+to freeze	Middle_Persian	afsɑ:ɾ	378
+to swell	Sanskrit	ʃʋɐj	379
+to swell	Pali	pʰaː	380
+to swell	Middle_Persian	bɑːd	381
+sun	Sanskrit	suːɾjɐ	382
+sun	Pali	surijɐ	383
+sun	Middle_Persian	xwaɾʃe:d	384
+moon	Sanskrit	maːsɐ	385
+moon	Pali	tʃɐnd̪ɐ	386
+moon	Middle_Persian	mɑ:h	387
+star	Sanskrit	nɐkʂɐt̪ɾɐ	388
+star	Pali	t̪aːrɐkaː	389
+star	Middle_Persian	stɑ:ɾag	390
+water	Sanskrit	ɐp	391
+water	Pali	dʒɐlɐ	392
+water	Middle_Persian	ɑ:b	393
+rain	Sanskrit	ʋɐɾʂɐ	394
+rain	Pali	ʋɐssɐ	395
+rain	Middle_Persian	wɑ:ɾɑ:n	396
+river	Sanskrit	nɐd̪iː	397
+river	Pali	nɐd̪iː	398
+river	Middle_Persian	ɾo:d	399
+lake	Sanskrit	sɐɾɐs	400
+lake	Pali	sɐrɐ	401
+lake	Middle_Persian	waɾ	402
+sea	Sanskrit	sɐmud̪ɾɐ	403
+sea	Pali	sɐmud̪ːɐ	404
+sea	Middle_Persian	zɾe:j	405
+salt	Sanskrit	lɐʋɐɳɐ	406
+salt	Pali	loɳɐ	407
+salt	Middle_Persian	namak	408
+stone	Sanskrit	ɐʃmɐn	409
+stone	Pali	ɐsɐmɐ	410
+stone	Middle_Persian	sang	411
+sand	Sanskrit	pɑ̃ː.su	412
+sand	Pali	sikɐt̪aː	413
+sand	Middle_Persian	ɾe:g	414
+dust	Sanskrit	ɾeɳu	415
+dust	Pali	reɳu	416
+dust	Middle_Persian	gaɾd	417
+earth	Sanskrit	mr̩d̪	418
+earth	Pali	bʱuːmi	419
+earth	Middle_Persian	xɑ:k	420
+cloud	Sanskrit	meːɡʱɐ	421
+cloud	Pali	meɡʱɐ	422
+cloud	Middle_Persian	abɾ	423
+fog	Sanskrit	miɦ	424
+fog	Pali	mɐɦikaː	425
+fog	Middle_Persian	mih	426
+sky	Sanskrit	aːkaːʃɐ	427
+sky	Pali	ɐkaːsɐ	428
+sky	Middle_Persian	ɑ:smɑ:n	429
+snow	Sanskrit	ɦimɐ	430
+snow	Pali	ɦimɐ	431
+snow	Middle_Persian	wafɾ	432
+ice	Sanskrit	ɦimɐ	433
+ice	Pali	pʰaːt̪i	434
+ice	Middle_Persian	jax	435
+smoke	Sanskrit	d̪ʱuːmɐ	436
+smoke	Pali	d̪ʱuːmɐ	437
+smoke	Middle_Persian	du:d	438
+fire	Sanskrit	ɐɡni	439
+fire	Pali	ɐgːi	440
+fire	Middle_Persian	ɑ:taxʃ	441
+ash	Sanskrit	bʱɐsmɐn	442
+ash	Pali	bʱɐsmɐ	443
+ash	Middle_Persian	ɑ:duɾestaɾ	444
+to burn	Sanskrit	d̪ɐɦt̪i	445
+to burn	Pali	d̪ɐɦɐt̪i	446
+to burn	Middle_Persian	so:xtan	447
+road	Sanskrit	pɐt̪ʰɐ	448
+road	Pali	pɐt̪ʰɐ	449
+road	Middle_Persian	ɾɑ:h	450
+mountain	Sanskrit	pɐɾʋɐt̪ɐ	451
+mountain	Pali	pɐbːɐt̪ɐ	452
+mountain	Middle_Persian	ko:f	453
+red	Sanskrit	ɾɐkt̪ɐ	454
+red	Pali	loɦit̪ɐ	455
+red	Middle_Persian	suxɾ	456
+green	Sanskrit	ɦɐɾit̪	457
+green	Pali	ɦɐri	458
+green	Middle_Persian	sabz	459
+yellow	Sanskrit	piːt̪ɐ	460
+yellow	Pali	piːt̪ɐ	461
+yellow	Middle_Persian	zaɾd	462
+white	Sanskrit	ʃʋet̪ɐ	463
+white	Pali	sukːɐ	464
+white	Middle_Persian	spe:d	465
+black	Sanskrit	kr̩ʂɳɐ	466
+black	Pali	kɐnɦɐ	467
+black	Middle_Persian	sjɑ:	468
+night	Sanskrit	ɾaːt̪ɾi	469
+night	Pali	rɐt̪ːi	470
+night	Middle_Persian	ʃab	471
+day	Sanskrit	d̪inɐ	472
+day	Pali	d̪iʋɐ	473
+day	Middle_Persian	ɾo:z	474
+year	Sanskrit	ʋɐtsɐɾɐ	475
+year	Pali	ʋɐsːɐ	476
+year	Middle_Persian	sɑ:l	477
+warm	Sanskrit	t̪ɐpt̪ɐ	478
+warm	Pali	ɡʱɐmːɐ	479
+warm	Middle_Persian	gaɾm	480
+cold	Sanskrit	ʃiːt̪ɐ	481
+cold	Pali	siːt̪ɐ	482
+cold	Middle_Persian	saɾd	483
+full	Sanskrit	puːɾɳɐ	484
+full	Pali	puɳːɐ	485
+full	Middle_Persian	pur	486
+new	Sanskrit	nɐʋɐ	487
+new	Pali	nɐʋɐ	488
+new	Middle_Persian	no:g	489
+old	Sanskrit	d͡ʑiːɾɳɐ	490
+old	Pali	ʋuɖʱːɐ	491
+old	Middle_Persian	pi:ɾ	492
+good	Sanskrit	su	493
+good	Pali	bʱɐd̪ːɐkɐ	494
+good	Middle_Persian	weh	495
+straight	Sanskrit	r̩d͡ʑu	496
+straight	Pali	udʒːu	497
+straight	Middle_Persian	ɾɑ:st	498
+round	Sanskrit	ʋr̩t̪ːɐ	499
+round	Pali	guɭɐ	500
+round	Middle_Persian	giɾd	501
+sharp (as a knife)	Sanskrit	t̪iːkʂɳɐ	502
+sharp (as a knife)	Pali	t̪ikʰːɐ	503
+sharp (as a knife)	Middle_Persian	te:z	504
+dull (as a knife)	Sanskrit	kuɳʈʰɐ	505
+dull (as a knife)	Pali	kuɳt̪ʰɐ	506
+dull (as a knife)	Middle_Persian	kund	507
+smooth	Sanskrit	ʃlɐkʂɳɐ	508
+smooth	Pali	sɐɳɦɐ	509
+wet	Sanskrit	aːɾd̪ɾɐ	510
+wet	Pali	ɐd̪ːɐ	511
+wet	Middle_Persian	tar	512
+dry	Sanskrit	ʃuʂkɐ	513
+dry	Pali	sukʰːɐ	514
+dry	Middle_Persian	huʃk	515
+correct	Sanskrit	ʃud̪d̪ʱɐ	516
+correct	Pali	ut̪u	517
+correct	Middle_Persian	drust	518
+near	Sanskrit	ned̪ɐ	519
+near	Pali	ɐnt̪ikɐ	520
+near	Middle_Persian	nazdiːk	521
+far	Sanskrit	d̪uːɾɐ	522
+far	Pali	d̪uːrɐ	523
+far	Middle_Persian	duːɾ	524
+right	Sanskrit	d̪ɐkʂiɳɐ	525
+right	Pali	d̪ɐkʰiɳɐ	526
+right	Middle_Persian	ɾɑ:st	527
+left	Sanskrit	sɐʋjɐ	528
+left	Pali	ʋaːmɐ	529
+left	Middle_Persian	ho:j	530
+at	Sanskrit	-i	531
+at	Pali	-e	532
+at	Middle_Persian	pad	533
+in	Sanskrit	-i	534
+in	Pali	ɐnt̪ɐrɐ	535
+in	Middle_Persian	andaɾ	536
+with	Sanskrit	sɐɦɐ	537
+with	Pali	sɐɦɐ	538
+with	Middle_Persian	abɑ:g	539
+and	Sanskrit	t͡ɕɐ	540
+and	Pali	tʃɐ	541
+and	Middle_Persian	ud	542
+if	Sanskrit	jɐd̪i	543
+if	Pali	jɐd̪i	544
+if	Middle_Persian	agaɾ	545
+because	Sanskrit	ɦi	546
+because	Pali	jaːʋɐt̪aː	547
+because	Middle_Persian	ɾɑ:j	548
+name	Sanskrit	naːmɐn	549
+name	Pali	naːmɐ	550
+name	Middle_Persian	nɑ:m	551

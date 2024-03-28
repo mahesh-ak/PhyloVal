@@ -1,0 +1,33 @@
+Start testing: Nov 17 18:31 IST
+----------------------------------------------------------
+1/2 Testing: testMatrix
+1/2 Test: testMatrix
+Command: "/home/maheshak/Documents/PhyloVal/tools/qdist-src-2.0/testMatrix"
+Directory: /home/maheshak/Documents/PhyloVal/tools/qdist-src-2.0
+"testMatrix" start time: Nov 17 18:31 IST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Passed.
+"testMatrix" end time: Nov 17 18:31 IST
+"testMatrix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: testQDist
+2/2 Test: testQDist
+Command: "/home/maheshak/Documents/PhyloVal/tools/qdist-src-2.0/testQDist"
+Directory: /home/maheshak/Documents/PhyloVal/tools/qdist-src-2.0
+"testQDist" start time: Nov 17 18:31 IST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testQDist" end time: Nov 17 18:31 IST
+"testQDist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 17 18:31 IST

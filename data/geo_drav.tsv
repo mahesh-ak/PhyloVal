@@ -1,0 +1,897 @@
+CONCEPT	DOCULECT	IPA	ID
+I (1sg)	Georgian	me	1
+I (1sg)	Old_Kannada	aːn	2
+I (1sg)	Old_Telugu	eːn	3
+I (1sg)	Old_Malayalam	eːn	4
+I (1sg)	Old_Tamil	jaːn	5
+you (2sg)	Georgian	ʃen	6
+you (2sg)	Old_Kannada	niː	7
+you (2sg)	Old_Telugu	iːʋu	8
+you (2sg)	Old_Malayalam	n̪iː	9
+you (2sg)	Old_Tamil	n̪iː	10
+he (3sg)	Georgian	is	11
+he (3sg)	Old_Kannada	t̪aːn	12
+he (3sg)	Old_Telugu	at̪anru	13
+he (3sg)	Old_Malayalam	aʋan	14
+he (3sg)	Old_Tamil	t̪aːn	15
+we (1pl)	Georgian	t͡ʃʰʷen	16
+we (1pl)	Old_Kannada	naːm	17
+we (1pl)	Old_Telugu	eːmu	18
+we (1pl)	Old_Malayalam	n̪aːm	19
+we (1pl)	Old_Tamil	n̪aːm	20
+you (2pl)	Georgian	tʰkʰʷen	21
+you (2pl)	Old_Kannada	niːm	22
+you (2pl)	Old_Telugu	iːɾu	23
+you (2pl)	Old_Malayalam	n̪iŋːaɭ	24
+you (2pl)	Old_Tamil	n̪iːɾ	25
+they (3pl)	Georgian	isini	26
+they (3pl)	Old_Kannada	t̪aːm	27
+they (3pl)	Old_Telugu	t̪aːɾu	28
+they (3pl)	Old_Malayalam	aʋar	29
+they (3pl)	Old_Tamil	t̪aːm	30
+this	Georgian	es	31
+this	Old_Kannada	id̪u	32
+this	Old_Telugu	id̪i	33
+this	Old_Malayalam	it̪ə	34
+this	Old_Tamil	ixt̪u	35
+that	Georgian	is	36
+that	Old_Kannada	ad̪u	37
+that	Old_Telugu	ad̪i	38
+that	Old_Malayalam	at̪ə	39
+that	Old_Tamil	axt̪u	40
+here	Georgian	ak	41
+here	Old_Kannada	ilːi	42
+here	Old_Telugu	in̪d̪ʊn	43
+here	Old_Malayalam	iʋiʈe	44
+here	Old_Tamil	iŋku	45
+there	Georgian	ik	46
+there	Old_Kannada	alːi	47
+there	Old_Telugu	an̪d̪ʊn	48
+there	Old_Malayalam	aʋiʈe	49
+there	Old_Tamil	aŋku	50
+who	Georgian	vin	51
+who	Old_Kannada	jaːɾ	52
+who	Old_Telugu	eʋaɾu	53
+who	Old_Malayalam	aːɾə	54
+who	Old_Tamil	jaːɾ	55
+what	Georgian	ɾa	56
+what	Old_Kannada	eːn	57
+what	Old_Telugu	eːmi	58
+what	Old_Malayalam	en̪t̪ə	59
+what	Old_Tamil	enːa	60
+where	Georgian	sad	61
+where	Old_Kannada	elːi	62
+where	Old_Telugu	en̪d̪ʊn	63
+where	Old_Malayalam	eʋiʈe	64
+where	Old_Tamil	jaːŋku	65
+when	Georgian	ɾodis	66
+when	Old_Kannada	jaːʋaːɡa	67
+when	Old_Telugu	epːʊɖu	68
+when	Old_Malayalam	epːoːɭ	69
+when	Old_Tamil	jaːɳʈu	70
+how	Georgian	ɾoɡoɾ	71
+how	Old_Kannada	heːɡe	72
+how	Old_Telugu	eʈʊlu	73
+how	Old_Malayalam	eŋːane	74
+how	Old_Tamil	jaːŋku	75
+not	Georgian	aɾ	76
+not	Old_Kannada	alːa	77
+not	Old_Telugu	leːd̪u	78
+not	Old_Malayalam	ilːa	79
+not	Old_Tamil	il	80
+all	Georgian	χʼʷeɫapʰeɾi	81
+all	Old_Kannada	elːa	82
+all	Old_Telugu	elːa	83
+all	Old_Malayalam	elːa	84
+all	Old_Tamil	elːa	85
+many	Georgian	bevɾi	86
+many	Old_Kannada	pala	87
+many	Old_Telugu	palu	88
+many	Old_Malayalam	pala	89
+many	Old_Tamil	pala	90
+some	Georgian	ɾamdenime	91
+some	Old_Kannada	kela	92
+some	Old_Telugu	kond̪aɾu	93
+some	Old_Malayalam	t͡ʃila	94
+some	Old_Tamil	t͡ʃila	95
+few	Georgian	t͡sʰotʼa	96
+few	Old_Kannada	koɲt͡ʃa	97
+few	Old_Telugu	kod̪ːi	98
+few	Old_Malayalam	kurat͡ʃːə	99
+few	Old_Tamil	koɲt͡ʃam	100
+other	Georgian	sχʷa	101
+other	Old_Kannada	beːɾe	102
+other	Old_Telugu	ʋeːɾeː	103
+other	Old_Malayalam	matːə	104
+other	Old_Tamil	pira	105
+one	Georgian	eɾtʰi	106
+one	Old_Kannada	on̪d̪u	107
+one	Old_Telugu	oɳɖu	108
+one	Old_Malayalam	on̪ːə	109
+one	Old_Tamil	onru	110
+two	Georgian	oɾi	111
+two	Old_Kannada	eɾaɖu	112
+two	Old_Telugu	ɾeɳɖu	113
+two	Old_Malayalam	ɾaɳʈə	114
+two	Old_Tamil	iɾaɳʈu	115
+three	Georgian	sami	116
+three	Old_Kannada	muːru	117
+three	Old_Telugu	muːnru	118
+three	Old_Malayalam	muːn̪ːə	119
+three	Old_Tamil	muːnru	120
+four	Georgian	otʰχi	121
+four	Old_Kannada	naːlku	122
+four	Old_Telugu	naːlʊɡu	123
+four	Old_Malayalam	n̪aːŋkə	124
+four	Old_Tamil	n̪aːnku	125
+five	Georgian	χutʰi	126
+five	Old_Kannada	aɪd̪u	127
+five	Old_Telugu	aɪd̪u	128
+five	Old_Malayalam	aɲt͡ʃə	129
+five	Old_Tamil	ajn̪t̪u	130
+long	Georgian	ɡɾd͡zeli	131
+long	Old_Kannada	niɖu	132
+long	Old_Telugu	poɖʊɡu	133
+long	Old_Malayalam	n̪iːɭa	134
+long	Old_Tamil	n̪iːɭu	135
+wide	Georgian	pʰaɾtʰo	136
+wide	Old_Kannada	aɡala	137
+wide	Old_Telugu	ʋeɖalpu	138
+wide	Old_Malayalam	ʋiːt̪i	139
+wide	Old_Tamil	akala	140
+thick	Georgian	skʰeli	141
+thick	Old_Kannada	d̪apːa	142
+thick	Old_Telugu	t͡ʃɪkːa	143
+thick	Old_Malayalam	kaʈːi	144
+thick	Old_Tamil	t̪uru	145
+heavy	Georgian	md͡zime	146
+heavy	Old_Telugu	baɾʊʋu	147
+heavy	Old_Malayalam	kana	148
+heavy	Old_Tamil	paɾu	149
+short	Georgian	mokʼle	150
+short	Old_Kannada	kiɾu	151
+short	Old_Telugu	poʈːi	152
+short	Old_Malayalam	kuri	153
+short	Old_Tamil	kuru	154
+narrow	Georgian	vit͡sʼɾo	155
+narrow	Old_Kannada	sapura	156
+narrow	Old_Telugu	iɾʊku	157
+narrow	Old_Malayalam	iʈuŋːi	158
+narrow	Old_Tamil	kurukija	159
+thin	Georgian	tʰχeli	160
+thin	Old_Kannada	t̪eɭu	161
+thin	Old_Telugu	sanːa	162
+thin	Old_Malayalam	n̪eːrt̪ːa	163
+thin	Old_Tamil	melːija	164
+woman	Georgian	kʰali	165
+woman	Old_Kannada	peɳ	166
+woman	Old_Telugu	aːɖa	167
+woman	Old_Malayalam	peɳːə	168
+woman	Old_Tamil	peɳ	169
+man (adult male)	Georgian	kʼat͡sʰi	170
+man (adult male)	Old_Kannada	aːɭ	171
+man (adult male)	Old_Telugu	maɡa	172
+man (adult male)	Old_Malayalam	aːɳə	173
+man (adult male)	Old_Tamil	aːɳ	174
+man (human being)	Old_Kannada	man̪d̪i	175
+man (human being)	Old_Telugu	man̪d̪i	176
+man (human being)	Old_Tamil	manit̪an	177
+child	Georgian	bafʃʷi	178
+child	Old_Kannada	maɡu	179
+child	Old_Telugu	pɪlːa	180
+child	Old_Malayalam	piɭːa	181
+child	Old_Tamil	piɭːaj	182
+wife	Georgian	t͡sʰoli	183
+wife	Old_Kannada	peɳɖat̪i	184
+wife	Old_Telugu	peɳɖlaːm	185
+wife	Old_Tamil	manajʋi	186
+husband	Georgian	kʰmaɾi	187
+husband	Old_Kannada	ɡaɳɖa	188
+husband	Old_Telugu	moɡʊnɾu	189
+husband	Old_Tamil	kaɳaʋan	190
+animal	Georgian	t͡sʰχoveli	191
+fish	Georgian	tʰevzi	192
+fish	Old_Kannada	miːn	193
+fish	Old_Telugu	t͡ʃeːpa	194
+fish	Old_Malayalam	miːn	195
+fish	Old_Tamil	miːn	196
+dog	Georgian	d͡zaɣli	197
+dog	Old_Kannada	naːj	198
+dog	Old_Telugu	kʊkːa	199
+dog	Old_Malayalam	n̪aːja	200
+dog	Old_Tamil	n̪aːj	201
+louse	Georgian	tʼili	202
+louse	Old_Kannada	peːnu	203
+louse	Old_Telugu	peːnu	204
+louse	Old_Malayalam	peːn	205
+louse	Old_Tamil	peːn	206
+snake	Georgian	ɡʷeli	207
+snake	Old_Kannada	paːʋu	208
+snake	Old_Telugu	paːmu	209
+snake	Old_Malayalam	paːmpə	210
+snake	Old_Tamil	paːmbu	211
+worm	Georgian	t͡ʃʼia	212
+worm	Old_Kannada	puɻa	213
+worm	Old_Telugu	pʊɾʊɡu	214
+worm	Old_Malayalam	puɻu	215
+worm	Old_Tamil	puɻu	216
+tree	Georgian	χe	217
+tree	Old_Kannada	maɾam	218
+tree	Old_Telugu	mɾaːnu	219
+tree	Old_Malayalam	maɾam	220
+tree	Old_Tamil	maɾam	221
+forest	Georgian	tʼχʼe	222
+forest	Old_Kannada	kaːɖu	223
+forest	Old_Malayalam	kaːʈə	224
+forest	Old_Tamil	kaːʈu	225
+stick	Georgian	d͡ʒoχi	226
+stick	Old_Kannada	koːl	227
+stick	Old_Telugu	kaɾːa	228
+stick	Old_Malayalam	ʋaʈi	229
+stick	Old_Tamil	kut͡ʃːi	230
+fruit	Georgian	χili	231
+fruit	Old_Kannada	paɳːu	232
+fruit	Old_Telugu	paɳɖu	233
+fruit	Old_Malayalam	paɻam	234
+fruit	Old_Tamil	paɻam	235
+seed	Georgian	tʰesli	236
+seed	Old_Kannada	bit̪ːu	237
+seed	Old_Telugu	ʋɪt̪ːanamu	238
+seed	Old_Malayalam	ʋit̪ːə	239
+seed	Old_Tamil	ʋit̪ːaj	240
+leaf	Georgian	pʰotʰoli	241
+leaf	Old_Kannada	ele	242
+leaf	Old_Telugu	aːku	243
+leaf	Old_Malayalam	ila	244
+leaf	Old_Tamil	ilaj	245
+root	Georgian	pʰesʷi	246
+root	Old_Kannada	beːɾ	247
+root	Old_Telugu	ʋeːɾu	248
+root	Old_Malayalam	ʋeːɾə	249
+root	Old_Tamil	ʋeːɾ	250
+bark (of a tree)	Georgian	kʰeɾkʰi	251
+bark (of a tree)	Old_Kannada	t̪oɡaʈi	252
+bark (of a tree)	Old_Telugu	beɾaɖu	253
+bark (of a tree)	Old_Malayalam	t̪oːl	254
+bark (of a tree)	Old_Tamil	paʈːaj	255
+flower	Georgian	χʼʷavili	256
+flower	Old_Kannada	puː	257
+flower	Old_Telugu	pʊʋːu	258
+flower	Old_Malayalam	puː	259
+flower	Old_Tamil	puː	260
+grass	Georgian	baɫaχi	261
+grass	Old_Kannada	pul	262
+grass	Old_Telugu	ɡaɖːi	263
+grass	Old_Malayalam	pulːə	264
+grass	Old_Tamil	pul	265
+rope	Georgian	tʰokʼi	266
+rope	Old_Kannada	neːɳu	267
+rope	Old_Telugu	t̪ɾaːɖu	268
+rope	Old_Malayalam	kajar	269
+rope	Old_Tamil	kajiru	270
+skin	Georgian	kʼani	271
+skin	Old_Kannada	t̪oɡal	272
+skin	Old_Telugu	t̪oːlu	273
+skin	Old_Malayalam	t̪oli	274
+skin	Old_Tamil	t̪oːl	275
+meat	Georgian	χoɾt͡sʰi	276
+meat	Old_Kannada	baːɖu	277
+meat	Old_Malayalam	irat͡ʃːi	278
+meat	Old_Tamil	irajt͡ʃːi	279
+blood	Georgian	sisχli	280
+blood	Old_Kannada	net̪ːaɾ	281
+blood	Old_Telugu	net̪ːʊɾu	282
+blood	Old_Malayalam	kuɾut̪i	283
+blood	Old_Tamil	kuɾut̪i	284
+bone	Georgian	d͡zʷali	285
+bone	Old_Kannada	elubu	286
+bone	Old_Telugu	emʊka	287
+bone	Old_Malayalam	elːə	288
+bone	Old_Tamil	elumbu	289
+fat (noun)	Georgian	t͡sʰχimi	290
+fat (noun)	Old_Kannada	koɻbu	291
+fat (noun)	Old_Telugu	kɾoʋːu	292
+fat (noun)	Old_Malayalam	koɻupːə	293
+fat (noun)	Old_Tamil	koɻupːu	294
+egg	Georgian	kʼʷeɾt͡sʰχi	295
+egg	Old_Kannada	moʈːe	296
+egg	Old_Telugu	ɡʊɖːu	297
+egg	Old_Malayalam	muʈːa	298
+egg	Old_Tamil	muʈːaj	299
+horn	Georgian	ɾkʰa	300
+horn	Old_Kannada	kombu	301
+horn	Old_Telugu	komːu	302
+horn	Old_Malayalam	kompə	303
+horn	Old_Tamil	koːʈu	304
+tail	Georgian	kʼudi	305
+tail	Old_Kannada	t̪oːka	306
+tail	Old_Telugu	t̪oːka	307
+tail	Old_Malayalam	ʋaːl	308
+tail	Old_Tamil	ʋaːl	309
+feather	Georgian	pʰɾtʰa	310
+feather	Old_Kannada	ɡaɾi	311
+feather	Old_Telugu	iːka	312
+feather	Old_Malayalam	t̪uːʋal	313
+feather	Old_Tamil	iraku	314
+hair	Georgian	tʰma	315
+hair	Old_Kannada	kuːd̪alu	316
+hair	Old_Telugu	ʋeɳʈɾʊka	317
+hair	Old_Malayalam	kuːn̪t̪al	318
+hair	Old_Tamil	kat̪upːu	319
+head	Georgian	tʰavi	320
+head	Old_Kannada	t̪ale	321
+head	Old_Telugu	t̪ala	322
+head	Old_Malayalam	t̪ala	323
+head	Old_Tamil	t̪alaj	324
+ear	Georgian	χʼuɾi	325
+ear	Old_Kannada	kiʋi	326
+ear	Old_Telugu	t͡ʃeʋi	327
+ear	Old_Malayalam	t͡ʃeʋi	328
+ear	Old_Tamil	t͡ʃeʋi	329
+eye	Georgian	tʰʷali	330
+eye	Old_Kannada	kaɳːu	331
+eye	Old_Telugu	kanːu	332
+eye	Old_Malayalam	kaɳːə	333
+eye	Old_Tamil	kaɳ	334
+nose	Georgian	t͡sxʷiɾi	335
+nose	Old_Kannada	muːɡu	336
+nose	Old_Telugu	mʊkːu	337
+nose	Old_Malayalam	muːkːə	338
+nose	Old_Tamil	muːkːu	339
+mouth	Georgian	pʼiɾi	340
+mouth	Old_Kannada	baːj	341
+mouth	Old_Telugu	noːɾu	342
+mouth	Old_Malayalam	ʋaːja	343
+mouth	Old_Tamil	ʋaːj	344
+tooth	Georgian	kʼbili	345
+tooth	Old_Kannada	pal	346
+tooth	Old_Telugu	panːu	347
+tooth	Old_Malayalam	palːə	348
+tooth	Old_Tamil	pal	349
+tongue (organ)	Georgian	ena	350
+tongue (organ)	Old_Kannada	naːlaɡe	351
+tongue (organ)	Old_Telugu	naːlʊka	352
+tongue (organ)	Old_Malayalam	n̪aːkːə	353
+tongue (organ)	Old_Tamil	n̪aːʋu	354
+fingernail	Georgian	pʰɾt͡ʃʰχili	355
+fingernail	Old_Kannada	uɡuɾ	356
+fingernail	Old_Telugu	ɡoːɾu	357
+fingernail	Old_Tamil	ukiɾ	358
+foot	Georgian	tʼeɾpʰi	359
+foot	Old_Kannada	aɖi	360
+foot	Old_Telugu	aɖʊɡu	361
+foot	Old_Malayalam	aʈi	362
+foot	Old_Tamil	aʈi	363
+leg	Georgian	pʰeχi	364
+leg	Old_Kannada	kaːl	365
+leg	Old_Telugu	kaːlu	366
+leg	Old_Malayalam	kaːlə	367
+leg	Old_Tamil	kaːl	368
+knee	Georgian	muχli	369
+knee	Old_Kannada	maɳɖi	370
+knee	Old_Telugu	mroː-	371
+knee	Old_Malayalam	muʈːə	372
+knee	Old_Tamil	muːʈːu	373
+hand	Georgian	χeli	374
+hand	Old_Kannada	kaɪ	375
+hand	Old_Telugu	t͡ʃeːji	376
+hand	Old_Malayalam	kai̯	377
+hand	Old_Tamil	kaj	378
+wing	Georgian	pʰɾtʰa	379
+wing	Old_Kannada	rekːe	380
+wing	Old_Telugu	rekːa	381
+wing	Old_Malayalam	t͡ʃirakə	382
+wing	Old_Tamil	irakːaj	383
+guts	Georgian	nat͡sʼɫavi	384
+guts	Old_Kannada	ket͡ʃːu	385
+guts	Old_Telugu	pɾeːɡu	386
+guts	Old_Malayalam	kuʈal	387
+guts	Old_Tamil	kuʈal	388
+neck	Georgian	kʼiseɾi	389
+neck	Old_Kannada	kat̪ːu	390
+neck	Old_Telugu	meɖa	391
+neck	Old_Malayalam	kaɻut̪ːə	392
+neck	Old_Tamil	kaɻut̪ːu	393
+back	Georgian	zuɾɡi	394
+back	Old_Kannada	benːu	395
+back	Old_Telugu	ʋenːu	396
+back	Old_Malayalam	puram	397
+back	Old_Tamil	puram	398
+heart	Georgian	ɡuli	399
+heart	Old_Kannada	ɡuɳɖiɡe	400
+heart	Old_Telugu	ɡʊɳɖe	401
+heart	Old_Malayalam	n̪eɲt͡ʃakam	402
+heart	Old_Tamil	n̪eɲt͡ʃam	403
+liver	Georgian	ɣʷid͡zli	404
+liver	Old_Kannada	iːli	405
+liver	Old_Malayalam	kaɾaɭ	406
+liver	Old_Tamil	iːɾal	407
+to drink	Georgian	swm	408
+to drink	Old_Kannada	kuɖi	409
+to drink	Old_Telugu	t̪ɾaːɡu	410
+to drink	Old_Malayalam	kuʈi	411
+to drink	Old_Tamil	kuʈi	412
+to eat	Georgian	t͡ʃʼam	413
+to eat	Old_Kannada	t̪ɪnu	414
+to eat	Old_Telugu	t̪ɪnu	415
+to eat	Old_Malayalam	t̪in̪ːu	416
+to eat	Old_Tamil	uɳ	417
+to bite	Georgian	kʼben	418
+to bite	Old_Kannada	kaɖi	419
+to bite	Old_Telugu	korʊku	420
+to bite	Old_Malayalam	kaʈi	421
+to bite	Old_Tamil	kaʈi	422
+to spit	Georgian	pʰuɾtʰχva	423
+to spit	Old_Kannada	uɡuɭu	424
+to spit	Old_Telugu	umːu	425
+to spit	Old_Malayalam	t̪upːu	426
+to spit	Old_Tamil	t̪upːu	427
+to vomit	Georgian	ɾt͡sʼχʼev	428
+to vomit	Old_Kannada	kaːru	429
+to vomit	Old_Telugu	kakːu	430
+to vomit	Old_Malayalam	t͡ʃʰar	431
+to vomit	Old_Tamil	kakːu	432
+to see	Georgian	naχʷ	433
+to see	Old_Kannada	noːɖu	434
+to see	Old_Telugu	t͡ʃuːɖu	435
+to see	Old_Malayalam	kaːɳu	436
+to see	Old_Tamil	kaːɳ	437
+to hear	Georgian	smen	438
+to hear	Old_Kannada	keːɭ	439
+to hear	Old_Telugu	ʋɪnu	440
+to hear	Old_Malayalam	keːɭ	441
+to hear	Old_Tamil	keːɭ	442
+to know	Georgian	it͡sʰ	443
+to know	Old_Kannada	ari	444
+to know	Old_Telugu	erʊɡu	445
+to know	Old_Malayalam	ari	446
+to know	Old_Tamil	ari	447
+to think	Old_Kannada	nene	448
+to think	Old_Malayalam	n̪ina	449
+to think	Old_Tamil	n̪inaj	450
+to smell	Georgian	χʼnosva	451
+to smell	Old_Kannada	muːsu	452
+to smell	Old_Telugu	muːt͡ʃu	453
+to smell	Old_Malayalam	maɳa	454
+to smell	Old_Tamil	mukaɾ	455
+to fear	Georgian	ʃiʃi	456
+to fear	Old_Kannada	bed̪aɾu	457
+to fear	Old_Telugu	bed̪ʊɾu	458
+to fear	Old_Malayalam	peːʈi	459
+to fear	Old_Tamil	aɲt͡ʃu	460
+to sleep	Georgian	d͡zili	461
+to sleep	Old_Kannada	malaɡu	462
+to sleep	Old_Telugu	kʊnʊku	463
+to sleep	Old_Malayalam	uraŋːu	464
+to sleep	Old_Tamil	t̪uɲt͡ʃu	465
+to live	Georgian	t͡sʰχovɾeb	466
+to live	Old_Kannada	baːɻu	467
+to live	Old_Telugu	bɾat̪ʊku	468
+to live	Old_Malayalam	ʋaːɻu	469
+to live	Old_Tamil	ʋaːɻ	470
+to die	Georgian	kʼʷdeb	471
+to die	Old_Kannada	saːji	472
+to die	Old_Telugu	t͡ʃaːʋu	473
+to die	Old_Malayalam	t͡ʃaːʋu	474
+to die	Old_Tamil	ira	475
+to kill	Georgian	kʼɫaf	476
+to kill	Old_Kannada	kol	477
+to kill	Old_Telugu	t͡ʃampu	478
+to kill	Old_Malayalam	kolːu	479
+to kill	Old_Tamil	kol	480
+to hunt	Georgian	nadiɾob	481
+to hunt	Old_Kannada	beːʈe	482
+to hunt	Old_Telugu	ʋeːʈa	483
+to hunt	Old_Malayalam	ʋeːʈːa	484
+to hunt	Old_Tamil	ʋeːʈːaj	485
+to stab	Georgian	t͡ʃʰartʼχʼma	486
+to stab	Old_Kannada	iri	487
+to stab	Old_Telugu	poɖʊju	488
+to stab	Old_Malayalam	kut̪ːu	489
+to stab	Old_Tamil	kut̪ːu	490
+to scratch	Georgian	pʰχat͡ʃʼna	491
+to scratch	Old_Kannada	keɾe	492
+to scratch	Old_Telugu	ɡiːɾu	493
+to scratch	Old_Malayalam	oɾajə	494
+to scratch	Old_Tamil	t͡ʃoɾi	495
+to dig	Georgian	t͡ʃʼɾa	496
+to dig	Old_Kannada	t̪oːɖu	497
+to dig	Old_Telugu	t̪ɾaʋːu	498
+to dig	Old_Malayalam	kuɻi	499
+to dig	Old_Tamil	t̪oːɳʈu	500
+to swim	Georgian	t͡sʰuɾaf	501
+to swim	Old_Kannada	iːd͡ʒu	502
+to swim	Old_Telugu	iːd̪u	503
+to swim	Old_Malayalam	n̪iːn̪t̪u	504
+to swim	Old_Tamil	n̪iːn̪t̪u	505
+to walk	Georgian	siaɾul	506
+to walk	Old_Kannada	naɖe	507
+to walk	Old_Telugu	naɖʊt͡ʃu	508
+to walk	Old_Malayalam	n̪aʈa	509
+to walk	Old_Tamil	n̪aʈa	510
+to come	Georgian	modis	511
+to come	Old_Kannada	baɾu	512
+to come	Old_Telugu	ʋat͡ʃːu	513
+to come	Old_Malayalam	ʋaɾu	514
+to come	Old_Tamil	ʋaɾu	515
+to lie (as in a bed)	Georgian	t͡sʼef	516
+to lie (as in a bed)	Old_Kannada	paɖʊ	517
+to lie (as in a bed)	Old_Telugu	paɖʊ	518
+to lie (as in a bed)	Old_Malayalam	kiʈa	519
+to lie (as in a bed)	Old_Tamil	uraŋku	520
+to sit	Georgian	d͡ʒdeb	521
+to sit	Old_Kannada	kuːɾu	522
+to sit	Old_Telugu	kuːɾt͡ʃonu	523
+to sit	Old_Malayalam	iɾi	524
+to stand	Georgian	adɡeb	525
+to stand	Old_Kannada	nil	526
+to stand	Old_Telugu	nɪlu	527
+to stand	Old_Malayalam	n̪il	528
+to stand	Old_Tamil	n̪il	529
+to turn (intransitive)	Georgian	bɾunaf	530
+to turn (intransitive)	Old_Kannada	t̪iɾuɡu	531
+to turn (intransitive)	Old_Telugu	t̪ɾɪpːu	532
+to turn (intransitive)	Old_Malayalam	t̪iɾi	533
+to turn (intransitive)	Old_Tamil	t̪iɾumbu	534
+to give	Georgian	mit͡sʰem	535
+to give	Old_Kannada	koɖu	536
+to give	Old_Telugu	iːju	537
+to give	Old_Malayalam	t̪aɾu	538
+to give	Old_Tamil	t̪aɾu	539
+to hold	Georgian	t͡ʃʼeɾ	540
+to hold	Old_Kannada	piɖi	541
+to hold	Old_Telugu	paʈːu	542
+to hold	Old_Malayalam	piʈi	543
+to hold	Old_Tamil	piʈi	544
+to rub	Georgian	χaχuni	545
+to rub	Old_Kannada	uɾd̪u	546
+to rub	Old_Telugu	ɾʊd̪d̪u	547
+to rub	Old_Malayalam	uɾajə	548
+to rub	Old_Tamil	uɾaj	549
+to wash	Georgian	ɾet͡sʰχaf	550
+to wash	Old_Kannada	t̪oɭe	551
+to wash	Old_Telugu	kaɖʊɡu	552
+to wash	Old_Malayalam	kaɻu	553
+to wash	Old_Tamil	kaɻuʋu	554
+to wipe	Georgian	c̣mend	555
+to wipe	Old_Kannada	oresu	556
+to wipe	Old_Telugu	t̪ʊɖʊt͡ʃu	557
+to wipe	Old_Malayalam	t̪uʈajə	558
+to wipe	Old_Tamil	t̪uʈaj	559
+to pull	Georgian	t͡sʼev	560
+to pull	Old_Kannada	eɭi	561
+to pull	Old_Telugu	laːɡu	562
+to pull	Old_Malayalam	ʋali	563
+to pull	Old_Tamil	iɻu	564
+to push	Georgian	bid͡zɡe	565
+to push	Old_Kannada	nuːku	566
+to push	Old_Telugu	t̪oːju	567
+to push	Old_Malayalam	t̪aɭːu	568
+to push	Old_Tamil	t̪aɭːu	569
+to throw	Georgian	ɡadaɡde	570
+to throw	Old_Kannada	esi	571
+to throw	Old_Telugu	ʋɪsʊɾu	572
+to throw	Old_Malayalam	eri	573
+to throw	Old_Tamil	ʋiːsu	574
+to tie	Georgian	ʃekʼɾaf	575
+to tie	Old_Kannada	kaʈːu	576
+to tie	Old_Telugu	kaʈːu	577
+to tie	Old_Malayalam	keʈːu	578
+to tie	Old_Tamil	puːɳ	579
+to sew	Georgian	kʼeɾaf	580
+to sew	Old_Kannada	holi	581
+to sew	Old_Telugu	kʊʈːu	582
+to sew	Old_Malayalam	t̪ajə	583
+to sew	Old_Tamil	t̪aj	584
+to count	Georgian	tʰvɫa	585
+to count	Old_Kannada	eɳisu	586
+to count	Old_Telugu	lekːa	587
+to count	Old_Malayalam	eɳːu	588
+to count	Old_Tamil	eɳːu	589
+to say	Georgian	tʰkʰma	590
+to say	Old_Kannada	peːɻ	591
+to say	Old_Telugu	t͡ʃepːu	592
+to say	Old_Malayalam	para	593
+to say	Old_Tamil	t͡ʃol	594
+to sing	Georgian	mɣera	595
+to sing	Old_Kannada	paːɖu	596
+to sing	Old_Telugu	paːɖu	597
+to sing	Old_Malayalam	paːʈu	598
+to sing	Old_Tamil	paːʈu	599
+to play	Old_Kannada	aːɖu	600
+to play	Old_Telugu	aːɖu	601
+to play	Old_Malayalam	kaɭi	602
+to play	Old_Tamil	ʋiɭaj	603
+to float	Georgian	tʼivtʼivi	604
+to float	Old_Kannada	t̪eːlu	605
+to float	Old_Telugu	t̪eːlu	606
+to float	Old_Malayalam	poŋːu	607
+to float	Old_Tamil	mit̪a	608
+to flow	Georgian	dena	609
+to flow	Old_Kannada	paɾi	610
+to flow	Old_Telugu	paːɾu	611
+to flow	Old_Malayalam	oɻuku	612
+to flow	Old_Tamil	oɻuku	613
+to freeze	Georgian	ɡaχʼinva	614
+to freeze	Old_Kannada	ɡaɖːa	615
+to freeze	Old_Telugu	ɡaɖːa	616
+to freeze	Old_Malayalam	uraja	617
+to freeze	Old_Tamil	uraj	618
+to swell	Georgian	ɡasie	619
+to swell	Old_Kannada	uːd̪u	620
+to swell	Old_Telugu	ʋaːju	621
+to swell	Old_Malayalam	ʋiːr	622
+to swell	Old_Tamil	ʋiːŋku	623
+sun	Georgian	mze	624
+sun	Old_Kannada	neːsaru	625
+sun	Old_Malayalam	ɲaːjar	626
+sun	Old_Tamil	ɲaːjiru	627
+moon	Georgian	mtʰʷaɾe	628
+moon	Old_Kannada	t̪iŋɡaɭ	629
+moon	Old_Telugu	nela	630
+moon	Old_Malayalam	t̪iŋkaɭ	631
+moon	Old_Tamil	n̪ilaː	632
+star	Georgian	vaɾskʼʷɫavi	633
+star	Old_Kannada	aɾilu	634
+star	Old_Telugu	t͡ʃʊkːa	635
+star	Old_Malayalam	miːn	636
+water	Georgian	t͡sʼχʼali	637
+water	Old_Kannada	niːɾu	638
+water	Old_Telugu	niːru	639
+water	Old_Malayalam	ʋeɭːam	640
+water	Old_Tamil	n̪iːɾ	641
+rain	Georgian	t͡sʼʷima	642
+rain	Old_Kannada	maɻe	643
+rain	Old_Telugu	kʊrʊju	644
+rain	Old_Malayalam	maɻa	645
+rain	Old_Tamil	maɻaj	646
+river	Georgian	mdinaɾe	647
+river	Old_Kannada	poɻe	648
+river	Old_Telugu	eːru	649
+river	Old_Malayalam	puɻa	650
+river	Old_Tamil	aːru	651
+lake	Georgian	tʼba	652
+lake	Old_Kannada	kere	653
+lake	Old_Telugu	t͡ʃerʊʋu	654
+lake	Old_Malayalam	kuɭam	655
+lake	Old_Tamil	eːɾi	656
+sea	Georgian	zɣʷa	657
+sea	Old_Kannada	kaɖal	658
+sea	Old_Telugu	kaɖali	659
+sea	Old_Malayalam	kaʈal	660
+sea	Old_Tamil	kaʈal	661
+salt	Old_Kannada	upːu	662
+salt	Old_Telugu	upːu	663
+salt	Old_Malayalam	upːə	664
+salt	Old_Tamil	upːu	665
+stone	Georgian	kʰʷa	666
+stone	Old_Kannada	kal	667
+stone	Old_Telugu	ɾaːji	668
+stone	Old_Malayalam	kalːə	669
+stone	Old_Tamil	kal	670
+sand	Georgian	kʰʷiʃa	671
+sand	Old_Kannada	maɾaɭu	672
+sand	Old_Telugu	isʊka	673
+sand	Old_Malayalam	maɳal	674
+sand	Old_Tamil	maɳ	675
+dust	Georgian	mtʼʷeɾi	676
+dust	Old_Kannada	d̪umbu	677
+dust	Old_Telugu	d̪ʊmːu	678
+dust	Old_Malayalam	poʈi	679
+dust	Old_Tamil	t̪ukaɭ	680
+earth	Georgian	niadaɡi	681
+earth	Old_Kannada	maɳːu	682
+earth	Old_Telugu	manːu	683
+earth	Old_Malayalam	maɳːə	684
+earth	Old_Tamil	pulam	685
+cloud	Georgian	ɣɾubeli	686
+cloud	Old_Kannada	moːɖe	687
+cloud	Old_Telugu	mabːu	688
+cloud	Old_Malayalam	mukil	689
+cloud	Old_Tamil	mukil	690
+fog	Georgian	nisli	691
+fog	Old_Kannada	maɲd͡ʒu	692
+fog	Old_Telugu	maɲt͡ʃu	693
+fog	Old_Malayalam	maɲːə	694
+fog	Old_Tamil	pani	695
+sky	Georgian	t͡sʰa	696
+sky	Old_Kannada	muɡilu	697
+sky	Old_Telugu	nɪŋɡi	698
+sky	Old_Malayalam	ʋaːnam	699
+sky	Old_Tamil	ʋaːnam	700
+snow	Georgian	tʰovli	701
+snow	Old_Telugu	maɲt͡ʃu	702
+snow	Old_Malayalam	maɲːu	703
+snow	Old_Tamil	pani	704
+ice	Georgian	χʼinuli	705
+smoke	Georgian	kʼʷamli	706
+smoke	Old_Kannada	poɡe	707
+smoke	Old_Telugu	poɡa	708
+smoke	Old_Malayalam	puka	709
+smoke	Old_Tamil	pukaj	710
+fire	Georgian	t͡sʰet͡sʰχli	711
+fire	Old_Kannada	beŋki	712
+fire	Old_Telugu	nɪpːu	713
+fire	Old_Malayalam	t̪iː	714
+fire	Old_Tamil	t̪iː	715
+ash	Georgian	pʰeɾpʰli	716
+ash	Old_Kannada	buːd̪i	717
+ash	Old_Telugu	buːɖɪd̪a	718
+ash	Old_Malayalam	t͡ʃaːɾam	719
+ash	Old_Tamil	t͡ʃaːmpal	720
+to burn	Georgian	t͡sʼʷa	721
+to burn	Old_Kannada	urisu	722
+to burn	Old_Telugu	kaːlu	723
+to burn	Old_Malayalam	kat̪ːi	724
+to burn	Old_Tamil	eɾi	725
+road	Georgian	ɡza	726
+road	Old_Kannada	d̪aːɾi	727
+road	Old_Telugu	d̪aːɾi	728
+road	Old_Malayalam	ʋaɻi	729
+road	Old_Tamil	aːru	730
+mountain	Georgian	mtʰa	731
+mountain	Old_Kannada	beʈːa	732
+mountain	Old_Telugu	koɳɖa	733
+mountain	Old_Malayalam	mala	734
+mountain	Old_Tamil	malaj	735
+red	Georgian	t͡sʼitʰeli	736
+red	Old_Kannada	kempu	737
+red	Old_Telugu	erupu	738
+red	Old_Malayalam	t͡ʃuʋa	739
+red	Old_Tamil	t͡ʃem	740
+green	Georgian	mt͡sʼvanɛ	741
+green	Old_Kannada	pasiru	742
+green	Old_Telugu	pat͡ʃːa	743
+green	Old_Malayalam	pat͡ʃːa	744
+green	Old_Tamil	pat͡ʃːaj	745
+yellow	Georgian	χʼʷitʰeli	746
+yellow	Old_Telugu	pasʊpu	747
+yellow	Old_Malayalam	maɲːa	748
+yellow	Old_Tamil	maɲt͡ʃaɭ	749
+white	Georgian	tʰetʰɾi	750
+white	Old_Kannada	biɭi	751
+white	Old_Telugu	t̪elːa	752
+white	Old_Malayalam	ʋeɭːa	753
+white	Old_Tamil	ʋeɭ	754
+black	Old_Kannada	kaɾi	755
+black	Old_Telugu	nalːa	756
+black	Old_Malayalam	karu	757
+black	Old_Tamil	kaɾu	758
+night	Georgian	ɣame	759
+night	Old_Kannada	iɾuɭu	760
+night	Old_Telugu	ɾeːji	761
+night	Old_Malayalam	ɾaːʋə	762
+night	Old_Tamil	n̪aɭ	763
+day	Georgian	dɣe	764
+day	Old_Kannada	paɡal	765
+day	Old_Telugu	paɡalu	766
+day	Old_Malayalam	pakal	767
+day	Old_Tamil	pakal	768
+year	Georgian	t͡sʼeli	769
+year	Old_Kannada	eːɖu	770
+year	Old_Telugu	eːɳɖu	771
+year	Old_Malayalam	aːɳʈə	772
+year	Old_Tamil	aːɳʈu	773
+warm	Georgian	tʰbili	774
+warm	Old_Kannada	bet͡ʃːa	775
+warm	Old_Telugu	ʋet͡ʃːa	776
+warm	Old_Malayalam	t͡ʃuːʈə	777
+warm	Old_Tamil	ʋem	778
+cold	Georgian	t͡sʰivi	779
+cold	Old_Kannada	kuɭiru	780
+cold	Old_Telugu	t͡ʃalːa	781
+cold	Old_Malayalam	t̪aɳu	782
+cold	Old_Tamil	t̪aɳ	783
+full	Georgian	safse	784
+full	Old_Kannada	t̪umbu	785
+full	Old_Telugu	nɪɳɖu	786
+full	Old_Malayalam	n̪ira	787
+full	Old_Tamil	muɻu	788
+new	Georgian	aχali	789
+new	Old_Kannada	posa	790
+new	Old_Telugu	kɾot̪ːa	791
+new	Old_Malayalam	put̪i	792
+new	Old_Tamil	put̪u	793
+old	Georgian	d͡zʷeli	794
+old	Old_Kannada	paɻeja	795
+old	Old_Telugu	paːt̪a	796
+old	Old_Malayalam	paɻa	797
+old	Old_Tamil	paɻaija	798
+good	Georgian	kʼaɾɡi	799
+good	Old_Kannada	oɭːe	800
+good	Old_Telugu	maɲt͡ʃi	801
+good	Old_Malayalam	n̪alːa	802
+good	Old_Tamil	n̪al	803
+straight	Georgian	st͡sʼoɾi	804
+straight	Old_Kannada	neːɾa	805
+straight	Old_Telugu	neːɾu	806
+straight	Old_Malayalam	n̪eːɾe	807
+straight	Old_Tamil	n̪eːɾ	808
+round	Georgian	mɾɡʷali	809
+round	Old_Kannada	ɡuɳɖu	810
+round	Old_Telugu	ɡʊɳɖɾamu	811
+round	Old_Tamil	uɾuɳʈa	812
+sharp (as a knife)	Georgian	basɾi	813
+sharp (as a knife)	Old_Kannada	parit̪a	814
+sharp (as a knife)	Old_Telugu	pad̪ʊnu	815
+sharp (as a knife)	Old_Malayalam	muːrt͡ʃːa	816
+sharp (as a knife)	Old_Tamil	kuːɾ	817
+dull (as a knife)	Georgian	bɫaɡʷi	818
+dull (as a knife)	Old_Kannada	moɳɖa	819
+dull (as a knife)	Old_Telugu	moɳɖi	820
+dull (as a knife)	Old_Malayalam	muːrt͡ʃːa	821
+dull (as a knife)	Old_Tamil	maɻuŋkija	822
+smooth	Georgian	ɡɫuvi	823
+smooth	Old_Kannada	nuɳːaɡe	824
+smooth	Old_Telugu	nʊnːa	825
+smooth	Old_Malayalam	minu	826
+smooth	Old_Tamil	mel	827
+wet	Georgian	sʷeli	828
+wet	Old_Kannada	od̪ːe	829
+wet	Old_Telugu	t̪aɖi	830
+wet	Old_Malayalam	n̪ana	831
+wet	Old_Tamil	n̪anaj	832
+dry	Georgian	mʃɾali	833
+dry	Old_Kannada	oɳa	834
+dry	Old_Telugu	poɖi	835
+dry	Old_Malayalam	ʋaɾaɳʈa	836
+dry	Old_Tamil	ʋaraɳʈa	837
+correct	Georgian	zustʼi	838
+correct	Old_Kannada	saɾi	839
+correct	Old_Telugu	saɾi	840
+correct	Old_Malayalam	ʃaɾi	841
+correct	Old_Tamil	t͡ʃaɾi	842
+near	Georgian	aχɫo	843
+near	Old_Kannada	hat̪ːira	844
+near	Old_Telugu	d̪aɡːaɾa	845
+near	Old_Malayalam	aʈut̪ːə	846
+near	Old_Tamil	aɳaj	847
+far	Georgian	ʃoɾi	848
+far	Old_Kannada	ɡeɳʈu	849
+far	Old_Malayalam	akale	850
+far	Old_Tamil	t̪olajʋu	851
+right	Georgian	maɾd͡ʒʷena	852
+right	Old_Kannada	bala	853
+right	Old_Telugu	kʊɖi	854
+right	Old_Malayalam	ʋala	855
+right	Old_Tamil	ʋala	856
+left	Georgian	maɾt͡sʰχena	857
+left	Old_Kannada	eɖa	858
+left	Old_Telugu	eɖama	859
+left	Old_Malayalam	iʈa	860
+left	Old_Tamil	iʈa	861
+at	Georgian	ʃi	862
+at	Old_Kannada	-al	863
+at	Old_Telugu	-an	864
+at	Old_Malayalam	-il	865
+at	Old_Tamil	-in	866
+in	Georgian	ʃi	867
+in	Old_Kannada	oɭaɡe	868
+in	Old_Telugu	-an	869
+in	Old_Malayalam	-il	870
+in	Old_Tamil	-in	871
+with	Georgian	tʰan	872
+with	Old_Kannada	oɖane	873
+with	Old_Telugu	-t̪oːn	874
+with	Old_Malayalam	-oʈu	875
+with	Old_Tamil	-oʈu	876
+and	Georgian	da	877
+and	Old_Kannada	-um	878
+and	Old_Telugu	-un	879
+and	Old_Malayalam	-um	880
+and	Old_Tamil	-um	881
+if	Georgian	tu	882
+if	Old_Kannada	-are	883
+if	Old_Telugu	-an	884
+if	Old_Malayalam	-il	885
+if	Old_Tamil	-in	886
+because	Georgian	imitʼom	887
+because	Old_Kannada	-are	888
+because	Old_Telugu	-an	889
+because	Old_Malayalam	-aːl	890
+because	Old_Tamil	-aːl	891
+name	Georgian	saχeli	892
+name	Old_Kannada	pesaɾ	893
+name	Old_Telugu	peːɾu	894
+name	Old_Malayalam	peːɾə	895
+name	Old_Tamil	pejaɾ	896

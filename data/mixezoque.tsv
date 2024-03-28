@@ -1,0 +1,906 @@
+DOCULECT	iso_code	CONCEPT	global_id	local_id	ASJP	cogid	notes	IPA	ID
+NORTH_HIGHLAND_MIXE	mto	I	1209	1	3c	1		ət͡s	1
+SOUTH_HIGHLAND_MIXE	mxp	I	1209	1	3c	1		ət͡s	2
+LOWLAND_MIXE	mco	I	1209	1	3C	1		ət͡ʃ	3
+SAYULA_POPOLUCA	pos	I	1209	1	3c	1		ət͡s	4
+OLUTA_POPOLUCA	plo	I	1209	1	3s	1		əs	5
+TEXISTEPEC_ZOQUE	poq	I	1209	1	3c37	1		ət͡səʔ	6
+SOTEAPAN_ZOQUE	poi	I	1209	1	3C	1		ət͡ʃ	7
+MARIA_CHIMALAPA	zoh	I	1209	1	3cci7	1		ət͡st͡siʔ	8
+MIGUEL_CHIMALAPA	zoh	I	1209	1	d3S	2		dəʃ	9
+CHIAPAS_ZOQUE	zoc	I	1209	1	3h	1		əh	10
+NORTH_HIGHLAND_MIXE	mto	thou	1215	2	mic	1		mit͡s	11
+SOUTH_HIGHLAND_MIXE	mxp	thou	1215	2	mec	1		met͡s	12
+LOWLAND_MIXE	mco	thou	1215	2	miC	1		mit͡ʃ	13
+SAYULA_POPOLUCA	pos	thou	1215	2	mi	1	also: miC	mi	14
+OLUTA_POPOLUCA	plo	thou	1215	2	mis	1		mis	15
+TEXISTEPEC_ZOQUE	poq	thou	1215	2	biC	1		bit͡ʃ	16
+SOTEAPAN_ZOQUE	poi	thou	1215	2	miC	1		mit͡ʃ	17
+MARIA_CHIMALAPA	zoh	thou	1215	2	micci7	1		mit͡st͡siʔ	18
+MIGUEL_CHIMALAPA	zoh	thou	1215	2	miS	1		miʃ	19
+CHIAPAS_ZOQUE	zoc	thou	1215	2	mih	1		mih	20
+NORTH_HIGHLAND_MIXE	mto	we	1212	3	3c	1		ət͡s	21
+SOUTH_HIGHLAND_MIXE	mxp	we	1212	3	3c	1		ət͡s	22
+LOWLAND_MIXE	mco	we	1212	3	3C aht	1		ət͡ʃ_aht	23
+SAYULA_POPOLUCA	pos	we	1212	3	3hcat	1		əht͡sat	24
+OLUTA_POPOLUCA	plo	we	1212	3	3catek	1		ət͡satek	25
+TEXISTEPEC_ZOQUE	poq	we	1212	3	3c ta7	1		ət͡s_taʔ	26
+MARIA_CHIMALAPA	zoh	we	1212	3	newiny~nen	2		newiⁿʲnen	27
+MIGUEL_CHIMALAPA	zoh	we	1212	3	neywin	2		nejwin	28
+CHIAPAS_ZOQUE	zoc	we	1212	3	t3h	3		təh	29
+NORTH_HIGHLAND_MIXE	mto	this	1214	4	y37e	1		jəʔe	30
+SOUTH_HIGHLAND_MIXE	mxp	this	1214	4	ya7at	1		jaʔat	31
+LOWLAND_MIXE	mco	this	1214	4	hada7	2		hadaʔ	32
+SAYULA_POPOLUCA	pos	this	1214	4	ay3h	1		ajəh	33
+OLUTA_POPOLUCA	plo	this	1214	4	he7	3		heʔ	34
+TEXISTEPEC_ZOQUE	poq	this	1214	4	y373h37	1		jəʔəhəʔ	35
+SOTEAPAN_ZOQUE	poi	this	1214	4	he7ep3k	4		heʔepək	36
+MARIA_CHIMALAPA	zoh	this	1214	4	y37 p37	1		jəʔ_pəʔ	37
+MIGUEL_CHIMALAPA	zoh	this	1214	4	y37	1		jəʔ	38
+CHIAPAS_ZOQUE	zoc	this	1214	4	y37 w3	1		jəʔ_wə	39
+NORTH_HIGHLAND_MIXE	mto	that	78	5	Si7	1		ʃiʔ	40
+SOUTH_HIGHLAND_MIXE	mxp	that	78	5	hE7E	6		hɛʔɛ	41
+LOWLAND_MIXE	mco	that	78	5	heh3mb3	2		hehəmbə	42
+SAYULA_POPOLUCA	pos	that	78	5	yay3n	3		jajən	43
+OLUTA_POPOLUCA	plo	that	78	5	hamah	2		hamah	44
+SOTEAPAN_ZOQUE	poi	that	78	5	heam	2		heam	45
+MIGUEL_CHIMALAPA	zoh	that	78	5	gad3	5		ɡadə	46
+CHIAPAS_ZOQUE	zoc	that	78	5	37	4		əʔ	47
+NORTH_HIGHLAND_MIXE	mto	who	1235	6	p3n	1		pən	48
+SOUTH_HIGHLAND_MIXE	mxp	who	1235	6	p3n	1		pən	49
+LOWLAND_MIXE	mco	who	1235	6	p3n	1		pən	50
+SAYULA_POPOLUCA	pos	who	1235	6	p3n	1		pən	51
+OLUTA_POPOLUCA	plo	who	1235	6	p3n	1		pən	52
+SOTEAPAN_ZOQUE	poi	who	1235	6	iapa7ap	4		iapaʔap	53
+MARIA_CHIMALAPA	zoh	who	1235	6	iw3	2		iwə	54
+MIGUEL_CHIMALAPA	zoh	who	1235	6	iw3	2		iwə	55
+CHIAPAS_ZOQUE	zoc	who	1235	6	i w3	2		i_wə	56
+NORTH_HIGHLAND_MIXE	mto	what	1236	7	ti	1		ti	57
+SOUTH_HIGHLAND_MIXE	mxp	what	1236	7	ti	1		ti	58
+LOWLAND_MIXE	mco	what	1236	7	ti	1		ti	59
+SAYULA_POPOLUCA	pos	what	1236	7	ti	1		ti	60
+OLUTA_POPOLUCA	plo	what	1236	7	ti	1		ti	61
+TEXISTEPEC_ZOQUE	poq	what	1236	7	Ce7	1		t͡ʃeʔ	62
+SOTEAPAN_ZOQUE	poi	what	1236	7	ty~i	1		tʲi	63
+MARIA_CHIMALAPA	zoh	what	1236	7	ti	1		ti	64
+MIGUEL_CHIMALAPA	zoh	what	1236	7	ti	1		ti	65
+CHIAPAS_ZOQUE	zoc	what	1236	7	tiy3	1		tijə	66
+NORTH_HIGHLAND_MIXE	mto	not	1269	8	ka7a	1		kaʔa	67
+SOUTH_HIGHLAND_MIXE	mxp	not	1269	8	kat	1		kat	68
+LOWLAND_MIXE	mco	not	1269	8	ka7	1		kaʔ	69
+SAYULA_POPOLUCA	pos	not	1269	8	kah	1		kah	70
+OLUTA_POPOLUCA	plo	not	1269	8	373	1		əʔə	71
+TEXISTEPEC_ZOQUE	poq	not	1269	8	e5C	2		eɲt͡ʃ	72
+SOTEAPAN_ZOQUE	poi	not	1269	8	dy~a	2		dʲa	73
+MARIA_CHIMALAPA	zoh	not	1269	8	wat kaha	2		wat_kaha	74
+MIGUEL_CHIMALAPA	zoh	not	1269	8	ya	2		ja	75
+CHIAPAS_ZOQUE	zoc	not	1269	8	hane	2		hane	76
+NORTH_HIGHLAND_MIXE	mto	all	98	9	n3hum	1		nəhum	77
+SOUTH_HIGHLAND_MIXE	mxp	all	98	9	tuk3y	2		tukəj	78
+LOWLAND_MIXE	mco	all	98	9	tu7uk ok3y	2		tuʔuk_okəj	79
+SAYULA_POPOLUCA	pos	all	98	9	nu p3h3n	3		nu_pəhən	80
+OLUTA_POPOLUCA	plo	all	98	9	nitik	4		nitik	81
+TEXISTEPEC_ZOQUE	poq	all	98	9	bumbe	5		bumbe	82
+SOTEAPAN_ZOQUE	poi	all	98	9	ikum3h	6		ikuməh	83
+MARIA_CHIMALAPA	zoh	all	98	9	aNtene	7		aŋtene	84
+MIGUEL_CHIMALAPA	zoh	all	98	9	hemhi7	8		hemhiʔ	85
+CHIAPAS_ZOQUE	zoc	all	98	9	mumu	5		mumu	86
+NORTH_HIGHLAND_MIXE	mto	many	1198	10	may	1		maj	87
+SOUTH_HIGHLAND_MIXE	mxp	many	1198	10	mEy	1		mɛj	88
+LOWLAND_MIXE	mco	many	1198	10	may	1		maj	89
+SAYULA_POPOLUCA	pos	many	1198	10	may	1		maj	90
+OLUTA_POPOLUCA	plo	many	1198	10	pako	2	also: tana	pako	91
+TEXISTEPEC_ZOQUE	poq	many	1198	10	daC ke	4	also: b3ks ke	dat͡ʃ_ke	92
+SOTEAPAN_ZOQUE	poi	many	1198	10	agi	5	also: cam	aɡi	93
+MARIA_CHIMALAPA	zoh	many	1198	10	s3h37	6		səhəʔ	94
+MIGUEL_CHIMALAPA	zoh	many	1198	10	S3h37	6		ʃəhəʔ	95
+CHIAPAS_ZOQUE	zoc	many	1198	10	w3w3	3	also: aN bat e	wəwə	96
+NORTH_HIGHLAND_MIXE	mto	one	1493	11	tuk	1		tuk	97
+SOUTH_HIGHLAND_MIXE	mxp	one	1493	11	tu7uk	1		tuʔuk	98
+LOWLAND_MIXE	mco	one	1493	11	tu7uk	1		tuʔuk	99
+SAYULA_POPOLUCA	pos	one	1493	11	tuk	1		tuk	100
+OLUTA_POPOLUCA	plo	one	1493	11	tuk	1		tuk	101
+TEXISTEPEC_ZOQUE	poq	one	1493	11	tum	2		tum	102
+SOTEAPAN_ZOQUE	poi	one	1493	11	tum	2		tum	103
+MARIA_CHIMALAPA	zoh	one	1493	11	tum3	2		tumə	104
+MIGUEL_CHIMALAPA	zoh	one	1493	11	tum3	2		tumə	105
+CHIAPAS_ZOQUE	zoc	one	1493	11	tum3	2		tumə	106
+NORTH_HIGHLAND_MIXE	mto	two	1498	12	meck	1		met͡sk	107
+SOUTH_HIGHLAND_MIXE	mxp	two	1498	12	meck	1		met͡sk	108
+LOWLAND_MIXE	mco	two	1498	12	mec	1		met͡s	109
+SAYULA_POPOLUCA	pos	two	1498	12	meCk	1		met͡ʃk	110
+OLUTA_POPOLUCA	plo	two	1498	12	mes ko	1		mes_ko	111
+TEXISTEPEC_ZOQUE	poq	two	1498	12	w3s na7	2		wəs_naʔ	112
+SOTEAPAN_ZOQUE	poi	two	1498	12	w3s ten	2		wəs_ten	113
+MARIA_CHIMALAPA	zoh	two	1498	12	mec a7aN	3		met͡s_aʔaŋ	114
+MIGUEL_CHIMALAPA	zoh	two	1498	12	meca 7aN	3		met͡sa_ʔaŋ	115
+CHIAPAS_ZOQUE	zoc	two	1498	12	meca	1		met͡sa	116
+NORTH_HIGHLAND_MIXE	mto	long	1203	14	y3n	1		jən	117
+SOUTH_HIGHLAND_MIXE	mxp	long	1203	14	yeny	1		jenj	118
+LOWLAND_MIXE	mco	long	1203	14	yony	2		jonj	119
+SAYULA_POPOLUCA	pos	long	1203	14	yagac	3		jaɡat͡s	120
+OLUTA_POPOLUCA	plo	long	1203	14	yonek	4		jonek	121
+TEXISTEPEC_ZOQUE	poq	long	1203	14	ya7akac	3		jaʔakat͡s	122
+SOTEAPAN_ZOQUE	poi	long	1203	14	yagac	3		jaɡat͡s	123
+MARIA_CHIMALAPA	zoh	long	1203	14	p3hi	5		pəhi	124
+MIGUEL_CHIMALAPA	zoh	long	1203	14	p3hi7	5		pəhiʔ	125
+CHIAPAS_ZOQUE	zoc	long	1203	14	p3y	5		pəj	126
+NORTH_HIGHLAND_MIXE	mto	woman	962	16	t3st3k	1		təstək	127
+SOUTH_HIGHLAND_MIXE	mxp	woman	962	16	tiSy~t3k	2		tiʃʲtək	128
+LOWLAND_MIXE	mco	woman	962	16	to7oSyh~3y	2		toʔoʃʲʰəj	129
+SAYULA_POPOLUCA	pos	woman	962	16	toSay	2		toʃaj	130
+OLUTA_POPOLUCA	plo	woman	962	16	mahaw	3		mahaw	131
+TEXISTEPEC_ZOQUE	poq	woman	962	16	yoma7	4		jomaʔ	132
+SOTEAPAN_ZOQUE	poi	woman	962	16	yomo	4		jomo	133
+MARIA_CHIMALAPA	zoh	woman	962	16	yom37	4		joməʔ	134
+MIGUEL_CHIMALAPA	zoh	woman	962	16	yoma7	4		jomaʔ	135
+CHIAPAS_ZOQUE	zoc	woman	962	16	yomo	4		jomo	136
+NORTH_HIGHLAND_MIXE	mto	man	1554	17	yaty3k	1		jatjək	137
+SOUTH_HIGHLAND_MIXE	mxp	man	1554	17	h3ty3k	1		hətjək	138
+LOWLAND_MIXE	mco	man	1554	17	ye7ey d3k	1		jeʔej_dək	139
+SAYULA_POPOLUCA	pos	man	1554	17	hayaw	2		hajaw	140
+OLUTA_POPOLUCA	plo	man	1554	17	yo7owa	3		joʔowa	141
+TEXISTEPEC_ZOQUE	poq	man	1554	17	p35	4		pəɲ	142
+SOTEAPAN_ZOQUE	poi	man	1554	17	p3Si5	4		pəʃiɲ	143
+MARIA_CHIMALAPA	zoh	man	1554	17	p3n	4		pən	144
+MIGUEL_CHIMALAPA	zoh	man	1554	17	p3n	4		pən	145
+CHIAPAS_ZOQUE	zoc	man	1554	17	p3n	4		pən	146
+NORTH_HIGHLAND_MIXE	mto	person	683	18	hayu	1		haju	147
+SOUTH_HIGHLAND_MIXE	mxp	person	683	18	ha7ay	1		haʔaj	148
+LOWLAND_MIXE	mco	person	683	18	h3y	1		həj	149
+SAYULA_POPOLUCA	pos	person	683	18	hayaw	1		hajaw	150
+OLUTA_POPOLUCA	plo	person	683	18	haykak	1		hajkak	151
+TEXISTEPEC_ZOQUE	poq	person	683	18	p35 Ca7	2		pəɲ_t͡ʃaʔ	152
+CHIAPAS_ZOQUE	zoc	person	683	18	p3n dam	2		pən_dam	153
+NORTH_HIGHLAND_MIXE	mto	fish	227	19	ahkS	1		ahkʃ	154
+SOUTH_HIGHLAND_MIXE	mxp	fish	227	19	akS	1		akʃ	155
+LOWLAND_MIXE	mco	fish	227	19	akS	1		akʃ	156
+SAYULA_POPOLUCA	pos	fish	227	19	akS	1		akʃ	157
+OLUTA_POPOLUCA	plo	fish	227	19	koke	2		koke	158
+TEXISTEPEC_ZOQUE	poq	fish	227	19	woN	3		woŋ	159
+SOTEAPAN_ZOQUE	poi	fish	227	19	t373p3	4		təʔəpə	160
+MARIA_CHIMALAPA	zoh	fish	227	19	koke	2		koke	161
+MIGUEL_CHIMALAPA	zoh	fish	227	19	koke	2		koke	162
+CHIAPAS_ZOQUE	zoc	fish	227	19	kokeh	2		kokeh	163
+NORTH_HIGHLAND_MIXE	mto	dog	2009	21	uk	1		uk	164
+SOUTH_HIGHLAND_MIXE	mxp	dog	2009	21	uk	1		uk	165
+LOWLAND_MIXE	mco	dog	2009	21	uk	1		uk	166
+SAYULA_POPOLUCA	pos	dog	2009	21	tak	2		tak	167
+OLUTA_POPOLUCA	plo	dog	2009	21	Suni	3		ʃuni	168
+TEXISTEPEC_ZOQUE	poq	dog	2009	21	Cempa7	5		t͡ʃempaʔ	169
+SOTEAPAN_ZOQUE	poi	dog	2009	21	Cimpa	5		t͡ʃimpa	170
+MARIA_CHIMALAPA	zoh	dog	2009	21	nu7u	6		nuʔu	171
+MIGUEL_CHIMALAPA	zoh	dog	2009	21	nu7	6		nuʔ	172
+CHIAPAS_ZOQUE	zoc	dog	2009	21	tuwi	4		tuwi	173
+NORTH_HIGHLAND_MIXE	mto	louse	1392	22	37c	1		əʔt͡s	174
+SOUTH_HIGHLAND_MIXE	mxp	louse	1392	22	a7at	2		aʔat	175
+LOWLAND_MIXE	mco	louse	1392	22	ad	1		ad	176
+SAYULA_POPOLUCA	pos	louse	1392	22	awat	2		awat	177
+OLUTA_POPOLUCA	plo	louse	1392	22	avat	2		avat	178
+TEXISTEPEC_ZOQUE	poq	louse	1392	22	awat	2		awat	179
+SOTEAPAN_ZOQUE	poi	louse	1392	22	a7awat	2		aʔawat	180
+MARIA_CHIMALAPA	zoh	louse	1392	22	awat	2		awat	181
+MIGUEL_CHIMALAPA	zoh	louse	1392	22	awat	2		awat	182
+CHIAPAS_ZOQUE	zoc	louse	1392	22	awat	2		awat	183
+NORTH_HIGHLAND_MIXE	mto	tree	906	23	kup	1		kup	184
+SOUTH_HIGHLAND_MIXE	mxp	tree	906	23	Soh	2		ʃoh	185
+LOWLAND_MIXE	mco	tree	906	23	kipy	1		kipj	186
+SAYULA_POPOLUCA	pos	tree	906	23	kuy	1		kuj	187
+OLUTA_POPOLUCA	plo	tree	906	23	kuy3	1		kujə	188
+TEXISTEPEC_ZOQUE	poq	tree	906	23	kuy	1		kuj	189
+SOTEAPAN_ZOQUE	poi	tree	906	23	kuy	1		kuj	190
+MARIA_CHIMALAPA	zoh	tree	906	23	kuy	1		kuj	191
+MIGUEL_CHIMALAPA	zoh	tree	906	23	kuy	1		kuj	192
+CHIAPAS_ZOQUE	zoc	tree	906	23	kuy	1		kuj	193
+NORTH_HIGHLAND_MIXE	mto	seed	714	24	t3mt	1		təmt	194
+SOUTH_HIGHLAND_MIXE	mxp	seed	714	24	pak	2		pak	195
+LOWLAND_MIXE	mco	seed	714	24	pak	2		pak	196
+SAYULA_POPOLUCA	pos	seed	714	24	puh	3		puh	197
+OLUTA_POPOLUCA	plo	seed	714	24	pak3	2		pakə	198
+TEXISTEPEC_ZOQUE	poq	seed	714	24	puh	3		puh	199
+SOTEAPAN_ZOQUE	poi	seed	714	24	pak	2		pak	200
+MARIA_CHIMALAPA	zoh	seed	714	24	puh	3		puh	201
+MIGUEL_CHIMALAPA	zoh	seed	714	24	puh	3		puh	202
+CHIAPAS_ZOQUE	zoc	seed	714	24	puh	3		puh	203
+NORTH_HIGHLAND_MIXE	mto	leaf	628	25	ahy	1		ahj	204
+SOUTH_HIGHLAND_MIXE	mxp	leaf	628	25	ay	1		aj	205
+LOWLAND_MIXE	mco	leaf	628	25	ay	1		aj	206
+SAYULA_POPOLUCA	pos	leaf	628	25	ahy~	1		aʰʲ	207
+OLUTA_POPOLUCA	plo	leaf	628	25	ay3	1		ajə	208
+TEXISTEPEC_ZOQUE	poq	leaf	628	25	ay	1		aj	209
+SOTEAPAN_ZOQUE	poi	leaf	628	25	ay	1		aj	210
+MARIA_CHIMALAPA	zoh	leaf	628	25	ay	1		aj	211
+MIGUEL_CHIMALAPA	zoh	leaf	628	25	ay7	1		ajʔ	212
+CHIAPAS_ZOQUE	zoc	leaf	628	25	ay	1		aj	213
+NORTH_HIGHLAND_MIXE	mto	root	670	26	a7c	1		aʔt͡s	214
+SOUTH_HIGHLAND_MIXE	mxp	root	670	26	ac	1		at͡s	215
+LOWLAND_MIXE	mco	root	670	26	tikc	2		tikt͡s	216
+SAYULA_POPOLUCA	pos	root	670	26	tikCik	2		tikt͡ʃik	217
+OLUTA_POPOLUCA	plo	root	670	26	Cisc3w	2		t͡ʃist͡səw	218
+TEXISTEPEC_ZOQUE	poq	root	670	26	CeC3k	2		t͡ʃet͡ʃək	219
+SOTEAPAN_ZOQUE	poi	root	670	26	ty~iC3k	2		tʲit͡ʃək	220
+MARIA_CHIMALAPA	zoh	root	670	26	wac	3		wat͡s	221
+MIGUEL_CHIMALAPA	zoh	root	670	26	wac	3		wat͡s	222
+CHIAPAS_ZOQUE	zoc	root	670	26	waci	3		wat͡si	223
+NORTH_HIGHLAND_MIXE	mto	bark	1204	27	k3p ak	1		kəp_ak	224
+SOUTH_HIGHLAND_MIXE	mxp	bark	1204	27	ak	1		ak	225
+LOWLAND_MIXE	mco	bark	1204	27	ak	1		ak	226
+SAYULA_POPOLUCA	pos	bark	1204	27	ak	1		ak	227
+TEXISTEPEC_ZOQUE	poq	bark	1204	27	kuy dak	2		kuj_dak	228
+MARIA_CHIMALAPA	zoh	bark	1204	27	naka	2		naka	229
+MIGUEL_CHIMALAPA	zoh	bark	1204	27	kuy naka	2		kuj_naka	230
+CHIAPAS_ZOQUE	zoc	bark	1204	27	kuyu naka	2		kuju_naka	231
+NORTH_HIGHLAND_MIXE	mto	skin	763	28	ak	1		ak	232
+SOUTH_HIGHLAND_MIXE	mxp	skin	763	28	n37ak	1		nəʔak	233
+LOWLAND_MIXE	mco	skin	763	28	ak	1		ak	234
+SAYULA_POPOLUCA	pos	skin	763	28	ak	1		ak	235
+OLUTA_POPOLUCA	plo	skin	763	28	ak3	1		akə	236
+TEXISTEPEC_ZOQUE	poq	skin	763	28	dak	2		dak	237
+SOTEAPAN_ZOQUE	poi	skin	763	28	naka	2		naka	238
+MARIA_CHIMALAPA	zoh	skin	763	28	naka	2		naka	239
+MIGUEL_CHIMALAPA	zoh	skin	763	28	naka	2		naka	240
+CHIAPAS_ZOQUE	zoc	skin	763	28	naka	2		naka	241
+NORTH_HIGHLAND_MIXE	mto	meat	634	29	cu7uc	1		t͡suʔut͡s	242
+SOUTH_HIGHLAND_MIXE	mxp	meat	634	29	cu7uCy	1		t͡suʔut͡ʃj	243
+LOWLAND_MIXE	mco	meat	634	29	cu7uC	1		t͡suʔut͡ʃ	244
+SAYULA_POPOLUCA	pos	meat	634	29	SiS	2		ʃiʃ	245
+OLUTA_POPOLUCA	plo	meat	634	29	cuCi	1		t͡sut͡ʃi	246
+TEXISTEPEC_ZOQUE	poq	meat	634	29	SeS	2		ʃeʃ	247
+SOTEAPAN_ZOQUE	poi	meat	634	29	mayi	3		maji	248
+MARIA_CHIMALAPA	zoh	meat	634	29	sis	2		sis	249
+MIGUEL_CHIMALAPA	zoh	meat	634	29	SiS	2		ʃiʃ	250
+CHIAPAS_ZOQUE	zoc	meat	634	29	sis	2		sis	251
+NORTH_HIGHLAND_MIXE	mto	blood	946	30	nupun	1		nupun	252
+SOUTH_HIGHLAND_MIXE	mxp	blood	946	30	n373py	1		nəʔəpj	253
+LOWLAND_MIXE	mco	blood	946	30	n3py	1		nəpj	254
+SAYULA_POPOLUCA	pos	blood	946	30	nipin	1		nipin	255
+OLUTA_POPOLUCA	plo	blood	946	30	n3pin	1		nəpin	256
+TEXISTEPEC_ZOQUE	poq	blood	946	30	d373pi5	1		dəʔəpiɲ	257
+SOTEAPAN_ZOQUE	poi	blood	946	30	n373pi5	1		nəʔəpiɲ	258
+MARIA_CHIMALAPA	zoh	blood	946	30	n3pin	1		nəpin	259
+MIGUEL_CHIMALAPA	zoh	blood	946	30	n3pin7	1		nəpinʔ	260
+CHIAPAS_ZOQUE	zoc	blood	946	30	n3pin	1		nəpin	261
+NORTH_HIGHLAND_MIXE	mto	bone	1394	31	pak	1		pak	262
+SOUTH_HIGHLAND_MIXE	mxp	bone	1394	31	pak	1		pak	263
+LOWLAND_MIXE	mco	bone	1394	31	pak	1		pak	264
+SAYULA_POPOLUCA	pos	bone	1394	31	pak	1		pak	265
+OLUTA_POPOLUCA	plo	bone	1394	31	pak3	1		pakə	266
+TEXISTEPEC_ZOQUE	poq	bone	1394	31	pak	1		pak	267
+SOTEAPAN_ZOQUE	poi	bone	1394	31	pak	1		pak	268
+MARIA_CHIMALAPA	zoh	bone	1394	31	pak	1		pak	269
+MIGUEL_CHIMALAPA	zoh	bone	1394	31	pak	1		pak	270
+CHIAPAS_ZOQUE	zoc	bone	1394	31	pak	1		pak	271
+NORTH_HIGHLAND_MIXE	mto	grease	1282	32	on	1		on	272
+SOUTH_HIGHLAND_MIXE	mxp	grease	1282	32	on	1		on	273
+LOWLAND_MIXE	mco	grease	1282	32	win omb	2		win_omb	274
+SAYULA_POPOLUCA	pos	grease	1282	32	o7c3k	3		oʔt͡sək	275
+OLUTA_POPOLUCA	plo	grease	1282	32	ona	1		ona	276
+SOTEAPAN_ZOQUE	poi	grease	1282	32	p3hi	5		pəhi	277
+MARIA_CHIMALAPA	zoh	grease	1282	32	grasa	6		ɡrasa	278
+MIGUEL_CHIMALAPA	zoh	grease	1282	32	yewe7	7		jeweʔ	279
+CHIAPAS_ZOQUE	zoc	grease	1282	32	kin3	4		kinə	280
+NORTH_HIGHLAND_MIXE	mto	egg	744	33	tu7ut	1		tuʔut	281
+SOUTH_HIGHLAND_MIXE	mxp	egg	744	33	tucah	1		tut͡sah	282
+LOWLAND_MIXE	mco	egg	744	33	tu7uty	1		tuʔutj	283
+SAYULA_POPOLUCA	pos	egg	744	33	koy	2		koj	284
+OLUTA_POPOLUCA	plo	egg	744	33	tutik	1		tutik	285
+TEXISTEPEC_ZOQUE	poq	egg	744	33	kanpuk	4		kanpuk	286
+SOTEAPAN_ZOQUE	poi	egg	744	33	kanpu	4		kanpu	287
+MARIA_CHIMALAPA	zoh	egg	744	33	po7ok	3		poʔok	288
+MIGUEL_CHIMALAPA	zoh	egg	744	33	pohok	3		pohok	289
+CHIAPAS_ZOQUE	zoc	egg	744	33	poka	3		poka	290
+NORTH_HIGHLAND_MIXE	mto	horn	1393	34	vah	1		vah	291
+SOUTH_HIGHLAND_MIXE	mxp	horn	1393	34	wah	1		wah	292
+LOWLAND_MIXE	mco	horn	1393	34	mun	2		mun	293
+SAYULA_POPOLUCA	pos	horn	1393	34	wah	1		wah	294
+OLUTA_POPOLUCA	plo	horn	1393	34	vaha	1		vaha	295
+TEXISTEPEC_ZOQUE	poq	horn	1393	34	waNa7	1		waŋaʔ	296
+MIGUEL_CHIMALAPA	zoh	horn	1393	34	weka7	3		wekaʔ	297
+CHIAPAS_ZOQUE	zoc	horn	1393	34	wa7	1		waʔ	298
+NORTH_HIGHLAND_MIXE	mto	tail	1220	35	tuSta	1		tuʃta	299
+SOUTH_HIGHLAND_MIXE	mxp	tail	1220	35	tuct	1		tut͡st	300
+LOWLAND_MIXE	mco	tail	1220	35	pi7iSy	2		piʔiʃj	301
+SAYULA_POPOLUCA	pos	tail	1220	35	tuhc	1		tuht͡s	302
+OLUTA_POPOLUCA	plo	tail	1220	35	tusta	1		tusta	303
+TEXISTEPEC_ZOQUE	poq	tail	1220	35	tuc	1		tut͡s	304
+SOTEAPAN_ZOQUE	poi	tail	1220	35	tuc	1		tut͡s	305
+MARIA_CHIMALAPA	zoh	tail	1220	35	tuc	1		tut͡s	306
+MIGUEL_CHIMALAPA	zoh	tail	1220	35	tuc	1		tut͡s	307
+CHIAPAS_ZOQUE	zoc	tail	1220	35	tuc	1		tut͡s	308
+NORTH_HIGHLAND_MIXE	mto	feather	1201	36	pak	1		pak	309
+SOUTH_HIGHLAND_MIXE	mxp	feather	1201	36	p3k	1		pək	310
+LOWLAND_MIXE	mco	feather	1201	36	ce5i7i b3k	2		t͡seɲiʔi_bək	311
+OLUTA_POPOLUCA	plo	feather	1201	36	p3k3	1		pəkə	312
+TEXISTEPEC_ZOQUE	poq	feather	1201	36	p3k	1		pək	313
+SOTEAPAN_ZOQUE	poi	feather	1201	36	p3k	1		pək	314
+MARIA_CHIMALAPA	zoh	feather	1201	36	p3k	1		pək	315
+MIGUEL_CHIMALAPA	zoh	feather	1201	36	p3k	1		pək	316
+CHIAPAS_ZOQUE	zoc	feather	1201	36	p3k	1		pək	317
+NORTH_HIGHLAND_MIXE	mto	hair	1040	37	vay	1		vaj	318
+SOUTH_HIGHLAND_MIXE	mxp	hair	1040	37	way	1		waj	319
+LOWLAND_MIXE	mco	hair	1040	37	way	1		waj	320
+TEXISTEPEC_ZOQUE	poq	hair	1040	37	way	1		waj	321
+SOTEAPAN_ZOQUE	poi	hair	1040	37	way	1		waj	322
+MARIA_CHIMALAPA	zoh	hair	1040	37	way	1		waj	323
+MIGUEL_CHIMALAPA	zoh	hair	1040	37	way7	1		wajʔ	324
+CHIAPAS_ZOQUE	zoc	hair	1040	37	way	1	also: p3k	waj	325
+NORTH_HIGHLAND_MIXE	mto	head	1256	38	kuvak	1		kuvak	326
+SOUTH_HIGHLAND_MIXE	mxp	head	1256	38	k3pak	1		kəpak	327
+LOWLAND_MIXE	mco	head	1256	38	kowak	1		kowak	328
+SAYULA_POPOLUCA	pos	head	1256	38	kopak	1		kopak	329
+OLUTA_POPOLUCA	plo	head	1256	38	kopak	1		kopak	330
+TEXISTEPEC_ZOQUE	poq	head	1256	38	kop3k	1		kopək	331
+SOTEAPAN_ZOQUE	poi	head	1256	38	kobak	1		kobak	332
+MARIA_CHIMALAPA	zoh	head	1256	38	way	2		waj	333
+MIGUEL_CHIMALAPA	zoh	head	1256	38	kopak	1		kopak	334
+CHIAPAS_ZOQUE	zoc	head	1256	38	kopak	1		kopak	335
+NORTH_HIGHLAND_MIXE	mto	ear	1247	39	tack	1		tat͡sk	336
+SOUTH_HIGHLAND_MIXE	mxp	ear	1247	39	tack	1		tat͡sk	337
+SAYULA_POPOLUCA	pos	ear	1247	39	tac3k	1		tat͡sək	338
+OLUTA_POPOLUCA	plo	ear	1247	39	tac3k	1		tat͡sək	339
+TEXISTEPEC_ZOQUE	poq	ear	1247	39	tac3k	1		tat͡sək	340
+SOTEAPAN_ZOQUE	poi	ear	1247	39	tacek	1		tat͡sek	341
+MARIA_CHIMALAPA	zoh	ear	1247	39	tac3k	1		tat͡sək	342
+MIGUEL_CHIMALAPA	zoh	ear	1247	39	tac3k	1		tat͡sək	343
+CHIAPAS_ZOQUE	zoc	ear	1247	39	tac3k	1		tat͡sək	344
+NORTH_HIGHLAND_MIXE	mto	eye	1248	40	vin	1		vin	345
+SOUTH_HIGHLAND_MIXE	mxp	eye	1248	40	wen	1		wen	346
+LOWLAND_MIXE	mco	eye	1248	40	win	1		win	347
+SAYULA_POPOLUCA	pos	eye	1248	40	win	1		win	348
+OLUTA_POPOLUCA	plo	eye	1248	40	vin3	1		vinə	349
+TEXISTEPEC_ZOQUE	poq	eye	1248	40	eS ku7	2		eʃ_kuʔ	350
+SOTEAPAN_ZOQUE	poi	eye	1248	40	iS kuy	2		iʃ_kuj	351
+MARIA_CHIMALAPA	zoh	eye	1248	40	wit3m	3		witəm	352
+MIGUEL_CHIMALAPA	zoh	eye	1248	40	wot3m	3		wotəm	353
+CHIAPAS_ZOQUE	zoc	eye	1248	40	win	1		win	354
+NORTH_HIGHLAND_MIXE	mto	nose	1221	41	h3p	1		həp	355
+SOUTH_HIGHLAND_MIXE	mxp	nose	1221	41	h3p	1		həp	356
+LOWLAND_MIXE	mco	nose	1221	41	h3p put	1		həp_put	357
+SAYULA_POPOLUCA	pos	nose	1221	41	h3p	1		həp	358
+OLUTA_POPOLUCA	plo	nose	1221	41	h3p3	2		həpə	359
+TEXISTEPEC_ZOQUE	poq	nose	1221	41	ke5 kuy	3		keɲ_kuj	360
+SOTEAPAN_ZOQUE	poi	nose	1221	41	ki5i	4		kiɲi	361
+MARIA_CHIMALAPA	zoh	nose	1221	41	kin3	1		kinə	362
+MIGUEL_CHIMALAPA	zoh	nose	1221	41	kin3k	4		kinək	363
+CHIAPAS_ZOQUE	zoc	nose	1221	41	kin3	4		kinə	364
+NORTH_HIGHLAND_MIXE	mto	mouth	674	42	ah	1		ah	365
+LOWLAND_MIXE	mco	mouth	674	42	awak	1		awak	366
+SAYULA_POPOLUCA	pos	mouth	674	42	ahw~	1		aʰʷ	367
+OLUTA_POPOLUCA	plo	mouth	674	42	av3	1		avə	368
+TEXISTEPEC_ZOQUE	poq	mouth	674	42	h3p	3		həp	369
+SOTEAPAN_ZOQUE	poi	mouth	674	42	h3p	3		həp	370
+MARIA_CHIMALAPA	zoh	mouth	674	42	h3p	3		həp	371
+MIGUEL_CHIMALAPA	zoh	mouth	674	42	h3p	3		həp	372
+CHIAPAS_ZOQUE	zoc	mouth	674	42	aNnaka	2		aŋnaka	373
+NORTH_HIGHLAND_MIXE	mto	tooth	1380	43	t3c	1		tət͡s	374
+SOUTH_HIGHLAND_MIXE	mxp	tooth	1380	43	t3c	1		tət͡s	375
+LOWLAND_MIXE	mco	tooth	1380	43	t3c	1		tət͡s	376
+SAYULA_POPOLUCA	pos	tooth	1380	43	t3c	1		tət͡s	377
+OLUTA_POPOLUCA	plo	tooth	1380	43	t3c3	1		tət͡sə	378
+TEXISTEPEC_ZOQUE	poq	tooth	1380	43	t3c	1		tət͡s	379
+SOTEAPAN_ZOQUE	poi	tooth	1380	43	t3c	1		tət͡s	380
+MARIA_CHIMALAPA	zoh	tooth	1380	43	t3c	1		tət͡s	381
+MIGUEL_CHIMALAPA	zoh	tooth	1380	43	t3c	1		tət͡s	382
+CHIAPAS_ZOQUE	zoc	tooth	1380	43	t3c	1		tət͡s	383
+NORTH_HIGHLAND_MIXE	mto	tongue	1205	44	toc	1		tot͡s	384
+SOUTH_HIGHLAND_MIXE	mxp	tongue	1205	44	toc	1		tot͡s	385
+LOWLAND_MIXE	mco	tongue	1205	44	toc	1		tot͡s	386
+SAYULA_POPOLUCA	pos	tongue	1205	44	toc	1		tot͡s	387
+OLUTA_POPOLUCA	plo	tongue	1205	44	toc3	1		tot͡sə	388
+SOTEAPAN_ZOQUE	poi	tongue	1205	44	toc	1		tot͡s	389
+MARIA_CHIMALAPA	zoh	tongue	1205	44	yen kuy	2		jen_kuj	390
+MIGUEL_CHIMALAPA	zoh	tongue	1205	44	toc	1		tot͡s	391
+CHIAPAS_ZOQUE	zoc	tongue	1205	44	toc	1		tot͡s	392
+NORTH_HIGHLAND_MIXE	mto	claw	72	45	S3k	1		ʃək	393
+SOUTH_HIGHLAND_MIXE	mxp	claw	72	45	Soky	1		ʃokj	394
+LOWLAND_MIXE	mco	claw	72	45	Soky	1		ʃokj	395
+SAYULA_POPOLUCA	pos	claw	72	45	Sok	1		ʃok	396
+OLUTA_POPOLUCA	plo	claw	72	45	Soki	1		ʃoki	397
+TEXISTEPEC_ZOQUE	poq	claw	72	45	k37 cuks	2		kəʔ_t͡suks	398
+SOTEAPAN_ZOQUE	poi	claw	72	45	k3c3s	2		kət͡səs	399
+MARIA_CHIMALAPA	zoh	claw	72	45	k3cus	2		kət͡sus	400
+MIGUEL_CHIMALAPA	zoh	claw	72	45	k3cuS	2		kət͡suʃ	401
+CHIAPAS_ZOQUE	zoc	claw	72	45	k3Cus	2		kət͡ʃus	402
+NORTH_HIGHLAND_MIXE	mto	foot	1301	46	tek	1		tek	403
+SOUTH_HIGHLAND_MIXE	mxp	foot	1301	46	teky	1		tekj	404
+LOWLAND_MIXE	mco	foot	1301	46	teky	1		tekj	405
+SAYULA_POPOLUCA	pos	foot	1301	46	tan	2		tan	406
+OLUTA_POPOLUCA	plo	foot	1301	46	k3Sta	3		kəʃta	407
+TEXISTEPEC_ZOQUE	poq	foot	1301	46	pak	5		pak	408
+SOTEAPAN_ZOQUE	poi	foot	1301	46	puy	6		puj	409
+MARIA_CHIMALAPA	zoh	foot	1301	46	maN kuy	7		maŋ_kuj	410
+MIGUEL_CHIMALAPA	zoh	foot	1301	46	maN kuy7	7		maŋ_kujʔ	411
+CHIAPAS_ZOQUE	zoc	foot	1301	46	neN bak	4		neŋ_bak	412
+NORTH_HIGHLAND_MIXE	mto	knee	1371	47	koS	1		koʃ	413
+SOUTH_HIGHLAND_MIXE	mxp	knee	1371	47	koS	1		koʃ	414
+LOWLAND_MIXE	mco	knee	1371	47	koSkowak	1		koʃkowak	415
+SAYULA_POPOLUCA	pos	knee	1371	47	koSk	1		koʃk	416
+OLUTA_POPOLUCA	plo	knee	1371	47	koSo	1		koʃo	417
+TEXISTEPEC_ZOQUE	poq	knee	1371	47	koso	1		koso	418
+SOTEAPAN_ZOQUE	poi	knee	1371	47	koso	1		koso	419
+MARIA_CHIMALAPA	zoh	knee	1371	47	koma	2		koma	420
+MIGUEL_CHIMALAPA	zoh	knee	1371	47	koma7	2		komaʔ	421
+CHIAPAS_ZOQUE	zoc	knee	1371	47	tuNupyok	3		tuŋupjok	422
+NORTH_HIGHLAND_MIXE	mto	hand	1277	48	k373	1		kəʔə	423
+SOUTH_HIGHLAND_MIXE	mxp	hand	1277	48	k373	1		kəʔə	424
+LOWLAND_MIXE	mco	hand	1277	48	k37	1		kəʔ	425
+SAYULA_POPOLUCA	pos	hand	1277	48	k37	1		kəʔ	426
+OLUTA_POPOLUCA	plo	hand	1277	48	k37	1		kəʔ	427
+TEXISTEPEC_ZOQUE	poq	hand	1277	48	k37	1		kəʔ	428
+SOTEAPAN_ZOQUE	poi	hand	1277	48	k3	1		kə	429
+MARIA_CHIMALAPA	zoh	hand	1277	48	k37	1		kəʔ	430
+MIGUEL_CHIMALAPA	zoh	hand	1277	48	caN kuy7	2		t͡saŋ_kujʔ	431
+CHIAPAS_ZOQUE	zoc	hand	1277	48	k37	1		kəʔ	432
+NORTH_HIGHLAND_MIXE	mto	neck	1333	50	yokt	1		jokt	433
+SOUTH_HIGHLAND_MIXE	mxp	neck	1333	50	yokt	1		jokt	434
+LOWLAND_MIXE	mco	neck	1333	50	yo7ok pak	1		joʔok_pak	435
+SAYULA_POPOLUCA	pos	neck	1333	50	yok	1		jok	436
+TEXISTEPEC_ZOQUE	poq	neck	1333	50	k3n k37	2		kən_kəʔ	437
+MIGUEL_CHIMALAPA	zoh	neck	1333	50	wintu7	3		wintuʔ	438
+CHIAPAS_ZOQUE	zoc	neck	1333	50	k3n3	2		kənə	439
+NORTH_HIGHLAND_MIXE	mto	heart	1223	52	havin	1		havin	440
+SOUTH_HIGHLAND_MIXE	mxp	heart	1223	52	anm3 ha7an	4		anmə_haʔan	441
+LOWLAND_MIXE	mco	heart	1223	52	huky hot	2		hukj_hot	442
+OLUTA_POPOLUCA	plo	heart	1223	52	hutukot3	2		hutukotə	443
+TEXISTEPEC_ZOQUE	poq	heart	1223	52	coko7	3		t͡sokoʔ	444
+SOTEAPAN_ZOQUE	poi	heart	1223	52	anamah	4		anamah	445
+MARIA_CHIMALAPA	zoh	heart	1223	52	cokoy	3		t͡sokoj	446
+MIGUEL_CHIMALAPA	zoh	heart	1223	52	cokoy7	3		t͡sokojʔ	447
+CHIAPAS_ZOQUE	zoc	heart	1223	52	cokay	3		t͡sokaj	448
+NORTH_HIGHLAND_MIXE	mto	liver	1224	53	n3 hot	1		nə_hot	449
+SOUTH_HIGHLAND_MIXE	mxp	liver	1224	53	hot	1		hot	450
+LOWLAND_MIXE	mco	liver	1224	53	hot	1		hot	451
+SAYULA_POPOLUCA	pos	liver	1224	53	hot	1		hot	452
+OLUTA_POPOLUCA	plo	liver	1224	53	t3shot3	1		təshotə	453
+TEXISTEPEC_ZOQUE	poq	liver	1224	53	coko7	1		t͡sokoʔ	454
+SOTEAPAN_ZOQUE	poi	liver	1224	53	cogoy	1		t͡soɡoj	455
+MARIA_CHIMALAPA	zoh	liver	1224	53	cokoy	1		t͡sokoj	456
+MIGUEL_CHIMALAPA	zoh	liver	1224	53	pat	2		pat	457
+CHIAPAS_ZOQUE	zoc	liver	1224	53	pat	2		pat	458
+NORTH_HIGHLAND_MIXE	mto	drink	1401	54	uk	1		uk	459
+SOUTH_HIGHLAND_MIXE	mxp	drink	1401	54	uk	1		uk	460
+LOWLAND_MIXE	mco	drink	1401	54	uk	1		uk	461
+SAYULA_POPOLUCA	pos	drink	1401	54	uk	1	also: u7k	uk	462
+OLUTA_POPOLUCA	plo	drink	1401	54	uk	1		uk	463
+TEXISTEPEC_ZOQUE	poq	drink	1401	54	uk	1		uk	464
+SOTEAPAN_ZOQUE	poi	drink	1401	54	uk	1		uk	465
+MARIA_CHIMALAPA	zoh	drink	1401	54	uk	1		uk	466
+MIGUEL_CHIMALAPA	zoh	drink	1401	54	uk	1		uk	467
+CHIAPAS_ZOQUE	zoc	drink	1401	54	uhk	1		uhk	468
+NORTH_HIGHLAND_MIXE	mto	eat	1336	55	kay	2		kaj	469
+SOUTH_HIGHLAND_MIXE	mxp	eat	1336	55	kEy	2		kɛj	470
+LOWLAND_MIXE	mco	eat	1336	55	kay	2		kaj	471
+SAYULA_POPOLUCA	pos	eat	1336	55	kay	2		kaj	472
+OLUTA_POPOLUCA	plo	eat	1336	55	kay	2		kaj	473
+TEXISTEPEC_ZOQUE	poq	eat	1336	55	k373s	3		kəʔəs	474
+SOTEAPAN_ZOQUE	poi	eat	1336	55	k373s	3		kəʔəs	475
+MARIA_CHIMALAPA	zoh	eat	1336	55	k3s oy	3		kəs_oj	476
+MIGUEL_CHIMALAPA	zoh	eat	1336	55	k3S	3		kəʃ	477
+CHIAPAS_ZOQUE	zoc	eat	1336	55	k3s	3		kəs	478
+NORTH_HIGHLAND_MIXE	mto	bite	1403	56	cu7uc	1		t͡suʔut͡s	479
+SOUTH_HIGHLAND_MIXE	mxp	bite	1403	56	cu7uc	1		t͡suʔut͡s	480
+LOWLAND_MIXE	mco	bite	1403	56	noc	2		not͡s	481
+SAYULA_POPOLUCA	pos	bite	1403	56	kuto7	3		kutoʔ	482
+OLUTA_POPOLUCA	plo	bite	1403	56	cuc	4		t͡sut͡s	483
+TEXISTEPEC_ZOQUE	poq	bite	1403	56	kec	5		ket͡s	484
+SOTEAPAN_ZOQUE	poi	bite	1403	56	was	6		was	485
+MIGUEL_CHIMALAPA	zoh	bite	1403	56	waS	6		waʃ	486
+CHIAPAS_ZOQUE	zoc	bite	1403	56	kec	5		ket͡s	487
+NORTH_HIGHLAND_MIXE	mto	see	1409	57	iS	1		iʃ	488
+SOUTH_HIGHLAND_MIXE	mxp	see	1409	57	eS	1		eʃ	489
+LOWLAND_MIXE	mco	see	1409	57	iS	1		iʃ	490
+SAYULA_POPOLUCA	pos	see	1409	57	iS	1	also: e7p	iʃ	491
+TEXISTEPEC_ZOQUE	poq	see	1409	57	eS	1		eʃ	492
+SOTEAPAN_ZOQUE	poi	see	1409	57	i7iS	1		iʔiʃ	493
+MARIA_CHIMALAPA	zoh	see	1409	57	is	1		is	494
+MIGUEL_CHIMALAPA	zoh	see	1409	57	iS	1		iʃ	495
+CHIAPAS_ZOQUE	zoc	see	1409	57	is	1		is	496
+NORTH_HIGHLAND_MIXE	mto	hear	1408	58	motu	1		motu	497
+SOUTH_HIGHLAND_MIXE	mxp	hear	1408	58	m3to	1		məto	498
+LOWLAND_MIXE	mco	hear	1408	58	m3dogug37	1		mədoɡuɡəʔ	499
+SAYULA_POPOLUCA	pos	hear	1408	58	maraw	1		maraw	500
+OLUTA_POPOLUCA	plo	hear	1408	58	motov	1		motov	501
+TEXISTEPEC_ZOQUE	poq	hear	1408	58	bat3N	1		batəŋ	502
+SOTEAPAN_ZOQUE	poi	hear	1408	58	aN t3n	2		aŋ_tən	503
+MARIA_CHIMALAPA	zoh	hear	1408	58	matoN	1		matoŋ	504
+MIGUEL_CHIMALAPA	zoh	hear	1408	58	matoN	1		matoŋ	505
+CHIAPAS_ZOQUE	zoc	hear	1408	58	matoN	1		matoŋ	506
+NORTH_HIGHLAND_MIXE	mto	know	1410	59	n3hava	1		nəhava	507
+SOUTH_HIGHLAND_MIXE	mxp	know	1410	59	naw	1		naw	508
+LOWLAND_MIXE	mco	know	1410	59	new3y	2		newəj	509
+SAYULA_POPOLUCA	pos	know	1410	59	hawi	2		hawi	510
+OLUTA_POPOLUCA	plo	know	1410	59	viniy	2		vinij	511
+TEXISTEPEC_ZOQUE	poq	know	1410	59	bus	3		bus	512
+SOTEAPAN_ZOQUE	poi	know	1410	59	hodoN	4		hodoŋ	513
+MARIA_CHIMALAPA	zoh	know	1410	59	mus	3		mus	514
+MIGUEL_CHIMALAPA	zoh	know	1410	59	muS	3		muʃ	515
+CHIAPAS_ZOQUE	zoc	know	1410	59	mus	3		mus	516
+NORTH_HIGHLAND_MIXE	mto	sleep	1585	60	ma7a	1		maʔa	517
+SOUTH_HIGHLAND_MIXE	mxp	sleep	1585	60	ma7a	1		maʔa	518
+LOWLAND_MIXE	mco	sleep	1585	60	ma7	1		maʔ	519
+SAYULA_POPOLUCA	pos	sleep	1585	60	ma7	1	also: ma	maʔ	520
+OLUTA_POPOLUCA	plo	sleep	1585	60	ma	1	also: mah	ma	521
+TEXISTEPEC_ZOQUE	poq	sleep	1585	60	boN	3		boŋ	522
+SOTEAPAN_ZOQUE	poi	sleep	1585	60	moN	3		moŋ	523
+MARIA_CHIMALAPA	zoh	sleep	1585	60	moN	3		moŋ	524
+MIGUEL_CHIMALAPA	zoh	sleep	1585	60	kap ney	4		kap_nej	525
+CHIAPAS_ZOQUE	zoc	sleep	1585	60	3N	2		əŋ	526
+NORTH_HIGHLAND_MIXE	mto	die	1494	61	o7k	1		oʔk	527
+SOUTH_HIGHLAND_MIXE	mxp	die	1494	61	ok	1		ok	528
+LOWLAND_MIXE	mco	die	1494	61	o7ok	1		oʔok	529
+SAYULA_POPOLUCA	pos	die	1494	61	o7k	1		oʔk	530
+OLUTA_POPOLUCA	plo	die	1494	61	ok	1		ok	531
+TEXISTEPEC_ZOQUE	poq	die	1494	61	ka7	2		kaʔ	532
+SOTEAPAN_ZOQUE	poi	die	1494	61	ka7	2		kaʔ	533
+MARIA_CHIMALAPA	zoh	die	1494	61	kah	2		kah	534
+MIGUEL_CHIMALAPA	zoh	die	1494	61	ka7	2		kaʔ	535
+CHIAPAS_ZOQUE	zoc	die	1494	61	ka7	2		kaʔ	536
+NORTH_HIGHLAND_MIXE	mto	kill	1417	62	yak 7ok	1		jak_ʔok	537
+SOUTH_HIGHLAND_MIXE	mxp	kill	1417	62	Ek ok	1		ɛk_ok	538
+LOWLAND_MIXE	mco	kill	1417	62	yah o7ok	1		jah_oʔok	539
+SAYULA_POPOLUCA	pos	kill	1417	62	ag o7k	1		aɡ_oʔk	540
+OLUTA_POPOLUCA	plo	kill	1417	62	yak ok	1		jak_ok	541
+TEXISTEPEC_ZOQUE	poq	kill	1417	62	yaka7	2		jakaʔ	542
+SOTEAPAN_ZOQUE	poi	kill	1417	62	ik ka7	2		ik_kaʔ	543
+MARIA_CHIMALAPA	zoh	kill	1417	62	yak kah	2		jak_kah	544
+MIGUEL_CHIMALAPA	zoh	kill	1417	62	yak 7oy	3		jak_ʔoj	545
+CHIAPAS_ZOQUE	zoc	kill	1417	62	yah ka7	2		jah_kaʔ	546
+NORTH_HIGHLAND_MIXE	mto	swim	1439	63	n3 vun	1		nə_vun	547
+SOUTH_HIGHLAND_MIXE	mxp	swim	1439	63	n3 yum	3		nə_jum	548
+LOWLAND_MIXE	mco	swim	1439	63	yab	2		jab	549
+SAYULA_POPOLUCA	pos	swim	1439	63	yun	3		jun	550
+OLUTA_POPOLUCA	plo	swim	1439	63	yun	3		jun	551
+TEXISTEPEC_ZOQUE	poq	swim	1439	63	p3n	5		pən	552
+SOTEAPAN_ZOQUE	poi	swim	1439	63	pun	5		pun	553
+MARIA_CHIMALAPA	zoh	swim	1439	63	yun	3		jun	554
+MIGUEL_CHIMALAPA	zoh	swim	1439	63	yuk	6		juk	555
+CHIAPAS_ZOQUE	zoc	swim	1439	63	hemu	4		hemu	556
+NORTH_HIGHLAND_MIXE	mto	walk	1443	65	yo7oy	1		joʔoj	557
+SOUTH_HIGHLAND_MIXE	mxp	walk	1443	65	yo7oy	1		joʔoj	558
+LOWLAND_MIXE	mco	walk	1443	65	yo7oy	1		joʔoj	559
+SAYULA_POPOLUCA	pos	walk	1443	65	yoy	1		joj	560
+OLUTA_POPOLUCA	plo	walk	1443	65	vit	2		vit	561
+TEXISTEPEC_ZOQUE	poq	walk	1443	65	weC	2		wet͡ʃ	562
+SOTEAPAN_ZOQUE	poi	walk	1443	65	wity~	2		witʲ	563
+MIGUEL_CHIMALAPA	zoh	walk	1443	65	wit	2	also: tuN 7ah	wit	564
+CHIAPAS_ZOQUE	zoc	walk	1443	65	wit	2		wit	565
+NORTH_HIGHLAND_MIXE	mto	come	1446	66	mec	1		met͡s	566
+SOUTH_HIGHLAND_MIXE	mxp	come	1446	66	men	2		men	567
+LOWLAND_MIXE	mco	come	1446	66	min	2		min	568
+SAYULA_POPOLUCA	pos	come	1446	66	min	2		min	569
+OLUTA_POPOLUCA	plo	come	1446	66	min	2		min	570
+TEXISTEPEC_ZOQUE	poq	come	1446	66	be5	2		beɲ	571
+SOTEAPAN_ZOQUE	poi	come	1446	66	mi5	2		miɲ	572
+MARIA_CHIMALAPA	zoh	come	1446	66	min	2		min	573
+MIGUEL_CHIMALAPA	zoh	come	1446	66	min	2		min	574
+CHIAPAS_ZOQUE	zoc	come	1446	66	min	2		min	575
+NORTH_HIGHLAND_MIXE	mto	lie	1411	67	mava	1		mava	576
+SOUTH_HIGHLAND_MIXE	mxp	lie	1411	67	ko7ok	2		koʔok	577
+LOWLAND_MIXE	mco	lie	1411	67	ko7ok	2		koʔok	578
+SAYULA_POPOLUCA	pos	lie	1411	67	k3mna	3		kəmna	579
+OLUTA_POPOLUCA	plo	lie	1411	67	Sok	4		ʃok	580
+TEXISTEPEC_ZOQUE	poq	lie	1411	67	kas de7	5		kas_deʔ	581
+SOTEAPAN_ZOQUE	poi	lie	1411	67	wone7e	6		woneʔe	582
+MARIA_CHIMALAPA	zoh	lie	1411	67	moN k3take	7		moŋ_kətake	583
+MIGUEL_CHIMALAPA	zoh	lie	1411	67	moN	7		moŋ	584
+CHIAPAS_ZOQUE	zoc	lie	1411	67	3kgek	8		əkɡek	585
+NORTH_HIGHLAND_MIXE	mto	sit	1416	68	cuna	1		t͡suna	586
+SOUTH_HIGHLAND_MIXE	mxp	sit	1416	68	c3n	1		t͡sən	587
+LOWLAND_MIXE	mco	sit	1416	68	iny3y	2	also: iStak	injəj	588
+SAYULA_POPOLUCA	pos	sit	1416	68	c3na	1		t͡səna	589
+OLUTA_POPOLUCA	plo	sit	1416	68	huni	3		huni	590
+TEXISTEPEC_ZOQUE	poq	sit	1416	68	kon	5		kon	591
+SOTEAPAN_ZOQUE	poi	sit	1416	68	ko5	5		koɲ	592
+MARIA_CHIMALAPA	zoh	sit	1416	68	c3nay	1		t͡sənaj	593
+MIGUEL_CHIMALAPA	zoh	sit	1416	68	c3n	1		t͡sən	594
+CHIAPAS_ZOQUE	zoc	sit	1416	68	poks	4		poks	595
+NORTH_HIGHLAND_MIXE	mto	stand	1442	69	tena	1		tena	596
+SOUTH_HIGHLAND_MIXE	mxp	stand	1442	69	t3nEy	1		tənɛj	597
+LOWLAND_MIXE	mco	stand	1442	69	tenay	1		tenaj	598
+SAYULA_POPOLUCA	pos	stand	1442	69	tena	1		tena	599
+OLUTA_POPOLUCA	plo	stand	1442	69	teniy	1		tenij	600
+TEXISTEPEC_ZOQUE	poq	stand	1442	69	hop de7	2		hop_deʔ	601
+SOTEAPAN_ZOQUE	poi	stand	1442	69	te5	1		teɲ	602
+MIGUEL_CHIMALAPA	zoh	stand	1442	69	ten	1	also: maN ney	ten	603
+CHIAPAS_ZOQUE	zoc	stand	1442	69	tenay	1		tenaj	604
+NORTH_HIGHLAND_MIXE	mto	give	1447	70	m373	1		məʔə	605
+SOUTH_HIGHLAND_MIXE	mxp	give	1447	70	yak	3		jak	606
+LOWLAND_MIXE	mco	give	1447	70	mo7	1		moʔ	607
+SAYULA_POPOLUCA	pos	give	1447	70	moy	1	also: mo7	moj	608
+OLUTA_POPOLUCA	plo	give	1447	70	moy	1	also: mo7	moj	609
+TEXISTEPEC_ZOQUE	poq	give	1447	70	Ce7	2		t͡ʃeʔ	610
+SOTEAPAN_ZOQUE	poi	give	1447	70	Ci7	2		t͡ʃiʔ	611
+MARIA_CHIMALAPA	zoh	give	1447	70	ci7	2		t͡siʔ	612
+MIGUEL_CHIMALAPA	zoh	give	1447	70	ci7	2		t͡siʔ	613
+CHIAPAS_ZOQUE	zoc	give	1447	70	Ci7	2		t͡ʃiʔ	614
+NORTH_HIGHLAND_MIXE	mto	say	1458	71	va7a5	1		vaʔaɲ	615
+SOUTH_HIGHLAND_MIXE	mxp	say	1458	71	n3 kapS	5		nə_kapʃ	616
+LOWLAND_MIXE	mco	say	1458	71	m3nan	2		mənan	617
+SAYULA_POPOLUCA	pos	say	1458	71	n3m	4		nəm	618
+OLUTA_POPOLUCA	plo	say	1458	71	n3m	4		nəm	619
+TEXISTEPEC_ZOQUE	poq	say	1458	71	d3m	4		dəm	620
+SOTEAPAN_ZOQUE	poi	say	1458	71	n3m	4		nəm	621
+MARIA_CHIMALAPA	zoh	say	1458	71	n3m	4		nəm	622
+MIGUEL_CHIMALAPA	zoh	say	1458	71	n3m	4		nəm	623
+CHIAPAS_ZOQUE	zoc	say	1458	71	n3m	4		nəm	624
+NORTH_HIGHLAND_MIXE	mto	sun	1343	72	S3	1		ʃə	625
+SOUTH_HIGHLAND_MIXE	mxp	sun	1343	72	S37an	1		ʃəʔan	626
+LOWLAND_MIXE	mco	sun	1343	72	S3	1		ʃə	627
+SAYULA_POPOLUCA	pos	sun	1343	72	S3w	1		ʃəw	628
+OLUTA_POPOLUCA	plo	sun	1343	72	S3v3	1		ʃəvə	629
+TEXISTEPEC_ZOQUE	poq	sun	1343	72	ham	2		ham	630
+SOTEAPAN_ZOQUE	poi	sun	1343	72	hama	2		hama	631
+MARIA_CHIMALAPA	zoh	sun	1343	72	hama	2		hama	632
+MIGUEL_CHIMALAPA	zoh	sun	1343	72	hama	2		hama	633
+CHIAPAS_ZOQUE	zoc	sun	1343	72	hama	2		hama	634
+NORTH_HIGHLAND_MIXE	mto	moon	1313	73	po7o	1		poʔo	635
+SOUTH_HIGHLAND_MIXE	mxp	moon	1313	73	po7o	1		poʔo	636
+LOWLAND_MIXE	mco	moon	1313	73	po7	1		poʔ	637
+SAYULA_POPOLUCA	pos	moon	1313	73	po7	1		poʔ	638
+OLUTA_POPOLUCA	plo	moon	1313	73	po7a	1		poʔa	639
+TEXISTEPEC_ZOQUE	poq	moon	1313	73	poy	1		poj	640
+SOTEAPAN_ZOQUE	poi	moon	1313	73	poya	1		poja	641
+MARIA_CHIMALAPA	zoh	moon	1313	73	sepe7	2		sepeʔ	642
+MIGUEL_CHIMALAPA	zoh	moon	1313	73	Sepe7	2		ʃepeʔ	643
+CHIAPAS_ZOQUE	zoc	moon	1313	73	poyah	1		pojah	644
+NORTH_HIGHLAND_MIXE	mto	star	1430	74	maca	1		mat͡sa	645
+SOUTH_HIGHLAND_MIXE	mxp	star	1430	74	maca7a	1		mat͡saʔa	646
+LOWLAND_MIXE	mco	star	1430	74	maca7	1		mat͡saʔ	647
+SAYULA_POPOLUCA	pos	star	1430	74	mac	1		mat͡s	648
+OLUTA_POPOLUCA	plo	star	1430	74	maca7a7k	1		mat͡saʔaʔk	649
+TEXISTEPEC_ZOQUE	poq	star	1430	74	baca7	1		bat͡saʔ	650
+SOTEAPAN_ZOQUE	poi	star	1430	74	maca	1		mat͡sa	651
+MARIA_CHIMALAPA	zoh	star	1430	74	maca7	1		mat͡saʔ	652
+MIGUEL_CHIMALAPA	zoh	star	1430	74	maca7	1		mat͡saʔ	653
+CHIAPAS_ZOQUE	zoc	star	1430	74	maca	1		mat͡sa	654
+NORTH_HIGHLAND_MIXE	mto	water	948	75	n3	1		nə	655
+SOUTH_HIGHLAND_MIXE	mxp	water	948	75	n3h	1		nəh	656
+LOWLAND_MIXE	mco	water	948	75	n3	1		nə	657
+SAYULA_POPOLUCA	pos	water	948	75	n37	1		nəʔ	658
+OLUTA_POPOLUCA	plo	water	948	75	n3h3	1		nəhə	659
+TEXISTEPEC_ZOQUE	poq	water	948	75	d37	1		dəʔ	660
+SOTEAPAN_ZOQUE	poi	water	948	75	n3	1		nə	661
+MARIA_CHIMALAPA	zoh	water	948	75	n37	1		nəʔ	662
+MIGUEL_CHIMALAPA	zoh	water	948	75	n37	1		nəʔ	663
+CHIAPAS_ZOQUE	zoc	water	948	75	n37	1		nəʔ	664
+NORTH_HIGHLAND_MIXE	mto	rain	658	76	tu	1		tu	665
+SOUTH_HIGHLAND_MIXE	mxp	rain	658	76	tuh	1		tuh	666
+LOWLAND_MIXE	mco	rain	658	76	tu	1		tu	667
+SAYULA_POPOLUCA	pos	rain	658	76	tu	1		tu	668
+OLUTA_POPOLUCA	plo	rain	658	76	tuh3	1		tuhə	669
+TEXISTEPEC_ZOQUE	poq	rain	658	76	tuh	1		tuh	670
+SOTEAPAN_ZOQUE	poi	rain	658	76	tuh	1		tuh	671
+MARIA_CHIMALAPA	zoh	rain	658	76	tuh	1		tuh	672
+MIGUEL_CHIMALAPA	zoh	rain	658	76	tuh	1		tuh	673
+CHIAPAS_ZOQUE	zoc	rain	658	76	tuh	1		tuh	674
+NORTH_HIGHLAND_MIXE	mto	stone	857	77	ca	1		t͡sa	675
+SOUTH_HIGHLAND_MIXE	mxp	stone	857	77	cah	1		t͡sah	676
+LOWLAND_MIXE	mco	stone	857	77	ca	1		t͡sa	677
+SAYULA_POPOLUCA	pos	stone	857	77	ca7	1		t͡saʔ	678
+OLUTA_POPOLUCA	plo	stone	857	77	cah3	1		t͡sahə	679
+TEXISTEPEC_ZOQUE	poq	stone	857	77	ca7	1		t͡saʔ	680
+SOTEAPAN_ZOQUE	poi	stone	857	77	ca	1		t͡sa	681
+MARIA_CHIMALAPA	zoh	stone	857	77	ca7	1		t͡saʔ	682
+MIGUEL_CHIMALAPA	zoh	stone	857	77	ca7	1		t͡saʔ	683
+CHIAPAS_ZOQUE	zoc	stone	857	77	ca7	1		t͡saʔ	684
+NORTH_HIGHLAND_MIXE	mto	sand	671	78	pu7u	1		puʔu	685
+SOUTH_HIGHLAND_MIXE	mxp	sand	671	78	pu7u	1		puʔu	686
+LOWLAND_MIXE	mco	sand	671	78	pu7	1		puʔ	687
+SAYULA_POPOLUCA	pos	sand	671	78	poy	1		poj	688
+OLUTA_POPOLUCA	plo	sand	671	78	pu73	1		puʔə	689
+TEXISTEPEC_ZOQUE	poq	sand	671	78	po7oy	1		poʔoj	690
+SOTEAPAN_ZOQUE	poi	sand	671	78	po7oy	1		poʔoj	691
+MARIA_CHIMALAPA	zoh	sand	671	78	hawe7	3		haweʔ	692
+MIGUEL_CHIMALAPA	zoh	sand	671	78	poe7	1		poeʔ	693
+CHIAPAS_ZOQUE	zoc	sand	671	78	wana	2		wana	694
+NORTH_HIGHLAND_MIXE	mto	earth	1228	79	naS	1		naʃ	695
+SOUTH_HIGHLAND_MIXE	mxp	earth	1228	79	naS wi53t	1		naʃ_wiɲət	696
+LOWLAND_MIXE	mco	earth	1228	79	t3c7ak	1		tət͡sʔak	697
+SAYULA_POPOLUCA	pos	earth	1228	79	naS	1		naʃ	698
+OLUTA_POPOLUCA	plo	earth	1228	79	naS3	1		naʃə	699
+TEXISTEPEC_ZOQUE	poq	earth	1228	79	das	1		das	700
+SOTEAPAN_ZOQUE	poi	earth	1228	79	nas	1		nas	701
+MARIA_CHIMALAPA	zoh	earth	1228	79	nas	1		nas	702
+MIGUEL_CHIMALAPA	zoh	earth	1228	79	naS	1		naʃ	703
+CHIAPAS_ZOQUE	zoc	earth	1228	79	nas	1		nas	704
+NORTH_HIGHLAND_MIXE	mto	cloud	1489	80	vinuc	1		vinut͡s	705
+SOUTH_HIGHLAND_MIXE	mxp	cloud	1489	80	n3ma7a	5		nəmaʔa	706
+LOWLAND_MIXE	mco	cloud	1489	80	hok	2		hok	707
+SAYULA_POPOLUCA	pos	cloud	1489	80	win tuk	1		win_tuk	708
+OLUTA_POPOLUCA	plo	cloud	1489	80	vin hoyek	1		vin_hojek	709
+TEXISTEPEC_ZOQUE	poq	cloud	1489	80	u7ksu7	4		uʔksuʔ	710
+SOTEAPAN_ZOQUE	poi	cloud	1489	80	uks3	4		uksə	711
+MIGUEL_CHIMALAPA	zoh	cloud	1489	80	in37	1		inəʔ	712
+CHIAPAS_ZOQUE	zoc	cloud	1489	80	o7na	3		oʔna	713
+NORTH_HIGHLAND_MIXE	mto	smoke	778	81	hok	1		hok	714
+SOUTH_HIGHLAND_MIXE	mxp	smoke	778	81	hok	1		hok	715
+LOWLAND_MIXE	mco	smoke	778	81	h3n hok	1		hən_hok	716
+SAYULA_POPOLUCA	pos	smoke	778	81	wiSik	2		wiʃik	717
+OLUTA_POPOLUCA	plo	smoke	778	81	hoko	1		hoko	718
+TEXISTEPEC_ZOQUE	poq	smoke	778	81	hok	1		hok	719
+SOTEAPAN_ZOQUE	poi	smoke	778	81	hoko	1		hoko	720
+MARIA_CHIMALAPA	zoh	smoke	778	81	o7ma7	3		oʔmaʔ	721
+MIGUEL_CHIMALAPA	zoh	smoke	778	81	oma7	3		omaʔ	722
+CHIAPAS_ZOQUE	zoc	smoke	778	81	hokoh	1		hokoh	723
+NORTH_HIGHLAND_MIXE	mto	fire	221	82	h3n	1		hən	724
+SOUTH_HIGHLAND_MIXE	mxp	fire	221	82	h3n	1		hən	725
+SAYULA_POPOLUCA	pos	fire	221	82	h3n	1		hən	726
+OLUTA_POPOLUCA	plo	fire	221	82	h3n3	1		hənə	727
+TEXISTEPEC_ZOQUE	poq	fire	221	82	hukut	2		hukut	728
+SOTEAPAN_ZOQUE	poi	fire	221	82	hukt3	2		huktə	729
+MARIA_CHIMALAPA	zoh	fire	221	82	hukut3	2		hukutə	730
+MIGUEL_CHIMALAPA	zoh	fire	221	82	a7c37	3		aʔt͡səʔ	731
+CHIAPAS_ZOQUE	zoc	fire	221	82	huk3t3k	2		hukətək	732
+NORTH_HIGHLAND_MIXE	mto	ashes	646	83	ham	2		ham	733
+SOUTH_HIGHLAND_MIXE	mxp	ashes	646	83	ham	2		ham	734
+LOWLAND_MIXE	mco	ashes	646	83	kuy ham	1		kuj_ham	735
+SAYULA_POPOLUCA	pos	ashes	646	83	kuy ham	1		kuj_ham	736
+OLUTA_POPOLUCA	plo	ashes	646	83	ham3	2		hamə	737
+TEXISTEPEC_ZOQUE	poq	ashes	646	83	kuyam	1		kujam	738
+SOTEAPAN_ZOQUE	poi	ashes	646	83	kuy ham	1		kuj_ham	739
+MARIA_CHIMALAPA	zoh	ashes	646	83	kuy ham	1		kuj_ham	740
+MIGUEL_CHIMALAPA	zoh	ashes	646	83	kuy ham	1		kuj_ham	741
+CHIAPAS_ZOQUE	zoc	ashes	646	83	kuy ham	1		kuj_ham	742
+NORTH_HIGHLAND_MIXE	mto	burn	2102	84	toy	1		toj	743
+SOUTH_HIGHLAND_MIXE	mxp	burn	2102	84	ca7ay	8		t͡saʔaj	744
+LOWLAND_MIXE	mco	burn	2102	84	no7ok	2		noʔok	745
+SAYULA_POPOLUCA	pos	burn	2102	84	ak toy	3		ak_toj	746
+OLUTA_POPOLUCA	plo	burn	2102	84	yak toy	3		jak_toj	747
+TEXISTEPEC_ZOQUE	poq	burn	2102	84	do7 toke5	5		doʔ_tokeɲ	748
+SOTEAPAN_ZOQUE	poi	burn	2102	84	no7	6		noʔ	749
+MARIA_CHIMALAPA	zoh	burn	2102	84	k3N	7		kəŋ	750
+MIGUEL_CHIMALAPA	zoh	burn	2102	84	poN	4		poŋ	751
+CHIAPAS_ZOQUE	zoc	burn	2102	84	poN	4		poŋ	752
+NORTH_HIGHLAND_MIXE	mto	road	667	85	tu7	1		tuʔ	753
+SOUTH_HIGHLAND_MIXE	mxp	road	667	85	tu7u	1		tuʔu	754
+LOWLAND_MIXE	mco	road	667	85	tu7	1		tuʔ	755
+SAYULA_POPOLUCA	pos	road	667	85	tow	1		tow	756
+OLUTA_POPOLUCA	plo	road	667	85	tu7aw	1		tuʔaw	757
+TEXISTEPEC_ZOQUE	poq	road	667	85	tuN	1		tuŋ	758
+SOTEAPAN_ZOQUE	poi	road	667	85	tuN	1		tuŋ	759
+MARIA_CHIMALAPA	zoh	road	667	85	tuN	1		tuŋ	760
+MIGUEL_CHIMALAPA	zoh	road	667	85	tuN	1		tuŋ	761
+CHIAPAS_ZOQUE	zoc	road	667	85	tuN	1		tuŋ	762
+NORTH_HIGHLAND_MIXE	mto	mountain	639	86	kopk	1		kopk	763
+SOUTH_HIGHLAND_MIXE	mxp	mountain	639	86	kokp	1		kokp	764
+LOWLAND_MIXE	mco	mountain	639	86	ko7ogop	1	also: kop	koʔoɡop	765
+SAYULA_POPOLUCA	pos	mountain	639	86	kopak	1		kopak	766
+OLUTA_POPOLUCA	plo	mountain	639	86	kopak	1		kopak	767
+TEXISTEPEC_ZOQUE	poq	mountain	639	86	koc3k	2		kot͡sək	768
+SOTEAPAN_ZOQUE	poi	mountain	639	86	koc3k	2		kot͡sək	769
+MIGUEL_CHIMALAPA	zoh	mountain	639	86	koc3k	2		kot͡sək	770
+CHIAPAS_ZOQUE	zoc	mountain	639	86	koc3k	2		kot͡sək	771
+NORTH_HIGHLAND_MIXE	mto	red	156	87	capc	1		t͡sapt͡s	772
+SOUTH_HIGHLAND_MIXE	mxp	red	156	87	caps	1		t͡saps	773
+LOWLAND_MIXE	mco	red	156	87	capc	1		t͡sapt͡s	774
+SAYULA_POPOLUCA	pos	red	156	87	cabac	1		t͡sabat͡s	775
+OLUTA_POPOLUCA	plo	red	156	87	capas	1		t͡sapas	776
+TEXISTEPEC_ZOQUE	poq	red	156	87	capac	1		t͡sapat͡s	777
+SOTEAPAN_ZOQUE	poi	red	156	87	cabac	1		t͡sabat͡s	778
+MARIA_CHIMALAPA	zoh	red	156	87	capac	1		t͡sapat͡s	779
+MIGUEL_CHIMALAPA	zoh	red	156	87	capac	1		t͡sapat͡s	780
+CHIAPAS_ZOQUE	zoc	red	156	87	capas	1		t͡sapas	781
+NORTH_HIGHLAND_MIXE	mto	green	1425	88	cuSk	1		t͡suʃk	782
+SOUTH_HIGHLAND_MIXE	mxp	green	1425	88	cuSk	1		t͡suʃk	783
+LOWLAND_MIXE	mco	green	1425	88	cuS	1		t͡suʃ	784
+SAYULA_POPOLUCA	pos	green	1425	88	SuSuk	1		ʃuʃuk	785
+OLUTA_POPOLUCA	plo	green	1425	88	tuSuk	1		tuʃuk	786
+TEXISTEPEC_ZOQUE	poq	green	1425	88	cus	1		t͡sus	787
+SOTEAPAN_ZOQUE	poi	green	1425	88	cus	1		t͡sus	788
+MARIA_CHIMALAPA	zoh	green	1425	88	cuhus	1		t͡suhus	789
+MIGUEL_CHIMALAPA	zoh	green	1425	88	cuS	1		t͡suʃ	790
+CHIAPAS_ZOQUE	zoc	green	1425	88	cucu	1		t͡sut͡su	791
+NORTH_HIGHLAND_MIXE	mto	yellow	1424	89	puc	1		put͡s	792
+SOUTH_HIGHLAND_MIXE	mxp	yellow	1424	89	puc	1		put͡s	793
+LOWLAND_MIXE	mco	yellow	1424	89	puc	1		put͡s	794
+SAYULA_POPOLUCA	pos	yellow	1424	89	puc	1		put͡s	795
+OLUTA_POPOLUCA	plo	yellow	1424	89	pus	1		pus	796
+TEXISTEPEC_ZOQUE	poq	yellow	1424	89	pu7uC e7	1		puʔut͡ʃ_eʔ	797
+SOTEAPAN_ZOQUE	poi	yellow	1424	89	pu7uC	1		puʔut͡ʃ	798
+MARIA_CHIMALAPA	zoh	yellow	1424	89	puci7	1		put͡siʔ	799
+MIGUEL_CHIMALAPA	zoh	yellow	1424	89	puc	1		put͡s	800
+CHIAPAS_ZOQUE	zoc	yellow	1424	89	puc3	1		put͡sə	801
+NORTH_HIGHLAND_MIXE	mto	white	1335	90	pop	1		pop	802
+SOUTH_HIGHLAND_MIXE	mxp	white	1335	90	pop	1		pop	803
+LOWLAND_MIXE	mco	white	1335	90	pob	1		pob	804
+SAYULA_POPOLUCA	pos	white	1335	90	pop	1		pop	805
+OLUTA_POPOLUCA	plo	white	1335	90	popo7	1		popoʔ	806
+TEXISTEPEC_ZOQUE	poq	white	1335	90	popo7	1		popoʔ	807
+SOTEAPAN_ZOQUE	poi	white	1335	90	po7obap	1		poʔobap	808
+MARIA_CHIMALAPA	zoh	white	1335	90	popo7	1		popoʔ	809
+MIGUEL_CHIMALAPA	zoh	white	1335	90	popo7	1		popoʔ	810
+CHIAPAS_ZOQUE	zoc	white	1335	90	popo	1		popo	811
+NORTH_HIGHLAND_MIXE	mto	black	163	91	y3k	1		jək	812
+SOUTH_HIGHLAND_MIXE	mxp	black	163	91	y3k	1		jək	813
+LOWLAND_MIXE	mco	black	163	91	yik	1		jik	814
+SAYULA_POPOLUCA	pos	black	163	91	y3g3k	2		jəɡək	815
+OLUTA_POPOLUCA	plo	black	163	91	y3k3k	2		jəkək	816
+TEXISTEPEC_ZOQUE	poq	black	163	91	y3k	1		jək	817
+SOTEAPAN_ZOQUE	poi	black	163	91	y3k	1		jək	818
+MARIA_CHIMALAPA	zoh	black	163	91	y3k	1		jək	819
+MIGUEL_CHIMALAPA	zoh	black	163	91	y3k	1		jək	820
+CHIAPAS_ZOQUE	zoc	black	163	91	y3k	1		jək	821
+NORTH_HIGHLAND_MIXE	mto	night	1233	92	cu	2		t͡su	822
+SOUTH_HIGHLAND_MIXE	mxp	night	1233	92	koc	2		kot͡s	823
+LOWLAND_MIXE	mco	night	1233	92	acu737	1		at͡suʔəʔ	824
+SAYULA_POPOLUCA	pos	night	1233	92	cu7	1		t͡suʔ	825
+OLUTA_POPOLUCA	plo	night	1233	92	cuh3	1		t͡suhə	826
+TEXISTEPEC_ZOQUE	poq	night	1233	92	cu7	1		t͡suʔ	827
+SOTEAPAN_ZOQUE	poi	night	1233	92	cu7u	1		t͡suʔu	828
+MARIA_CHIMALAPA	zoh	night	1233	92	cu7hi	1		t͡suʔhi	829
+MIGUEL_CHIMALAPA	zoh	night	1233	92	cu7	1		t͡suʔ	830
+CHIAPAS_ZOQUE	zoc	night	1233	92	cu7	1		t͡suʔ	831
+NORTH_HIGHLAND_MIXE	mto	warm	1232	93	an	1		an	832
+SOUTH_HIGHLAND_MIXE	mxp	warm	1232	93	an	1		an	833
+LOWLAND_MIXE	mco	warm	1232	93	an	1		an	834
+SAYULA_POPOLUCA	pos	warm	1232	93	powik	2	also: toyap	powik	835
+OLUTA_POPOLUCA	plo	warm	1232	93	hokoS	3		hokoʃ	836
+MARIA_CHIMALAPA	zoh	warm	1232	93	nuc	5		nut͡s	837
+MIGUEL_CHIMALAPA	zoh	warm	1232	93	yuk nuc	5		juk_nut͡s	838
+CHIAPAS_ZOQUE	zoc	warm	1232	93	pih	4	also: yoka	pih	839
+NORTH_HIGHLAND_MIXE	mto	cold	1287	94	SuS	1		ʃuʃ	840
+SOUTH_HIGHLAND_MIXE	mxp	cold	1287	94	SuS	1		ʃuʃ	841
+LOWLAND_MIXE	mco	cold	1287	94	t3C	2		tət͡ʃ	842
+SAYULA_POPOLUCA	pos	cold	1287	94	payik	3		pajik	843
+OLUTA_POPOLUCA	plo	cold	1287	94	tuS3k	4		tuʃək	844
+TEXISTEPEC_ZOQUE	poq	cold	1287	94	pak	5		pak	845
+SOTEAPAN_ZOQUE	poi	cold	1287	94	pagak	5		paɡak	846
+MARIA_CHIMALAPA	zoh	cold	1287	94	wayay	6		wajaj	847
+MIGUEL_CHIMALAPA	zoh	cold	1287	94	wayay7	6		wajajʔ	848
+CHIAPAS_ZOQUE	zoc	cold	1287	94	pakak	5		pakak	849
+NORTH_HIGHLAND_MIXE	mto	full	1429	95	uc	1		ut͡s	850
+SOUTH_HIGHLAND_MIXE	mxp	full	1429	95	uhc	1		uht͡s	851
+LOWLAND_MIXE	mco	full	1429	95	ku7uSy	2		kuʔuʃj	852
+SAYULA_POPOLUCA	pos	full	1429	95	pacik	3		pat͡sik	853
+OLUTA_POPOLUCA	plo	full	1429	95	uci	1		ut͡si	854
+TEXISTEPEC_ZOQUE	poq	full	1429	95	kus de7	6		kus_deʔ	855
+SOTEAPAN_ZOQUE	poi	full	1429	95	kus ne	6		kus_ne	856
+MARIA_CHIMALAPA	zoh	full	1429	95	yag aN tas	7		jaɡ_aŋ_tas	857
+MIGUEL_CHIMALAPA	zoh	full	1429	95	taS37	7		taʃəʔ	858
+CHIAPAS_ZOQUE	zoc	full	1429	95	ho73yup3	5		hoʔəjupə	859
+NORTH_HIGHLAND_MIXE	mto	new	1231	96	nam	1		nam	860
+SOUTH_HIGHLAND_MIXE	mxp	new	1231	96	hempy	2		hempj	861
+LOWLAND_MIXE	mco	new	1231	96	hemy	2		hemj	862
+SAYULA_POPOLUCA	pos	new	1231	96	namay	1		namaj	863
+OLUTA_POPOLUCA	plo	new	1231	96	nam3	1		namə	864
+TEXISTEPEC_ZOQUE	poq	new	1231	96	hom3 na7	2		homə_naʔ	865
+SOTEAPAN_ZOQUE	poi	new	1231	96	homi	2		homi	866
+MARIA_CHIMALAPA	zoh	new	1231	96	home7	2		homeʔ	867
+MIGUEL_CHIMALAPA	zoh	new	1231	96	home7	2		homeʔ	868
+CHIAPAS_ZOQUE	zoc	new	1231	96	home	2		home	869
+NORTH_HIGHLAND_MIXE	mto	good	1035	97	oy	1		oj	870
+SOUTH_HIGHLAND_MIXE	mxp	good	1035	97	ey	1		ej	871
+LOWLAND_MIXE	mco	good	1035	97	oy	1		oj	872
+SAYULA_POPOLUCA	pos	good	1035	97	oy	1		oj	873
+OLUTA_POPOLUCA	plo	good	1035	97	nioya	1	also: oya	nioja	874
+TEXISTEPEC_ZOQUE	poq	good	1035	97	w3	2		wə	875
+SOTEAPAN_ZOQUE	poi	good	1035	97	w3	2		wə	876
+MIGUEL_CHIMALAPA	zoh	good	1035	97	w3h3	2		wəhə	877
+CHIAPAS_ZOQUE	zoc	good	1035	97	oye	1		oje	878
+NORTH_HIGHLAND_MIXE	mto	round	1395	98	piguk	1		piɡuk	879
+SOUTH_HIGHLAND_MIXE	mxp	round	1395	98	pek	1		pek	880
+LOWLAND_MIXE	mco	round	1395	98	pik	1		pik	881
+SAYULA_POPOLUCA	pos	round	1395	98	hoyoy	2		hojoj	882
+TEXISTEPEC_ZOQUE	poq	round	1395	98	woy woy Ce	3		woj_woj_t͡ʃe	883
+SOTEAPAN_ZOQUE	poi	round	1395	98	woyo	3		wojo	884
+CHIAPAS_ZOQUE	zoc	round	1395	98	huyuh	2		hujuh	885
+NORTH_HIGHLAND_MIXE	mto	dry	1398	99	t373c	1		təʔət͡s	886
+SOUTH_HIGHLAND_MIXE	mxp	dry	1398	99	t373c	1		təʔət͡s	887
+LOWLAND_MIXE	mco	dry	1398	99	t373c	1		təʔət͡s	888
+SAYULA_POPOLUCA	pos	dry	1398	99	kuyt3c	1		kujtət͡s	889
+OLUTA_POPOLUCA	plo	dry	1398	99	t373s	1		təʔəs	890
+TEXISTEPEC_ZOQUE	poq	dry	1398	99	t3c ka7	1		tət͡s_kaʔ	891
+SOTEAPAN_ZOQUE	poi	dry	1398	99	ku t3c	1		ku_tət͡s	892
+MARIA_CHIMALAPA	zoh	dry	1398	99	yak y3c	1		jak_jət͡s	893
+MIGUEL_CHIMALAPA	zoh	dry	1398	99	t3ci7	1		tət͡siʔ	894
+CHIAPAS_ZOQUE	zoc	dry	1398	99	t3c	1		tət͡s	895
+NORTH_HIGHLAND_MIXE	mto	name	1405	100	S3	1		ʃə	896
+SOUTH_HIGHLAND_MIXE	mxp	name	1405	100	S3	1		ʃə	897
+LOWLAND_MIXE	mco	name	1405	100	S3	1		ʃə	898
+SAYULA_POPOLUCA	pos	name	1405	100	n3hy	2		nəhj	899
+OLUTA_POPOLUCA	plo	name	1405	100	S3v3	1		ʃəvə	900
+TEXISTEPEC_ZOQUE	poq	name	1405	100	d3y	2		dəj	901
+SOTEAPAN_ZOQUE	poi	name	1405	100	n3yi	2		nəji	902
+MARIA_CHIMALAPA	zoh	name	1405	100	n3hi	2		nəhi	903
+MIGUEL_CHIMALAPA	zoh	name	1405	100	h3hi	2		həhi	904
+CHIAPAS_ZOQUE	zoc	name	1405	100	n3y	2		nəj	905

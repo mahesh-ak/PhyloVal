@@ -1,0 +1,37 @@
+PREREQUISITES:
+
+You will need g++ from gcc installed on the machine. Furthermore you
+will need a BLAS library. On some Linux distributions one such comes
+pre-installed. On Ubuntu it can be aquired through the package
+manager.
+
+You will also need the program CMake, which is used for build
+management.
+
+
+COMPILATION:
+
+Run:
+
+  > cmake .
+  > make
+
+To confirm everything works as expected you can also run:
+
+  > make test
+
+
+RUNNING THE PROGRAMS:
+
+After successful compilation you should have the binary file 'qdist'
+in the src directory. To run the program, provide two text files with
+trees described in the Newick format, e.g:
+
+  > ./qdist testdata/small1.tree testdata/small2.tree
+
+
+INSTALLATION:
+
+To install your program into your bin directory you can run:
+
+  > sudo make install
