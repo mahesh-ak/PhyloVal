@@ -1,0 +1,1 @@
+/usr/bin/c++  -march=native -g -O3 -Wall -rdynamic CMakeFiles/testMatrix.dir/testMatrix.cpp.o -o testMatrix  -lopenblas 

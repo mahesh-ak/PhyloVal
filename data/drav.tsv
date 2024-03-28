@@ -1,0 +1,717 @@
+CONCEPT	DOCULECT	IPA	ID
+I (1sg)	Old_Kannada	aːn	1
+I (1sg)	Old_Telugu	eːn	2
+I (1sg)	Old_Malayalam	eːn	3
+I (1sg)	Old_Tamil	jaːn	4
+you (2sg)	Old_Kannada	niː	5
+you (2sg)	Old_Telugu	iːʋu	6
+you (2sg)	Old_Malayalam	n̪iː	7
+you (2sg)	Old_Tamil	n̪iː	8
+he (3sg)	Old_Kannada	t̪aːn	9
+he (3sg)	Old_Telugu	at̪anru	10
+he (3sg)	Old_Malayalam	aʋan	11
+he (3sg)	Old_Tamil	t̪aːn	12
+we (1pl)	Old_Kannada	naːm	13
+we (1pl)	Old_Telugu	eːmu	14
+we (1pl)	Old_Malayalam	n̪aːm	15
+we (1pl)	Old_Tamil	n̪aːm	16
+you (2pl)	Old_Kannada	niːm	17
+you (2pl)	Old_Telugu	iːɾu	18
+you (2pl)	Old_Malayalam	n̪iŋːaɭ	19
+you (2pl)	Old_Tamil	n̪iːɾ	20
+they (3pl)	Old_Kannada	t̪aːm	21
+they (3pl)	Old_Telugu	t̪aːɾu	22
+they (3pl)	Old_Malayalam	aʋar	23
+they (3pl)	Old_Tamil	t̪aːm	24
+this	Old_Kannada	id̪u	25
+this	Old_Telugu	id̪i	26
+this	Old_Malayalam	it̪ə	27
+this	Old_Tamil	ixt̪u	28
+that	Old_Kannada	ad̪u	29
+that	Old_Telugu	ad̪i	30
+that	Old_Malayalam	at̪ə	31
+that	Old_Tamil	axt̪u	32
+here	Old_Kannada	ilːi	33
+here	Old_Telugu	in̪d̪ʊn	34
+here	Old_Malayalam	iʋiʈe	35
+here	Old_Tamil	iŋku	36
+there	Old_Kannada	alːi	37
+there	Old_Telugu	an̪d̪ʊn	38
+there	Old_Malayalam	aʋiʈe	39
+there	Old_Tamil	aŋku	40
+who	Old_Kannada	jaːɾ	41
+who	Old_Telugu	eʋaɾu	42
+who	Old_Malayalam	aːɾə	43
+who	Old_Tamil	jaːɾ	44
+what	Old_Kannada	eːn	45
+what	Old_Telugu	eːmi	46
+what	Old_Malayalam	en̪t̪ə	47
+what	Old_Tamil	enːa	48
+where	Old_Kannada	elːi	49
+where	Old_Telugu	en̪d̪ʊn	50
+where	Old_Malayalam	eʋiʈe	51
+where	Old_Tamil	jaːŋku	52
+when	Old_Kannada	jaːʋaːɡa	53
+when	Old_Telugu	epːʊɖu	54
+when	Old_Malayalam	epːoːɭ	55
+when	Old_Tamil	jaːɳʈu	56
+how	Old_Kannada	heːɡe	57
+how	Old_Telugu	eʈʊlu	58
+how	Old_Malayalam	eŋːane	59
+how	Old_Tamil	jaːŋku	60
+not	Old_Kannada	alːa	61
+not	Old_Telugu	leːd̪u	62
+not	Old_Malayalam	ilːa	63
+not	Old_Tamil	il	64
+all	Old_Kannada	elːa	65
+all	Old_Telugu	elːa	66
+all	Old_Malayalam	elːa	67
+all	Old_Tamil	elːa	68
+many	Old_Kannada	pala	69
+many	Old_Telugu	palu	70
+many	Old_Malayalam	pala	71
+many	Old_Tamil	pala	72
+some	Old_Kannada	kela	73
+some	Old_Telugu	kond̪aɾu	74
+some	Old_Malayalam	t͡ʃila	75
+some	Old_Tamil	t͡ʃila	76
+few	Old_Kannada	koɲt͡ʃa	77
+few	Old_Telugu	kod̪ːi	78
+few	Old_Malayalam	kurat͡ʃːə	79
+few	Old_Tamil	koɲt͡ʃam	80
+other	Old_Kannada	beːɾe	81
+other	Old_Telugu	ʋeːɾeː	82
+other	Old_Malayalam	matːə	83
+other	Old_Tamil	pira	84
+one	Old_Kannada	on̪d̪u	85
+one	Old_Telugu	oɳɖu	86
+one	Old_Malayalam	on̪ːə	87
+one	Old_Tamil	onru	88
+two	Old_Kannada	eɾaɖu	89
+two	Old_Telugu	ɾeɳɖu	90
+two	Old_Malayalam	ɾaɳʈə	91
+two	Old_Tamil	iɾaɳʈu	92
+three	Old_Kannada	muːru	93
+three	Old_Telugu	muːnru	94
+three	Old_Malayalam	muːn̪ːə	95
+three	Old_Tamil	muːnru	96
+four	Old_Kannada	naːlku	97
+four	Old_Telugu	naːlʊɡu	98
+four	Old_Malayalam	n̪aːŋkə	99
+four	Old_Tamil	n̪aːnku	100
+five	Old_Kannada	aɪd̪u	101
+five	Old_Telugu	aɪd̪u	102
+five	Old_Malayalam	aɲt͡ʃə	103
+five	Old_Tamil	ajn̪t̪u	104
+long	Old_Kannada	niɖu	105
+long	Old_Telugu	poɖʊɡu	106
+long	Old_Malayalam	n̪iːɭa	107
+long	Old_Tamil	n̪iːɭu	108
+wide	Old_Kannada	aɡala	109
+wide	Old_Telugu	ʋeɖalpu	110
+wide	Old_Malayalam	ʋiːt̪i	111
+wide	Old_Tamil	akala	112
+thick	Old_Kannada	d̪apːa	113
+thick	Old_Telugu	t͡ʃɪkːa	114
+thick	Old_Malayalam	kaʈːi	115
+thick	Old_Tamil	t̪uru	116
+heavy	Old_Telugu	baɾʊʋu	117
+heavy	Old_Malayalam	kana	118
+heavy	Old_Tamil	paɾu	119
+short	Old_Kannada	kiɾu	120
+short	Old_Telugu	poʈːi	121
+short	Old_Malayalam	kuri	122
+short	Old_Tamil	kuru	123
+narrow	Old_Kannada	sapura	124
+narrow	Old_Telugu	iɾʊku	125
+narrow	Old_Malayalam	iʈuŋːi	126
+narrow	Old_Tamil	kurukija	127
+thin	Old_Kannada	t̪eɭu	128
+thin	Old_Telugu	sanːa	129
+thin	Old_Malayalam	n̪eːrt̪ːa	130
+thin	Old_Tamil	melːija	131
+woman	Old_Kannada	peɳ	132
+woman	Old_Telugu	aːɖa	133
+woman	Old_Malayalam	peɳːə	134
+woman	Old_Tamil	peɳ	135
+man (adult male)	Old_Kannada	aːɭ	136
+man (adult male)	Old_Telugu	maɡa	137
+man (adult male)	Old_Malayalam	aːɳə	138
+man (adult male)	Old_Tamil	aːɳ	139
+man (human being)	Old_Kannada	man̪d̪i	140
+man (human being)	Old_Telugu	man̪d̪i	141
+man (human being)	Old_Tamil	manit̪an	142
+child	Old_Kannada	maɡu	143
+child	Old_Telugu	pɪlːa	144
+child	Old_Malayalam	piɭːa	145
+child	Old_Tamil	piɭːaj	146
+wife	Old_Kannada	peɳɖat̪i	147
+wife	Old_Telugu	peɳɖlaːm	148
+wife	Old_Tamil	manajʋi	149
+husband	Old_Kannada	ɡaɳɖa	150
+husband	Old_Telugu	moɡʊnɾu	151
+husband	Old_Tamil	kaɳaʋan	152
+fish	Old_Kannada	miːn	153
+fish	Old_Telugu	t͡ʃeːpa	154
+fish	Old_Malayalam	miːn	155
+fish	Old_Tamil	miːn	156
+dog	Old_Kannada	naːj	157
+dog	Old_Telugu	kʊkːa	158
+dog	Old_Malayalam	n̪aːja	159
+dog	Old_Tamil	n̪aːj	160
+louse	Old_Kannada	peːnu	161
+louse	Old_Telugu	peːnu	162
+louse	Old_Malayalam	peːn	163
+louse	Old_Tamil	peːn	164
+snake	Old_Kannada	paːʋu	165
+snake	Old_Telugu	paːmu	166
+snake	Old_Malayalam	paːmpə	167
+snake	Old_Tamil	paːmbu	168
+worm	Old_Kannada	puɻa	169
+worm	Old_Telugu	pʊɾʊɡu	170
+worm	Old_Malayalam	puɻu	171
+worm	Old_Tamil	puɻu	172
+tree	Old_Kannada	maɾam	173
+tree	Old_Telugu	mɾaːnu	174
+tree	Old_Malayalam	maɾam	175
+tree	Old_Tamil	maɾam	176
+forest	Old_Kannada	kaːɖu	177
+forest	Old_Malayalam	kaːʈə	178
+forest	Old_Tamil	kaːʈu	179
+stick	Old_Kannada	koːl	180
+stick	Old_Telugu	kaɾːa	181
+stick	Old_Malayalam	ʋaʈi	182
+stick	Old_Tamil	kut͡ʃːi	183
+fruit	Old_Kannada	paɳːu	184
+fruit	Old_Telugu	paɳɖu	185
+fruit	Old_Malayalam	paɻam	186
+fruit	Old_Tamil	paɻam	187
+seed	Old_Kannada	bit̪ːu	188
+seed	Old_Telugu	ʋɪt̪ːanamu	189
+seed	Old_Malayalam	ʋit̪ːə	190
+seed	Old_Tamil	ʋit̪ːaj	191
+leaf	Old_Kannada	ele	192
+leaf	Old_Telugu	aːku	193
+leaf	Old_Malayalam	ila	194
+leaf	Old_Tamil	ilaj	195
+root	Old_Kannada	beːɾ	196
+root	Old_Telugu	ʋeːɾu	197
+root	Old_Malayalam	ʋeːɾə	198
+root	Old_Tamil	ʋeːɾ	199
+bark (of a tree)	Old_Kannada	t̪oɡaʈi	200
+bark (of a tree)	Old_Telugu	beɾaɖu	201
+bark (of a tree)	Old_Malayalam	t̪oːl	202
+bark (of a tree)	Old_Tamil	paʈːaj	203
+flower	Old_Kannada	puː	204
+flower	Old_Telugu	pʊʋːu	205
+flower	Old_Malayalam	puː	206
+flower	Old_Tamil	puː	207
+grass	Old_Kannada	pul	208
+grass	Old_Telugu	ɡaɖːi	209
+grass	Old_Malayalam	pulːə	210
+grass	Old_Tamil	pul	211
+rope	Old_Kannada	neːɳu	212
+rope	Old_Telugu	t̪ɾaːɖu	213
+rope	Old_Malayalam	kajar	214
+rope	Old_Tamil	kajiru	215
+skin	Old_Kannada	t̪oɡal	216
+skin	Old_Telugu	t̪oːlu	217
+skin	Old_Malayalam	t̪oli	218
+skin	Old_Tamil	t̪oːl	219
+meat	Old_Kannada	baːɖu	220
+meat	Old_Malayalam	irat͡ʃːi	221
+meat	Old_Tamil	irajt͡ʃːi	222
+blood	Old_Kannada	net̪ːaɾ	223
+blood	Old_Telugu	net̪ːʊɾu	224
+blood	Old_Malayalam	kuɾut̪i	225
+blood	Old_Tamil	kuɾut̪i	226
+bone	Old_Kannada	elubu	227
+bone	Old_Telugu	emʊka	228
+bone	Old_Malayalam	elːə	229
+bone	Old_Tamil	elumbu	230
+fat (noun)	Old_Kannada	koɻbu	231
+fat (noun)	Old_Telugu	kɾoʋːu	232
+fat (noun)	Old_Malayalam	koɻupːə	233
+fat (noun)	Old_Tamil	koɻupːu	234
+egg	Old_Kannada	moʈːe	235
+egg	Old_Telugu	ɡʊɖːu	236
+egg	Old_Malayalam	muʈːa	237
+egg	Old_Tamil	muʈːaj	238
+horn	Old_Kannada	kombu	239
+horn	Old_Telugu	komːu	240
+horn	Old_Malayalam	kompə	241
+horn	Old_Tamil	koːʈu	242
+tail	Old_Kannada	t̪oːka	243
+tail	Old_Telugu	t̪oːka	244
+tail	Old_Malayalam	ʋaːl	245
+tail	Old_Tamil	ʋaːl	246
+feather	Old_Kannada	ɡaɾi	247
+feather	Old_Telugu	iːka	248
+feather	Old_Malayalam	t̪uːʋal	249
+feather	Old_Tamil	iraku	250
+hair	Old_Kannada	kuːd̪alu	251
+hair	Old_Telugu	ʋeɳʈɾʊka	252
+hair	Old_Malayalam	kuːn̪t̪al	253
+hair	Old_Tamil	kat̪upːu	254
+head	Old_Kannada	t̪ale	255
+head	Old_Telugu	t̪ala	256
+head	Old_Malayalam	t̪ala	257
+head	Old_Tamil	t̪alaj	258
+ear	Old_Kannada	kiʋi	259
+ear	Old_Telugu	t͡ʃeʋi	260
+ear	Old_Malayalam	t͡ʃeʋi	261
+ear	Old_Tamil	t͡ʃeʋi	262
+eye	Old_Kannada	kaɳːu	263
+eye	Old_Telugu	kanːu	264
+eye	Old_Malayalam	kaɳːə	265
+eye	Old_Tamil	kaɳ	266
+nose	Old_Kannada	muːɡu	267
+nose	Old_Telugu	mʊkːu	268
+nose	Old_Malayalam	muːkːə	269
+nose	Old_Tamil	muːkːu	270
+mouth	Old_Kannada	baːj	271
+mouth	Old_Telugu	noːɾu	272
+mouth	Old_Malayalam	ʋaːja	273
+mouth	Old_Tamil	ʋaːj	274
+tooth	Old_Kannada	pal	275
+tooth	Old_Telugu	panːu	276
+tooth	Old_Malayalam	palːə	277
+tooth	Old_Tamil	pal	278
+tongue (organ)	Old_Kannada	naːlaɡe	279
+tongue (organ)	Old_Telugu	naːlʊka	280
+tongue (organ)	Old_Malayalam	n̪aːkːə	281
+tongue (organ)	Old_Tamil	n̪aːʋu	282
+fingernail	Old_Kannada	uɡuɾ	283
+fingernail	Old_Telugu	ɡoːɾu	284
+fingernail	Old_Tamil	ukiɾ	285
+foot	Old_Kannada	aɖi	286
+foot	Old_Telugu	aɖʊɡu	287
+foot	Old_Malayalam	aʈi	288
+foot	Old_Tamil	aʈi	289
+leg	Old_Kannada	kaːl	290
+leg	Old_Telugu	kaːlu	291
+leg	Old_Malayalam	kaːlə	292
+leg	Old_Tamil	kaːl	293
+knee	Old_Kannada	maɳɖi	294
+knee	Old_Telugu	mroː-	295
+knee	Old_Malayalam	muʈːə	296
+knee	Old_Tamil	muːʈːu	297
+hand	Old_Kannada	kaɪ	298
+hand	Old_Telugu	t͡ʃeːji	299
+hand	Old_Malayalam	kai̯	300
+hand	Old_Tamil	kaj	301
+wing	Old_Kannada	rekːe	302
+wing	Old_Telugu	rekːa	303
+wing	Old_Malayalam	t͡ʃirakə	304
+wing	Old_Tamil	irakːaj	305
+guts	Old_Kannada	ket͡ʃːu	306
+guts	Old_Telugu	pɾeːɡu	307
+guts	Old_Malayalam	kuʈal	308
+guts	Old_Tamil	kuʈal	309
+neck	Old_Kannada	kat̪ːu	310
+neck	Old_Telugu	meɖa	311
+neck	Old_Malayalam	kaɻut̪ːə	312
+neck	Old_Tamil	kaɻut̪ːu	313
+back	Old_Kannada	benːu	314
+back	Old_Telugu	ʋenːu	315
+back	Old_Malayalam	puram	316
+back	Old_Tamil	puram	317
+heart	Old_Kannada	ɡuɳɖiɡe	318
+heart	Old_Telugu	ɡʊɳɖe	319
+heart	Old_Malayalam	n̪eɲt͡ʃakam	320
+heart	Old_Tamil	n̪eɲt͡ʃam	321
+liver	Old_Kannada	iːli	322
+liver	Old_Malayalam	kaɾaɭ	323
+liver	Old_Tamil	iːɾal	324
+to drink	Old_Kannada	kuɖi	325
+to drink	Old_Telugu	t̪ɾaːɡu	326
+to drink	Old_Malayalam	kuʈi	327
+to drink	Old_Tamil	kuʈi	328
+to eat	Old_Kannada	t̪ɪnu	329
+to eat	Old_Telugu	t̪ɪnu	330
+to eat	Old_Malayalam	t̪in̪ːu	331
+to eat	Old_Tamil	uɳ	332
+to bite	Old_Kannada	kaɖi	333
+to bite	Old_Telugu	korʊku	334
+to bite	Old_Malayalam	kaʈi	335
+to bite	Old_Tamil	kaʈi	336
+to spit	Old_Kannada	uɡuɭu	337
+to spit	Old_Telugu	umːu	338
+to spit	Old_Malayalam	t̪upːu	339
+to spit	Old_Tamil	t̪upːu	340
+to vomit	Old_Kannada	kaːru	341
+to vomit	Old_Telugu	kakːu	342
+to vomit	Old_Malayalam	t͡ʃʰar	343
+to vomit	Old_Tamil	kakːu	344
+to see	Old_Kannada	noːɖu	345
+to see	Old_Telugu	t͡ʃuːɖu	346
+to see	Old_Malayalam	kaːɳu	347
+to see	Old_Tamil	kaːɳ	348
+to hear	Old_Kannada	keːɭ	349
+to hear	Old_Telugu	ʋɪnu	350
+to hear	Old_Malayalam	keːɭ	351
+to hear	Old_Tamil	keːɭ	352
+to know	Old_Kannada	ari	353
+to know	Old_Telugu	erʊɡu	354
+to know	Old_Malayalam	ari	355
+to know	Old_Tamil	ari	356
+to think	Old_Kannada	nene	357
+to think	Old_Malayalam	n̪ina	358
+to think	Old_Tamil	n̪inaj	359
+to smell	Old_Kannada	muːsu	360
+to smell	Old_Telugu	muːt͡ʃu	361
+to smell	Old_Malayalam	maɳa	362
+to smell	Old_Tamil	mukaɾ	363
+to fear	Old_Kannada	bed̪aɾu	364
+to fear	Old_Telugu	bed̪ʊɾu	365
+to fear	Old_Malayalam	peːʈi	366
+to fear	Old_Tamil	aɲt͡ʃu	367
+to sleep	Old_Kannada	malaɡu	368
+to sleep	Old_Telugu	kʊnʊku	369
+to sleep	Old_Malayalam	uraŋːu	370
+to sleep	Old_Tamil	t̪uɲt͡ʃu	371
+to live	Old_Kannada	baːɻu	372
+to live	Old_Telugu	bɾat̪ʊku	373
+to live	Old_Malayalam	ʋaːɻu	374
+to live	Old_Tamil	ʋaːɻ	375
+to die	Old_Kannada	saːji	376
+to die	Old_Telugu	t͡ʃaːʋu	377
+to die	Old_Malayalam	t͡ʃaːʋu	378
+to die	Old_Tamil	ira	379
+to kill	Old_Kannada	kol	380
+to kill	Old_Telugu	t͡ʃampu	381
+to kill	Old_Malayalam	kolːu	382
+to kill	Old_Tamil	kol	383
+to hunt	Old_Kannada	beːʈe	384
+to hunt	Old_Telugu	ʋeːʈa	385
+to hunt	Old_Malayalam	ʋeːʈːa	386
+to hunt	Old_Tamil	ʋeːʈːaj	387
+to stab	Old_Kannada	iri	388
+to stab	Old_Telugu	poɖʊju	389
+to stab	Old_Malayalam	kut̪ːu	390
+to stab	Old_Tamil	kut̪ːu	391
+to scratch	Old_Kannada	keɾe	392
+to scratch	Old_Telugu	ɡiːɾu	393
+to scratch	Old_Malayalam	oɾajə	394
+to scratch	Old_Tamil	t͡ʃoɾi	395
+to dig	Old_Kannada	t̪oːɖu	396
+to dig	Old_Telugu	t̪ɾaʋːu	397
+to dig	Old_Malayalam	kuɻi	398
+to dig	Old_Tamil	t̪oːɳʈu	399
+to swim	Old_Kannada	iːd͡ʒu	400
+to swim	Old_Telugu	iːd̪u	401
+to swim	Old_Malayalam	n̪iːn̪t̪u	402
+to swim	Old_Tamil	n̪iːn̪t̪u	403
+to walk	Old_Kannada	naɖe	404
+to walk	Old_Telugu	naɖʊt͡ʃu	405
+to walk	Old_Malayalam	n̪aʈa	406
+to walk	Old_Tamil	n̪aʈa	407
+to come	Old_Kannada	baɾu	408
+to come	Old_Telugu	ʋat͡ʃːu	409
+to come	Old_Malayalam	ʋaɾu	410
+to come	Old_Tamil	ʋaɾu	411
+to lie (as in a bed)	Old_Kannada	paɖʊ	412
+to lie (as in a bed)	Old_Telugu	paɖʊ	413
+to lie (as in a bed)	Old_Malayalam	kiʈa	414
+to lie (as in a bed)	Old_Tamil	uraŋku	415
+to sit	Old_Kannada	kuːɾu	416
+to sit	Old_Telugu	kuːɾt͡ʃonu	417
+to sit	Old_Malayalam	iɾi	418
+to stand	Old_Kannada	nil	419
+to stand	Old_Telugu	nɪlu	420
+to stand	Old_Malayalam	n̪il	421
+to stand	Old_Tamil	n̪il	422
+to turn (intransitive)	Old_Kannada	t̪iɾuɡu	423
+to turn (intransitive)	Old_Telugu	t̪ɾɪpːu	424
+to turn (intransitive)	Old_Malayalam	t̪iɾi	425
+to turn (intransitive)	Old_Tamil	t̪iɾumbu	426
+to give	Old_Kannada	koɖu	427
+to give	Old_Telugu	iːju	428
+to give	Old_Malayalam	t̪aɾu	429
+to give	Old_Tamil	t̪aɾu	430
+to hold	Old_Kannada	piɖi	431
+to hold	Old_Telugu	paʈːu	432
+to hold	Old_Malayalam	piʈi	433
+to hold	Old_Tamil	piʈi	434
+to rub	Old_Kannada	uɾd̪u	435
+to rub	Old_Telugu	ɾʊd̪d̪u	436
+to rub	Old_Malayalam	uɾajə	437
+to rub	Old_Tamil	uɾaj	438
+to wash	Old_Kannada	t̪oɭe	439
+to wash	Old_Telugu	kaɖʊɡu	440
+to wash	Old_Malayalam	kaɻu	441
+to wash	Old_Tamil	kaɻuʋu	442
+to wipe	Old_Kannada	oresu	443
+to wipe	Old_Telugu	t̪ʊɖʊt͡ʃu	444
+to wipe	Old_Malayalam	t̪uʈajə	445
+to wipe	Old_Tamil	t̪uʈaj	446
+to pull	Old_Kannada	eɭi	447
+to pull	Old_Telugu	laːɡu	448
+to pull	Old_Malayalam	ʋali	449
+to pull	Old_Tamil	iɻu	450
+to push	Old_Kannada	nuːku	451
+to push	Old_Telugu	t̪oːju	452
+to push	Old_Malayalam	t̪aɭːu	453
+to push	Old_Tamil	t̪aɭːu	454
+to throw	Old_Kannada	esi	455
+to throw	Old_Telugu	ʋɪsʊɾu	456
+to throw	Old_Malayalam	eri	457
+to throw	Old_Tamil	ʋiːsu	458
+to tie	Old_Kannada	kaʈːu	459
+to tie	Old_Telugu	kaʈːu	460
+to tie	Old_Malayalam	keʈːu	461
+to tie	Old_Tamil	puːɳ	462
+to sew	Old_Kannada	holi	463
+to sew	Old_Telugu	kʊʈːu	464
+to sew	Old_Malayalam	t̪ajə	465
+to sew	Old_Tamil	t̪aj	466
+to count	Old_Kannada	eɳisu	467
+to count	Old_Telugu	lekːa	468
+to count	Old_Malayalam	eɳːu	469
+to count	Old_Tamil	eɳːu	470
+to say	Old_Kannada	peːɻ	471
+to say	Old_Telugu	t͡ʃepːu	472
+to say	Old_Malayalam	para	473
+to say	Old_Tamil	t͡ʃol	474
+to sing	Old_Kannada	paːɖu	475
+to sing	Old_Telugu	paːɖu	476
+to sing	Old_Malayalam	paːʈu	477
+to sing	Old_Tamil	paːʈu	478
+to play	Old_Kannada	aːɖu	479
+to play	Old_Telugu	aːɖu	480
+to play	Old_Malayalam	kaɭi	481
+to play	Old_Tamil	ʋiɭaj	482
+to float	Old_Kannada	t̪eːlu	483
+to float	Old_Telugu	t̪eːlu	484
+to float	Old_Malayalam	poŋːu	485
+to float	Old_Tamil	mit̪a	486
+to flow	Old_Kannada	paɾi	487
+to flow	Old_Telugu	paːɾu	488
+to flow	Old_Malayalam	oɻuku	489
+to flow	Old_Tamil	oɻuku	490
+to freeze	Old_Kannada	ɡaɖːa	491
+to freeze	Old_Telugu	ɡaɖːa	492
+to freeze	Old_Malayalam	uraja	493
+to freeze	Old_Tamil	uraj	494
+to swell	Old_Kannada	uːd̪u	495
+to swell	Old_Telugu	ʋaːju	496
+to swell	Old_Malayalam	ʋiːr	497
+to swell	Old_Tamil	ʋiːŋku	498
+sun	Old_Kannada	neːsaru	499
+sun	Old_Malayalam	ɲaːjar	500
+sun	Old_Tamil	ɲaːjiru	501
+moon	Old_Kannada	t̪iŋɡaɭ	502
+moon	Old_Telugu	nela	503
+moon	Old_Malayalam	t̪iŋkaɭ	504
+moon	Old_Tamil	n̪ilaː	505
+star	Old_Kannada	aɾilu	506
+star	Old_Telugu	t͡ʃʊkːa	507
+star	Old_Malayalam	miːn	508
+water	Old_Kannada	niːɾu	509
+water	Old_Telugu	niːru	510
+water	Old_Malayalam	ʋeɭːam	511
+water	Old_Tamil	n̪iːɾ	512
+rain	Old_Kannada	maɻe	513
+rain	Old_Telugu	kʊrʊju	514
+rain	Old_Malayalam	maɻa	515
+rain	Old_Tamil	maɻaj	516
+river	Old_Kannada	poɻe	517
+river	Old_Telugu	eːru	518
+river	Old_Malayalam	puɻa	519
+river	Old_Tamil	aːru	520
+lake	Old_Kannada	kere	521
+lake	Old_Telugu	t͡ʃerʊʋu	522
+lake	Old_Malayalam	kuɭam	523
+lake	Old_Tamil	eːɾi	524
+sea	Old_Kannada	kaɖal	525
+sea	Old_Telugu	kaɖali	526
+sea	Old_Malayalam	kaʈal	527
+sea	Old_Tamil	kaʈal	528
+salt	Old_Kannada	upːu	529
+salt	Old_Telugu	upːu	530
+salt	Old_Malayalam	upːə	531
+salt	Old_Tamil	upːu	532
+stone	Old_Kannada	kal	533
+stone	Old_Telugu	ɾaːji	534
+stone	Old_Malayalam	kalːə	535
+stone	Old_Tamil	kal	536
+sand	Old_Kannada	maɾaɭu	537
+sand	Old_Telugu	isʊka	538
+sand	Old_Malayalam	maɳal	539
+sand	Old_Tamil	maɳ	540
+dust	Old_Kannada	d̪umbu	541
+dust	Old_Telugu	d̪ʊmːu	542
+dust	Old_Malayalam	poʈi	543
+dust	Old_Tamil	t̪ukaɭ	544
+earth	Old_Kannada	maɳːu	545
+earth	Old_Telugu	manːu	546
+earth	Old_Malayalam	maɳːə	547
+earth	Old_Tamil	pulam	548
+cloud	Old_Kannada	moːɖe	549
+cloud	Old_Telugu	mabːu	550
+cloud	Old_Malayalam	mukil	551
+cloud	Old_Tamil	mukil	552
+fog	Old_Kannada	maɲd͡ʒu	553
+fog	Old_Telugu	maɲt͡ʃu	554
+fog	Old_Malayalam	maɲːə	555
+fog	Old_Tamil	pani	556
+sky	Old_Kannada	muɡilu	557
+sky	Old_Telugu	nɪŋɡi	558
+sky	Old_Malayalam	ʋaːnam	559
+sky	Old_Tamil	ʋaːnam	560
+snow	Old_Telugu	maɲt͡ʃu	561
+snow	Old_Malayalam	maɲːu	562
+snow	Old_Tamil	pani	563
+smoke	Old_Kannada	poɡe	564
+smoke	Old_Telugu	poɡa	565
+smoke	Old_Malayalam	puka	566
+smoke	Old_Tamil	pukaj	567
+fire	Old_Kannada	beŋki	568
+fire	Old_Telugu	nɪpːu	569
+fire	Old_Malayalam	t̪iː	570
+fire	Old_Tamil	t̪iː	571
+ash	Old_Kannada	buːd̪i	572
+ash	Old_Telugu	buːɖɪd̪a	573
+ash	Old_Malayalam	t͡ʃaːɾam	574
+ash	Old_Tamil	t͡ʃaːmpal	575
+to burn	Old_Kannada	urisu	576
+to burn	Old_Telugu	kaːlu	577
+to burn	Old_Malayalam	kat̪ːi	578
+to burn	Old_Tamil	eɾi	579
+road	Old_Kannada	d̪aːɾi	580
+road	Old_Telugu	d̪aːɾi	581
+road	Old_Malayalam	ʋaɻi	582
+road	Old_Tamil	aːru	583
+mountain	Old_Kannada	beʈːa	584
+mountain	Old_Telugu	koɳɖa	585
+mountain	Old_Malayalam	mala	586
+mountain	Old_Tamil	malaj	587
+red	Old_Kannada	kempu	588
+red	Old_Telugu	erupu	589
+red	Old_Malayalam	t͡ʃuʋa	590
+red	Old_Tamil	t͡ʃem	591
+green	Old_Kannada	pasiru	592
+green	Old_Telugu	pat͡ʃːa	593
+green	Old_Malayalam	pat͡ʃːa	594
+green	Old_Tamil	pat͡ʃːaj	595
+yellow	Old_Telugu	pasʊpu	596
+yellow	Old_Malayalam	maɲːa	597
+yellow	Old_Tamil	maɲt͡ʃaɭ	598
+white	Old_Kannada	biɭi	599
+white	Old_Telugu	t̪elːa	600
+white	Old_Malayalam	ʋeɭːa	601
+white	Old_Tamil	ʋeɭ	602
+black	Old_Kannada	kaɾi	603
+black	Old_Telugu	nalːa	604
+black	Old_Malayalam	karu	605
+black	Old_Tamil	kaɾu	606
+night	Old_Kannada	iɾuɭu	607
+night	Old_Telugu	ɾeːji	608
+night	Old_Malayalam	ɾaːʋə	609
+night	Old_Tamil	n̪aɭ	610
+day	Old_Kannada	paɡal	611
+day	Old_Telugu	paɡalu	612
+day	Old_Malayalam	pakal	613
+day	Old_Tamil	pakal	614
+year	Old_Kannada	eːɖu	615
+year	Old_Telugu	eːɳɖu	616
+year	Old_Malayalam	aːɳʈə	617
+year	Old_Tamil	aːɳʈu	618
+warm	Old_Kannada	bet͡ʃːa	619
+warm	Old_Telugu	ʋet͡ʃːa	620
+warm	Old_Malayalam	t͡ʃuːʈə	621
+warm	Old_Tamil	ʋem	622
+cold	Old_Kannada	kuɭiru	623
+cold	Old_Telugu	t͡ʃalːa	624
+cold	Old_Malayalam	t̪aɳu	625
+cold	Old_Tamil	t̪aɳ	626
+full	Old_Kannada	t̪umbu	627
+full	Old_Telugu	nɪɳɖu	628
+full	Old_Malayalam	n̪ira	629
+full	Old_Tamil	muɻu	630
+new	Old_Kannada	posa	631
+new	Old_Telugu	kɾot̪ːa	632
+new	Old_Malayalam	put̪i	633
+new	Old_Tamil	put̪u	634
+old	Old_Kannada	paɻeja	635
+old	Old_Telugu	paːt̪a	636
+old	Old_Malayalam	paɻa	637
+old	Old_Tamil	paɻaija	638
+good	Old_Kannada	oɭːe	639
+good	Old_Telugu	maɲt͡ʃi	640
+good	Old_Malayalam	n̪alːa	641
+good	Old_Tamil	n̪al	642
+straight	Old_Kannada	neːɾa	643
+straight	Old_Telugu	neːɾu	644
+straight	Old_Malayalam	n̪eːɾe	645
+straight	Old_Tamil	n̪eːɾ	646
+round	Old_Kannada	ɡuɳɖu	647
+round	Old_Telugu	ɡʊɳɖɾamu	648
+round	Old_Tamil	uɾuɳʈa	649
+sharp (as a knife)	Old_Kannada	parit̪a	650
+sharp (as a knife)	Old_Telugu	pad̪ʊnu	651
+sharp (as a knife)	Old_Malayalam	muːrt͡ʃːa	652
+sharp (as a knife)	Old_Tamil	kuːɾ	653
+dull (as a knife)	Old_Kannada	moɳɖa	654
+dull (as a knife)	Old_Telugu	moɳɖi	655
+dull (as a knife)	Old_Malayalam	muːrt͡ʃːa	656
+dull (as a knife)	Old_Tamil	maɻuŋkija	657
+smooth	Old_Kannada	nuɳːaɡe	658
+smooth	Old_Telugu	nʊnːa	659
+smooth	Old_Malayalam	minu	660
+smooth	Old_Tamil	mel	661
+wet	Old_Kannada	od̪ːe	662
+wet	Old_Telugu	t̪aɖi	663
+wet	Old_Malayalam	n̪ana	664
+wet	Old_Tamil	n̪anaj	665
+dry	Old_Kannada	oɳa	666
+dry	Old_Telugu	poɖi	667
+dry	Old_Malayalam	ʋaɾaɳʈa	668
+dry	Old_Tamil	ʋaraɳʈa	669
+correct	Old_Kannada	saɾi	670
+correct	Old_Telugu	saɾi	671
+correct	Old_Malayalam	ʃaɾi	672
+correct	Old_Tamil	t͡ʃaɾi	673
+near	Old_Kannada	hat̪ːira	674
+near	Old_Telugu	d̪aɡːaɾa	675
+near	Old_Malayalam	aʈut̪ːə	676
+near	Old_Tamil	aɳaj	677
+far	Old_Kannada	ɡeɳʈu	678
+far	Old_Malayalam	akale	679
+far	Old_Tamil	t̪olajʋu	680
+right	Old_Kannada	bala	681
+right	Old_Telugu	kʊɖi	682
+right	Old_Malayalam	ʋala	683
+right	Old_Tamil	ʋala	684
+left	Old_Kannada	eɖa	685
+left	Old_Telugu	eɖama	686
+left	Old_Malayalam	iʈa	687
+left	Old_Tamil	iʈa	688
+at	Old_Kannada	-al	689
+at	Old_Telugu	-an	690
+at	Old_Malayalam	-il	691
+at	Old_Tamil	-in	692
+in	Old_Kannada	oɭaɡe	693
+in	Old_Telugu	-an	694
+in	Old_Malayalam	-il	695
+in	Old_Tamil	-in	696
+with	Old_Kannada	oɖane	697
+with	Old_Telugu	-t̪oːn	698
+with	Old_Malayalam	-oʈu	699
+with	Old_Tamil	-oʈu	700
+and	Old_Kannada	-um	701
+and	Old_Telugu	-un	702
+and	Old_Malayalam	-um	703
+and	Old_Tamil	-um	704
+if	Old_Kannada	-are	705
+if	Old_Telugu	-an	706
+if	Old_Malayalam	-il	707
+if	Old_Tamil	-in	708
+because	Old_Kannada	-are	709
+because	Old_Telugu	-an	710
+because	Old_Malayalam	-aːl	711
+because	Old_Tamil	-aːl	712
+name	Old_Kannada	pesaɾ	713
+name	Old_Telugu	peːɾu	714
+name	Old_Malayalam	peːɾə	715
+name	Old_Tamil	pejaɾ	716

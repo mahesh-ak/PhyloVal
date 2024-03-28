@@ -1,0 +1,1702 @@
+ID	DOCULECT	ISO_CODE	CONCEPT	CONCEPTICON_ID	IPA	TOKENS	ASJP	DOLGO	SCA	COGNATE_CLASS	COGID
+1	Bahnar-Golar	bdq	I, me		ʔiɲ	ʔ i ɲ	7 i H	H V N	H I N	1	1
+2	Bahnar-Kontum	bdq	I, me		ʔiɲ	ʔ i ɲ	7 i H	H V N	H I N	1	1
+3	Bahnar-Pleiku	bdq	I, me		ʔiɲ	ʔ i ɲ	7 i H	H V N	H I N	1	1
+4	Bru-Talan	oog	I, me		kɨː	k ɨː	k I	K V	K I	10	2
+5	Bru-Ubon	bru	I, me		kɤw	k ɤ w	k o w	K V W	K E W	10	2
+6	Khmer-Surin	kxm	I, me		ʔaɲ	ʔ a ɲ	7 a H	H V N	H A N	1	1
+7	Khmer-Standard	khm	I, me		kʰɲum	kʰ ɲ u m	k H u m	K N V M	K N Y M	12	4
+8	Mon	mnw	I, me		ʔoa	ʔ oa	7 o	H V	H U	14	6
+9	Bahnar-Golar	bdq	alcohol/liquor		hədroː	h ə d r oː	h I d r o	H V T R V	H E T R U	2	18
+10	Bahnar-Kontum	bdq	alcohol/liquor		siːk	s iː k	s i k	S V K	S I K	3	26
+11	Bahnar-Pleiku	bdq	alcohol/liquor		siːk	s iː k	s i k	S V K	S I K	3	26
+12	Bru-Ubon	bru	alcohol/liquor		blɔŋ	b l ɔ ŋ	b l o N	P R V N	P L U N	6	35
+13	Khmer-Surin	kxm	alcohol/liquor		sraː	s r aː	s r a	S R V	S R A	14	15
+14	Khmer-Standard	khm	alcohol/liquor		sraː	s r aː	s r a	S R V	S R A	14	15
+15	Mon	mnw	alcohol/liquor		ʔarèak	ʔ a r èa k	7 a r e k	H V R V K	H A R E K	21	20
+16	Vietnamese	vie	alcohol/liquor		rượu	r u o u	r u o u	R V V V	R Y U Y	39	31
+17	Bahnar-Golar	bdq	alive/live		hədrih	h ə d r i h	h I d r i h	H V T R V H	H E T R I H	2	42
+18	Bahnar-Kontum	bdq	alive/live		ʔadrih	ʔ a d r i h	7 a d r i h	H V T R V H	H A T R I H	2	42
+19	Bahnar-Pleiku	bdq	alive/live		ʔadrih	ʔ a d r i h	7 a d r i h	H V T R V H	H A T R I H	2	42
+20	Bru-Talan	oog	alive/live		moŋʔ	m o ŋ ʔ	m o N 7	M V N H	M U N H	7	54
+21	Bru-Ubon	bru	alive/live		nɔ̤ŋʔaːmɔ̤ŋ	nɔ̤ŋ ʔaːmɔ̤ŋ	n 7	N H	N H	7	54
+22	Khmer-Surin	kxm	alive/live		ruah	r ua h	r u h	R V H	R Y H	2	42
+23	Khmer-Standard	khm	alive/live		rʊəh	r ʊə h	r u h	R V H	R Y H	2	42
+24	Mon	mnw	alive/live		càŋ	c à ŋ	T a N	K V N	C A N	20	43
+25	Vietnamese	vie	alive/live		sống	s o n g	s o n g	S V N K	S U N K	36	50
+26	Bahnar-Golar	bdq	ant		hmoːc	h m oː c	h m o T	H M V K	H M U C	3	68
+27	Bahnar-Kontum	bdq	ant		hmoc	h m o c	h m o T	H M V K	H M U C	3	68
+28	Bahnar-Pleiku	bdq	ant		hmoːc	h m oː c	h m o T	H M V K	H M U C	3	68
+29	Bru-Talan	oog	ant		mic	m i c	m i T	M V K	M I C	3	68
+30	Bru-Ubon	bru	ant		səmuːc	s ə m uː c	s I m u T	S V M V K	S E M Y C	3	68
+31	Khmer-Surin	kxm	ant		smɔːc	s m ɔː c	s m o T	S M V K	S M U C	3	68
+32	Khmer-Standard	khm	ant		srɑmaoc	s r ɑ m ao c	s r o m a T	S R V M V K	S R A M A C	3	68
+33	Mon	mnw	ant		həmo̱t	h ə m o̱ t	h I m o t	H V M V T	H E M U T	3	68
+34	Vietnamese	vie	ant		kiến	k i e n	k i e n	K V V N	K I E N	28	66
+35	Bahnar-Golar	bdq	arrow		mrɔm	m r ɔ m	m r o m	M R V M	M R U M	3	86
+36	Bahnar-Kontum	bdq	arrow		mrɔm	m r ɔ m	m r o m	M R V M	M R U M	3	86
+37	Bahnar-Pleiku	bdq	arrow		ɓrəm	ɓ r ə m	b r I m	P R V M	P R E M	3	86
+38	Bru-Talan	oog	arrow		craˀah	c r aˀa h	T r a h	K R V H	C R A H	5	88
+39	Bru-Ubon	bru	arrow		kam	k a m	k a m	K V M	K A M	6	89
+40	Khmer-Surin	kxm	arrow		prʊːɲ	p r ʊː ɲ	p r u H	P R V N	P R Y N	13	75
+41	Khmer-Standard	khm	arrow		pruəɲ	p r uə ɲ	p r u H	P R V N	P R Y N	13	75
+42	Mon	mnw	arrow		lə̀	l ə̀	l I	R V	L E	17	79
+43	Vietnamese	vie	arrow		căm	c ă m	T a m	K V M	C A M	6	89
+44	Bahnar-Golar	bdq	ashes		tənuh	t ə n u h	t I n u h	T V N V H	T E N Y H	3	106
+45	Bahnar-Kontum	bdq	ashes		tənuh	t ə n u h	t I n u h	T V N V H	T E N Y H	3	106
+46	Bahnar-Pleiku	bdq	ashes		tənuhʔuɲ	tənuh ʔuɲ	t 7	T H	T H	3	106
+47	Bru-Ubon	bru	ashes		bɔh	b ɔ h	b o h	P V H	P U H	2	99
+48	Khmer-Surin	kxm	ashes		pʰɛh	pʰ ɛ h	p E h	P V H	P E H	2	99
+49	Khmer-Standard	khm	ashes		pʰəːh	pʰ əː h	p I h	P V H	P E H	2	99
+50	Mon	mnw	ashes		pətɑɲ	p ə t ɑ ɲ	p I t o H	P V T V N	P E T A N	14	96
+51	Vietnamese	vie	ashes		mun	m u n	m u n	M V N	M Y N	34	108
+52	Bahnar-Golar	bdq	bamboo		pəlɛː	p ə l ɛː	p I l E	P V R V	P E L E	5	141
+53	Bahnar-Kontum	bdq	bamboo		pəlɛː	p ə l ɛː	p I l E	P V R V	P E L E	5	141
+54	Bahnar-Pleiku	bdq	bamboo		pəlɛː	p ə l ɛː	p I l E	P V R V	P E L E	5	141
+55	Bru-Talan	oog	bamboo		lɔˀɔŋkoʔ	lɔˀɔŋ koʔ	l k	R K	L K	4	137
+56	Bru-Ubon	bru	bamboo		ʔaːluaŋsərɔŋ	ʔaːluaŋ sərɔŋ	7 s	H S	H S	15	121
+57	Khmer-Surin	kxm	bamboo		rsɛj	r s ɛ j	r s E y	R S V J	R S E J	6	142
+58	Khmer-Standard	khm	bamboo		rəsɤj	r ə s ɤ j	r I s o y	R V S V J	R E S E J	6	142
+59	Mon	mnw	bamboo		tùn	t u n	t u n	T V N	T Y N	31	130
+60	Vietnamese	vie	bamboo		pheo	p h eo	p h e	P H V	P H E	47	140
+61	Bahnar-Golar	bdq	banana		priːt	p r iː t	p r i t	P R V T	P R I T	3	151
+62	Bahnar-Kontum	bdq	banana		priːt	p r iː t	p r i t	P R V T	P R I T	3	151
+63	Bahnar-Pleiku	bdq	banana		priːt	p r iː t	p r i t	P R V T	P R I T	3	151
+64	Bru-Talan	oog	banana		prinʔ	p r i n ʔ	p r i n 7	P R V N H	P R I N H	3	151
+65	Bru-Ubon	bru	banana		priat	p r ia t	p r i t	P R V T	P R I T	3	151
+66	Khmer-Surin	kxm	banana		ʨeːɁ	ʨ eː Ɂ	C e 7	K V H	C E H	6	154
+67	Khmer-Standard	khm	banana		ceiɁ	c ei Ɂ	T e 7	K V H	C E H	6	154
+68	Mon	mnw	banana		pràt	p r à t	p r a t	P R V T	P R A T	3	151
+69	Vietnamese	vie	banana		chuối	c h u o i	T h u o i	K H V V V	C H Y U I	2	149
+70	Bahnar-Golar	bdq	beans/peas		təh	t ə h	t I h	T V H	T E H	3	170
+71	Bahnar-Kontum	bdq	beans/peas		təh	t ə h	t I h	T V H	T E H	3	170
+72	Bahnar-Pleiku	bdq	beans/peas		təh	t ə h	t I h	T V H	T E H	3	170
+73	Bru-Talan	oog	beans/peas		tɔˀɔŋ	t ɔˀɔ ŋ	t o N	T V N	T U N	4	171
+74	Bru-Ubon	bru	beans/peas		sətɔːŋ	s ə t ɔː ŋ	s I t o N	S V T V N	S E T U N	4	171
+75	Khmer-Surin	kxm	beans/peas		snɛːɁ	s n ɛː Ɂ	s n E 7	S N V H	S N E H	8	175
+76	Khmer-Standard	khm	beans/peas		sɑndaek	s ɑ n d ae k	s o n d a k	S V N T V K	S A N T A K	2	163
+77	Mon	mnw	beans/peas		boa	b oa	b o	P V	P U	6	173
+78	Vietnamese	vie	beans/peas		đậu	đ a u	8 a u	T V V	D A Y	3	170
+79	Bahnar-Golar	bdq	bear		ɟəkøu	ɟ ə k øu	C I k e	K V K V	C E K U	4	189
+80	Bahnar-Kontum	bdq	bear		həgøu	h ə g øu	h I g e	H V K V	H E K U	4	189
+81	Bahnar-Pleiku	bdq	bear		cəgəw	c ə g ə w	T I g I w	K V K V W	C E K E W	4	189
+82	Bru-Talan	oog	bear		haŋkaːw	h a ŋ k aː w	h a N k a w	H V N K V W	H A N K A W	4	189
+83	Bru-Ubon	bru	bear		səkaw	s ə k a w	s I k a w	S V K V W	S E K A W	4	189
+84	Khmer-Standard	khm	bear		kʰmùm	kʰ m u m	k m u m	K M V M	K M Y M	13	180
+85	Mon	mnw	bear		mɛm	m ɛ m	m E m	M V M	M E M	17	184
+86	Vietnamese	vie	bear		gấu	g a u	g a u	K V V	K A Y	4	189
+87	Bahnar-Golar	bdq	bee/honeybee		suːt	s uː t	s u t	S V T	S Y T	3	206
+88	Bahnar-Kontum	bdq	bee/honeybee		suːt	s uː t	s u t	S V T	S Y T	3	206
+89	Bahnar-Pleiku	bdq	bee/honeybee		suːt	s uː t	s u t	S V T	S Y T	3	206
+90	Bru-Talan	oog	bee/honeybee		kihial	k i h ia l	k i h i l	K V H V R	K I H I L	5	211
+91	Bru-Ubon	bru	bee/honeybee		kəheal	k ə h ea l	k I h e l	K V H V R	K E H E L	5	211
+92	Khmer-Surin	kxm	bee/honeybee		kʰmum	kʰ m u m	k m u m	K M V M	K M Y M	11	194
+93	Khmer-Standard	khm	bee/honeybee		kmum	k m u m	k m u m	K M V M	K M Y M	11	194
+94	Mon	mnw	bee/honeybee		sai	s ai	s a	S V	S A	19	200
+95	Vietnamese	vie	bee/honeybee		ong	o n g	o n g	V N K	U N K	4	210
+96	Bahnar-Golar	bdq	belly/stomach		klaːk	k l aː k	k l a k	K R V K	K L A K	5	235
+97	Bahnar-Kontum	bdq	belly/stomach		klaːk	k l aː k	k l a k	K R V K	K L A K	5	235
+98	Bahnar-Pleiku	bdq	belly/stomach		klaːk	k l aː k	k l a k	K R V K	K L A K	5	235
+99	Bru-Talan	oog	belly/stomach		pəːm	p əː m	p I m	P V M	P E M	15	219
+100	Bru-Ubon	bru	belly/stomach		pṳŋ	p ṳ ŋ	p i N	P V N	P Y N	14	218
+101	Khmer-Surin	kxm	belly/stomach		puah	p ua h	p u h	P V H	P Y H	23	225
+102	Khmer-Standard	khm	belly/stomach		puŋ	p u ŋ	p u N	P V N	P Y N	14	218
+103	Mon	mnw	belly/stomach		pɜ̀ŋ	p ɜ̀ ŋ	p I N	P V N	P E N	14	218
+104	Vietnamese	vie	belly/stomach		bụng	b u n g	b u n g	P V N K	P Y N K	14	218
+105	Bahnar-Golar	bdq	bird		sɛːm	s ɛː m	s E m	S V M	S E M	2	241
+106	Bahnar-Kontum	bdq	bird		sɛːm	s ɛː m	s E m	S V M	S E M	2	241
+107	Bahnar-Pleiku	bdq	bird		sɛːm	s ɛː m	s E m	S V M	S E M	2	241
+108	Bru-Talan	oog	bird		kaˀjleːmʔ	kaˀj leːmʔ	k l	K R	K L	3	244
+109	Bru-Ubon	bru	bird		cɤm	c ɤ m	T o m	K V M	C E M	2	241
+110	Mon	mnw	bird		hacem	h a c e m	h a T e m	H V K V M	H A C E M	2	241
+111	Vietnamese	vie	bird		chim	c h i m	T h i m	K H V M	C H I M	2	241
+112	Bahnar-Golar	bdq	bitter		taŋ	t a ŋ	t a N	T V N	T A N	3	250
+113	Bahnar-Kontum	bdq	bitter		taŋ	t a ŋ	t a N	T V N	T A N	3	250
+114	Bahnar-Pleiku	bdq	bitter		taŋ	t a ŋ	t a N	T V N	T A N	3	250
+115	Bru-Talan	oog	bitter		taŋʔ	t a ŋ ʔ	t a N 7	T V N H	T A N H	3	250
+116	Bru-Ubon	bru	bitter		ntaŋ	n t a ŋ	n t a N	N T V N	N T A N	3	250
+117	Khmer-Surin	kxm	bitter		lwiːɲ	l w iː ɲ	l w i H	R W V N	L W I N	13	248
+118	Khmer-Standard	khm	bitter		lwiːŋ	l w iː ŋ	l w i N	R W V N	L W I N	13	248
+119	Mon	mnw	bitter		kataŋ	k a t a ŋ	k a t a N	K V T V N	K A T A N	3	250
+120	Vietnamese	vie	bitter		đắng	đ a n g	8 a n g	T V N K	D A N K	3	250
+121	Bahnar-Golar	bdq	black		gam	g a m	g a m	K V M	K A M	7	282
+122	Bahnar-Kontum	bdq	black		gam	g a m	g a m	K V M	K A M	7	282
+123	Bahnar-Pleiku	bdq	black		gam	g a m	g a m	K V M	K A M	7	282
+124	Bru-Talan	oog	black		koːm	k oː m	k o m	K V M	K U M	17	259
+125	Bru-Ubon	bru	black		kuːm	k uː m	k u m	K V M	K Y M	17	259
+126	Khmer-Surin	kxm	black		kʰmaw	kʰ m a w	k m a w	K M V W	K M A W	13	256
+127	Khmer-Standard	khm	black		kmaw	k m a w	k m a w	K M V W	K M A W	13	256
+128	Mon	mnw	black		kacɑk	k a c ɑ k	k a T o k	K V K V K	K A C A K	31	270
+129	Vietnamese	vie	black		đen	đ e n	8 e n	T V N	D E N	46	280
+130	Bahnar-Golar	bdq	blood		pʰaːm	pʰ aː m	p a m	P V M	P A M	1	285
+131	Bahnar-Kontum	bdq	blood		pʰaːm	pʰ aː m	p a m	P V M	P A M	1	285
+132	Bahnar-Pleiku	bdq	blood		pʰaːm	pʰ aː m	p a m	P V M	P A M	1	285
+133	Bru-Talan	oog	blood		haˀam	h aˀa m	h a m	H V M	H A M	1	285
+134	Bru-Ubon	bru	blood		ʔaːhaːm	ʔ aː h aː m	7 a h a m	H V H V M	H A H A M	1	285
+135	Khmer-Surin	kxm	blood		ʨhiːam	ʨ h iːa m	C h i m	K H V M	C H I M	1	285
+136	Khmer-Standard	khm	blood		cʰiem	cʰ ie m	T i m	K V M	C I M	1	285
+137	Mon	mnw	blood		cʰim	cʰ i m	T i m	K V M	C I M	1	285
+138	Vietnamese	vie	blood		máu	m áu	m a	M V	M A	5	289
+139	Bahnar-Pleiku	bdq	boat		pluŋ	p l u ŋ	p l u N	P R V N	P L Y N	3	297
+140	Bru-Talan	oog	boat		roŋ	r o ŋ	r o N	R V N	R U N	6	300
+141	Bru-Ubon	bru	boat		tṳǝʔ	t ṳǝ ʔ	t i 7	T V H	T Y H	2	295
+142	Khmer-Surin	kxm	boat		tuːɁ	t uː Ɂ	t u 7	T V H	T Y H	2	295
+143	Khmer-Standard	khm	boat		tùːk	t uː k	t u k	T V K	T Y K	2	295
+144	Mon	mnw	boat		klə̀ŋ	k l ə̀ ŋ	k l I N	K R V N	K L E N	9	303
+145	Vietnamese	vie	boat		nốc	n o c	n o T	N V K	N U C	2	295
+146	Bahnar-Golar	bdq	body hair/feathers		sɔk	s ɔ k	s o k	S V K	S U K	1	304
+147	Bahnar-Kontum	bdq	body hair/feathers		sɔk	s ɔ k	s o k	S V K	S U K	1	304
+148	Bahnar-Pleiku	bdq	body hair/feathers		sɔk	s ɔ k	s o k	S V K	S U K	1	304
+149	Bru-Talan	oog	body hair/feathers		cʰɔkmɔˀɔr	cʰɔk mɔˀɔr	T m	K M	C M	1	304
+150	Bru-Ubon	bru	body hair/feathers		soʔ	s o ʔ	s o 7	S V H	S U H	1	304
+151	Khmer-Surin	kxm	body hair/feathers		mmɪːh	mm ɪː h	m i h	M V H	M I H	10	305
+152	Khmer-Standard	khm	body hair/feathers		saʔrəjraːkaː	s a ʔ r ə j r aː k aː	s a 7 r I y r a k a	S V H R V J R V K V	S A H R E J R A K A	11	306
+153	Mon	mnw	body hair/feathers		sok	s o k	s o k	S V K	S U K	1	304
+154	Vietnamese	vie	body hair/feathers		tóc	t ó c	t o T	T V K	T U C	1	304
+155	Bahnar-Golar	bdq	bone		kətiːŋ	k ə t iː ŋ	k I t i N	K V T V N	K E T I N	2	321
+156	Bahnar-Kontum	bdq	bone		kətiːŋ	k ə t iː ŋ	k I t i N	K V T V N	K E T I N	2	321
+157	Bahnar-Pleiku	bdq	bone		kətiːŋ	k ə t iː ŋ	k I t i N	K V T V N	K E T I N	2	321
+158	Bru-Talan	oog	bone		haˀaŋ	h aˀa ŋ	h a N	H V N	H A N	3	322
+159	Bru-Ubon	bru	bone		ŋhaːŋ	ŋ h aː ŋ	N h a N	N H V N	N H A N	3	322
+160	Khmer-Surin	kxm	bone		ʨɁʌŋ	ʨ Ɂ ʌ ŋ	C 7 o N	K H V N	C H E N	1	320
+161	Khmer-Standard	khm	bone		cʔəŋ	c ʔ ə ŋ	T 7 I N	K H V N	C H E N	1	320
+162	Mon	mnw	bone		cùt	c u t	T u t	K V T	C Y T	5	323
+163	Vietnamese	vie	bone		xương	x u o n g	x u o n g	K V V N K	G Y U N K	2	321
+164	Bahnar-Golar	bdq	bow, crossbow		hraʔ	h r a ʔ	h r a 7	H R V H	H R A H	4	337
+165	Bahnar-Kontum	bdq	bow, crossbow		hără	h ă r ă	h a r a	H V R V	H A R A	4	337
+166	Bahnar-Pleiku	bdq	bow, crossbow		hraʔ	h r a ʔ	h r a 7	H R V H	H R A H	4	337
+167	Bru-Talan	oog	bow, crossbow		thənuːpɛːɲ	thənuː pɛːɲ	t p	T P	T P	12	325
+168	Bru-Ubon	bru	bow, crossbow		sənaː	s ə n aː	s I n a	S V N V	S E N A	8	341
+169	Khmer-Surin	kxm	bow, crossbow		snaː	s n aː	s n a	S N V	S N A	8	341
+170	Khmer-Standard	khm	bow, crossbow		snaː	s n aː	s n a	S N V	S N A	8	341
+171	Mon	mnw	bow, crossbow		ŋaʔ	ŋ a ʔ	N a 7	N V H	N A H	19	331
+172	Vietnamese	vie	bow, crossbow		ná	n á	n a	N V	N A	8	341
+173	Bahnar-Golar	bdq	brain		ʔŋɔːk	ʔ ŋ ɔː k	7 N o k	H N V K	H N U K	4	359
+174	Bahnar-Kontum	bdq	brain		ʔŋɔːk	ʔ ŋ ɔː k	7 N o k	H N V K	H N U K	4	359
+175	Bahnar-Pleiku	bdq	brain		ʔŋɔːk	ʔ ŋ ɔː k	7 N o k	H N V K	H N U K	4	359
+176	Bru-Ubon	bru	brain		kubɔʔ	k u b ɔ ʔ	k u b o 7	K V P V H	K Y P U H	8	363
+177	Khmer-Surin	kxm	brain		kʰʊːr	kʰ ʊː r	k u r	K V R	K Y R	10	342
+178	Khmer-Standard	khm	brain		kʰuə	kʰ uə	k u	K V	K Y	10	342
+179	Mon	mnw	brain		dɔh	d ɔ h	d o h	T V H	T U H	16	348
+180	Vietnamese	vie	brain		óc	ó c	o T	V K	U C	5	360
+181	Bahnar-Golar	bdq	branch		təɓlaː	t ə ɓ l aː	t I b l a	T V P R V	T E P L A	5	392
+182	Bahnar-Kontum	bdq	branch		təba	t ə b a	t I b a	T V P V	T E P A	2	374
+183	Bahnar-Pleiku	bdq	branch		təɓlaː	t ə ɓ l aː	t I b l a	T V P R V	T E P L A	5	392
+184	Bru-Talan	oog	branch		ŋkɛːŋ	ŋ k ɛː ŋ	N k E N	N K V N	N K E N	20	375
+185	Bru-Ubon	bru	branch		wil	w i l	w i l	W V R	W I L	21	376
+186	Khmer-Surin	kxm	branch		meːɁ	m eː Ɂ	m e 7	M V H	M E H	4	391
+187	Khmer-Standard	khm	branch		mɛːɁ	m ɛː Ɂ	m E 7	M V H	M E H	4	391
+188	Mon	mnw	branch		naɲcʰuʔ	naɲ cʰuʔ	n T	N K	N C	32	384
+189	Vietnamese	vie	branch		cành	c à n h	T a n h	K V N H	C A N H	19	373
+190	Bahnar-Golar	bdq	breast		tɔh	t ɔ h	t o h	T V H	T U H	3	406
+191	Bahnar-Kontum	bdq	breast		tɔh	t ɔ h	t o h	T V H	T U H	3	406
+192	Bahnar-Pleiku	bdq	breast		tɔh	t ɔ h	t o h	T V H	T U H	3	406
+193	Bru-Talan	oog	breast		toh	t o h	t o h	T V H	T U H	3	406
+194	Bru-Ubon	bru	breast		toh	t o h	t o h	T V H	T U H	3	406
+195	Khmer-Surin	kxm	breast		dâh	d â h	d a h	T V H	T A H	3	406
+196	Khmer-Standard	khm	breast		dɔh	d ɔ h	d o h	T V H	T U H	3	406
+197	Mon	mnw	breast		tah	t a h	t a h	T V H	T A H	3	406
+198	Vietnamese	vie	breast		vú	v ú	v u	W V	B Y	1	396
+199	Bahnar-Golar	bdq	chicken/fowl		ʔjɛr	ʔ j ɛ r	7 y E r	H J V R	H J E R	1	409
+200	Bahnar-Kontum	bdq	chicken/fowl		ʔjɛr	ʔ j ɛ r	7 y E r	H J V R	H J E R	1	409
+201	Bahnar-Pleiku	bdq	chicken/fowl		ʔjɛr	ʔ j ɛ r	7 y E r	H J V R	H J E R	1	409
+202	Bru-Talan	oog	chicken/fowl		ntruˀj	n t r uˀ j	n t r u y	N T R V J	N T R Y J	2	415
+203	Bru-Ubon	bru	chicken/fowl		ntruəj	n t r uə j	n t r u y	N T R V J	N T R Y J	2	415
+204	Khmer-Surin	kxm	chicken/fowl		mɯan	m ɯa n	m u n	M V N	M I N	6	419
+205	Khmer-Standard	khm	chicken/fowl		mòən	m òə n	m o n	M V N	M U N	6	419
+206	Mon	mnw	chicken/fowl		caɲ	c a ɲ	T a H	K V N	C A N	8	421
+207	Vietnamese	vie	chicken/fowl		gà	g à	g a	K V	K A	17	414
+208	Bahnar-Golar	bdq	child/son		kɔːn	k ɔː n	k o n	K V N	K U N	3	424
+209	Bahnar-Kontum	bdq	child/son		kɔːn	k ɔː n	k o n	K V N	K U N	3	424
+210	Bahnar-Pleiku	bdq	child/son		kɔːn	k ɔː n	k o n	K V N	K U N	3	424
+211	Bru-Talan	oog	child/son		kərnian	k ə r n ia n	k I r n i n	K V R N V N	K E R N I N	4	425
+212	Bru-Ubon	bru	child/son		rənɛːn	r ə n ɛː n	r I n E n	R V N V N	R E N E N	4	425
+213	Khmer-Surin	kxm	child/son		koːn	k oː n	k o n	K V N	K U N	3	424
+214	Khmer-Standard	khm	child/son		koun	k ou n	k o n	K V N	K U N	3	424
+215	Mon	mnw	child/son		kon	k o n	k o n	K V N	K U N	3	424
+216	Vietnamese	vie	child/son		con	c o n	T o n	K V N	C U N	3	424
+217	Bahnar-Golar	bdq	cloud		həməl	h ə m ə l	h I m I l	H V M V R	H E M E L	6	449
+218	Bahnar-Kontum	bdq	cloud		həməl	h ə m ə l	h I m I l	H V M V R	H E M E L	6	449
+219	Bahnar-Pleiku	bdq	cloud		həməl	h ə m ə l	h I m I l	H V M V R	H E M E L	6	449
+220	Bru-Talan	oog	cloud		təluk	t ə l u k	t I l u k	T V R V K	T E L Y K	9	452
+221	Bru-Ubon	bru	cloud		rəmil	r ə m i l	r I m i l	R V M V R	R E M I L	6	449
+222	Khmer-Surin	kxm	cloud		ppuəʔ	pp uə ʔ	p u 7	P V H	P Y H	5	448
+223	Khmer-Standard	khm	cloud		pɔpɔːɁ	p ɔ p ɔː Ɂ	p o p o 7	P V P V H	P U P U H	5	448
+224	Mon	mnw	cloud		mòtprèa	mòt prèa	m p	M P	M P	20	439
+225	Vietnamese	vie	cloud		mây	m â y	m a i	M V V	M A Y	6	449
+226	Bahnar-Golar	bdq	cold		təŋjɛt	t ə ŋ j ɛ t	t I N y E t	T V N J V T	T E N J E T	2	462
+227	Bahnar-Kontum	bdq	cold		təŋjɛt	t ə ŋ j ɛ t	t I N y E t	T V N J V T	T E N J E T	2	462
+228	Bahnar-Pleiku	bdq	cold		təŋjɛt	t ə ŋ j ɛ t	t I N y E t	T V N J V T	T E N J E T	2	462
+229	Bru-Talan	oog	cold		ŋaˀar	ŋ aˀa r	N a r	N V R	N A R	14	457
+230	Bru-Ubon	bru	cold		səŋɛːt	s ə ŋ ɛː t	s I N E t	S V N V T	S E N E T	5	478
+231	Khmer-Surin	kxm	cold		rŋiːa	r ŋ iːa	r N i	R N V	R N I	19	461
+232	Khmer-Standard	khm	cold		rɔŋie	r ɔ ŋ ie	r o N i	R V N V	R U N I	19	461
+233	Mon	mnw	cold		bɑh	b ɑ h	b o h	P V H	P A H	27	469
+234	Bahnar-Golar	bdq	dog		kɔʔ	k ɔ ʔ	k o 7	K V H	K U H	4	486
+235	Bahnar-Kontum	bdq	dog		kɔʔ	k ɔ ʔ	k o 7	K V H	K U H	4	486
+236	Bahnar-Pleiku	bdq	dog		kɔʔ	k ɔ ʔ	k o 7	K V H	K U H	4	486
+237	Bru-Talan	oog	dog		cɔˀɔ	c ɔˀɔ	T o	K V	C U	2	485
+238	Bru-Ubon	bru	dog		ʔaːcɔː	ʔ aː c ɔː	7 a T o	H V K V	H A C U	2	485
+239	Khmer-Surin	kxm	dog		ckɛː	c k ɛː	T k E	K K V	C K E	5	487
+240	Khmer-Standard	khm	dog		cʰəkɛː	cʰ ə k ɛː	T I k E	K V K V	C E K E	5	487
+241	Mon	mnw	dog		kluiw	k l ui w	k l u w	K R V W	K L Y W	6	488
+242	Vietnamese	vie	dog		chó	c h ó	T h o	K H V	C H U	2	485
+243	Bahnar-Golar	bdq	dry		hrɛŋ	h r ɛ ŋ	h r E N	H R V N	H R E N	9	535
+244	Bahnar-Kontum	bdq	dry		hrɛŋ	h r ɛ ŋ	h r E N	H R V N	H R E N	9	535
+245	Bahnar-Pleiku	bdq	dry		srɛŋ	s r ɛ ŋ	s r E N	S R V N	S R E N	9	535
+246	Bru-Talan	oog	dry		crɛˀɛŋ	c r ɛˀɛ ŋ	T r E N	K R V N	C R E N	9	535
+247	Bru-Ubon	bru	dry		səʔəːt	s ə ʔ əː t	s I 7 I t	S V H V T	S E H E T	22	501
+248	Khmer-Surin	kxm	dry		sŋʊːt	s ŋ ʊː t	s N u t	S N V T	S N Y T	31	509
+249	Khmer-Standard	khm	dry		riːŋ	r iː ŋ	r i N	R V N	R I N	9	535
+250	Mon	mnw	dry		kɔh	k ɔ h	k o h	K V H	K U H	38	515
+251	Vietnamese	vie	dry		khô	k h ô	k h o	K H V	K H U	69	533
+252	Bahnar-Golar	bdq	ear		ɗɔːn	ɗ ɔː n	d o n	T V N	T U N	3	541
+253	Bahnar-Kontum	bdq	ear		ɗɔːn	ɗ ɔː n	d o n	T V N	T U N	3	541
+254	Bahnar-Pleiku	bdq	ear		ɗɔːn	ɗ ɔː n	d o n	T V N	T U N	3	541
+255	Bru-Talan	oog	ear		kətoːr	k ə t oː r	k I t o r	K V T V R	K E T U R	2	540
+256	Bru-Ubon	bru	ear		kətuːr	k ə t uː r	k I t u r	K V T V R	K E T Y R	2	540
+257	Khmer-Surin	kxm	ear		tʨɪːɁ	t ʨ ɪː Ɂ	t C i 7	T K V H	T C I H	7	545
+258	Khmer-Standard	khm	ear		trɑciəʔ	t r ɑ c iə ʔ	t r o T i 7	T R V K V H	T R A C I H	7	545
+259	Mon	mnw	ear		kato	k a t o	k a t o	K V T V	K A T U	2	540
+260	Vietnamese	vie	ear		tai	t ai	t a	T V	T A	16	539
+261	Bahnar-Golar	bdq	earth -soil		tɛh	t ɛ h	t E h	T V H	T E H	4	559
+262	Bahnar-Kontum	bdq	earth -soil		tɛh	t ɛ h	t E h	T V H	T E H	4	559
+263	Bahnar-Pleiku	bdq	earth -soil		tɛh	t ɛ h	t E h	T V H	T E H	4	559
+264	Bru-Talan	oog	earth -soil		kətɛˀɛʔ	k ə t ɛˀɛ ʔ	k I t E 7	K V T V H	K E T E H	6	561
+265	Bru-Ubon	bru	earth -soil		kətɛːʔ	k ə t ɛː ʔ	k I t E 7	K V T V H	K E T E H	6	561
+266	Khmer-Surin	kxm	earth -soil		dɛj	d ɛ j	d E y	T V J	T E J	1	548
+267	Khmer-Standard	khm	earth -soil		dɤj	d ɤ j	d o y	T V J	T E J	1	548
+268	Mon	mnw	earth -soil		tɔeʔ	t ɔe ʔ	t o 7	T V H	T U H	1	548
+269	Vietnamese	vie	earth -soil		đất	đ a t	8 a t	T V T	D A T	25	556
+270	Bahnar-Golar	bdq	egg		kətap	k ə t a p	k I t a p	K V T V P	K E T A P	5	578
+271	Bahnar-Kontum	bdq	egg		kətap	k ə t a p	k I t a p	K V T V P	K E T A P	5	578
+272	Bahnar-Pleiku	bdq	egg		kətap	k ə t a p	k I t a p	K V T V P	K E T A P	5	578
+273	Bru-Talan	oog	egg		triˀal	t r iˀa l	t r i l	T R V R	T R I L	8	580
+274	Bru-Ubon	bru	egg		ntre̤ːl	n t r e̤ː l	n t r e l	N T R V R	N T R E L	8	580
+275	Khmer-Surin	kxm	egg		puːaŋ	p uːa ŋ	p u N	P V N	P Y N	11	564
+276	Khmer-Standard	khm	egg		pɔːŋ	p ɔː ŋ	p o N	P V N	P U N	11	564
+277	Mon	mnw	egg		həmaɛ	h ə m aɛ	h I m a	H V M V	H E M A	16	569
+278	Vietnamese	vie	egg		trứng	t r u n g	t r u n g	T R V N K	T R Y N K	25	577
+279	Bahnar-Golar	bdq	eight		təhŋam	t ə h ŋ a m	t I h N a m	T V H N V M	T E H N A M	1	582
+280	Bahnar-Kontum	bdq	eight		təhŋam	t ə h ŋ a m	t I h N a m	T V H N V M	T E H N A M	1	582
+281	Bahnar-Pleiku	bdq	eight		təhŋaːm	t ə h ŋ aː m	t I h N a m	T V H N V M	T E H N A M	1	582
+282	Bru-Talan	oog	eight		təkɔˀɔl	t ə k ɔˀɔ l	t I k o l	T V K V R	T E K U L	2	587
+283	Bru-Ubon	bru	eight		təkṳal	t ə k ṳa l	t I k i l	T V K V R	T E K Y L	2	587
+284	Khmer-Surin	kxm	eight		prambaj	p r a m b a j	p r a m b a y	P R V M P V J	P R A M P A J	5	590
+285	Khmer-Standard	khm	eight		prambaj	p r a m b a j	p r a m b a y	P R V M P V J	P R A M P A J	5	590
+286	Mon	mnw	eight		həcam	h ə c a m	h I T a m	H V K V M	H E C A M	9	593
+287	Vietnamese	vie	eight		tám	t á m	t a m	T V M	T A M	8	592
+288	Bahnar-Golar	bdq	excrement/shit		ʔic	ʔ i c	7 i T	H V K	H I C	1	594
+289	Bahnar-Kontum	bdq	excrement/shit		ʔic	ʔ i c	7 i T	H V K	H I C	1	594
+290	Bahnar-Pleiku	bdq	excrement/shit		ʔic	ʔ i c	7 i T	H V K	H I C	1	594
+291	Bru-Talan	oog	excrement/shit		ʔɔˀɔʔ	ʔ ɔˀɔ ʔ	7 o 7	H V H	H U H	2	600
+292	Bru-Ubon	bru	excrement/shit		krɛʔ	k r ɛ ʔ	k r E 7	K R V H	K R E H	4	602
+293	Khmer-Surin	kxm	excrement/shit		ʔac	ʔ a c	7 a T	H V K	H A C	1	594
+294	Khmer-Standard	khm	excrement/shit		ʔac	ʔ a c	7 a T	H V K	H A C	1	594
+295	Mon	mnw	excrement/shit		ʔɔc	ʔ ɔ c	7 o T	H V K	H U C	1	594
+296	Vietnamese	vie	excrement/shit		iả	i a	i a	V V	I A	5	603
+297	Bahnar-Golar	bdq	eye		mat	m a t	m a t	M V T	M A T	1	608
+298	Bahnar-Kontum	bdq	eye		mat	m a t	m a t	M V T	M A T	1	608
+299	Bahnar-Pleiku	bdq	eye		mat	m a t	m a t	M V T	M A T	1	608
+300	Bru-Talan	oog	eye		manʔ	m a n ʔ	m a n 7	M V N H	M A N H	1	608
+301	Bru-Ubon	bru	eye		ma̤t	m a̤ t	m a t	M V T	M A T	1	608
+302	Khmer-Surin	kxm	eye		pʰneːʔ	pʰ n eː ʔ	p n e 7	P N V H	P N E H	2	609
+303	Khmer-Standard	khm	eye		pnɛːk	p n ɛː k	p n E k	P N V K	P N E K	2	609
+304	Mon	mnw	eye		mòt	m ò t	m o t	M V T	M U T	1	608
+305	Vietnamese	vie	eye		mắt	m a t	m a t	M V T	M A T	1	608
+306	Bahnar-Golar	bdq	far/distant		hətɔl	h ə t ɔ l	h I t o l	H V T V R	H E T U L	30	622
+307	Bahnar-Kontum	bdq	far/distant		ʔatajh	ʔ a t a j h	7 a t a y h	H V T V J H	H A T A J H	8	624
+308	Bahnar-Pleiku	bdq	far/distant		ʔatajh	ʔ a t a j h	7 a t a y h	H V T V J H	H A T A J H	8	624
+309	Bru-Talan	oog	far/distant		jəˀəŋ	j əˀə ŋ	y I N	J V N	J E N	11	612
+310	Bru-Ubon	bru	far/distant		jɨːŋ	j ɨː ŋ	y I N	J V N	J I N	11	612
+311	Khmer-Surin	kxm	far/distant		ʨhŋaːj	ʨ h ŋ aː j	C h N a y	K H N V J	C H N A J	7	623
+312	Khmer-Standard	khm	far/distant		cŋaːj	c ŋ aː j	T N a y	K N V J	C N A J	7	623
+313	Mon	mnw	far/distant		hòa	h òa	h o	H V	H U	7	623
+314	Vietnamese	vie	far/distant		ngái	n g ái	n g a	N K V	N K A	7	623
+315	Bru-Talan	oog	fat/oil/grease		ɲcʰɛˀɛŋ	ɲ cʰ ɛˀɛ ŋ	H T E N	N K V N	N C E N	15	632
+316	Bru-Ubon	bru	fat/oil/grease		nseːŋ	n s eː ŋ	n s e N	N S V N	N S E N	15	632
+317	Khmer-Surin	kxm	fat/oil/grease		kʰlaɲ	kʰ l a ɲ	k l a H	K R V N	K L A N	10	627
+318	Khmer-Standard	khm	fat/oil/grease		kʰlaɲ	kʰ l a ɲ	k l a H	K R V N	K L A N	10	627
+319	Mon	mnw	fat/oil/grease		klɑɲ	k l ɑ ɲ	k l o H	K R V N	K L A N	10	627
+320	Vietnamese	vie	fat/oil/grease		mỡ	m õ	m o	M V	M U	41	650
+321	Bahnar-Golar	bdq	fear/afraid		hliː	h l iː	h l i	H R V	H L I	4	673
+322	Bahnar-Kontum	bdq	fear/afraid		ʔjuʔ	ʔ j u ʔ	7 y u 7	H J V H	H J Y H	6	675
+323	Bahnar-Pleiku	bdq	fear/afraid		hliː	h l iː	h l i	H R V	H L I	4	673
+324	Bru-Talan	oog	fear/afraid		ŋkɔˀɔh	ŋ k ɔˀɔ h	N k o h	N K V H	N K U H	13	658
+325	Bru-Ubon	bru	fear/afraid		ŋkɔh	ŋ k ɔ h	N k o h	N K V H	N K U H	13	658
+326	Khmer-Surin	kxm	fear/afraid		kʰlaːc	kʰ l aː c	k l a T	K R V K	K L A C	16	660
+327	Khmer-Standard	khm	fear/afraid		klaːc	k l aː c	k l a T	K R V K	K L A C	16	660
+328	Mon	mnw	fear/afraid		pʰɑc	pʰ ɑ c	p o T	P V K	P A C	23	664
+329	Vietnamese	vie	fear/afraid		phạ	p h a	p h a	P H V	P H A	36	672
+330	Bahnar-Golar	bdq	field -irrigated		cun	c u n	T u n	K V N	C Y N	2	687
+331	Bahnar-Kontum	bdq	field -irrigated		miːr	m iː r	m i r	M V R	M I R	3	693
+332	Bahnar-Pleiku	bdq	field -irrigated		miːr	m iː r	m i r	M V R	M I R	3	693
+333	Bru-Talan	oog	field -irrigated		cʰrɛː	cʰ r ɛː	T r E	K R V	C R E	5	695
+334	Khmer-Standard	khm	field -irrigated		srae	s r ae	s r a	S R V	S R A	5	695
+335	Mon	mnw	field -irrigated		ŋɛ̀ʔ	ŋ ɛ̀ ʔ	N E 7	N V H	N E H	11	681
+336	Vietnamese	vie	field -irrigated		ruộng	r u o n g	r u o n g	R V V N K	R Y U N K	26	692
+337	Bahnar-Golar	bdq	field -swidden/hill		miːr	m iː r	m i r	M V R	M I R	4	717
+338	Bahnar-Kontum	bdq	field -swidden/hill		miːr	m iː r	m i r	M V R	M I R	4	717
+339	Bahnar-Pleiku	bdq	field -swidden/hill		miːr	m iː r	m i r	M V R	M I R	4	717
+340	Bru-Ubon	bru	field -swidden/hill		saraj	s a r a j	s a r a y	S V R V J	S A R A J	8	719
+341	Bahnar-Golar	bdq	finger		aŋlo	a ŋ l o	a N l o	V N R V	A N L U	2	731
+342	Bahnar-Kontum	bdq	finger		aŋlo	a ŋ l o	a N l o	V N R V	A N L U	2	731
+343	Bahnar-Pleiku	bdq	finger		aŋlo	a ŋ l o	a N l o	V N R V	A N L U	2	731
+344	Bru-Talan	oog	finger		kəɲcɛˀɛŋ	k ə ɲ c ɛˀɛ ŋ	k I H T E N	K V N K V N	K E N C E N	9	751
+345	Bru-Ubon	bru	finger		rədɔːj	r ə d ɔː j	r I d o y	R V T V J	R E T U J	10	722
+346	Khmer-Surin	kxm	finger		mriːam	m r iːa m	m r i m	M R V M	M R I M	16	728
+347	Khmer-Standard	khm	finger		mriəmdəj	mriəm dəj	m d	M T	M T	16	728
+348	Mon	mnw	finger		kənə̀ŋtoa	kənə̀ŋ toa	k t	K T	K T	25	735
+349	Vietnamese	vie	finger		ngón	n g ó n	n g o n	N K V N	N K U N	44	745
+350	Bahnar-Golar	bdq	fire		ʔuɲ	ʔ u ɲ	7 u H	H V N	H Y N	2	760
+351	Bahnar-Kontum	bdq	fire		ʔuɲ	ʔ u ɲ	7 u H	H V N	H Y N	2	760
+352	Bahnar-Pleiku	bdq	fire		ʔuɲ	ʔ u ɲ	7 u H	H V N	H Y N	2	760
+353	Bru-Talan	oog	fire		ʔujh	ʔ u j h	7 u y h	H V J H	H Y J H	1	752
+354	Bru-Ubon	bru	fire		ʔuːs	ʔ uː s	7 u s	H V S	H Y S	1	752
+355	Khmer-Surin	kxm	fire		pʰləːŋ	pʰ l əː ŋ	p l I N	P R V N	P L E N	5	763
+356	Khmer-Standard	khm	fire		pləːŋ	p l əː ŋ	p l I N	P R V N	P L E N	5	763
+357	Mon	mnw	fire		kəmot	k ə m o t	k I m o t	K V M V T	K E M U T	10	753
+358	Vietnamese	vie	fire		lửa	l u a	l u a	R V V	L Y A	18	758
+359	Bahnar-Golar	bdq	fish		kaː	k aː	k a	K V	K A	1	767
+360	Bahnar-Kontum	bdq	fish		kaː	k aː	k a	K V	K A	1	767
+361	Bahnar-Pleiku	bdq	fish		kaː	k aː	k a	K V	K A	1	767
+362	Bru-Talan	oog	fish		peˀeʔ	p eˀe ʔ	p e 7	P V H	P E H	5	772
+363	Bru-Ubon	bru	fish		ʔaːkaː	ʔ aː k aː	7 a k a	H V K V	H A K A	1	767
+364	Khmer-Surin	kxm	fish		trɛj	t r ɛ j	t r E y	T R V J	T R E J	9	776
+365	Khmer-Standard	khm	fish		triː	t r iː	t r i	T R V	T R I	9	776
+366	Mon	mnw	fish		kaʔ	k a ʔ	k a 7	K V H	K A H	1	767
+367	Vietnamese	vie	fish		cá	c á	T a	K V	C A	1	767
+368	Bahnar-Golar	bdq	five		pəɗam	p ə ɗ a m	p I d a m	P V T V M	P E T A M	2	778
+369	Bahnar-Kontum	bdq	five		pəɗam	p ə ɗ a m	p I d a m	P V T V M	P E T A M	2	778
+370	Bahnar-Pleiku	bdq	five		pəɗam	p ə ɗ a m	p I d a m	P V T V M	P E T A M	2	778
+371	Bru-Talan	oog	five		cʰə:ŋ	cʰ ə: ŋ	T I N	K V N	C E N	1	777
+372	Bru-Ubon	bru	five		sɨːŋ	s ɨː ŋ	s I N	S V N	S I N	1	777
+373	Khmer-Surin	kxm	five		pram	p r a m	p r a m	P R V M	P R A M	2	778
+374	Khmer-Standard	khm	five		pram	p r a m	p r a m	P R V M	P R A M	2	778
+375	Mon	mnw	five		pəsɔn	p ə s ɔ n	p I s o n	P V S V N	P E S U N	3	779
+376	Vietnamese	vie	five		năm	n ă m	n a m	N V M	N A M	2	778
+377	Bahnar-Golar	bdq	flesh/meat		ʔɲɛm	ʔ ɲ ɛ m	7 H E m	H N V M	H N E M	1	783
+378	Bahnar-Kontum	bdq	flesh/meat		sɛc	s ɛ c	s E T	S V K	S E C	1	783
+379	Bahnar-Pleiku	bdq	flesh/meat		ʔɲɛm	ʔ ɲ ɛ m	7 H E m	H N V M	H N E M	1	783
+380	Bru-Talan	oog	flesh/meat		cʰɛc	cʰ ɛ c	T E T	K V K	C E C	1	783
+381	Bru-Ubon	bru	flesh/meat		sac	s a c	s a T	S V K	S A C	1	783
+382	Khmer-Surin	kxm	flesh/meat		sac	s a c	s a T	S V K	S A C	1	783
+383	Khmer-Standard	khm	flesh/meat		sac	s a c	s a T	S V K	S A C	1	783
+384	Mon	mnw	flesh/meat		pʰjun	pʰ j u n	p y u n	P J V N	P J Y N	27	794
+385	Vietnamese	vie	flesh/meat		thịt	t h j t	t h y t	T H J T	T H J T	43	803
+386	Bahnar-Golar	bdq	flower		pəkaːw	p ə k aː w	p I k a w	P V K V W	P E K A W	1	808
+387	Bahnar-Kontum	bdq	flower		raːŋ	r aː ŋ	r a N	R V N	R A N	4	820
+388	Bahnar-Pleiku	bdq	flower		pəkaːw	p ə k aː w	p I k a w	P V K V W	P E K A W	1	808
+389	Bru-Talan	oog	flower		piˀir	p iˀi r	p i r	P V R	P I R	5	821
+390	Bru-Ubon	bru	flower		pear	p ea r	p e r	P V R	P E R	5	821
+391	Khmer-Surin	kxm	flower		pʰkaː	pʰ k aː	p k a	P K V	P K A	28	819
+392	Khmer-Standard	khm	flower		pʰkaː	pʰ k aː	p k a	P K V	P K A	28	819
+393	Mon	mnw	flower		kao	k ao	k a	K V	K A	1	808
+394	Vietnamese	vie	flower		bống	b o n g	b o n g	P V N K	P U N K	27	818
+395	Bahnar-Golar	bdq	foot		kəpaːjɟəŋ	kəpaːj ɟəŋ	k C	K K	K C	2	828
+396	Bahnar-Kontum	bdq	foot		kəpaːjɟəŋ	kəpaːj ɟəŋ	k C	K K	K C	2	828
+397	Bahnar-Pleiku	bdq	foot		kəpaːjɟəŋ	kəpaːj ɟəŋ	k C	K K	K C	2	828
+398	Bru-Talan	oog	foot		jɨːŋ	j ɨː ŋ	y I N	J V N	J I N	2	828
+399	Bru-Ubon	bru	foot		ʔaːjɨːŋ	ʔ aː j ɨː ŋ	7 a y I N	H V J V N	H A J I N	2	828
+400	Khmer-Surin	kxm	foot		ʨɤːŋ	ʨ ɤː ŋ	C o N	K V N	C E N	2	828
+401	Khmer-Standard	khm	foot		cɤ̀ːŋ	c ɤ̀ː ŋ	T o N	K V N	C E N	2	828
+402	Mon	mnw	foot		càŋ	c à ŋ	T a N	K V N	C A N	2	828
+403	Vietnamese	vie	foot		chân	c h â n	T h a n	K H V N	C H A N	1	825
+404	Bahnar-Golar	bdq	four		pwan	p w a n	p w a n	P W V N	P W A N	1	834
+405	Bahnar-Kontum	bdq	four		pwan	p w a n	p w a n	P W V N	P W A N	1	834
+406	Bahnar-Pleiku	bdq	four		pwan	p w a n	p w a n	P W V N	P W A N	1	834
+407	Bru-Talan	oog	four		puˀan	p uˀa n	p u n	P V N	P Y N	1	834
+408	Bru-Ubon	bru	four		pʉːn	p ʉː n	p I n	P V N	P Y N	1	834
+409	Khmer-Surin	kxm	four		bʊːn	b ʊː n	b u n	P V N	P Y N	1	834
+410	Khmer-Standard	khm	four		buən	b uə n	b u n	P V N	P Y N	1	834
+411	Mon	mnw	four		pɔn	p ɔ n	p o n	P V N	P U N	1	834
+412	Vietnamese	vie	four		bốn	b o n	b o n	P V N	P U N	1	834
+413	Bahnar-Golar	bdq	frog		kiːt	k iː t	k i t	K V T	K I T	6	854
+414	Bahnar-Kontum	bdq	frog		kit	k i t	k i t	K V T	K I T	6	854
+415	Bahnar-Pleiku	bdq	frog		kɨːt	k ɨː t	k I t	K V T	K I T	6	854
+416	Bru-Talan	oog	frog		kṳnʔ	k ṳ n ʔ	k i n 7	K V N H	K Y N H	6	854
+417	Bru-Ubon	bru	frog		ʔakṳat	ʔ a k ṳa t	7 a k i t	H V K V T	H A K Y T	6	854
+418	Khmer-Surin	kxm	frog		ŋkɛːp	ŋ k ɛː p	N k E p	N K V P	N K E P	17	841
+419	Khmer-Standard	khm	frog		kɑŋkaep	k ɑ ŋ k ae p	k o N k a p	K V N K V P	K A N K A P	17	841
+420	Mon	mnw	frog		ŋɛ̀a	ŋ ɛ̀a	N E	N V	N E	25	846
+421	Vietnamese	vie	frog		ếch	e c h	e T h	V K H	E C H	41	852
+422	Bahnar-Golar	bdq	fruit		plɛːj	p l ɛː j	p l E y	P R V J	P L E J	1	858
+423	Bahnar-Kontum	bdq	fruit		plɛːj	p l ɛː j	p l E y	P R V J	P L E J	1	858
+424	Bahnar-Pleiku	bdq	fruit		plɛːj	p l ɛː j	p l E y	P R V J	P L E J	1	858
+425	Bru-Talan	oog	fruit		kəlaːj	k ə l aː j	k I l a y	K V R V J	K E L A J	1	858
+426	Bru-Ubon	bru	fruit		pəlaj	p ə l a j	p I l a y	P V R V J	P E L A J	1	858
+427	Khmer-Surin	kxm	fruit		pʰlɛː	pʰ l ɛː	p l E	P R V	P L E	1	858
+428	Khmer-Standard	khm	fruit		plae	p l ae	p l a	P R V	P L A	1	858
+429	Mon	mnw	fruit		sɔt	s ɔ t	s o t	S V T	S U T	6	860
+430	Vietnamese	vie	fruit		trái	t r ái	t r a	T R V	T R A	1	858
+431	Bahnar-Golar	bdq	full		ɓeɲ	ɓ e ɲ	b e H	P V N	P E N	1	864
+432	Bahnar-Kontum	bdq	full		ɓeɲ	ɓ e ɲ	b e H	P V N	P E N	1	864
+433	Bahnar-Pleiku	bdq	full		ɓeɲ	ɓ e ɲ	b e H	P V N	P E N	1	864
+434	Bru-Talan	oog	full		krəjh	k r ə j h	k r I y h	K R V J H	K R E J H	5	874
+435	Bru-Ubon	bru	full		pɔn	p ɔ n	p o n	P V N	P U N	1	864
+436	Khmer-Surin	kxm	full		pɪɲ	p ɪ ɲ	p i H	P V N	P I N	1	864
+437	Khmer-Standard	khm	full		pɨɲ	p ɨ ɲ	p I H	P V N	P I N	1	864
+438	Mon	mnw	full		pɑɲ	p ɑ ɲ	p o H	P V N	P A N	1	864
+439	Vietnamese	vie	full		lăm	l ă m	l a m	R V M	L A M	21	873
+440	Bahnar-Golar	bdq	grandchild		sɔw	s ɔ w	s o w	S V W	S U W	1	879
+441	Bahnar-Kontum	bdq	grandchild		sɔw	s ɔ w	s o w	S V W	S U W	1	879
+442	Bahnar-Pleiku	bdq	grandchild		sɔw	s ɔ w	s o w	S V W	S U W	1	879
+443	Bru-Talan	oog	grandchild		caw	c a w	T a w	K V W	C A W	1	879
+444	Bru-Ubon	bru	grandchild		ʔacaw	ʔ a c a w	7 a T a w	H V K V W	H A C A W	1	879
+445	Khmer-Surin	kxm	grandchild		ʨaw	ʨ a w	C a w	K V W	C A W	1	879
+446	Khmer-Standard	khm	grandchild		caw	c a w	T a w	K V W	C A W	1	879
+447	Mon	mnw	grandchild		cao	c ao	T a	K V	C A	1	879
+448	Vietnamese	vie	grandchild		cháutrai	cháu trai	T t	K T	C T	1	879
+449	Bahnar-Golar	bdq	grass		ʔɲɛt	ʔ ɲ ɛ t	7 H E t	H N V T	H N E T	5	911
+450	Bahnar-Kontum	bdq	grass		ʔɲɛt	ʔ ɲ ɛ t	7 H E t	H N V T	H N E T	5	911
+451	Bahnar-Pleiku	bdq	grass		ʔɲɛt	ʔ ɲ ɛ t	7 H E t	H N V T	H N E T	5	911
+452	Bru-Talan	oog	grass		cʰak	cʰ a k	T a k	K V K	C A K	10	888
+453	Bru-Ubon	bru	grass		bat	b a t	b a t	P V T	P A T	4	905
+454	Khmer-Surin	kxm	grass		smaw	s m a w	s m a w	S M V W	S M A W	14	891
+455	Khmer-Standard	khm	grass		smaw	s m a w	s m a w	S M V W	S M A W	14	891
+456	Mon	mnw	grass		kəmot	k ə m o t	k I m o t	K V M V T	K E M U T	24	897
+457	Vietnamese	vie	grass		cỏ	c o	T o	K V	C U	47	909
+458	Bahnar-Golar	bdq	green		ɟəːk	ɟ əː k	C I k	K V K	C E K	7	942
+459	Bahnar-Pleiku	bdq	green		ɟəːk	ɟ əː k	C I k	K V K	C E K	7	942
+460	Bru-Talan	oog	green		hoʔ	h o ʔ	h o 7	H V H	H U H	21	921
+461	Bru-Ubon	bru	green		siəw	s iə w	s i w	S V W	S I W	6	941
+462	Mon	mnw	green		sacŋeak	sac ŋeak	s N	S N	S N	37	931
+463	Vietnamese	vie	green		xanh	x a n h	x a n h	K V N H	G A N H	55	940
+464	Bahnar-Golar	bdq	hair -head		sɔk	s ɔ k	s o k	S V K	S U K	1	944
+465	Bahnar-Kontum	bdq	hair -head		sɔk	s ɔ k	s o k	S V K	S U K	1	944
+466	Bahnar-Pleiku	bdq	hair -head		sɔk	s ɔ k	s o k	S V K	S U K	1	944
+467	Bru-Talan	oog	hair -head		cʰɔk	cʰ ɔ k	T o k	K V K	C U K	1	944
+468	Bru-Ubon	bru	hair -head		soʔ	s o ʔ	s o 7	S V H	S U H	1	944
+469	Khmer-Surin	kxm	hair -head		sɑɁ	s ɑ Ɂ	s o 7	S V H	S A H	1	944
+470	Khmer-Standard	khm	hair -head		sɑʔ	s ɑ ʔ	s o 7	S V H	S A H	1	944
+471	Mon	mnw	hair -head		sok	s o k	s o k	S V K	S U K	1	944
+472	Vietnamese	vie	hair -head		tóc	t ó c	t o T	T V K	T U C	1	944
+473	Bahnar-Golar	bdq	hand		təpaːjtiː	təpaːj tiː	t t	T T	T T	3	951
+474	Bahnar-Kontum	bdq	hand		kəpaːjtiː	kəpaːj tiː	k t	K T	K T	3	951
+475	Bahnar-Pleiku	bdq	hand		təpaːjtiː	təpaːj tiː	t t	T T	T T	3	951
+476	Bru-Talan	oog	hand		tiː	t iː	t i	T V	T I	3	951
+477	Bru-Ubon	bru	hand		ʔatiː	ʔ a t iː	7 a t i	H V T V	H A T I	3	951
+478	Khmer-Surin	kxm	hand		daj	d a j	d a y	T V J	T A J	3	951
+479	Khmer-Standard	khm	hand		dəj	d ə j	d I y	T V J	T E J	3	951
+480	Mon	mnw	hand		toa	t oa	t o	T V	T U	3	951
+481	Vietnamese	vie	hand		tay	t ay	t a	T V	T A	5	953
+482	Bahnar-Golar	bdq	head		kəl	k ə l	k I l	K V R	K E L	2	957
+483	Bahnar-Kontum	bdq	head		kəl	k ə l	k I l	K V R	K E L	2	957
+484	Bahnar-Pleiku	bdq	head		kəl	k ə l	k I l	K V R	K E L	2	957
+485	Bru-Talan	oog	head		plɔː	p l ɔː	p l o	P R V	P L U	5	962
+486	Bru-Ubon	bru	head		pləː	p l əː	p l I	P R V	P L E	5	962
+487	Khmer-Surin	kxm	head		kbaːl	k b aː l	k b a l	K P V R	K P A L	8	965
+488	Khmer-Standard	khm	head		kbaːl	k b aː l	k b a l	K P V R	K P A L	8	965
+489	Mon	mnw	head		dɑp	d ɑ p	d o p	T V P	T A P	15	956
+490	Bahnar-Golar	bdq	heart		nujh	n u j h	n u y h	N V J H	N Y J H	2	975
+491	Bahnar-Kontum	bdq	heart		nujh	n u j h	n u y h	N V J H	N Y J H	2	975
+492	Bahnar-Pleiku	bdq	heart		nujh	n u j h	n u y h	N V J H	N Y J H	2	975
+493	Bru-Talan	oog	heart		reŋɨh	r e ŋ ɨ h	r e N I h	R V N V H	R E N I H	9	990
+494	Bru-Ubon	bru	heart		rəŋɨh	r ə ŋ ɨ h	r I N I h	R V N V H	R E N I H	9	990
+495	Khmer-Surin	kxm	heart		bɛhdoːŋ	bɛh doːŋ	b d	P T	P T	15	972
+496	Khmer-Standard	khm	heart		behdoːŋ	beh doːŋ	b d	P T	P T	15	972
+497	Mon	mnw	heart		cɑt	c ɑ t	T o t	K V T	C A T	25	978
+498	Vietnamese	vie	heart		tim	t i m	t i m	T V M	T I M	40	985
+499	Bahnar-Golar	bdq	heavy		trap	t r a p	t r a p	T R V P	T R A P	32	1006
+500	Bahnar-Kontum	bdq	heavy		hŋam	h ŋ a m	h N a m	H N V M	H N A M	5	1008
+501	Bahnar-Pleiku	bdq	heavy		trap	t r a p	t r a p	T R V P	T R A P	32	1006
+502	Bru-Talan	oog	heavy		ntaʔŋ	n t a ʔ ŋ	n t a 7 N	N T V H N	N T A H N	10	991
+503	Bru-Ubon	bru	heavy		ntɔŋ	n t ɔ ŋ	n t o N	N T V N	N T U N	10	991
+504	Khmer-Surin	kxm	heavy		tʰmuan	tʰ m ua n	t m u n	T M V N	T M Y N	13	994
+505	Khmer-Standard	khm	heavy		tŋʊən	t ŋ ʊə n	t N u n	T N V N	T N Y N	13	994
+506	Mon	mnw	heavy		sàŋ	s à ŋ	s a N	S V N	S A N	21	998
+507	Vietnamese	vie	heavy		nặng	n a n g	n a n g	N V N K	N A N K	30	1005
+508	Bahnar-Golar	bdq	horn		həkɛː	h ə k ɛː	h I k E	H V K V	H E K E	2	1017
+509	Bahnar-Kontum	bdq	horn		ʔakɛː	ʔ a k ɛː	7 a k E	H V K V	H A K E	2	1017
+510	Bahnar-Pleiku	bdq	horn		ʔakɛː	ʔ a k ɛː	7 a k E	H V K V	H A K E	2	1017
+511	Bru-Talan	oog	horn		təŋᵏɔ̤ːj	t ə ŋᵏ ɔ̤ː j	t I N o y	T V N V J	T E N U J	3	1018
+512	Bru-Ubon	bru	horn		takɔːj	t a k ɔː j	t a k o y	T V K V J	T A K U J	3	1018
+513	Khmer-Surin	kxm	horn		snɛːɲ	s n ɛː ɲ	s n E H	S N V N	S N E N	17	1016
+514	Khmer-Standard	khm	horn		snaeŋ	s n ae ŋ	s n a N	S N V N	S N A N	17	1016
+515	Mon	mnw	horn		krèaŋ	k r èa ŋ	k r e N	K R V N	K R E N	4	1019
+516	Vietnamese	vie	horn		sừng	s u n g	s u n g	S V N K	S Y N K	16	1015
+517	Bahnar-Golar	bdq	hot/warm		tɔʔ	t ɔ ʔ	t o 7	T V H	T U H	5	1044
+518	Bahnar-Kontum	bdq	hot/warm		tɔʔ	t ɔ ʔ	t o 7	T V H	T U H	5	1044
+519	Bahnar-Pleiku	bdq	hot/warm		tɔʔ	t ɔ ʔ	t o 7	T V H	T U H	5	1044
+520	Bru-Talan	oog	hot/warm		toʔ	t o ʔ	t o 7	T V H	T U H	5	1044
+521	Khmer-Surin	kxm	hot/warm		kdaw	k d a w	k d a w	K T V W	K T A W	5	1044
+522	Khmer-Standard	khm	hot/warm		kdaw	k d a w	k d a w	K T V W	K T A W	5	1044
+523	Mon	mnw	hot/warm		kataɔ	k a t aɔ	k a t a	K V T V	K A T A	5	1044
+524	Vietnamese	vie	hot/warm		ấm	a m	a m	V M	A M	12	1024
+525	Bahnar-Golar	bdq	house		hnam	h n a m	h n a m	H N V M	H N A M	4	1059
+526	Bahnar-Kontum	bdq	house		hnam	h n a m	h n a m	H N V M	H N A M	4	1059
+527	Bahnar-Pleiku	bdq	house		hnaːm	h n aː m	h n a m	H N V M	H N A M	4	1059
+528	Bru-Talan	oog	house		duŋ	d u ŋ	d u N	T V N	T Y N	2	1057
+529	Bru-Ubon	bru	house		dʉŋ	d ʉ ŋ	d I N	T V N	T Y N	2	1057
+530	Khmer-Surin	kxm	house		ptiah	p t ia h	p t i h	P T V H	P T I H	e	1064
+531	Khmer-Standard	khm	house		pteah	p t ea h	p t e h	P T V H	P T E H	e	1064
+532	Mon	mnw	house		hɑɛʔ	h ɑɛ ʔ	h o 7	H V H	H A H	3	1058
+533	Vietnamese	vie	house		nhà	n h à	n h a	N H V	N H A	3	1058
+534	Bahnar-Golar	bdq	intestine/gut		klaːk	k l aː k	k l a k	K R V K	K L A K	5	1083
+535	Bahnar-Kontum	bdq	intestine/gut		klaːk	k l aː k	k l a k	K R V K	K L A K	5	1083
+536	Bahnar-Pleiku	bdq	intestine/gut		klaːk	k l aː k	k l a k	K R V K	K L A K	5	1083
+537	Bru-Talan	oog	intestine/gut		rɔːjʔ	r ɔː j ʔ	r o y 7	R V J H	R U J H	6	1084
+538	Bru-Ubon	bru	intestine/gut		rṳajʔ	r ṳa j ʔ	r i y 7	R V J H	R Y J H	6	1084
+539	Khmer-Standard	khm	intestine/gut		ʔɑntaʔ	ʔ ɑ n t a ʔ	7 o n t a 7	H V N T V H	H A N T A H	8	1086
+540	Mon	mnw	intestine/gut		krɔt	k r ɔ t	k r o t	K R V T	K R U T	12	1077
+541	Vietnamese	vie	intestine/gut		ruột	r uộ t	r u t	R V T	R Y T	6	1084
+542	Bahnar-Golar	bdq	iron		maːm	m aː m	m a m	M V M	M A M	1	1088
+543	Bahnar-Kontum	bdq	iron		maːm	m aː m	m a m	M V M	M A M	1	1088
+544	Bahnar-Pleiku	bdq	iron		maːm	m aː m	m a m	M V M	M A M	1	1088
+545	Bru-Talan	oog	iron		taˀa	t aˀa	t a	T V	T A	5	1100
+546	Bru-Ubon	bru	iron		təːʔ	t əː ʔ	t I 7	T V H	T E H	5	1100
+547	Khmer-Surin	kxm	iron		dɛːɁ	d ɛː Ɂ	d E 7	T V H	T E H	5	1100
+548	Khmer-Standard	khm	iron		daeɁ	d ae Ɂ	d a 7	T V H	T A H	5	1100
+549	Vietnamese	vie	iron		sắt	s a t	s a t	S V T	S A T	25	1098
+550	Bahnar-Golar	bdq	leaf		hlaː	h l aː	h l a	H R V	H L A	1	1104
+551	Bahnar-Kontum	bdq	leaf		hlaː	h l aː	h l a	H R V	H L A	1	1104
+552	Bahnar-Pleiku	bdq	leaf		hlaː	h l aː	h l a	H R V	H L A	1	1104
+553	Bru-Talan	oog	leaf		həlaˀa	h ə l aˀa	h I l a	H V R V	H E L A	1	1104
+554	Bru-Ubon	bru	leaf		səlaː	s ə l aː	s I l a	S V R V	S E L A	1	1104
+555	Khmer-Surin	kxm	leaf		slʌʔ	s l ʌ ʔ	s l o 7	S R V H	S L E H	1	1104
+556	Khmer-Standard	khm	leaf		slək	s l ə k	s l I k	S R V K	S L E K	1	1104
+557	Mon	mnw	leaf		hlaʔ	h l a ʔ	h l a 7	H R V H	H L A H	1	1104
+558	Vietnamese	vie	leaf		lá	l á	l a	R V	L A	1	1104
+559	Bahnar-Golar	bdq	leech -land		pləːm	p l əː m	p l I m	P R V M	P L E M	1	1113
+560	Bahnar-Kontum	bdq	leech -land		pləːm	p l əː m	p l I m	P R V M	P L E M	1	1113
+561	Bahnar-Pleiku	bdq	leech -land		pləːm	p l əː m	p l I m	P R V M	P L E M	1	1113
+562	Bru-Talan	oog	leech -land		plɔːm	p l ɔː m	p l o m	P R V M	P L U M	1	1113
+563	Bru-Ubon	bru	leech -land		pləːm	p l əː m	p l I m	P R V M	P L E M	1	1113
+564	Khmer-Standard	khm	leech -land		tiəʔ	t iə ʔ	t i 7	T V H	T I H	6	1120
+565	Mon	mnw	leech -land		klɔm	k l ɔ m	k l o m	K R V M	K L U M	1	1113
+566	Vietnamese	vie	leech -land		conđỉa	con đỉa	T 8	K T	C D	19	1118
+567	Bahnar-Golar	bdq	left -side		ŋiãɔ	ŋ iãɔ	N i	N V	N I	8	1134
+568	Bahnar-Kontum	bdq	left -side		ŋiãɔ	ŋ iãɔ	N i	N V	N I	8	1134
+569	Bahnar-Pleiku	bdq	left -side		ʔŋjɛw	ʔ ŋ j ɛ w	7 N y E w	H N J V W	H N J E W	8	1134
+570	Bru-Talan	oog	left -side		wiˀar	w iˀa r	w i r	W V R	W I R	7	1133
+571	Bru-Ubon	bru	left -side		ʔaːwe̤ːr	ʔ aː w e̤ː r	7 a w e r	H V W V R	H A W E R	7	1133
+572	Khmer-Surin	kxm	left -side		ʨhweːɲ	ʨ h w eː ɲ	C h w e H	K H W V N	C H W E N	12	1125
+573	Khmer-Standard	khm	left -side		cweiŋ	c w ei ŋ	T w e N	K W V N	C W E N	12	1125
+574	Mon	mnw	left -side		paɛ	p aɛ	p a	P V	P A	10	1123
+575	Vietnamese	vie	left -side		trái	t r ái	t r a	T R V	T R A	24	1131
+576	Bahnar-Golar	bdq	light -weight		hjəːc	h j əː c	h y I T	H J V K	H J E C	5	1146
+577	Bahnar-Kontum	bdq	light -weight		hjəːc	h j əː c	h y I T	H J V K	H J E C	5	1146
+578	Bahnar-Pleiku	bdq	light -weight		həʔjəːc	h ə ʔ j əː c	h I 7 y I T	H V H J V K	H E H J E C	5	1146
+579	Bru-Talan	oog	light -weight		həŋaːlʔ	h ə ŋ aː l ʔ	h I N a l 7	H V N V R H	H E N A L H	30	1145
+580	Bru-Ubon	bru	light -weight		ŋhɛːl	ŋ h ɛː l	N h E l	N H V R	N H E L	30	1145
+581	Khmer-Standard	khm	light -weight		sraːl	s r aː l	s r a l	S R V R	S R A L	9	1150
+582	Mon	mnw	light -weight		sa	s a	s a	S V	S A	6	1147
+583	Vietnamese	vie	light -weight		nhẹ	n h e	n h e	N H V	N H E	30	1145
+584	Bahnar-Golar	bdq	liver		kləːm	k l əː m	k l I m	K R V M	K L E M	2	1153
+585	Bahnar-Kontum	bdq	liver		kləːm	k l əː m	k l I m	K R V M	K L E M	2	1153
+586	Bahnar-Pleiku	bdq	liver		kləːm	k l əː m	k l I m	K R V M	K L E M	2	1153
+587	Bru-Talan	oog	liver		lɔˀɔm	l ɔˀɔ m	l o m	R V M	L U M	3	1154
+588	Bru-Ubon	bru	liver		luəm	l uə m	l u m	R V M	L Y M	3	1154
+589	Khmer-Surin	kxm	liver		tʰlʌːm	tʰ l ʌː m	t l o m	T R V M	T L E M	2	1153
+590	Khmer-Standard	khm	liver		tʰlaəm	tʰ l aə m	t l a m	T R V M	T L A M	2	1153
+591	Mon	mnw	liver		krə̀h	k r ə̀ h	k r I h	K R V H	K R E H	1	1151
+592	Bahnar-Golar	bdq	long		kəɟuːŋ	k ə ɟ uː ŋ	k I C u N	K V K V N	K E C Y N	7	1183
+593	Bahnar-Kontum	bdq	long		kəɟuːŋ	k ə ɟ uː ŋ	k I C u N	K V K V N	K E C Y N	7	1183
+594	Bahnar-Pleiku	bdq	long		kəɟuːŋ	k ə ɟ uː ŋ	k I C u N	K V K V N	K E C Y N	7	1183
+595	Bru-Talan	oog	long		kəjɨːŋ	k ə j ɨː ŋ	k I y I N	K V J V N	K E J I N	7	1183
+596	Bru-Ubon	bru	long		ti̤ː	t i̤ː	t i	T V	T I	18	1165
+597	Khmer-Surin	kxm	long		weːɲ	w eː ɲ	w e H	W V N	W E N	26	1171
+598	Khmer-Standard	khm	long		wɛːŋ	w ɛː ŋ	w E N	W V N	W E N	26	1171
+599	Mon	mnw	long		kliŋ	k l i ŋ	k l i N	K R V N	K L I N	32	1175
+600	Vietnamese	vie	long		dài	d à i	d a i	T V V	T A I	38	1179
+601	Bahnar-Golar	bdq	louse		siː	s iː	s i	S V	S I	1	1186
+602	Bahnar-Kontum	bdq	louse		siː	s iː	s i	S V	S I	1	1186
+603	Bahnar-Pleiku	bdq	louse		siː	s iː	s i	S V	S I	1	1186
+604	Bru-Talan	oog	louse		ŋcaːj	ŋ c aː j	N T a y	N K V J	N C A J	1	1186
+605	Bru-Ubon	bru	louse		ɲciː	ɲ c iː	H T i	N K V	N C I	1	1186
+606	Khmer-Surin	kxm	louse		ʨaj	ʨ a j	C a y	K V J	C A J	1	1186
+607	Khmer-Standard	khm	louse		caj	c a j	T a y	K V J	C A J	1	1186
+608	Mon	mnw	louse		coa	c oa	T o	K V	C U	1	1186
+609	Vietnamese	vie	louse		chấy	c h a y	T h a i	K H V V	C H A Y	1	1186
+610	Bahnar-Golar	bdq	man -male human		drɔʔŋlɔː	d r ɔ ʔ ŋ l ɔː	d r o 7 N l o	T R V H N R V	T R U H N L U	6	1215
+611	Bahnar-Kontum	bdq	man -male human		drɔʔŋlɔː	d r ɔ ʔ ŋ l ɔː	d r o 7 N l o	T R V H N R V	T R U H N L U	6	1215
+612	Bahnar-Pleiku	bdq	man -male human		drɔʔŋlɔː	d r ɔ ʔ ŋ l ɔː	d r o 7 N l o	T R V H N R V	T R U H N L U	6	1215
+613	Bru-Talan	oog	man -male human		koːɲ	k oː ɲ	k o H	K V N	K U N	2	1198
+614	Bru-Ubon	bru	man -male human		troːs	t r oː s	t r o s	T R V S	T R U S	10	1190
+615	Khmer-Surin	kxm	man -male human		prɔh	p r ɔ h	p r o h	P R V H	P R U H	22	1201
+616	Khmer-Standard	khm	man -male human		proh	p r o h	p r o h	P R V H	P R U H	22	1201
+617	Mon	mnw	man -male human		kraoh	k r ao h	k r a h	K R V H	K R A H	10	1190
+618	Vietnamese	vie	man -male human		đànông	đàn ông	8 o	T V	D U	50	1214
+619	Bru-Talan	oog	many		həʔɨj	h ə ʔ ɨ j	h I 7 I y	H V H V J	H E H I J	30	1232
+620	Bru-Ubon	bru	many		səʔɨj	s ə ʔ ɨ j	s I 7 I y	S V H V J	S E H I J	30	1232
+621	Khmer-Surin	kxm	many		ʨrʌːn	ʨ r ʌː n	C r o n	K R V N	C R E N	38	1240
+622	Khmer-Standard	khm	many		craən	c r aə n	T r a n	K R V N	C R A N	38	1240
+623	Mon	mnw	many		klàŋ	k l à ŋ	k l a N	K R V N	K L A N	37	1239
+624	Vietnamese	vie	many		nhiều	n h i e u	n h i e u	N H V V V	N H I E Y	73	1260
+625	Bahnar-Golar	bdq	medicine		pəgaːŋ	p ə g aː ŋ	p I g a N	P V K V N	P E K A N	3	1273
+626	Bahnar-Kontum	bdq	medicine		pəgaːŋ	p ə g aː ŋ	p I g a N	P V K V N	P E K A N	3	1273
+627	Bahnar-Pleiku	bdq	medicine		pəgaːŋ	p ə g aː ŋ	p I g a N	P V K V N	P E K A N	3	1273
+628	Bru-Ubon	bru	medicine		rəhəw	r ə h ə w	r I h I w	R V H V W	R E H E W	7	1275
+629	Khmer-Surin	kxm	medicine		tʰnam	tʰ n a m	t n a m	T N V M	T N A M	2	1269
+630	Khmer-Standard	khm	medicine		tʰnam	tʰ n a m	t n a m	T N V M	T N A M	2	1269
+631	Mon	mnw	medicine		haʔuj	h a ʔ u j	h a 7 u y	H V H V J	H A H Y J	12	1262
+632	Vietnamese	vie	medicine		thuốc	t h u o c	t h u o T	T H V V K	T H Y U C	29	1272
+633	Bahnar-Golar	bdq	monkey/ape		ɗɔk	ɗ ɔ k	d o k	T V K	T U K	3	1294
+634	Bahnar-Kontum	bdq	monkey/ape		ɗɔk	ɗ ɔ k	d o k	T V K	T U K	3	1294
+635	Bahnar-Pleiku	bdq	monkey/ape		ɗɔk	ɗ ɔ k	d o k	T V K	T U K	3	1294
+636	Bru-Talan	oog	monkey/ape		ɲoˀol	ɲ oˀo l	H o l	N V R	N U L	8	1302
+637	Bru-Ubon	bru	monkey/ape		təmi̤r	t ə m i̤ r	t I m i r	T V M V R	T E M I R	7	1301
+638	Khmer-Surin	kxm	monkey/ape		swaː	s w aː	s w a	S W V	S W A	16	1284
+639	Khmer-Standard	khm	monkey/ape		svaː	s v aː	s v a	S W V	S B A	16	1284
+640	Mon	mnw	monkey/ape		nɑe	n ɑe	n o	N V	N A	23	1290
+641	Vietnamese	vie	monkey/ape		khi	k h i	k h i	K H V	K H I	33	1296
+642	Bahnar-Golar	bdq	moon		kʰɛːj	kʰ ɛː j	k E y	K V J	K E J	2	1311
+643	Bahnar-Kontum	bdq	moon		kʰɛːj	kʰ ɛː j	k E y	K V J	K E J	2	1311
+644	Bahnar-Pleiku	bdq	moon		kʰɛːj	kʰ ɛː j	k E y	K V J	K E J	2	1311
+645	Bru-Talan	oog	moon		kəcʰaːj	k ə cʰ aː j	k I T a y	K V K V J	K E C A J	5	1317
+646	Bru-Ubon	bru	moon		kəsaj	k ə s a j	k I s a y	K V S V J	K E S A J	5	1317
+647	Khmer-Surin	kxm	moon		kʰɛː	kʰ ɛː	k E	K V	K E	2	1311
+648	Khmer-Standard	khm	moon		kʰae	kʰ ae	k a	K V	K A	2	1311
+649	Mon	mnw	moon		hataɔ	h a t aɔ	h a t a	H V T V	H A T A	10	1304
+650	Vietnamese	vie	moon		tháng	t h á n g	t h a n g	T H V N K	T H A N K	26	1314
+651	Bahnar-Golar	bdq	mortar		təpal	t ə p a l	t I p a l	T V P V R	T E P A L	6	1329
+652	Bahnar-Kontum	bdq	mortar		hapal	h a p a l	h a p a l	H V P V R	H A P A L	6	1329
+653	Bahnar-Pleiku	bdq	mortar		təpal	t ə p a l	t I p a l	T V P V R	T E P A L	6	1329
+654	Bru-Talan	oog	mortar		təpaˀlloʔ	təpaˀl loʔ	t l	T R	T L	6	1329
+655	Bru-Ubon	bru	mortar		tapal	t a p a l	t a p a l	T V P V R	T A P A L	6	1329
+656	Khmer-Surin	kxm	mortar		tbal	t b a l	t b a l	T P V R	T P A L	6	1329
+657	Khmer-Standard	khm	mortar		tbal	t b a l	t b a l	T P V R	T P A L	6	1329
+658	Mon	mnw	mortar		həi	h əi	h I	H V	H E	13	1324
+659	Vietnamese	vie	mortar		cối	c o i	T o i	K V V	C U I	1	1321
+660	Bahnar-Golar	bdq	mountain		koːŋ	k oː ŋ	k o N	K V N	K U N	8	1356
+661	Bahnar-Kontum	bdq	mountain		koːŋ	k oː ŋ	k o N	K V N	K U N	8	1356
+662	Bahnar-Pleiku	bdq	mountain		koːŋ	k oː ŋ	k o N	K V N	K U N	8	1356
+663	Bru-Talan	oog	mountain		koh	k o h	k o h	K V H	K U H	15	1337
+664	Bru-Ubon	bru	mountain		kɔ̤h	k ɔ̤ h	k o h	K V H	K U H	15	1337
+665	Khmer-Surin	kxm	mountain		pʰnʊm	pʰ n ʊ m	p n u m	P N V M	P N Y M	1	1333
+666	Khmer-Standard	khm	mountain		pnum	p n u m	p n u m	P N V M	P N Y M	1	1333
+667	Mon	mnw	mountain		tə̀	t ə̀	t I	T V	T E	26	1346
+668	Bahnar-Golar	bdq	mouth		ɓər	ɓ ə r	b I r	P V R	P E R	5	1386
+669	Bahnar-Kontum	bdq	mouth		ɓər	ɓ ə r	b I r	P V R	P E R	5	1386
+670	Bahnar-Pleiku	bdq	mouth		ɓər	ɓ ə r	b I r	P V R	P E R	5	1386
+671	Bru-Talan	oog	mouth		bɛˀɛʔ	b ɛˀɛ ʔ	b E 7	P V H	P E H	16	1363
+672	Bru-Ubon	bru	mouth		bɛːʔ	b ɛː ʔ	b E 7	P V H	P E H	16	1363
+673	Khmer-Surin	kxm	mouth		mɯat	m ɯa t	m u t	M V T	M I T	26	1372
+674	Khmer-Standard	khm	mouth		mòət	m òə t	m o t	M V T	M U T	26	1372
+675	Mon	mnw	mouth		paɲ	p a ɲ	p a H	P V N	P A N	27	1373
+676	Vietnamese	vie	mouth		mồm	m o m	m o m	M V M	M U M	40	1381
+677	Bru-Talan	oog	mushroom/fungus		triˀiʔ	t r iˀi ʔ	t r i 7	T R V H	T R I H	5	1398
+678	Bru-Ubon	bru	mushroom/fungus		tria	t r ia	t r i	T R V	T R I	5	1398
+679	Khmer-Surin	kxm	mushroom/fungus		psʌt	p s ʌ t	p s o t	P S V T	P S E T	2	1396
+680	Khmer-Standard	khm	mushroom/fungus		psət	p s ə t	p s I t	P S V T	P S E T	2	1396
+681	Mon	mnw	mushroom/fungus		pətɑh	p ə t ɑ h	p I t o h	P V T V H	P E T A H	1	1391
+682	Bahnar-Golar	bdq	nail/claw		təʔŋjəh	t ə ʔ ŋ j ə h	t I 7 N y I h	T V H N J V H	T E H N J E H	4	1413
+683	Bahnar-Kontum	bdq	nail/claw		kəɗiːɲ	k ə ɗ iː ɲ	k I d i H	K V T V N	K E T I N	5	1414
+684	Bahnar-Pleiku	bdq	nail/claw		təʔŋjəh	t ə ʔ ŋ j ə h	t I 7 N y I h	T V H N J V H	T E H N J E H	4	1413
+685	Bru-Talan	oog	nail/claw		kərniʔajh	k ə r n i ʔ a j h	k I r n i 7 a y h	K V R N V H V J H	K E R N I H A J H	4	1413
+686	Bru-Ubon	bru	nail/claw		ntre̤ːh	n t r e̤ː h	n t r e h	N T R V H	N T R E H	4	1413
+687	Khmer-Surin	kxm	nail/claw		kcɑːʔ	k c ɑː ʔ	k T o 7	K K V H	K C A H	7	1416
+688	Khmer-Standard	khm	nail/claw		krəcaok	k r ə c ao k	k r I T a k	K R V K V K	K R E C A K	7	1416
+689	Mon	mnw	nail/claw		hənə̱m	h ə n ə̱ m	h I n I m	H V N V M	H E N E M	6	1415
+690	Vietnamese	vie	nail/claw		móng	m ó n g	m o n g	M V N K	M U N K	29	1411
+691	Bahnar-Golar	bdq	name		hənan	h ə n a n	h I n a n	H V N V N	H E N A N	8	1440
+692	Bahnar-Kontum	bdq	name		mat	m a t	m a t	M V T	M A T	9	1441
+693	Bahnar-Pleiku	bdq	name		ʔanan	ʔ a n a n	7 a n a n	H V N V N	H A N A N	8	1440
+694	Bru-Talan	oog	name		pərnɨh	p ə r n ɨ h	p I r n I h	P V R N V H	P E R N I H	18	1424
+695	Bru-Ubon	bru	name		rəmɨh	r ə m ɨ h	r I m I h	R V M V H	R E M I H	2	1426
+696	Khmer-Surin	kxm	name		ʨhmoːh	ʨ h m oː h	C h m o h	K H M V H	C H M U H	2	1426
+697	Khmer-Standard	khm	name		cmùəh	c m u ə h	T m u I h	K M V V H	C M Y E H	2	1426
+698	Mon	mnw	name		camɔ̀ʔ	c a m ɔ̀ ʔ	T a m o 7	K V M V H	C A M U H	26	1433
+699	Vietnamese	vie	name		tên	t ê n	t e n	T V N	T E N	32	1438
+700	Bahnar-Golar	bdq	navel		klɔk	k l ɔ k	k l o k	K R V K	K L U K	4	1457
+701	Bahnar-Kontum	bdq	navel		klɔk	k l ɔ k	k l o k	K R V K	K L U K	4	1457
+702	Bahnar-Pleiku	bdq	navel		klɔk	k l ɔ k	k l o k	K R V K	K L U K	4	1457
+703	Bru-Talan	oog	navel		pəːm	p əː m	p I m	P V M	P E M	7	1459
+704	Bru-Ubon	bru	navel		talṳːjh	t a l ṳː j h	t a l i y h	T V R V J H	T A L Y J H	9	1461
+705	Khmer-Surin	kxm	navel		pʨʌt	p ʨ ʌ t	p C o t	P K V T	P C E T	6	1458
+706	Khmer-Standard	khm	navel		pcət	p c ə t	p T I t	P K V T	P C E T	6	1458
+707	Mon	mnw	navel		pɔŋlɒt	pɔŋ lɒt	p l	P R	P L	8	1460
+708	Vietnamese	vie	navel		rốn	r o n	r o n	R V N	R U N	31	1454
+709	Bahnar-Golar	bdq	near		ɟeʔ	ɟ e ʔ	C e 7	K V H	C E H	8	1497
+710	Bahnar-Kontum	bdq	near		ɟɛʔ	ɟ ɛ ʔ	C E 7	K V H	C E H	8	1497
+711	Bahnar-Pleiku	bdq	near		ɟeʔ	ɟ e ʔ	C e 7	K V H	C E H	8	1497
+712	Bru-Talan	oog	near		təmanʔ	t ə m a n ʔ	t I m a n 7	T V M V N H	T E M A N H	18	1469
+713	Bru-Ubon	bru	near		cɛ̤ʔ	c ɛ̤ ʔ	T E 7	K V H	C E H	8	1497
+714	Khmer-Surin	kxm	near		bɪːt	b ɪː t	b i t	P V T	P I T	24	1475
+715	Khmer-Standard	khm	near		biːt	b iː t	b i t	P V T	P I T	24	1475
+716	Mon	mnw	near		ɲɔn	ɲ ɔ n	H o n	N V N	N U N	30	1482
+717	Vietnamese	vie	near		gần	g a n	g a n	K V N	K A N	59	1494
+718	Bahnar-Golar	bdq	neck		həkɔː	h ə k ɔː	h I k o	H V K V	H E K U	6	1513
+719	Bahnar-Kontum	bdq	neck		ʔakɔː	ʔ a k ɔː	7 a k o	H V K V	H A K U	6	1513
+720	Bahnar-Pleiku	bdq	neck		ʔakɔː	ʔ a k ɔː	7 a k o	H V K V	H A K U	6	1513
+721	Bru-Talan	oog	neck		təkɔˀɔŋ	t ə k ɔˀɔ ŋ	t I k o N	T V K V N	T E K U N	11	1500
+722	Bru-Ubon	bru	neck		təkɔːŋ	t ə k ɔː ŋ	t I k o N	T V K V N	T E K U N	11	1500
+723	Khmer-Surin	kxm	neck		kɑː	k ɑː	k o	K V	K A	6	1513
+724	Khmer-Standard	khm	neck		kɔː	k ɔː	k o	K V	K U	6	1513
+725	Mon	mnw	neck		kɔʔ	k ɔ ʔ	k o 7	K V H	K U H	6	1513
+726	Vietnamese	vie	neck		cổ	c o	T o	K V	C U	6	1513
+727	Bru-Talan	oog	needle		coˀor	c oˀo r	T o r	K V R	C U R	7	1532
+728	Bru-Ubon	bru	needle		məɲci̤l	m ə ɲ c i̤ l	m I H T i l	M V N K V R	M E N C I L	8	1533
+729	Khmer-Surin	kxm	needle		nʨul	n ʨ u l	n C u l	N K V R	N C Y L	8	1533
+730	Khmer-Standard	khm	needle		mcul	m c u l	m T u l	M K V R	M C Y L	8	1533
+731	Mon	mnw	needle		kanoɲ	k a n o ɲ	k a n o H	K V N V N	K A N U N	16	1522
+732	Vietnamese	vie	needle		kim	k i m	k i m	K V M	K I M	25	1527
+733	Bahnar-Golar	bdq	new		ʔnaːw	ʔ n aː w	7 n a w	H N V W	H N A W	7	1541
+734	Bahnar-Kontum	bdq	new		ʔnaːw	ʔ n aː w	7 n a w	H N V W	H N A W	7	1541
+735	Bahnar-Pleiku	bdq	new		hlɛː	h l ɛː	h l E	H R V	H L E	8	1542
+736	Bru-Talan	oog	new		təmɛˀɛ	t ə m ɛˀɛ	t I m E	T V M V	T E M E	6	1540
+737	Bru-Ubon	bru	new		təmaj	t ə m a j	t I m a y	T V M V J	T E M A J	6	1540
+738	Khmer-Surin	kxm	new		tʰmej	tʰ m e j	t m e y	T M V J	T M E J	6	1540
+739	Khmer-Standard	khm	new		tməj	t m ə j	t m I y	T M V J	T M E J	6	1540
+740	Mon	mnw	new		kamɑɛʔ	k a m ɑɛ ʔ	k a m o 7	K V M V H	K A M A H	6	1540
+741	Vietnamese	vie	new		mới	m o i	m o i	M V V	M U I	17	1539
+742	Bahnar-Golar	bdq	night		maŋ	m a ŋ	m a N	M V N	M A N	6	1560
+743	Bahnar-Kontum	bdq	night		maŋ	m a ŋ	m a N	M V N	M A N	6	1560
+744	Bahnar-Pleiku	bdq	night		maŋ	m a ŋ	m a N	M V N	M A N	6	1560
+745	Bru-Talan	oog	night		təbɨː	t ə b ɨː	t I b I	T V P V	T E P I	8	1562
+746	Bru-Ubon	bru	night		sədaw	s ə d a w	s I d a w	S V T V W	S E T A W	7	1561
+747	Khmer-Surin	kxm	night		jʊp	j ʊ p	y u p	J V P	J Y P	12	1546
+748	Khmer-Standard	khm	night		jup	j u p	y u p	J V P	J Y P	12	1546
+749	Mon	mnw	night		hatɔm	h a t ɔ m	h a t o m	H V T V M	H A T U M	1	1544
+750	Vietnamese	vie	night		đêm	đ ê m	8 e m	T V M	D E M	38	1558
+751	Bahnar-Golar	bdq	nine		təsin	t ə s i n	t I s i n	T V S V N	T E S I N	1	1564
+752	Bahnar-Kontum	bdq	nine		təsin	t ə s i n	t I s i n	T V S V N	T E S I N	1	1564
+753	Bahnar-Pleiku	bdq	nine		təsin	t ə s i n	t I s i n	T V S V N	T E S I N	1	1564
+754	Bru-Talan	oog	nine		təkiˀajh	t ə k iˀa j h	t I k i y h	T V K V J H	T E K I J H	2	1569
+755	Bru-Ubon	bru	nine		təke̤ːh	t ə k e̤ː h	t I k e h	T V K V H	T E K E H	2	1569
+756	Khmer-Standard	khm	nine		prambuan	p r a m b ua n	p r a m b u n	P R V M P V N	P R A M P Y N	5	1572
+757	Mon	mnw	nine		hacic	h a c i c	h a T i T	H V K V K	H A C I C	8	1574
+758	Vietnamese	vie	nine		chín	c h í n	T h i n	K H V N	C H I N	1	1564
+759	Bahnar-Golar	bdq	nose		muh	m u h	m u h	M V H	M Y H	1	1575
+760	Bahnar-Kontum	bdq	nose		muh	m u h	m u h	M V H	M Y H	1	1575
+761	Bahnar-Pleiku	bdq	nose		muh	m u h	m u h	M V H	M Y H	1	1575
+762	Bru-Talan	oog	nose		moh	m o h	m o h	M V H	M U H	1	1575
+763	Bru-Ubon	bru	nose		muh	m u h	m u h	M V H	M Y H	1	1575
+764	Khmer-Surin	kxm	nose		ʨmɔh	ʨ m ɔ h	C m o h	K M V H	C M U H	1	1575
+765	Khmer-Standard	khm	nose		crɑmoh	c r ɑ m o h	T r o m o h	K R V M V H	C R A M U H	1	1575
+766	Mon	mnw	nose		muh	m u h	m u h	M V H	M Y H	1	1575
+767	Vietnamese	vie	nose		mũi	m ũi	m u	M V	M Y	3	1576
+768	Bahnar-Golar	bdq	old		kraʔ	k r a ʔ	k r a 7	K R V H	K R A H	10	1580
+769	Bahnar-Kontum	bdq	old		kraʔ	k r a ʔ	k r a 7	K R V H	K R A H	10	1580
+770	Bahnar-Pleiku	bdq	old		kraʔ	k r a ʔ	k r a 7	K R V H	K R A H	10	1580
+771	Bru-Talan	oog	old		tiˀiʔ	t iˀi ʔ	t i 7	T V H	T I H	3	1596
+772	Bru-Ubon	bru	old		ti̤aʔ	t i̤a ʔ	t i 7	T V H	T I H	3	1596
+773	Khmer-Surin	kxm	old		ʨah	ʨ a h	C a h	K V H	C A H	21	1590
+774	Khmer-Standard	khm	old		cah	c a h	T a h	K V H	C A H	21	1590
+775	Mon	mnw	old		karem	k a r e m	k a r e m	K V R V M	K A R E M	20	1589
+776	Vietnamese	vie	old		già	g i à	g i a	K V V	K I A	10	1580
+777	Bahnar-Golar	bdq	one		moːɲ	m oː ɲ	m o H	M V N	M U N	4	1612
+778	Bahnar-Kontum	bdq	one		moːɲ	m oː ɲ	m o H	M V N	M U N	4	1612
+779	Bahnar-Pleiku	bdq	one		moːɲ	m oː ɲ	m o H	M V N	M U N	4	1612
+780	Bru-Talan	oog	one		mo:j	m o: j	m o y	M V J	M U J	2	1607
+781	Bru-Ubon	bru	one		muəj	m uə j	m u y	M V J	M Y J	2	1607
+782	Khmer-Surin	kxm	one		mʊːj	m ʊː j	m u y	M V J	M Y J	2	1607
+783	Khmer-Standard	khm	one		mùəj	m u ə j	m u I y	M V V J	M Y E J	2	1607
+784	Mon	mnw	one		mòa	m ò a	m o a	M V V	M U A	2	1607
+785	Vietnamese	vie	one		một	m o t	m o t	M V T	M U T	22	1610
+786	Bahnar-Golar	bdq	palm -of hand		pəlaʔ	p ə l a ʔ	p I l a 7	P V R V H	P E L A H	2	1622
+787	Bahnar-Kontum	bdq	palm -of hand		pəlaʔ	p ə l a ʔ	p I l a 7	P V R V H	P E L A H	2	1622
+788	Bahnar-Pleiku	bdq	palm -of hand		pəlaʔ	p ə l a ʔ	p I l a 7	P V R V H	P E L A H	2	1622
+789	Bru-Talan	oog	palm -of hand		təlaˀaŋ	t ə l aˀa ŋ	t I l a N	T V R V N	T E L A N	4	1629
+790	Bru-Ubon	bru	palm -of hand		təlaːŋ	t ə l aː ŋ	t I l a N	T V R V N	T E L A N	4	1629
+791	Khmer-Surin	kxm	palm -of hand		baːt	b aː t	b a t	P V T	P A T	7	1632
+792	Khmer-Standard	khm	palm -of hand		baːt	b aː t	b a t	P V T	P A T	7	1632
+793	Mon	mnw	palm -of hand		həta	h ə t a	h I t a	H V T V	H E T A	14	1620
+794	Vietnamese	vie	palm -of hand		lòngbàn	lòng bàn	l b	R P	L P	30	1628
+795	Bahnar-Golar	bdq	penis		lɔː	l ɔː	l o	R V	L U	1	1635
+796	Bahnar-Kontum	bdq	penis		lɔː	l ɔː	l o	R V	L U	1	1635
+797	Bahnar-Pleiku	bdq	penis		lɔː	l ɔː	l o	R V	L U	1	1635
+798	Bru-Talan	oog	penis		kəɲjəŋʔ	k ə ɲ j ə ŋ ʔ	k I H y I N 7	K V N J V N H	K E N J E N H	9	1658
+799	Bru-Ubon	bru	penis		klaj	k l a j	k l a y	K R V J	K L A J	7	1657
+800	Khmer-Surin	kxm	penis		kdɑː	k d ɑː	k d o	K T V	K T A	14	1640
+801	Khmer-Standard	khm	penis		kdɑː	k d ɑː	k d o	K T V	K T A	14	1640
+802	Mon	mnw	penis		pò	p ò	p o	P V	P U	21	1646
+803	Bahnar-Golar	bdq	person		bəŋaːj	b ə ŋ aː j	b I N a y	P V N V J	P E N A J	6	1676
+804	Bahnar-Kontum	bdq	person		bəŋaːj	b ə ŋ aː j	b I N a y	P V N V J	P E N A J	6	1676
+805	Bahnar-Pleiku	bdq	person		bəŋaːj	b ə ŋ aː j	b I N a y	P V N V J	P E N A J	6	1676
+806	Bru-Talan	oog	person		kuˀj	k uˀ j	k u y	K V J	K Y J	12	1662
+807	Bru-Ubon	bru	person		kʉaj	k ʉa j	k I y	K V J	K Y J	12	1662
+808	Khmer-Surin	kxm	person		mnɯh	m n ɯ h	m n u h	M N V H	M N I H	7	1677
+809	Khmer-Standard	khm	person		mɔnuh	m ɔ n u h	m o n u h	M V N V H	M U N Y H	7	1677
+810	Mon	mnw	person		nìh	n ì h	n i h	N V H	N I H	7	1677
+811	Vietnamese	vie	person		người	n g u o i	n g u o i	N K V V V	N K Y U I	6	1676
+812	Bahnar-Golar	bdq	pig		ɲuŋ	ɲ u ŋ	H u N	N V N	N Y N	4	1693
+813	Bahnar-Kontum	bdq	pig		ɲuŋ	ɲ u ŋ	H u N	N V N	N Y N	4	1693
+814	Bahnar-Pleiku	bdq	pig		ɲuŋ	ɲ u ŋ	H u N	N V N	N Y N	4	1693
+815	Bru-Talan	oog	pig		lik	l i k	l i k	R V K	L I K	9	1694
+816	Bru-Ubon	bru	pig		ʔaːliːʔ	ʔ aː l iː ʔ	7 a l i 7	H V R V H	H A L I H	9	1694
+817	Khmer-Surin	kxm	pig		ʨruːɁ	ʨ r uː Ɂ	C r u 7	K R V H	C R Y H	12	1681
+818	Khmer-Standard	khm	pig		cruːɁ	c r uː Ɂ	T r u 7	K R V H	C R Y H	12	1681
+819	Mon	mnw	pig		kloc	k l o c	k l o T	K R V K	K L U C	16	1685
+820	Vietnamese	vie	pig		heocúi	heo cúi	h T	H K	H C	25	1691
+821	Bahnar-Golar	bdq	pigeon/dove		kətəːp	k ə t əː p	k I t I p	K V T V P	K E T E P	6	1714
+822	Bahnar-Kontum	bdq	pigeon/dove		kətəːp	k ə t əː p	k I t I p	K V T V P	K E T E P	6	1714
+823	Bahnar-Pleiku	bdq	pigeon/dove		kətəːp	k ə t əː p	k I t I p	K V T V P	K E T E P	6	1714
+824	Bru-Talan	oog	pigeon/dove		kuː	k uː	k u	K V	K Y	5	1713
+825	Bru-Ubon	bru	pigeon/dove		təriap	t ə r ia p	t I r i p	T V R V P	T E R I P	9	1717
+826	Khmer-Surin	kxm	pigeon/dove		priəp	p r iə p	p r i p	P R V P	P R I P	12	1697
+827	Khmer-Standard	khm	pigeon/dove		priːap	p r iːa p	p r i p	P R V P	P R I P	12	1697
+828	Mon	mnw	pigeon/dove		hərap	h ə r a p	h I r a p	H V R V P	H E R A P	12	1697
+829	Vietnamese	vie	pigeon/dove		cu	c u	T u	K V	C Y	5	1713
+830	Bahnar-Golar	bdq	rain		miː	m iː	m i	M V	M I	2	1724
+831	Bahnar-Kontum	bdq	rain		ʔmiː	ʔ m iː	7 m i	H M V	H M I	2	1724
+832	Bahnar-Pleiku	bdq	rain		ʔmiː	ʔ m iː	7 m i	H M V	H M I	2	1724
+833	Bru-Talan	oog	rain		təŋ	t ə ŋ	t I N	T V N	T E N	7	1729
+834	Bru-Ubon	bru	rain		me̤a	m e̤a	m e	M V	M E	2	1724
+835	Khmer-Surin	kxm	rain		pʰlɪːɲ	pʰ l ɪː ɲ	p l i H	P R V N	P L I N	10	1718
+836	Khmer-Standard	khm	rain		pliəŋ	p l iə ŋ	p l i N	P R V N	P L I N	10	1718
+837	Mon	mnw	rain		pròa	p r ò a	p r o a	P R V V	P R U A	12	1720
+838	Vietnamese	vie	rain		mưa	m u a	m u a	M V V	M Y A	2	1724
+839	Bahnar-Golar	bdq	rat/mouse		kənɛː	k ə n ɛː	k I n E	K V N V	K E N E	3	1743
+840	Bahnar-Kontum	bdq	rat/mouse		kənɛː	k ə n ɛː	k I n E	K V N V	K E N E	3	1743
+841	Bahnar-Pleiku	bdq	rat/mouse		kənɛː	k ə n ɛː	k I n E	K V N V	K E N E	3	1743
+842	Bru-Talan	oog	rat/mouse		bəl	b ə l	b I l	P V R	P E L	9	1752
+843	Bru-Ubon	bru	rat/mouse		kənaj	k ə n a j	k I n a y	K V N V J	K E N A J	3	1743
+844	Khmer-Surin	kxm	rat/mouse		knʌr	k n ʌ r	k n o r	K N V R	K N E R	14	1734
+845	Khmer-Standard	khm	rat/mouse		kɑndol	k ɑ n d o l	k o n d o l	K V N T V R	K A N T U L	14	1734
+846	Mon	mnw	rat/mouse		nəɛʔ	n əɛ ʔ	n I 7	N V H	N E H	3	1743
+847	Vietnamese	vie	rat/mouse		chuột	c h u o t	T h u o t	K H V V T	C H Y U T	42	1749
+848	Bahnar-Golar	bdq	red		ɓreː	ɓ r eː	b r e	P R V	P R E	10	1753
+849	Bahnar-Kontum	bdq	red		ɓreː	ɓ r eː	b r e	P R V	P R E	10	1753
+850	Bahnar-Pleiku	bdq	red		ɓreː	ɓ r eː	b r e	P R V	P R E	10	1753
+851	Bru-Talan	oog	red		səcʰaʔw	s ə cʰ a ʔ w	s I T a 7 w	S V K V H W	S E C A H W	13	1756
+852	Bru-Ubon	bru	red		kəsaw	k ə s a w	k I s a w	K V S V W	K E S A W	13	1756
+853	Khmer-Surin	kxm	red		kʰɑːm	kʰ ɑː m	k o m	K V M	K A M	14	1757
+854	Khmer-Standard	khm	red		krɑhɑːm	k r ɑ h ɑː m	k r o h o m	K R V H V M	K R A H A M	14	1757
+855	Mon	mnw	red		haket	h a k e t	h a k e t	H V K V T	H A K E T	22	1762
+856	Vietnamese	vie	red		đỏ	đ o	8 o	T V	D U	27	1766
+857	Bahnar-Golar	bdq	rice -cooked		pɔːr	p ɔː r	p o r	P V R	P U R	4	1794
+858	Bahnar-Kontum	bdq	rice -cooked		pɔːr	p ɔː r	p o r	P V R	P U R	4	1794
+859	Bahnar-Pleiku	bdq	rice -cooked		pɔːr	p ɔː r	p o r	P V R	P U R	4	1794
+860	Bru-Talan	oog	rice -cooked		doˀoj	d oˀo j	d o y	T V J	T U J	11	1775
+861	Bru-Ubon	bru	rice -cooked		doːj	d oː j	d o y	T V J	T U J	11	1775
+862	Khmer-Surin	kxm	rice -cooked		baːj	b aː j	b a y	P V J	P A J	14	1778
+863	Khmer-Standard	khm	rice -cooked		baːj	b aː j	b a y	P V J	P A J	14	1778
+864	Mon	mnw	rice -cooked		pəŋ	p ə ŋ	p I N	P V N	P E N	20	1783
+865	Vietnamese	vie	rice -cooked		cơm	c o m	T o m	K V M	C U M	40	1795
+866	Bahnar-Golar	bdq	rice -unhusked		ɓaː	ɓ aː	b a	P V	P A	1	1799
+867	Bahnar-Kontum	bdq	rice -unhusked		ɓaː	ɓ aː	b a	P V	P A	1	1799
+868	Bahnar-Pleiku	bdq	rice -unhusked		ɓaː	ɓ aː	b a	P V	P A	1	1799
+869	Bru-Talan	oog	rice -unhusked		cʰrɔˀɔ	cʰ r ɔˀɔ	T r o	K R V	C R U	6	1812
+870	Bru-Ubon	bru	rice -unhusked		sərɔː	s ə r ɔː	s I r o	S V R V	S E R U	6	1812
+871	Khmer-Surin	kxm	rice -unhusked		srʌw	s r ʌ w	s r o w	S R V W	S R E W	6	1812
+872	Khmer-Standard	khm	rice -unhusked		sroːv	s r oː v	s r o v	S R V W	S R U B	6	1812
+873	Mon	mnw	rice -unhusked		sɑʔ	s ɑ ʔ	s o 7	S V H	S A H	6	1812
+874	Vietnamese	vie	rice -unhusked		lúa	l úa	l u	R V	L Y	23	1808
+875	Bahnar-Golar	bdq	right -side		ʔmaː	ʔ m aː	7 m a	H M V	H M A	2	1821
+876	Bahnar-Kontum	bdq	right -side		ʔmaː	ʔ m aː	7 m a	H M V	H M A	2	1821
+877	Bahnar-Pleiku	bdq	right -side		ʔmaː	ʔ m aː	7 m a	H M V	H M A	2	1821
+878	Bru-Talan	oog	right -side		təmʔ	t ə m ʔ	t I m 7	T V M H	T E M H	1	1816
+879	Bru-Ubon	bru	right -side		ʔaːtɔ̀m	ʔ aː t ɔ̀ m	7 a t o m	H V T V M	H A T U M	1	1816
+880	Khmer-Surin	kxm	right -side		sdam	s d a m	s d a m	S T V M	S T A M	1	1816
+881	Khmer-Standard	khm	right -side		sdam	s d a m	s d a m	S T V M	S T A M	1	1816
+882	Mon	mnw	right -side		pəŋ	p ə ŋ	p I N	P V N	P E N	8	1826
+883	Vietnamese	vie	right -side		đăm	đ ă m	8 a m	T V M	D A M	1	1816
+884	Bahnar-Golar	bdq	ripe/cooked		ɗuːm	ɗ uː m	d u m	T V M	T Y M	2	1829
+885	Bahnar-Kontum	bdq	ripe/cooked		ɗuːm	ɗ uː m	d u m	T V M	T Y M	2	1829
+886	Bahnar-Pleiku	bdq	ripe/cooked		ɗuːm	ɗ uː m	d u m	T V M	T Y M	2	1829
+887	Bru-Talan	oog	ripe/cooked		ceːn	c eː n	T e n	K V N	C E N	3	1830
+888	Bru-Ubon	bru	ripe/cooked		ciːn	c iː n	T i n	K V N	C I N	3	1830
+889	Khmer-Surin	kxm	ripe/cooked		tum	t u m	t u m	T V M	T Y M	2	1829
+890	Khmer-Standard	khm	ripe/cooked		tum	t u m	t u m	T V M	T Y M	2	1829
+891	Mon	mnw	ripe/cooked		cin	c i n	T i n	K V N	C I N	3	1830
+892	Vietnamese	vie	ripe/cooked		chín	c h í n	T h i n	K H V N	C H I N	3	1830
+893	Bahnar-Golar	bdq	river		krɔːŋ	k r ɔː ŋ	k r o N	K R V N	K R U N	8	1858
+894	Bahnar-Kontum	bdq	river		krɔːŋ	k r ɔː ŋ	k r o N	K R V N	K R U N	8	1858
+895	Bahnar-Pleiku	bdq	river		krɔːŋ	k r ɔː ŋ	k r o N	K R V N	K R U N	8	1858
+896	Bru-Talan	oog	river		dəˀəʔkrejh	dəˀəʔ krejh	d k	T K	T K	15	1838
+897	Khmer-Standard	khm	river		tùənleː	t u ə n l eː	t u I n l e	T V V N R V	T Y E N L E	15	1838
+898	Mon	mnw	river		bi	b i	b i	P V	P I	32	1848
+899	Vietnamese	vie	river		sông	s ô n g	s o n g	S V N K	S U N K	8	1858
+900	Bahnar-Golar	bdq	road/path		trɔːŋ	t r ɔː ŋ	t r o N	T R V N	T R U N	8	1879
+901	Bahnar-Kontum	bdq	road/path		trɔːŋ	t r ɔː ŋ	t r o N	T R V N	T R U N	8	1879
+902	Bahnar-Pleiku	bdq	road/path		trɔːŋ	t r ɔː ŋ	t r o N	T R V N	T R U N	8	1879
+903	Bru-Talan	oog	road/path		kərnaˀa	k ə r n aˀa	k I r n a	K V R N V	K E R N A	11	1861
+904	Bru-Ubon	bru	road/path		rənaː	r ə n aː	r I n a	R V N V	R E N A	11	1861
+905	Khmer-Surin	kxm	road/path		tʰnɑl	tʰ n ɑ l	t n o l	T N V R	T N A L	17	1866
+906	Khmer-Standard	khm	road/path		pləw	p l ə w	p l I w	P R V W	P L E W	18	1867
+907	Mon	mnw	road/path		klɑŋ	k l ɑ ŋ	k l o N	K R V N	K L A N	4	1878
+908	Vietnamese	vie	road/path		sá	s á	s a	S V	S A	11	1861
+909	Bahnar-Golar	bdq	root		rəh	r ə h	r I h	R V H	R E H	1	1881
+910	Bahnar-Kontum	bdq	root		rəh	r ə h	r I h	R V H	R E H	1	1881
+911	Bahnar-Pleiku	bdq	root		rəh	r ə h	r I h	R V H	R E H	1	1881
+912	Bru-Talan	oog	root		riˀajh	r iˀa j h	r i y h	R V J H	R I J H	1	1881
+913	Bru-Ubon	bru	root		re̤ːh	r e̤ː h	r e h	R V H	R E H	1	1881
+914	Khmer-Surin	kxm	root		rɯh	r ɯ h	r u h	R V H	R I H	1	1881
+915	Khmer-Standard	khm	root		rɨh	r ɨ h	r I h	R V H	R I H	1	1881
+916	Mon	mnw	root		rə̀h	r ə̀ h	r I h	R V H	R E H	1	1881
+917	Vietnamese	vie	root		rễ	r e	r e	R V	R E	1	1881
+918	Bahnar-Golar	bdq	round		həpoːm	h ə p oː m	h I p o m	H V P V M	H E P U M	5	1904
+919	Bahnar-Kontum	bdq	round		ʔapoːm	ʔ a p oː m	7 a p o m	H V P V M	H A P U M	5	1904
+920	Bahnar-Pleiku	bdq	round		ʔapoːm	ʔ a p oː m	7 a p o m	H V P V M	H A P U M	5	1904
+921	Bru-Talan	oog	round		mpoːldoːl	mpoːl doːl	m d	M T	M T	10	1887
+922	Bru-Ubon	bru	round		klam	k l a m	k l a m	K R V M	K L A M	11	1888
+923	Khmer-Surin	kxm	round		kmol	k m o l	k m o l	K M V R	K M U L	8	1906
+924	Khmer-Standard	khm	round		muːl	m uː l	m u l	M V R	M Y L	8	1906
+925	Mon	mnw	round		hadɔm	h a d ɔ m	h a d o m	H V T V M	H A T U M	22	1894
+926	Vietnamese	vie	round		tròn	t r ò n	t r o n	T R V N	T R U N	34	1901
+927	Bahnar-Golar	bdq	salt		bɔh	b ɔ h	b o h	P V H	P U H	4	1917
+928	Bahnar-Kontum	bdq	salt		bɔh	b ɔ h	b o h	P V H	P U H	4	1917
+929	Bahnar-Pleiku	bdq	salt		ɓɔh	ɓ ɔ h	b o h	P V H	P U H	4	1917
+930	Bru-Talan	oog	salt		bɔˀɔj	b ɔˀɔ j	b o y	P V J	P U J	5	1918
+931	Bru-Ubon	bru	salt		bɔːj	b ɔː j	b o y	P V J	P U J	5	1918
+932	Khmer-Surin	kxm	salt		mmel	mm e l	m e l	M V R	M E L	7	1920
+933	Khmer-Standard	khm	salt		ʔɑmbəl	ʔ ɑ m b ə l	7 o m b I l	H V M P V R	H A M P E L	7	1920
+934	Mon	mnw	salt		dəŋ	d ə ŋ	d I N	T V N	T E N	15	1910
+935	Vietnamese	vie	salt		muối	m u o i	m u o i	M V V V	M Y U I	5	1918
+936	Bru-Ubon	bru	sand		səŋaːc	s ə ŋ aː c	s I N a T	S V N V K	S E N A C	9	1942
+937	Khmer-Surin	kxm	sand		ksac	k s a c	k s a T	K S V K	K S A C	5	1939
+938	Khmer-Standard	khm	sand		kʰsac	kʰ s a c	k s a T	K S V K	K S A C	5	1939
+939	Mon	mnw	sand		hatɑɛ	h a t ɑɛ	h a t o	H V T V	H A T A	20	1932
+940	Vietnamese	vie	sand		cát	c á t	T a t	K V T	C A T	10	1923
+941	Bahnar-Golar	bdq	seed		gar	g a r	g a r	K V R	K A R	7	1972
+942	Bahnar-Kontum	bdq	seed		gar	g a r	g a r	K V R	K A R	7	1972
+943	Bahnar-Pleiku	bdq	seed		gar	g a r	g a r	K V R	K A R	7	1972
+944	Bru-Talan	oog	seed		kəlɔˀɔŋ	k ə l ɔˀɔ ŋ	k I l o N	K V R V N	K E L U N	11	1945
+945	Bru-Ubon	bru	seed		klɔːŋ	k l ɔː ŋ	k l o N	K R V N	K L U N	11	1945
+946	Khmer-Surin	kxm	seed		krɯap	k r ɯa p	k r u p	K R V P	K R I P	10	1944
+947	Khmer-Standard	khm	seed		kròəp	k r òə p	k r o p	K R V P	K R U P	10	1944
+948	Mon	mnw	seed		mèaʔ	m èa ʔ	m e 7	M V H	M E H	27	1957
+949	Vietnamese	vie	seed		hạt	h a t	h a t	H V T	H A T	46	1970
+950	Bahnar-Golar	bdq	seven		təpəh	t ə p ə h	t I p I h	T V P V H	T E P E H	1	1975
+951	Bahnar-Kontum	bdq	seven		təpəh	t ə p ə h	t I p I h	T V P V H	T E P E H	1	1975
+952	Bahnar-Pleiku	bdq	seven		təpəh	t ə p ə h	t I p I h	T V P V H	T E P E H	1	1975
+953	Bru-Talan	oog	seven		təpo:l	t ə p o: l	t I p o l	T V P V R	T E P U L	2	1977
+954	Bru-Ubon	bru	seven		təpṳːl	t ə p ṳː l	t I p i l	T V P V R	T E P Y L	2	1977
+955	Khmer-Standard	khm	seven		prampiː	p r a m p iː	p r a m p i	P R V M P V	P R A M P I	5	1980
+956	Mon	mnw	seven		hapɔh	h a p ɔ h	h a p o h	H V P V H	H A P U H	1	1975
+957	Vietnamese	vie	seven		bảy	b a y	b a i	P V V	P A Y	1	1975
+958	Bahnar-Golar	bdq	shade/shadow		jəp	j ə p	y I p	J V P	J E P	8	2017
+959	Bahnar-Kontum	bdq	shade/shadow		jɨp	j ɨ p	y I p	J V P	J I P	8	2017
+960	Bahnar-Pleiku	bdq	shade/shadow		jəp	j ə p	y I p	J V P	J E P	8	2017
+961	Bru-Talan	oog	shade/shadow		moːl	m oː l	m o l	M V R	M U L	10	1983
+962	Bru-Ubon	bru	shade/shadow		tṳːp	t ṳː p	t i p	T V P	T Y P	19	1991
+963	Khmer-Surin	kxm	shade/shadow		smʌːl	s m ʌː l	s m o l	S M V R	S M E L	10	1983
+964	Khmer-Standard	khm	shade/shadow		srɑmaol	s r ɑ m ao l	s r o m a l	S R V M V R	S R A M A L	10	1983
+965	Mon	mnw	shade/shadow		hanoɲ	h a n o ɲ	h a n o H	H V N V N	H A N U N	35	2004
+966	Vietnamese	vie	shade/shadow		bóng	b ó n g	b o n g	P V N K	P U N K	56	2015
+967	Bahnar-Kontum	bdq	shame/ashamed		kədəʔ	k ə d ə ʔ	k I d I 7	K V T V H	K E T E H	4	2040
+968	Bahnar-Pleiku	bdq	shame/ashamed		kədəʔ	k ə d ə ʔ	k I d I 7	K V T V H	K E T E H	4	2040
+969	Bru-Talan	oog	shame/ashamed		kədaˀah	k ə d aˀa h	k I d a h	K V T V H	K E T A H	4	2040
+970	Bru-Ubon	bru	shame/ashamed		kumaːl	k u m aː l	k u m a l	K V M V R	K Y M A L	5	2041
+971	Khmer-Standard	khm	shame/ashamed		crəɲ	c r ə ɲ	T r I H	K R V N	C R E N	13	2021
+972	Mon	mnw	shame/ashamed		twa	t w a	t w a	T W V	T W A	23	2029
+973	Vietnamese	vie	shame/ashamed		xâuhổ	xâu hổ	x h	K H	G H	38	2038
+974	Bahnar-Golar	bdq	sharp -edged		haːn	h aː n	h a n	H V N	H A N	7	2076
+975	Bahnar-Kontum	bdq	sharp -edged		haːn	h aː n	h a n	H V N	H A N	7	2076
+976	Bahnar-Pleiku	bdq	sharp -edged		haːn	h aː n	h a n	H V N	H A N	7	2076
+977	Bru-Talan	oog	sharp -edged		bak	b a k	b a k	P V K	P A K	17	2051
+978	Bru-Ubon	bru	sharp -edged		plaː	p l aː	p l a	P R V	P L A	15	2050
+979	Khmer-Surin	kxm	sharp -edged		mut	m u t	m u t	M V T	M Y T	5	2072
+980	Khmer-Standard	khm	sharp -edged		mut	m u t	m u t	M V T	M Y T	5	2072
+981	Mon	mnw	sharp -edged		keak	k ea k	k e k	K V K	K E K	31	2061
+982	Vietnamese	vie	sharp -edged		vót	v ó t	v o t	W V T	B U T	49	2071
+983	Bahnar-Golar	bdq	sick/ill		ɟiʔ	ɟ i ʔ	C i 7	K V H	C I H	4	2093
+984	Bahnar-Kontum	bdq	sick/ill		ɟiʔ	ɟ i ʔ	C i 7	K V H	C I H	4	2093
+985	Bahnar-Pleiku	bdq	sick/ill		ɟiʔ	ɟ i ʔ	C i 7	K V H	C I H	4	2093
+986	Bru-Talan	oog	sick/ill		ʔajː	ʔ a jː	7 a y	H V J	H A J	5	2094
+987	Bru-Ubon	bru	sick/ill		tiʔ	t i ʔ	t i 7	T V H	T I H	6	2095
+988	Khmer-Surin	kxm	sick/ill		ʨŋɯː	ʨ ŋ ɯː	C N u	K N V	C N I	4	2093
+989	Khmer-Standard	khm	sick/ill		cʰɨː	cʰ ɨː	T I	K V	C I	4	2093
+990	Mon	mnw	sick/ill		jòa	j ò a	y o a	J V V	J U A	4	2093
+991	Vietnamese	vie	sick/ill		bệnh	b e n h	b e n h	P V N H	P E N H	30	2092
+992	Bahnar-Golar	bdq	six		tədrɔw	t ə d r ɔ w	t I d r o w	T V T R V W	T E T R U W	1	2097
+993	Bahnar-Kontum	bdq	six		tədrɔw	t ə d r ɔ w	t I d r o w	T V T R V W	T E T R U W	1	2097
+994	Bahnar-Pleiku	bdq	six		tədrɔw	t ə d r ɔ w	t I d r o w	T V T R V W	T E T R U W	1	2097
+995	Bru-Talan	oog	six		təpat	t ə p a t	t I p a t	T V P V T	T E P A T	2	2098
+996	Bru-Ubon	bru	six		təpa̤t	t ə p a̤ t	t I p a t	T V P V T	T E P A T	2	2098
+997	Khmer-Standard	khm	six		prammuəj	p r a mm uə j	p r a m u y	P R V M V J	P R A M Y J	3	2099
+998	Mon	mnw	six		karaɔ	k a r aɔ	k a r a	K V R V	K A R A	1	2097
+999	Vietnamese	vie	six		sáu	s áu	s a	S V	S A	1	2097
+1000	Bahnar-Golar	bdq	skin/bark		həkaːr	h ə k aː r	h I k a r	H V K V R	H E K A R	6	2121
+1001	Bahnar-Kontum	bdq	skin/bark		ʔakaːr	ʔ a k aː r	7 a k a r	H V K V R	H A K A R	6	2121
+1002	Bahnar-Pleiku	bdq	skin/bark		ʔakaːr	ʔ a k aː r	7 a k a r	H V K V R	H A K A R	6	2121
+1003	Bru-Talan	oog	skin/bark		ŋkar	ŋ k a r	N k a r	N K V R	N K A R	6	2121
+1004	Bru-Ubon	bru	skin/bark		ŋkar	ŋ k a r	N k a r	N K V R	N K A R	6	2121
+1005	Khmer-Surin	kxm	skin/bark		sbɛːɁ	s b ɛː Ɂ	s b E 7	S P V H	S P E H	12	2106
+1006	Khmer-Standard	khm	skin/bark		sbaek	s b ae k	s b a k	S P V K	S P A K	12	2106
+1007	Mon	mnw	skin/bark		hnam	h n a m	h n a m	H N V M	H N A M	18	2111
+1008	Vietnamese	vie	skin/bark		da	d a	d a	T V	T A	31	2119
+1009	Bahnar-Golar	bdq	sky		plɛɲ	p l ɛ ɲ	p l E H	P R V N	P L E N	7	2143
+1010	Bahnar-Kontum	bdq	sky		plɛɲ	p l ɛ ɲ	p l E H	P R V N	P L E N	7	2143
+1011	Bahnar-Pleiku	bdq	sky		plɛɲ	p l ɛ ɲ	p l E H	P R V N	P L E N	7	2143
+1012	Bru-Talan	oog	sky		praˀah	p r aˀa h	p r a h	P R V H	P R A H	6	2142
+1013	Bru-Ubon	bru	sky		mənlɔ̤ŋ	m ə n l ɔ̤ ŋ	m I n l o N	M V N R V N	M E N L U N	12	2127
+1014	Khmer-Surin	kxm	sky		mɪːɁ	m ɪː Ɂ	m i 7	M V H	M I H	13	2128
+1015	Khmer-Standard	khm	sky		meːɁ	m eː Ɂ	m e 7	M V H	M E H	13	2128
+1016	Mon	mnw	sky		takah	t a k a h	t a k a h	T V K V H	T A K A H	20	2132
+1017	Vietnamese	vie	sky		trời	t r o i	t r o i	T R V V	T R U I	36	2139
+1018	Bahnar-Golar	bdq	smoke		ʔɲuːj	ʔ ɲ uː j	7 H u y	H N V J	H N Y J	5	2161
+1019	Bahnar-Kontum	bdq	smoke		ʔɲuːj	ʔ ɲ uː j	7 H u y	H N V J	H N Y J	5	2161
+1020	Bahnar-Pleiku	bdq	smoke		ʔɲuːj	ʔ ɲ uː j	7 H u y	H N V J	H N Y J	5	2161
+1021	Bru-Talan	oog	smoke		kərɲiˀiʔ	k ə r ɲ iˀi ʔ	k I r H i 7	K V R N V H	K E R N I H	8	2164
+1022	Bru-Ubon	bru	smoke		pʰeaʔ	pʰ ea ʔ	p e 7	P V H	P E H	7	2163
+1023	Khmer-Surin	kxm	smoke		psɛːɲ	p s ɛː ɲ	p s E H	P S V N	P S E N	14	2149
+1024	Khmer-Standard	khm	smoke		psaeŋ	p s ae ŋ	p s a N	P S V N	P S A N	14	2149
+1025	Mon	mnw	smoke		jèak	j èa k	y e k	J V K	J E K	20	2152
+1026	Vietnamese	vie	smoke		khói	k h ó i	k h o i	K H V V	K H U I	35	2160
+1027	Bahnar-Golar	bdq	snake		ɓih	ɓ i h	b i h	P V H	P I H	4	2173
+1028	Bahnar-Kontum	bdq	snake		ɓih	ɓ i h	b i h	P V H	P I H	4	2173
+1029	Bahnar-Pleiku	bdq	snake		ɓih	ɓ i h	b i h	P V H	P I H	4	2173
+1030	Bru-Talan	oog	snake		kes̞ɛɲ	k e s̞ ɛ ɲ	k e s E H	K V S V N	K E S E N	6	2175
+1031	Bru-Ubon	bru	snake		kəsan	k ə s a n	k I s a n	K V S V N	K E S A N	6	2175
+1032	Khmer-Surin	kxm	snake		puah	p ua h	p u h	P V H	P Y H	4	2173
+1033	Khmer-Standard	khm	snake		pùəh	p u ə h	p u I h	P V V H	P Y E H	4	2173
+1034	Mon	mnw	snake		sùŋ	s u ŋ	s u N	S V N	S Y N	10	2167
+1035	Vietnamese	vie	snake		rắn	r a n	r a n	R V N	R A N	6	2175
+1036	Bahnar-Golar	bdq	soft -touch		rəhiak	r ə h ia k	r I h i k	R V H V K	R E H I K	5	2203
+1037	Bahnar-Pleiku	bdq	soft -touch		rəmwan	r ə m w a n	r I m w a n	R V M W V N	R E M W A N	6	2204
+1038	Bru-Talan	oog	soft -touch		ləŋɔːnʔ	l ə ŋ ɔː n ʔ	l I N o n 7	R V N V N H	L E N U N H	14	2181
+1039	Bru-Ubon	bru	soft -touch		ləme̤ːn	l ə m e̤ː n	l I m e n	R V M V N	L E M E N	16	2183
+1040	Khmer-Surin	kxm	soft -touch		tuan	t ua n	t u n	T V N	T Y N	7	2205
+1041	Khmer-Standard	khm	soft -touch		lvʊəɁ	l v ʊə Ɂ	l v u 7	R W V H	L B Y H	19	2186
+1042	Mon	mnw	soft -touch		dɒn	d ɒ n	d o n	T V N	T O N	7	2205
+1043	Vietnamese	vie	soft -touch		mềm	m e m	m e m	M V M	M E M	16	2183
+1044	Bahnar-Golar	bdq	sour		ʔjuʔ	ʔ j u ʔ	7 y u 7	H J V H	H J Y H	4	2215
+1045	Bahnar-Kontum	bdq	sour		ʔjuʔ	ʔ j u ʔ	7 y u 7	H J V H	H J Y H	4	2215
+1046	Bahnar-Pleiku	bdq	sour		ʔɲuʔ	ʔ ɲ u ʔ	7 H u 7	H N V H	H N Y H	4	2215
+1047	Bru-Talan	oog	sour		joʔ	j o ʔ	y o 7	J V H	J U H	4	2215
+1048	Bru-Ubon	bru	sour		ɲɔʔ	ɲ ɔ ʔ	H o 7	N V H	N U H	8	2219
+1049	Khmer-Surin	kxm	sour		ʨuː	ʨ uː	C u	K V	C Y	4	2215
+1050	Khmer-Standard	khm	sour		cuː	c uː	T u	K V	C Y	4	2215
+1051	Mon	mnw	sour		pʰjah	pʰ j a h	p y a h	P J V H	P J A H	12	2208
+1052	Vietnamese	vie	sour		chua	c h ua	T h u	K H V	C H Y	4	2215
+1053	Bahnar-Golar	bdq	star		həŋlɔŋ	h ə ŋ l ɔ ŋ	h I N l o N	H V N R V N	H E N L U N	3	2229
+1054	Bahnar-Kontum	bdq	star		həŋlɔŋ	h ə ŋ l ɔ ŋ	h I N l o N	H V N R V N	H E N L U N	3	2229
+1055	Bahnar-Pleiku	bdq	star		səŋlɔŋ	s ə ŋ l ɔ ŋ	s I N l o N	S V N R V N	S E N L U N	3	2229
+1056	Bru-Talan	oog	star		pəntoˀor	p ə n t oˀo r	p I n t o r	P V N T V R	P E N T U R	6	2232
+1057	Bru-Ubon	bru	star		məntoːr	m ə n t oː r	m I n t o r	M V N T V R	M E N T U R	6	2232
+1058	Khmer-Surin	kxm	star		pkaːj	p k aː j	p k a y	P K V J	P K A J	5	2231
+1059	Khmer-Standard	khm	star		pəkaːj	p ə k aː j	p I k a y	P V K V J	P E K A J	5	2231
+1060	Mon	mnw	star		hnɑŋ	h n ɑ ŋ	h n o N	H N V N	H N A N	4	2230
+1061	Bahnar-Pleiku	bdq	stick of wood		ʔlɔːŋ	ʔ l ɔː ŋ	7 l o N	H R V N	H L U N	9	2255
+1062	Bru-Talan	oog	stick of wood		təŋkətlɔˀɔŋ	təŋkət lɔˀɔŋ	t l	T R	T L	9	2255
+1063	Bru-Ubon	bru	stick of wood		ʔaːluaŋkṳan	ʔaːluaŋ kṳan	7 k	H K	H K	9	2255
+1064	Khmer-Surin	kxm	stick of wood		ʨhəː	ʨ h əː	C h I	K H V	C H E	13	2239
+1065	Khmer-Standard	khm	stick of wood		cʰəː	cʰ əː	T I	K V	C E	13	2239
+1066	Mon	mnw	stick of wood		cʰuʔ	cʰ u ʔ	T u 7	K V H	C Y H	13	2239
+1067	Vietnamese	vie	stick of wood		cáique	cái que	T q	K K	C K	10	2236
+1068	Bahnar-Golar	bdq	stone		təmɔː	t ə m ɔː	t I m o	T V M V	T E M U	1	2256
+1069	Bahnar-Kontum	bdq	stone		təmɔː	t ə m ɔː	t I m o	T V M V	T E M U	1	2256
+1070	Bahnar-Pleiku	bdq	stone		təmɔː	t ə m ɔː	t I m o	T V M V	T E M U	1	2256
+1071	Bru-Talan	oog	stone		tʻmɔˀɔ	tʻ m ɔˀɔ	t m o	T M V	T M U	1	2256
+1072	Bru-Ubon	bru	stone		təmaw	t ə m a w	t I m a w	T V M V W	T E M A W	1	2256
+1073	Khmer-Surin	kxm	stone		tʰmɑː	tʰ m ɑː	t m o	T M V	T M A	1	2256
+1074	Khmer-Standard	khm	stone		tʰmɔː	tʰ m ɔː	t m o	T M V	T M U	1	2256
+1075	Mon	mnw	stone		mɔʔ	m ɔ ʔ	m o 7	M V H	M U H	1	2256
+1076	Vietnamese	vie	stone		đá	đ á	8 a	T V	D A	29	2265
+1077	Bahnar-Golar	bdq	sun/day		nar	n a r	n a r	N V R	N A R	6	2289
+1078	Bahnar-Kontum	bdq	sun/day		nar	n a r	n a r	N V R	N A R	6	2289
+1079	Bahnar-Pleiku	bdq	sun/day		ʔnar	ʔ n a r	7 n a r	H N V R	H N A R	6	2289
+1080	Bru-Talan	oog	sun/day		rembaˀaŋ	r e m b aˀa ŋ	r e m b a N	R V M P V N	R E M P A N	10	2272
+1081	Bru-Ubon	bru	sun/day		mənaːŋ	m ə n aː ŋ	m I n a N	M V N V N	M E N A N	9	2292
+1082	Khmer-Surin	kxm	sun/day		tʰŋaj	tʰ ŋ a j	t N a y	T N V J	T N A J	7	2290
+1083	Khmer-Standard	khm	sun/day		tŋaj	t ŋ a j	t N a y	T N V J	T N A J	7	2290
+1084	Mon	mnw	sun/day		ŋoa	ŋ oa	N o	N V	N U	7	2290
+1085	Vietnamese	vie	sun/day		ngày	n g à y	n g a i	N K V V	N K A Y	7	2290
+1086	Bahnar-Golar	bdq	sweet		ŋaːm	ŋ aː m	N a m	N V M	N A M	5	2308
+1087	Bahnar-Kontum	bdq	sweet		ŋaːm	ŋ aː m	N a m	N V M	N A M	5	2308
+1088	Bahnar-Pleiku	bdq	sweet		ʔŋaːm	ʔ ŋ aː m	7 N a m	H N V M	H N A M	5	2308
+1089	Bru-Talan	oog	sweet		ŋaˀam	ŋ aˀa m	N a m	N V M	N A M	5	2308
+1090	Bru-Ubon	bru	sweet		ŋeam	ŋ ea m	N e m	N V M	N E M	5	2308
+1091	Khmer-Surin	kxm	sweet		pɁɛːm	p Ɂ ɛː m	p 7 E m	P H V M	P H E M	10	2293
+1092	Khmer-Standard	khm	sweet		pʔaem	p ʔ ae m	p 7 a m	P H V M	P H A M	10	2293
+1093	Mon	mnw	sweet		dat	d a t	d a t	T V T	T A T	20	2299
+1094	Vietnamese	vie	sweet		ngọt	n g o t	n g o t	N K V T	N K U T	2	2298
+1095	Bahnar-Golar	bdq	tail		kjɛŋ	k j ɛ ŋ	k y E N	K J V N	K J E N	3	2317
+1096	Bahnar-Kontum	bdq	tail		kjɛŋ	k j ɛ ŋ	k y E N	K J V N	K J E N	3	2317
+1097	Bahnar-Pleiku	bdq	tail		kjɛŋ	k j ɛ ŋ	k y E N	K J V N	K J E N	3	2317
+1098	Bru-Talan	oog	tail		s̞ɔːj	s̞ ɔː j	s o y	S V J	S U J	4	2318
+1099	Bru-Ubon	bru	tail		sɔːj	s ɔː j	s o y	S V J	S U J	4	2318
+1100	Khmer-Surin	kxm	tail		kantuj	k a n t u j	k a n t u y	K V N T V J	K A N T Y J	6	2320
+1101	Khmer-Standard	khm	tail		kɑntuj	k ɑ n t u j	k o n t u y	K V N T V J	K A N T Y J	6	2320
+1102	Mon	mnw	tail		hataʔ	h a t a ʔ	h a t a 7	H V T V H	H A T A H	1	2313
+1103	Vietnamese	vie	tail		đuôi	đ u ô i	8 u o i	T V V V	D Y U I	6	2320
+1104	Bahnar-Golar	bdq	ten		ɟit	ɟ i t	C i t	K V T	C I T	1	2323
+1105	Bahnar-Kontum	bdq	ten		ɟit	ɟ i t	C i t	K V T	C I T	1	2323
+1106	Bahnar-Pleiku	bdq	ten		ɟit	ɟ i t	C i t	K V T	C I T	1	2323
+1107	Bru-Talan	oog	ten		məncit	m ə n c i t	m I n T i t	M V N K V T	M E N C I T	1	2323
+1108	Bru-Ubon	bru	ten		məcit	m ə c i t	m I T i t	M V K V T	M E C I T	1	2323
+1109	Khmer-Surin	kxm	ten		dɑp	d ɑ p	d o p	T V P	T A P	4	2327
+1110	Khmer-Standard	khm	ten		dɑp	d ɑ p	d o p	T V P	T A P	4	2327
+1111	Mon	mnw	ten		cɔh	c ɔ h	T o h	K V H	C U H	6	2329
+1112	Vietnamese	vie	ten		mười	m u o i	m u o i	M V V V	M Y U I	10	2324
+1113	Bahnar-Golar	bdq	thick -object		həɓəl	h ə ɓ ə l	h I b I l	H V P V R	H E P E L	1	2331
+1114	Bahnar-Kontum	bdq	thick -object		həɓəl	h ə ɓ ə l	h I b I l	H V P V R	H E P E L	1	2331
+1115	Bahnar-Pleiku	bdq	thick -object		həɓəl	h ə ɓ ə l	h I b I l	H V P V R	H E P E L	1	2331
+1116	Bru-Talan	oog	thick -object		kəbən	k ə b ə n	k I b I n	K V P V N	K E P E N	6	2344
+1117	Bru-Ubon	bru	thick -object		kəben	k ə b e n	k I b e n	K V P V N	K E P E N	6	2344
+1118	Khmer-Surin	kxm	thick -object		kraːh	k r aː h	k r a h	K R V H	K R A H	9	2347
+1119	Khmer-Standard	khm	thick -object		krah	k r a h	k r a h	K R V H	K R A H	9	2347
+1120	Mon	mnw	thick -object		tɑm	t ɑ m	t o m	T V M	T A M	12	2333
+1121	Vietnamese	vie	thick -object		dày	d à y	d a i	T V V	T A Y	26	2341
+1122	Bahnar-Golar	bdq	thin -object		hətaŋ	h ə t a ŋ	h I t a N	H V T V N	H E T A N	8	2364
+1123	Bahnar-Kontum	bdq	thin -object		hətaŋ	h ə t a ŋ	h I t a N	H V T V N	H E T A N	8	2364
+1124	Bahnar-Pleiku	bdq	thin -object		hətaŋ	h ə t a ŋ	h I t a N	H V T V N	H E T A N	8	2364
+1125	Bru-Talan	oog	thin -object		kədaʔ	k ə d a ʔ	k I d a 7	K V T V H	K E T A H	13	2350
+1126	Bru-Ubon	bru	thin -object		kədaː	k ə d aː	k I d a	K V T V	K E T A	13	2350
+1127	Khmer-Standard	khm	thin -object		sdaəŋ	s d aə ŋ	s d a N	S T V N	S T A N	8	2364
+1128	Mon	mnw	thin -object		krɑɛ	k r ɑɛ	k r o	K R V	K R A	20	2355
+1129	Vietnamese	vie	thin -object		mỏng	m o n g	m o n g	M V N K	M U N K	42	2363
+1130	Bahnar-Golar	bdq	thorn		ɟəlaː	ɟ ə l aː	C I l a	K V R V	C E L A	1	2365
+1131	Bahnar-Kontum	bdq	thorn		ɟəlă	ɟ ə l ă	C I l a	K V R V	C E L A	1	2365
+1132	Bahnar-Pleiku	bdq	thorn		ɟəlaː	ɟ ə l aː	C I l a	K V R V	C E L A	1	2365
+1133	Bru-Talan	oog	thorn		hərliˀi	h ə r l iˀi	h I r l i	H V R R V	H E R L I	1	2365
+1134	Bru-Ubon	bru	thorn		sərle̤a	s ə r l e̤a	s I r l e	S V R R V	S E R L E	1	2365
+1135	Khmer-Surin	kxm	thorn		panlaː	p a n l aː	p a n l a	P V N R V	P A N L A	1	2365
+1136	Khmer-Standard	khm	thorn		bɑnlaː	b ɑ n l aː	b o n l a	P V N R V	P A N L A	1	2365
+1137	Mon	mnw	thorn		halèaʔ	h a l èa ʔ	h a l e 7	H V R V H	H A L E H	1	2365
+1138	Vietnamese	vie	thorn		gai	g ai	g a	K V	K A	21	2373
+1139	Bahnar-Golar	bdq	three		peːŋ	p eː ŋ	p e N	P V N	P E N	3	2381
+1140	Bahnar-Kontum	bdq	three		peːŋ	p eː ŋ	p e N	P V N	P E N	3	2381
+1141	Bahnar-Pleiku	bdq	three		peːŋ	p eː ŋ	p e N	P V N	P E N	3	2381
+1142	Bru-Talan	oog	three		pɛˀɛ	p ɛˀɛ	p E	P V	P E	1	2380
+1143	Bru-Ubon	bru	three		paj	p a j	p a y	P V J	P A J	1	2380
+1144	Khmer-Surin	kxm	three		bɛj	b ɛ j	b E y	P V J	P E J	1	2380
+1145	Khmer-Standard	khm	three		bəj	b ə j	b I y	P V J	P E J	1	2380
+1146	Mon	mnw	three		pɑɛʔ	p ɑɛ ʔ	p o 7	P V H	P A H	1	2380
+1147	Vietnamese	vie	three		ba	b a	b a	P V	P A	9	2385
+1148	Bahnar-Golar	bdq	to be born		rənɛh	r ə n ɛ h	r I n E h	R V N V H	R E N E H	7	2400
+1149	Bahnar-Kontum	bdq	to be born		rənɛh	r ə n ɛ h	r I n E h	R V N V H	R E N E H	7	2400
+1150	Bahnar-Pleiku	bdq	to be born		rənɛh	r ə n ɛ h	r I n E h	R V N V H	R E N E H	7	2400
+1151	Bru-Talan	oog	to be born		moŋʔ	m o ŋ ʔ	m o N 7	M V N H	M U N H	11	2387
+1152	Bru-Ubon	bru	to be born		kəːt	k əː t	k I t	K V T	K E T	6	2399
+1153	Khmer-Surin	kxm	to be born		knʌːt	k n ʌː t	k n o t	K N V T	K N E T	6	2399
+1154	Khmer-Standard	khm	to be born		kaət	k aə t	k a t	K V T	K A T	6	2399
+1155	Mon	mnw	to be born		bɑŋ	b ɑ ŋ	b o N	P V N	P A N	18	2393
+1156	Vietnamese	vie	to be born		đẻ	đ e	8 e	T V	D E	24	2397
+1157	Bahnar-Golar	bdq	to bite		kap	k a p	k a p	K V P	K A P	1	2403
+1158	Bahnar-Kontum	bdq	to bite		kap	k a p	k a p	K V P	K A P	1	2403
+1159	Bahnar-Pleiku	bdq	to bite		kap	k a p	k a p	K V P	K A P	1	2403
+1160	Bru-Talan	oog	to bite		kamʔ	k a m ʔ	k a m 7	K V M H	K A M H	1	2403
+1161	Bru-Ubon	bru	to bite		kap	k a p	k a p	K V P	K A P	1	2403
+1162	Khmer-Surin	kxm	to bite		kʰam	kʰ a m	k a m	K V M	K A M	6	2416
+1163	Khmer-Standard	khm	to bite		kʰam	kʰ a m	k a m	K V M	K A M	6	2416
+1164	Mon	mnw	to bite		kit	k i t	k i t	K V T	K I T	5	2415
+1165	Vietnamese	vie	to bite		cắn	c a n	T a n	K V N	C A N	25	2411
+1166	Bahnar-Golar	bdq	to blow		hloːm	h l oː m	h l o m	H R V M	H L U M	6	2434
+1167	Bahnar-Kontum	bdq	to blow		hloːm	h l oː m	h l o m	H R V M	H L U M	6	2434
+1168	Bahnar-Pleiku	bdq	to blow		hloːm	h l oː m	h l o m	H R V M	H L U M	6	2434
+1169	Bru-Talan	oog	to blow		hoːt	h oː t	h o t	H V T	H U T	8	2436
+1170	Bru-Ubon	bru	to blow		ploŋ	p l o ŋ	p l o N	P R V N	P L U N	7	2435
+1171	Khmer-Surin	kxm	to blow		pʰlom	pʰ l o m	p l o m	P R V M	P L U M	6	2434
+1172	Khmer-Standard	khm	to blow		plom	p l o m	p l o m	P R V M	P L U M	6	2434
+1173	Mon	mnw	to blow		həkə̤h	h ə k ə̤ h	h I k I h	H V K V H	H E K E H	27	2427
+1174	Vietnamese	vie	to blow		thổi	t h o i	t h o i	T H V V	T H U I	34	2432
+1175	Bahnar-Golar	bdq	to breathe/breath		ɟəhŋăm	ɟ ə h ŋ ă m	C I h N a m	K V H N V M	C E H N A M	2	2444
+1176	Bahnar-Kontum	bdq	to breathe/breath		ɟəhŋăm	ɟ ə h ŋ ă m	C I h N a m	K V H N V M	C E H N A M	2	2444
+1177	Bahnar-Pleiku	bdq	to breathe/breath		ɟəhŋăm	ɟ ə h ŋ ă m	C I h N a m	K V H N V M	C E H N A M	2	2444
+1178	Bru-Talan	oog	to breathe/breath		təŋɨh	t ə ŋ ɨ h	t I N I h	T V N V H	T E N I H	5	2449
+1179	Bru-Ubon	bru	to breathe/breath		taŋɯ̤h	t a ŋ ɯ̤ h	t a N u h	T V N V H	T A N I H	5	2449
+1180	Khmer-Surin	kxm	to breathe/breath		thʌːm	t h ʌː m	t h o m	T H V M	T H E M	2	2444
+1181	Khmer-Standard	khm	to breathe/breath		dɑŋhaəm	d ɑ ŋ h aə m	d o N h a m	T V N H V M	T A N H A M	2	2444
+1182	Mon	mnw	to breathe/breath		pəjə̤m	p ə j ə̤ m	p I y I m	P V J V M	P E J E M	7	2451
+1183	Vietnamese	vie	to breathe/breath		vụ	v u	v u	W V	B Y	22	2445
+1184	Bahnar-Golar	bdq	to burn -tr.		ʔuɲ	ʔ u ɲ	7 u H	H V N	H Y N	7	2481
+1185	Bahnar-Kontum	bdq	to burn -tr.		ʔuɲ	ʔ u ɲ	7 u H	H V N	H Y N	7	2481
+1186	Bahnar-Pleiku	bdq	to burn -tr.		soːŋ	s oː ŋ	s o N	S V N	S U N	8	2482
+1187	Bru-Talan	oog	to burn -tr.		cɔŋʔ	c ɔ ŋ ʔ	T o N 7	K V N H	C U N H	8	2482
+1188	Bru-Ubon	bru	to burn -tr.		cɑŋ	c ɑ ŋ	T o N	K V N	C A N	8	2482
+1189	Khmer-Surin	kxm	to burn -tr.		dʌt	d ʌ t	d o t	T V T	T E T	3	2467
+1190	Khmer-Standard	khm	to burn -tr.		dot	d o t	d o t	T V T	T U T	3	2467
+1191	Mon	mnw	to burn -tr.		tao	t ao	t a	T V	T A	27	2465
+1192	Vietnamese	vie	to burn -tr.		đốt	đ o t	8 o t	T V T	D U T	44	2477
+1193	Bahnar-Golar	bdq	to buy		rɔt	r ɔ t	r o t	R V T	R U T	1	2484
+1194	Bahnar-Kontum	bdq	to buy		rɔt	r ɔ t	r o t	R V T	R U T	1	2484
+1195	Bahnar-Pleiku	bdq	to buy		rɔt	r ɔ t	r o t	R V T	R U T	1	2484
+1196	Bru-Talan	oog	to buy		cɔːŋ	c ɔː ŋ	T o N	K V N	C U N	5	2501
+1197	Bru-Ubon	bru	to buy		cəːŋ	c əː ŋ	T I N	K V N	C E N	5	2501
+1198	Khmer-Surin	kxm	to buy		tiɲ	t i ɲ	t i H	T V N	T I N	11	2486
+1199	Khmer-Standard	khm	to buy		ciev	c ie v	T i v	K V W	C I B	12	2487
+1200	Mon	mnw	to buy		ràn	r à n	r a n	R V N	R A N	20	2493
+1201	Bahnar-Golar	bdq	to climb/ascend		haːw	h aː w	h a w	H V W	H A W	8	2531
+1202	Bahnar-Kontum	bdq	to climb/ascend		haːw	h aː w	h a w	H V W	H A W	8	2531
+1203	Bahnar-Pleiku	bdq	to climb/ascend		haːw	h aː w	h a w	H V W	H A W	8	2531
+1204	Bru-Talan	oog	to climb/ascend		cʰɔˀɔh	cʰ ɔˀɔ h	T o h	K V H	C U H	9	2532
+1205	Bru-Ubon	bru	to climb/ascend		sɔh	s ɔ h	s o h	S V H	S U H	9	2532
+1206	Khmer-Surin	kxm	to climb/ascend		lʌːŋ	l ʌː ŋ	l o N	R V N	L E N	18	2513
+1207	Khmer-Standard	khm	to climb/ascend		laəŋ	l aə ŋ	l a N	R V N	L A N	18	2513
+1208	Mon	mnw	to climb/ascend		tɒn	t ɒ n	t o n	T V N	T O N	25	2518
+1209	Vietnamese	vie	to climb/ascend		lên	l ê n	l e n	R V N	L E N	42	2527
+1210	Bahnar-Golar	bdq	to cook/boil		paːj	p aː j	p a y	P V J	P A J	5	2562
+1211	Bahnar-Kontum	bdq	to cook/boil		paːj	p aː j	p a y	P V J	P A J	5	2562
+1212	Bahnar-Pleiku	bdq	to cook/boil		paːj	p aː j	p a y	P V J	P A J	5	2562
+1213	Bru-Talan	oog	to cook/boil		cin	c i n	T i n	K V N	C I N	16	2537
+1214	Bru-Ubon	bru	to cook/boil		ʔɔŋ	ʔ ɔ ŋ	7 o N	H V N	H U N	17	2538
+1215	Khmer-Surin	kxm	to cook/boil		tnam	t n a m	t n a m	T N V M	T N A M	18	2539
+1216	Khmer-Standard	khm	to cook/boil		dam	d a m	d a m	T V M	T A M	18	2539
+1217	Mon	mnw	to cook/boil		tom	t o m	t o m	T V M	T U M	18	2539
+1218	Vietnamese	vie	to cook/boil		nâu	n â u	n a u	N V V	N A Y	51	2564
+1219	Bahnar-Golar	bdq	to cough		hjɛn	h j ɛ n	h y E n	H J V N	H J E N	5	2578
+1220	Bahnar-Kontum	bdq	to cough		hjɛn	h j ɛ n	h y E n	H J V N	H J E N	5	2578
+1221	Bahnar-Pleiku	bdq	to cough		hjɛn	h j ɛ n	h y E n	H J V N	H J E N	5	2578
+1222	Bru-Talan	oog	to cough		həŋɔʔ	h ə ŋ ɔ ʔ	h I N o 7	H V N V H	H E N U H	9	2581
+1223	Bru-Ubon	bru	to cough		ŋhɔʔ	ŋ h ɔ ʔ	N h o 7	N H V H	N H U H	9	2581
+1224	Khmer-Surin	kxm	to cough		kɁɑːɁ	k Ɂ ɑː Ɂ	k 7 o 7	K H V H	K H A H	4	2577
+1225	Khmer-Standard	khm	to cough		kɁɑːɁ	k Ɂ ɑː Ɂ	k 7 o 7	K H V H	K H A H	4	2577
+1226	Mon	mnw	to cough		hadaʔ	h a d a ʔ	h a d a 7	H V T V H	H A T A H	14	2572
+1227	Vietnamese	vie	to cough		ho	h o	h o	H V	H U	21	2576
+1228	Bahnar-Golar	bdq	to cry/weep		ɲəm	ɲ ə m	H I m	N V M	N E M	2	2587
+1229	Bahnar-Kontum	bdq	to cry/weep		ɲəm	ɲ ə m	H I m	N V M	N E M	2	2587
+1230	Bahnar-Pleiku	bdq	to cry/weep		hmɔːj	h m ɔː j	h m o y	H M V J	H M U J	3	2588
+1231	Bru-Talan	oog	to cry/weep		ɲaˀam	ɲ aˀa m	H a m	N V M	N A M	2	2587
+1232	Bru-Ubon	bru	to cry/weep		ɲiam	ɲ ia m	H i m	N V M	N I M	2	2587
+1233	Khmer-Surin	kxm	to cry/weep		jʊm	j ʊ m	y u m	J V M	J Y M	1	2582
+1234	Khmer-Standard	khm	to cry/weep		jum	j u m	y u m	J V M	J Y M	1	2582
+1235	Mon	mnw	to cry/weep		kərə̀ʔ	k ə r ə̀ ʔ	k I r I 7	K V R V H	K E R E H	4	2589
+1236	Vietnamese	vie	to cry/weep		khóc	k h ó c	k h o T	K H V K	K H U C	19	2586
+1237	Bahnar-Golar	bdq	to descend		ɟuːr	ɟ uː r	C u r	K V R	C Y R	8	2610
+1238	Bahnar-Kontum	bdq	to descend		ɟuːr	ɟ uː r	C u r	K V R	C Y R	8	2610
+1239	Bahnar-Pleiku	bdq	to descend		ɟuːr	ɟ uː r	C u r	K V R	C Y R	8	2610
+1240	Bru-Talan	oog	to descend		cʰɛˀɛŋ	cʰ ɛˀɛ ŋ	T E N	K V N	C E N	10	2592
+1241	Bru-Ubon	bru	to descend		sɛːŋ	s ɛː ŋ	s E N	S V N	S E N	10	2592
+1242	Khmer-Standard	khm	to descend		coh	c o h	T o h	K V H	C U H	14	2596
+1243	Mon	mnw	to descend		cih	c i h	T i h	K V H	C I H	17	2599
+1244	Vietnamese	vie	to descend		xuống	x u o n g	x u o n g	K V V N K	G Y U N K	29	2607
+1245	Bru-Talan	oog	to die		kəceːt	k ə c eː t	k I T e t	K V K V T	K E C E T	4	2620
+1246	Bru-Ubon	bru	to die		kəciːt	k ə c iː t	k I T i t	K V K V T	K E C I T	4	2620
+1247	Khmer-Surin	kxm	to die		slap	s l a p	s l a p	S R V P	S L A P	11	2614
+1248	Khmer-Standard	khm	to die		slap	s l a p	s l a p	S R V P	S L A P	11	2614
+1249	Mon	mnw	to die		cʰɒt	cʰ ɒ t	T o t	K V T	C O T	4	2620
+1250	Vietnamese	vie	to die		chết	c h e t	T h e t	K H V T	C H E T	4	2620
+1251	Bahnar-Golar	bdq	to dig		siːr	s iː r	s i r	S V R	S I R	6	2644
+1252	Bahnar-Kontum	bdq	to dig		siːr	s iː r	s i r	S V R	S I R	6	2644
+1253	Bahnar-Pleiku	bdq	to dig		siːr	s iː r	s i r	S V R	S I R	6	2644
+1254	Bru-Talan	oog	to dig		pic	p i c	p i T	P V K	P I C	12	2627
+1255	Bru-Ubon	bru	to dig		piʔ	p i ʔ	p i 7	P V H	P I H	12	2627
+1256	Khmer-Surin	kxm	to dig		ʨiːɁ	ʨ iː Ɂ	C i 7	K V H	C I H	8	2646
+1257	Khmer-Standard	khm	to dig		ciːɁ	c iː Ɂ	T i 7	K V H	C I H	8	2646
+1258	Mon	mnw	to dig		bɑk	b ɑ k	b o k	P V K	P A K	18	2631
+1259	Vietnamese	vie	to dig		đào	đ à o	8 a o	T V V	D A U	35	2641
+1260	Bahnar-Golar	bdq	to dream		həpɔː	h ə p ɔː	h I p o	H V P V	H E P U	4	2651
+1261	Bahnar-Kontum	bdq	to dream		ʔapɔː	ʔ a p ɔː	7 a p o	H V P V	H A P U	4	2651
+1262	Bahnar-Pleiku	bdq	to dream		ʔapɔː	ʔ a p ɔː	7 a p o	H V P V	H A P U	4	2651
+1263	Bru-Talan	oog	to dream		mpɔˀɔ	m p ɔˀɔ	m p o	M P V	M P U	4	2651
+1264	Bru-Ubon	bru	to dream		mpaw	m p a w	m p a w	M P V W	M P A W	4	2651
+1265	Khmer-Standard	khm	to dream		soːŋ	s oː ŋ	s o N	S V N	S U N	8	2655
+1266	Mon	mnw	to dream		kəpɔʔ	k ə p ɔ ʔ	k I p o 7	K V P V H	K E P U H	4	2651
+1267	Vietnamese	vie	to dream		bao	b ao	b a	P V	P A	4	2651
+1268	Bahnar-Golar	bdq	to drink -water		ʔɛːt	ʔ ɛː t	7 E t	H V T	H E T	8	2679
+1269	Bahnar-Kontum	bdq	to drink -water		ʔɛːt	ʔ ɛː t	7 E t	H V T	H E T	8	2679
+1270	Bahnar-Pleiku	bdq	to drink -water		ɲaʔ	ɲ a ʔ	H a 7	N V H	N A H	9	2680
+1271	Bru-Talan	oog	to drink -water		ŋɔːjʔ	ŋ ɔː j ʔ	N o y 7	N V J H	N U J H	15	2661
+1272	Bru-Ubon	bru	to drink -water		ŋuac	ŋ ua c	N u T	N V K	N Y C	15	2661
+1273	Khmer-Surin	kxm	to drink -water		pʰʌʔ	pʰ ʌ ʔ	p o 7	P V H	P E H	18	2663
+1274	Khmer-Standard	khm	to drink -water		pʰək	pʰ ə k	p I k	P V K	P E K	18	2663
+1275	Mon	mnw	to drink -water		səŋ	s ə ŋ	s I N	S V N	S E N	24	2668
+1276	Vietnamese	vie	to drink -water		uống	u o n g	u o n g	V V N K	Y U N K	29	2672
+1277	Bahnar-Golar	bdq	to eat		saː	s aː	s a	S V	S A	1	2681
+1278	Bahnar-Kontum	bdq	to eat		saː	s aː	s a	S V	S A	1	2681
+1279	Bahnar-Pleiku	bdq	to eat		saː	s aː	s a	S V	S A	1	2681
+1280	Bru-Talan	oog	to eat		caˀa	c aˀa	T a	K V	C A	1	2681
+1281	Bru-Ubon	bru	to eat		caː	c aː	T a	K V	C A	1	2681
+1282	Khmer-Surin	kxm	to eat		siː	s iː	s i	S V	S I	1	2681
+1283	Khmer-Standard	khm	to eat		siː	s iː	s i	S V	S I	1	2681
+1284	Mon	mnw	to eat		cɛʔ	c ɛ ʔ	T E 7	K V H	C E H	1	2681
+1285	Vietnamese	vie	to eat		ăn	ă n	a n	V N	A N	25	2690
+1286	Bahnar-Golar	bdq	to extinguish/put out		tək	t ə k	t I k	T V K	T E K	4	2709
+1287	Bahnar-Kontum	bdq	to extinguish/put out		pəpăt	p ə p ă t	p I p a t	P V P V T	P E P A T	1	2696
+1288	Bahnar-Pleiku	bdq	to extinguish/put out		pat	p a t	p a t	P V T	P A T	1	2696
+1289	Bru-Talan	oog	to extinguish/put out		həmpat	h ə m p a t	h I m p a t	H V M P V T	H E M P A T	1	2696
+1290	Bru-Ubon	bru	to extinguish/put out		ʔaːpat	ʔ aː p a t	7 a p a t	H V P V T	H A P A T	1	2696
+1291	Khmer-Surin	kxm	to extinguish/put out		luat	l ua t	l u t	R V T	L Y T	10	2697
+1292	Khmer-Standard	khm	to extinguish/put out		lʊət	l ʊə t	l u t	R V T	L Y T	10	2697
+1293	Mon	mnw	to extinguish/put out		plɒt	p l ɒ t	p l o t	P R V T	P L O T	2	2704
+1294	Vietnamese	vie	to extinguish/put out		tắt	t a t	t a t	T V T	T A T	25	2708
+1295	Bahnar-Golar	bdq	to fall		klih	k l i h	k l i h	K R V H	K L I H	10	2715
+1296	Bahnar-Kontum	bdq	to fall		klih	k l i h	k l i h	K R V H	K L I H	10	2715
+1297	Bahnar-Pleiku	bdq	to fall		klih	k l i h	k l i h	K R V H	K L I H	10	2715
+1298	Bru-Talan	oog	to fall		hətoˀoh	h ə t oˀo h	h I t o h	H V T V H	H E T U H	16	2721
+1299	Bru-Ubon	bru	to fall		səlɛh	s ə l ɛ h	s I l E h	S V R V H	S E L E H	17	2722
+1300	Khmer-Surin	kxm	to fall		tʰliaj	tʰ l ia j	t l i y	T R V J	T L I J	28	2731
+1301	Khmer-Standard	khm	to fall		cruh	c r u h	T r u h	K R V H	C R Y H	15	2720
+1302	Mon	mnw	to fall		prɔh	p r ɔ h	p r o h	P R V H	P R U H	40	2741
+1303	Vietnamese	vie	to fall		rũ	r ũ	r u	R V	R Y	15	2720
+1304	Bahnar-Golar	bdq	to flee/run -away		ɟak	ɟ a k	C a k	K V K	C A K	6	2785
+1305	Bahnar-Kontum	bdq	to flee/run -away		ɟak	ɟ a k	C a k	K V K	C A K	6	2785
+1306	Bahnar-Pleiku	bdq	to flee/run -away		ɟak	ɟ a k	C a k	K V K	C A K	6	2785
+1307	Bru-Talan	oog	to flee/run -away		luh	l u h	l u h	R V H	L Y H	14	2758
+1308	Bru-Ubon	bru	to flee/run -away		təlṳh	t ə l ṳ h	t I l i h	T V R V H	T E L Y H	14	2758
+1309	Khmer-Surin	kxm	to flee/run -away		pɯat	p ɯa t	p u t	P V T	P I T	25	2769
+1310	Khmer-Standard	khm	to flee/run -away		rʊət	r ʊə t	r u t	R V T	R Y T	26	2770
+1311	Mon	mnw	to flee/run -away		tɛ̀a	t ɛ̀a	t E	T V	T E	22	2766
+1312	Vietnamese	vie	to flee/run -away		chạy	c h a y	T h a i	K H V V	C H A Y	60	2786
+1313	Bahnar-Golar	bdq	to fly		par	p a r	p a r	P V R	P A R	1	2790
+1314	Bahnar-Kontum	bdq	to fly		par	p a r	p a r	P V R	P A R	1	2790
+1315	Bahnar-Pleiku	bdq	to fly		par	p a r	p a r	P V R	P A R	1	2790
+1316	Bru-Talan	oog	to fly		par	p a r	p a r	P V R	P A R	1	2790
+1317	Bru-Ubon	bru	to fly		par	p a r	p a r	P V R	P A R	1	2790
+1318	Khmer-Surin	kxm	to fly		hʌːr	h ʌː r	h o r	H V R	H E R	7	2799
+1319	Khmer-Standard	khm	to fly		haə	h aə	h a	H V	H A	7	2799
+1320	Mon	mnw	to fly		pɔ	p ɔ	p o	P V	P U	1	2790
+1321	Vietnamese	vie	to fly		bay	b ay	b a	P V	P A	1	2790
+1322	Bahnar-Golar	bdq	to forget		hjəːt	h j əː t	h y I t	H J V T	H J E T	5	2825
+1323	Bahnar-Kontum	bdq	to forget		hjəːt	h j əː t	h y I t	H J V T	H J E T	5	2825
+1324	Bahnar-Pleiku	bdq	to forget		hjəːt	h j əː t	h y I t	H J V T	H J E T	5	2825
+1325	Bru-Talan	oog	to forget		ləjhəjɨː	ləj həjɨː	l h	R H	L H	10	2802
+1326	Bru-Ubon	bru	to forget		sareːl	s a r eː l	s a r e l	S V R V R	S A R E L	11	2803
+1327	Khmer-Surin	kxm	to forget		ŋwɪːɲ	ŋ w ɪː ɲ	N w i H	N W V N	N W I N	4	2824
+1328	Khmer-Standard	khm	to forget		plɨc	p l ɨ c	p l I T	P R V K	P L I C	17	2809
+1329	Mon	mnw	to forget		wɜ̀t	w ɜ̀ t	w I t	W V T	W E T	24	2815
+1330	Vietnamese	vie	to forget		quên	q u ê n	q u e n	K V V N	K Y E N	4	2824
+1331	Bahnar-Golar	bdq	to give		ʔan	ʔ a n	7 a n	H V N	H A N	7	2845
+1332	Bahnar-Kontum	bdq	to give		ʔan	ʔ a n	7 a n	H V N	H A N	7	2845
+1333	Bahnar-Pleiku	bdq	to give		ʔan	ʔ a n	7 a n	H V N	H A N	7	2845
+1334	Bru-Talan	oog	to give		joˀon	j oˀo n	y o n	J V N	J U N	5	2843
+1335	Bru-Ubon	bru	to give		ʔoːn	ʔ oː n	7 o n	H V N	H U N	7	2845
+1336	Khmer-Surin	kxm	to give		ʔɔːj	ʔ ɔː j	7 o y	H V J	H U J	10	2829
+1337	Khmer-Standard	khm	to give		ʔaoj	ʔ ao j	7 a y	H V J	H A J	10	2829
+1338	Mon	mnw	to give		kɑ	k ɑ	k o	K V	K A	15	2833
+1339	Vietnamese	vie	to give		cho	c h o	T h o	K H V	C H U	33	2841
+1340	Bahnar-Golar	bdq	to hear		kətəŋ	k ə t ə ŋ	k I t I N	K V T V N	K E T E N	5	2870
+1341	Bahnar-Kontum	bdq	to hear		kətəŋ	k ə t ə ŋ	k I t I N	K V T V N	K E T E N	5	2870
+1342	Bahnar-Pleiku	bdq	to hear		kətəŋ	k ə t ə ŋ	k I t I N	K V T V N	K E T E N	5	2870
+1343	Bru-Talan	oog	to hear		cʰaŋ	cʰ a ŋ	T a N	K V N	C A N	9	2873
+1344	Bru-Ubon	bru	to hear		sɔŋ	s ɔ ŋ	s o N	S V N	S U N	9	2873
+1345	Khmer-Surin	kxm	to hear		lɯː	l ɯː	l u	R V	L I	16	2854
+1346	Khmer-Standard	khm	to hear		lɨː	l ɨː	l I	R V	L I	16	2854
+1347	Mon	mnw	to hear		moɲ	m o ɲ	m o H	M V N	M U N	24	2859
+1348	Vietnamese	vie	to hear		nghe	n g h e	n g h e	N K H V	N K H E	43	2869
+1349	Bahnar-Golar	bdq	to hide/conceal -tr.		kədəp	k ə d ə p	k I d I p	K V T V P	K E T E P	10	2874
+1350	Bahnar-Kontum	bdq	to hide/conceal -tr.		kədəp	k ə d ə p	k I d I p	K V T V P	K E T E P	10	2874
+1351	Bahnar-Pleiku	bdq	to hide/conceal -tr.		kədəp	k ə d ə p	k I d I p	K V T V P	K E T E P	10	2874
+1352	Bru-Talan	oog	to hide/conceal -tr.		həŋkreʔ	h ə ŋ k r e ʔ	h I N k r e 7	H V N K R V H	H E N K R E H	15	2879
+1353	Bru-Ubon	bru	to hide/conceal -tr.		pətʉ̤ʔ	p ə t ʉ̤ ʔ	p I t I 7	P V T V H	P E T Y H	12	2876
+1354	Khmer-Standard	khm	to hide/conceal -tr.		bɑmpuən	b ɑ m p uə n	b o m p u n	P V M P V N	P A M P Y N	27	2887
+1355	Mon	mnw	to hide/conceal -tr.		kròp	k r ò p	k r o p	K R V P	K R U P	35	2893
+1356	Vietnamese	vie	to hide/conceal -tr.		nấp	n a p	n a p	N V P	N A P	10	2874
+1357	Bahnar-Golar	bdq	to hunt		həŋwaːŋ	h ə ŋ w aː ŋ	h I N w a N	H V N W V N	H E N W A N	8	2950
+1358	Bahnar-Kontum	bdq	to hunt		həŋwaːŋ	h ə ŋ w aː ŋ	h I N w a N	H V N W V N	H E N W A N	8	2950
+1359	Bahnar-Pleiku	bdq	to hunt		həŋwaːŋ	h ə ŋ w aː ŋ	h I N w a N	H V N W V N	H E N W A N	8	2950
+1360	Bru-Talan	oog	to hunt		pɔˀɔʔpɛɲ	pɔˀɔʔ pɛɲ	p p	P P	P P	19	2917
+1361	Bru-Ubon	bru	to hunt		pṳaj	p ṳa j	p i y	P V J	P Y J	20	2918
+1362	Khmer-Standard	khm	to hunt		dəɲ	d ə ɲ	d I H	T V N	T E N	28	2925
+1363	Mon	mnw	to hunt		klàɛ	k l àɛ	k l a	K R V	K L A	37	2931
+1364	Vietnamese	vie	to hunt		đisăn	đi săn	8 s	T S	D S	65	2947
+1365	Bahnar-Golar	bdq	to itch/itchy		dədiːk	d ə d iː k	d I d i k	T V T V K	T E T I K	8	2972
+1366	Bahnar-Kontum	bdq	to itch/itchy		səsɛːk	s ə s ɛː k	s I s E k	S V S V K	S E S E K	9	2973
+1367	Bahnar-Pleiku	bdq	to itch/itchy		səsɛːk	s ə s ɛː k	s I s E k	S V S V K	S E S E K	9	2973
+1368	Bru-Talan	oog	to itch/itchy		cʰɔːjʔ	cʰ ɔː j ʔ	T o y 7	K V J H	C U J H	17	2958
+1369	Bru-Ubon	bru	to itch/itchy		piːh	p iː h	p i h	P V H	P I H	18	2959
+1370	Khmer-Surin	kxm	to itch/itchy		rmɯah	r m ɯa h	r m u h	R M V H	R M I H	20	2961
+1371	Khmer-Standard	khm	to itch/itchy		rɔmoah	r ɔ m oa h	r o m o h	R V M V H	R U M U H	20	2961
+1372	Mon	mnw	to itch/itchy		hnok	h n o k	h n o k	H N V K	H N U K	17	2958
+1373	Vietnamese	vie	to itch/itchy		ngứa	n g u a	n g u a	N K V V	N K Y A	21	2962
+1374	Bahnar-Golar	bdq	to kick		kədah	k ə d a h	k I d a h	K V T V H	K E T A H	9	3009
+1375	Bahnar-Kontum	bdq	to kick		kədah	k ə d a h	k I d a h	K V T V H	K E T A H	9	3009
+1376	Bahnar-Pleiku	bdq	to kick		kədah	k ə d a h	k I d a h	K V T V H	K E T A H	9	3009
+1377	Bru-Talan	oog	to kick		kədeːn	k ə d eː n	k I d e n	K V T V N	K E T E N	15	2979
+1378	Bru-Ubon	bru	to kick		teːʔ	t eː ʔ	t e 7	T V H	T E H	17	2981
+1379	Khmer-Surin	kxm	to kick		tɯat	t ɯa t	t u t	T V T	T I T	3	2994
+1380	Khmer-Standard	khm	to kick		tɔ̀ət	t ɔ̀ə t	t o t	T V T	T U T	3	2994
+1381	Mon	mnw	to kick		peh	p e h	p e h	P V H	P E H	12	2976
+1382	Vietnamese	vie	to kick		đáhậu	đá hậu	8 h	T H	D H	54	3008
+1383	Bahnar-Golar	bdq	to kill		pəloːc	p ə l oː c	p I l o T	P V R V K	P E L U C	5	3020
+1384	Bahnar-Kontum	bdq	to kill		pəloːc	p ə l oː c	p I l o T	P V R V K	P E L U C	5	3020
+1385	Bahnar-Pleiku	bdq	to kill		pəloːc	p ə l oː c	p I l o T	P V R V K	P E L U C	5	3020
+1386	Bru-Talan	oog	to kill		kəɲceːt	k ə ɲ c eː t	k I H T e t	K V N K V T	K E N C E T	4	3019
+1387	Bru-Ubon	bru	to kill		kəciːt	k ə c iː t	k I T i t	K V K V T	K E C I T	4	3019
+1388	Khmer-Surin	kxm	to kill		sanlap	s a n l a p	s a n l a p	S V N R V P	S A N L A P	15	3013
+1389	Khmer-Standard	khm	to kill		sɑmlap	s ɑ m l a p	s o m l a p	S V M R V P	S A M L A P	15	3013
+1390	Mon	mnw	to kill		hacɑt	h a c ɑ t	h a T o t	H V K V T	H A C A T	4	3019
+1391	Vietnamese	vie	to kill		giết	g i e t	g i e t	K V V T	K I E T	4	3019
+1392	Bahnar-Kontum	bdq	to know		ləlɛʔ	l ə l ɛ ʔ	l I l E 7	R V R V H	L E L E H	10	3024
+1393	Bahnar-Pleiku	bdq	to know		bat	b a t	b a t	P V T	P A T	11	3025
+1394	Bru-Talan	oog	to know		hɔːj	h ɔː j	h o y	H V J	H U J	22	3034
+1395	Bru-Ubon	bru	to know		daŋ	d a ŋ	d a N	T V N	T A N	21	3033
+1396	Khmer-Surin	kxm	to know		skɯal	s k ɯa l	s k u l	S K V R	S K I L	28	3039
+1397	Khmer-Standard	khm	to know		dɤŋ	d ɤ ŋ	d o N	T V N	T E N	29	3040
+1398	Mon	mnw	to know		tɛm	t ɛ m	t E m	T V M	T E M	35	3045
+1399	Bahnar-Golar	bdq	to laugh		hjɛk	h j ɛ k	h y E k	H J V K	H J E K	4	3079
+1400	Bahnar-Pleiku	bdq	to laugh		hjɛk	h j ɛ k	h y E k	H J V K	H J E K	4	3079
+1401	Bru-Talan	oog	to laugh		kəcaŋʔ	k ə c a ŋ ʔ	k I T a N 7	K V K V N H	K E C A N H	11	3060
+1402	Bru-Ubon	bru	to laugh		kərcaŋrəwiəj	kərcaŋ rəwiəj	k r	K R	K R	11	3060
+1403	Khmer-Surin	kxm	to laugh		sʌːc	s ʌː c	s o T	S V K	S E C	15	3063
+1404	Khmer-Standard	khm	to laugh		haʔset	h a ʔ s e t	h a 7 s e t	H V H S V T	H A H S E T	16	3064
+1405	Mon	mnw	to laugh		kràŋ	k r à ŋ	k r a N	K R V N	K R A N	21	3069
+1406	Vietnamese	vie	to laugh		cưởi	c u o i	T u o i	K V V V	C Y U I	35	3078
+1407	Bahnar-Golar	bdq	to lick		ljah	l j a h	l y a h	R J V H	L J A H	5	3098
+1408	Bahnar-Kontum	bdq	to lick		ljah	l j a h	l y a h	R J V H	L J A H	5	3098
+1409	Bahnar-Pleiku	bdq	to lick		ljah	l j a h	l y a h	R J V H	L J A H	5	3098
+1410	Bru-Talan	oog	to lick		dɛˀɛl	d ɛˀɛ l	d E l	T V R	T E L	14	3087
+1411	Bru-Ubon	bru	to lick		li̤ǝt	l i̤ǝ t	l i t	R V T	L I T	13	3086
+1412	Khmer-Surin	kxm	to lick		lit	l i t	l i t	R V T	L I T	13	3086
+1413	Khmer-Standard	khm	to lick		lɨt	l ɨ t	l I t	R V T	L I T	13	3086
+1414	Mon	mnw	to lick		klan	k l a n	k l a n	K R V N	K L A N	21	3094
+1415	Vietnamese	vie	to lick		liếm	l i e m	l i e m	R V V M	L I E M	31	3097
+1416	Bahnar-Golar	bdq	to rub/wipe		suːt	s uː t	s u t	S V T	S Y T	7	3138
+1417	Bahnar-Kontum	bdq	to rub/wipe		suːt	s uː t	s u t	S V T	S Y T	7	3138
+1418	Bahnar-Pleiku	bdq	to rub/wipe		suːt	s uː t	s u t	S V T	S Y T	7	3138
+1419	Bru-Talan	oog	to rub/wipe		kərcuːt	k ə r c uː t	k I r T u t	K V R K V T	K E R C Y T	5	3131
+1420	Bru-Ubon	bru	to rub/wipe		cəcṳːt	c ə c ṳː t	T I T i t	K V K V T	C E C Y T	5	3131
+1421	Khmer-Surin	kxm	to rub/wipe		ʨuːt	ʨ uː t	C u t	K V T	C Y T	5	3131
+1422	Khmer-Standard	khm	to rub/wipe		cuːt	c uː t	T u t	K V T	C Y T	5	3131
+1423	Mon	mnw	to rub/wipe		cə̀t	c ə̀ t	T I t	K V T	C E T	5	3131
+1424	Bahnar-Golar	bdq	to say/speak		khaːn	k h aː n	k h a n	K H V N	K H A N	17	3146
+1425	Bahnar-Kontum	bdq	to say/speak		khaːn	k h aː n	k h a n	K H V N	K H A N	17	3146
+1426	Bahnar-Pleiku	bdq	to say/speak		khaːn	k h aː n	k h a n	K H V N	K H A N	17	3146
+1427	Bru-Talan	oog	to say/speak		ntruajʔ	n t r ua j ʔ	n t r u y 7	N T R V J H	N T R Y J H	38	3160
+1428	Bru-Ubon	bru	to say/speak		paːj	p aː j	p a y	P V J	P A J	39	3161
+1429	Khmer-Surin	kxm	to say/speak		ɲjɛj	ɲ j ɛ j	H y E y	N J V J	N J E J	21	3150
+1430	Khmer-Standard	khm	to say/speak		tʰaː	tʰ aː	t a	T V	T A	54	3175
+1431	Mon	mnw	to say/speak		hɑm	h ɑ m	h o m	H V M	H A M	68	3186
+1432	Vietnamese	vie	to say/speak		nói	n ó i	n o i	N V V	N U I	105	3141
+1433	Bahnar-Golar	bdq	to scratch/scrape		kojh	k o j h	k o y h	K V J H	K U J H	6	3236
+1434	Bahnar-Kontum	bdq	to scratch/scrape		kojh	k o j h	k o y h	K V J H	K U J H	6	3236
+1435	Bahnar-Pleiku	bdq	to scratch/scrape		kojh	k o j h	k o y h	K V J H	K U J H	6	3236
+1436	Bru-Talan	oog	to scratch/scrape		ŋkaˀar	ŋ k aˀa r	N k a r	N K V R	N K A R	14	3208
+1437	Bru-Ubon	bru	to scratch/scrape		kəpiac	k ə p ia c	k I p i T	K V P V K	K E P I C	16	3210
+1438	Khmer-Surin	kxm	to scratch/scrape		Ɂɛh	Ɂ ɛ h	7 E h	H V H	H E H	23	3217
+1439	Khmer-Standard	khm	to scratch/scrape		kaoh	k ao h	k a h	K V H	K A H	6	3236
+1440	Mon	mnw	to scratch/scrape		kah	k a h	k a h	K V H	K A H	29	3222
+1441	Vietnamese	vie	to scratch/scrape		gãi	g ãi	g a	K V	K A	47	3234
+1442	Bahnar-Golar	bdq	to see		ɓoh	ɓ o h	b o h	P V H	P U H	10	3240
+1443	Bahnar-Kontum	bdq	to see		ɓoh	ɓ o h	b o h	P V H	P U H	10	3240
+1444	Bahnar-Pleiku	bdq	to see		ɓoh	ɓ o h	b o h	P V H	P U H	10	3240
+1445	Bru-Talan	oog	to see		hɔːm	h ɔː m	h o m	H V M	H U M	21	3248
+1446	Bru-Ubon	bru	to see		həːm	h əː m	h I m	H V M	H E M	21	3248
+1447	Khmer-Surin	kxm	to see		mɤː	m ɤː	m o	M V	M E	29	3256
+1448	Khmer-Standard	khm	to see		məːl	m əː l	m I l	M V R	M E L	29	3256
+1449	Mon	mnw	to see		pə̀	p ə̀	p I	P V	P E	38	3262
+1450	Bahnar-Golar	bdq	to sell		tɛc	t ɛ c	t E T	T V K	T E C	2	3283
+1451	Bahnar-Kontum	bdq	to sell		tɛc	t ɛ c	t E T	T V K	T E C	2	3283
+1452	Bahnar-Pleiku	bdq	to sell		tɛc	t ɛ c	t E T	T V K	T E C	2	3283
+1453	Bru-Talan	oog	to sell		tɛc	t ɛ c	t E T	T V K	T E C	2	3283
+1454	Bru-Ubon	bru	to sell		ceʔ	c e ʔ	T e 7	K V H	C E H	6	3292
+1455	Khmer-Surin	kxm	to sell		luaɁ	l ua Ɂ	l u 7	R V H	L Y H	9	3295
+1456	Khmer-Standard	khm	to sell		lùəʔ	l u ə ʔ	l u I 7	R V V H	L Y E H	9	3295
+1457	Mon	mnw	to sell		sɑʔ	s ɑ ʔ	s o 7	S V H	S A H	16	3280
+1458	Vietnamese	vie	to sell		bán	b á n	b a n	P V N	P A N	27	3289
+1459	Bahnar-Golar	bdq	to sew		sit	s i t	s i t	S V T	S I T	6	3310
+1460	Bahnar-Kontum	bdq	to sew		sit	s i t	s i t	S V T	S I T	6	3310
+1461	Bahnar-Pleiku	bdq	to sew		sit	s i t	s i t	S V T	S I T	6	3310
+1462	Bru-Talan	oog	to sew		jeːh	j eː h	y e h	J V H	J E H	8	3311
+1463	Bru-Ubon	bru	to sew		jiːh	j iː h	y i h	J V H	J I H	8	3311
+1464	Khmer-Surin	kxm	to sew		deːr	d eː r	d e r	T V R	T E R	11	3297
+1465	Khmer-Standard	khm	to sew		dej	d e j	d e y	T V J	T E J	11	3297
+1466	Mon	mnw	to sew		còɲ	c ò ɲ	T o H	K V N	C U N	5	3309
+1467	Vietnamese	vie	to sew		vá	v á	v a	W V	B A	14	3300
+1468	Bahnar-Pleiku	bdq	to shoot		prah	p r a h	p r a h	P R V H	P R A H	7	3317
+1469	Bru-Talan	oog	to shoot		pɛɲ	p ɛ ɲ	p E H	P V N	P E N	3	3316
+1470	Bru-Ubon	bru	to shoot		pan	p a n	p a n	P V N	P A N	3	3316
+1471	Khmer-Surin	kxm	to shoot		baɲ	b a ɲ	b a H	P V N	P A N	3	3316
+1472	Khmer-Standard	khm	to shoot		baɲ	b a ɲ	b a H	P V N	P A N	3	3316
+1473	Mon	mnw	to shoot		pɔn	p ɔ n	p o n	P V N	P U N	3	3316
+1474	Vietnamese	vie	to shoot		bắn	b a n	b a n	P V N	P A N	3	3316
+1475	Bahnar-Golar	bdq	to sit		ʔwɛːj	ʔ w ɛː j	7 w E y	H W V J	H W E J	8	3343
+1476	Bahnar-Kontum	bdq	to sit		ʔwɛːj	ʔ w ɛː j	7 w E y	H W V J	H W E J	8	3343
+1477	Bahnar-Pleiku	bdq	to sit		ʔwɛːj	ʔ w ɛː j	7 w E y	H W V J	H W E J	8	3343
+1478	Bru-Talan	oog	to sit		təkuː	t ə k uː	t I k u	T V K V	T E K Y	9	3344
+1479	Bru-Ubon	bru	to sit		təkṳː	t ə k ṳː	t I k i	T V K V	T E K Y	9	3344
+1480	Khmer-Surin	kxm	to sit		ŋkuj	ŋ k u j	N k u y	N K V J	N K Y J	4	3340
+1481	Khmer-Standard	khm	to sit		ʔɑŋkuj	ʔ ɑ ŋ k u j	7 o N k u y	H V N K V J	H A N K Y J	4	3340
+1482	Mon	mnw	to sit		hacòʔ	h a c ò ʔ	h a T o 7	H V K V H	H A C U H	24	3331
+1483	Vietnamese	vie	to sit		ngồi	n g o i	n g o i	N K V V	N K U I	17	3326
+1484	Bahnar-Golar	bdq	to sleep/lie down		tɛːp	t ɛː p	t E p	T V P	T E P	6	3363
+1485	Bahnar-Kontum	bdq	to sleep/lie down		tɛːp	t ɛː p	t E p	T V P	T E P	6	3363
+1486	Bahnar-Pleiku	bdq	to sleep/lie down		tɛːp	t ɛː p	t E p	T V P	T E P	6	3363
+1487	Bru-Talan	oog	to sleep/lie down		bicʔeːr	bic ʔeːr	b 7	P H	P H	5	3362
+1488	Bru-Ubon	bru	to sleep/lie down		beʔləŋeːt	beʔ ləŋeːt	b l	P R	P L	5	3362
+1489	Khmer-Surin	kxm	to sleep/lie down		deːʔluəʔ	deːʔ luəʔ	d l	T R	T L	2	3350
+1490	Khmer-Standard	khm	to sleep/lie down		deiʔ	d ei ʔ	d e 7	T V H	T E H	2	3350
+1491	Mon	mnw	to sleep/lie down		toc	t o c	t o T	T V K	T U C	20	3351
+1492	Vietnamese	vie	to sleep/lie down		ngủ	n g u	n g u	N K V	N K Y	34	3360
+1493	Bahnar-Pleiku	bdq	to smell -receive odor		ɓəw	ɓ ə w	b I w	P V W	P E W	6	3388
+1494	Bru-Talan	oog	to smell -receive odor		cʰaˀar	cʰ aˀa r	T a r	K V R	C A R	12	3368
+1495	Bru-Ubon	bru	to smell -receive odor		huːn	h uː n	h u n	H V N	H Y N	2	3376
+1496	Khmer-Surin	kxm	to smell -receive odor		tʰʌːp	tʰ ʌː p	t o p	T V P	T E P	17	3373
+1497	Khmer-Standard	khm	to smell -receive odor		hət	h ə t	h I t	H V T	H E T	5	3387
+1498	Mon	mnw	to smell -receive odor		cʰəŋ	cʰ ə ŋ	T I N	K V N	C E N	22	3378
+1499	Bahnar-Golar	bdq	to spit		kəsɔh	k ə s ɔ h	k I s o h	K V S V H	K E S U H	6	3399
+1500	Bahnar-Kontum	bdq	to spit		kəsɔh	k ə s ɔ h	k I s o h	K V S V H	K E S U H	6	3399
+1501	Bahnar-Pleiku	bdq	to spit		kəsɔh	k ə s ɔ h	k I s o h	K V S V H	K E S U H	6	3399
+1502	Bru-Talan	oog	to spit		kəcoh	k ə c o h	k I T o h	K V K V H	K E C U H	6	3399
+1503	Bru-Ubon	bru	to spit		kəcoh	k ə c o h	k I T o h	K V K V H	K E C U H	6	3399
+1504	Khmer-Surin	kxm	to spit		tʨiaɁ	t ʨ ia Ɂ	t C i 7	T K V H	T C I H	9	3402
+1505	Khmer-Standard	khm	to spit		sdoh	s d o h	s d o h	S T V H	S T U H	3	3398
+1506	Mon	mnw	to spit		cʰɔh	cʰ ɔ h	T o h	K V H	C U H	6	3399
+1507	Vietnamese	vie	to spit		nhổ	n h o	n h o	N H V	N H U	21	3397
+1508	Bahnar-Golar	bdq	to stand		ʔjuːŋ	ʔ j uː ŋ	7 y u N	H J V N	H J Y N	3	3412
+1509	Bahnar-Kontum	bdq	to stand		ʔjuːŋ	ʔ j uː ŋ	7 y u N	H J V N	H J Y N	3	3412
+1510	Bahnar-Pleiku	bdq	to stand		ʔjuːŋ	ʔ j uː ŋ	7 y u N	H J V N	H J Y N	3	3412
+1511	Bru-Talan	oog	to stand		təjəŋ	t ə j ə ŋ	t I y I N	T V J V N	T E J E N	3	3412
+1512	Bru-Ubon	bru	to stand		təjɨŋ	t ə j ɨ ŋ	t I y I N	T V J V N	T E J I N	3	3412
+1513	Khmer-Surin	kxm	to stand		cʰuər	cʰ uə r	T u r	K V R	C Y R	9	3416
+1514	Khmer-Standard	khm	to stand		cʰɔː	cʰ ɔː	T o	K V	C U	9	3416
+1515	Mon	mnw	to stand		hətaɔ	h ə t aɔ	h I t a	H V T V	H E T A	8	3415
+1516	Vietnamese	vie	to stand		đứng	đ u n g	8 u n g	T V N K	D Y N K	20	3410
+1517	Bahnar-Golar	bdq	to steal		tətoːŋ	t ə t oː ŋ	t I t o N	T V T V N	T E T U N	3	3430
+1518	Bahnar-Kontum	bdq	to steal		tətoːŋ	t ə t oː ŋ	t I t o N	T V T V N	T E T U N	3	3430
+1519	Bahnar-Pleiku	bdq	to steal		tətoːŋ	t ə t oː ŋ	t I t o N	T V T V N	T E T U N	3	3430
+1520	Bru-Talan	oog	to steal		toːjʔ	t oː j ʔ	t o y 7	T V J H	T U J H	8	3436
+1521	Bru-Ubon	bru	to steal		tṳəc	t ṳə c	t i T	T V K	T Y C	8	3436
+1522	Khmer-Surin	kxm	to steal		lʊːc	l ʊː c	l u T	R V K	L Y C	12	3418
+1523	Khmer-Standard	khm	to steal		luəc	l uə c	l u T	R V K	L Y C	12	3418
+1524	Mon	mnw	to steal		klɔt	k l ɔ t	k l o t	K R V T	K L U T	12	3418
+1525	Vietnamese	vie	to steal		trộm	t r o m	t r o m	T R V M	T R U M	30	3431
+1526	Bahnar-Golar	bdq	to tie/bind		coʔ	c o ʔ	T o 7	K V H	C U H	7	3466
+1527	Bahnar-Kontum	bdq	to tie/bind		coʔ	c o ʔ	T o 7	K V H	C U H	7	3466
+1528	Bahnar-Pleiku	bdq	to tie/bind		coʔ	c o ʔ	T o 7	K V H	C U H	7	3466
+1529	Bru-Talan	oog	to tie/bind		riʔ	r i ʔ	r i 7	R V H	R I H	4	3458
+1530	Bru-Ubon	bru	to tie/bind		sat	s a t	s a t	S V T	S A T	11	3438
+1531	Khmer-Surin	kxm	to tie/bind		rɯt	r ɯ t	r u t	R V T	R I T	4	3458
+1532	Khmer-Standard	khm	to tie/bind		cɑːŋ	c ɑː ŋ	T o N	K V N	C A N	24	3448
+1533	Mon	mnw	to tie/bind		tèak	t èa k	t e k	T V K	T E K	27	3450
+1534	Vietnamese	vie	to tie/bind		cột	c o t	T o t	K V T	C U T	44	3462
+1535	Bahnar-Golar	bdq	to urinate/urine		ʔnoːm	ʔ n oː m	7 n o m	H N V M	H N U M	1	3469
+1536	Bahnar-Kontum	bdq	to urinate/urine		ʔnoːm	ʔ n oː m	7 n o m	H N V M	H N U M	1	3469
+1537	Bahnar-Pleiku	bdq	to urinate/urine		ʔnoːm	ʔ n oː m	7 n o m	H N V M	H N U M	1	3469
+1538	Bru-Talan	oog	to urinate/urine		pɔˀɔʔprəːm	pɔˀɔʔ prəːm	p p	P P	P P	4	3480
+1539	Bru-Ubon	bru	to urinate/urine		krʉa	k r ʉa	k r I	K R V	K R Y	5	3481
+1540	Khmer-Surin	kxm	to urinate/urine		nʊːm	n ʊː m	n u m	N V M	N Y M	1	3469
+1541	Khmer-Standard	khm	to urinate/urine		noum	n ou m	n o m	N V M	N U M	1	3469
+1542	Mon	mnw	to urinate/urine		nɔm	n ɔ m	n o m	N V M	N U M	1	3469
+1543	Vietnamese	vie	to urinate/urine		đái	đ ái	8 a	T V	D A	20	3478
+1544	Bahnar-Golar	bdq	to vomit		hak	h a k	h a k	H V K	H A K	2	3493
+1545	Bahnar-Kontum	bdq	to vomit		hak	h a k	h a k	H V K	H A K	2	3493
+1546	Bahnar-Pleiku	bdq	to vomit		hak	h a k	h a k	H V K	H A K	2	3493
+1547	Bru-Talan	oog	to vomit		kləʔ	k l ə ʔ	k l I 7	K R V H	K L E H	8	3502
+1548	Bru-Ubon	bru	to vomit		kətaː	k ə t aː	k I t a	K V T V	K E T A	3	3498
+1549	Khmer-Surin	kxm	to vomit		kɁʊːt	k Ɂ ʊː t	k 7 u t	K H V T	K H Y T	7	3501
+1550	Khmer-Standard	khm	to vomit		kʔuət	k ʔ uə t	k 7 u t	K H V T	K H Y T	7	3501
+1551	Mon	mnw	to vomit		haʔɔʔ	h a ʔ ɔ ʔ	h a 7 o 7	H V H V H	H A H U H	10	3486
+1552	Vietnamese	vie	to vomit		mửa	m u a	m u a	M V V	M Y A	24	3497
+1553	Bahnar-Golar	bdq	to wake up/awaken		həɗər	h ə ɗ ə r	h I d I r	H V T V R	H E T E R	7	3538
+1554	Bahnar-Pleiku	bdq	to wake up/awaken		həʔnər	h ə ʔ n ə r	h I 7 n I r	H V H N V R	H E H N E R	7	3538
+1555	Bru-Talan	oog	to wake up/awaken		pəkəˀəjh	p ə k əˀə j h	p I k I y h	P V K V J H	P E K E J H	21	3514
+1556	Bru-Ubon	bru	to wake up/awaken		ʔaːma̤s	ʔ aː m a̤ s	7 a m a s	H V M V S	H A M A S	22	3515
+1557	Khmer-Surin	kxm	to wake up/awaken		taːn	t aː n	t a n	T V N	T A N	27	3520
+1558	Khmer-Standard	khm	to wake up/awaken		taən	t aə n	t a n	T V N	T A N	27	3520
+1559	Mon	mnw	to wake up/awaken		ŋùh	ŋ u h	N u h	N V H	N Y H	34	3525
+1560	Vietnamese	vie	to wake up/awaken		thức	t h u c	t h u T	T H V K	T H Y C	56	3535
+1561	Bahnar-Golar	bdq	to walk/go		jaːk	j aː k	y a k	J V K	J A K	8	3582
+1562	Bahnar-Pleiku	bdq	to walk/go		jaːk	j aː k	y a k	J V K	J A K	8	3582
+1563	Bru-Talan	oog	to walk/go		həndaˀaw	h ə n d aˀa w	h I n d a w	H V N T V W	H E N T A W	20	3549
+1564	Bru-Ubon	bru	to walk/go		təjah	t ə j a h	t I y a h	T V J V H	T E J A H	19	3548
+1565	Khmer-Surin	kxm	to walk/go		dʌːr	d ʌː r	d o r	T V R	T E R	28	3556
+1566	Khmer-Standard	khm	to walk/go		daə	d aə	d a	T V	T A	28	3556
+1567	Mon	mnw	to walk/go		kwac	k w a c	k w a T	K W V K	K W A C	37	3562
+1568	Vietnamese	vie	to walk/go		đibộ	đi bộ	8 b	T P	D P	62	3579
+1569	Bahnar-Golar	bdq	to wash -hands, things		ʔɲaːw	ʔ ɲ aː w	7 H a w	H N V W	H N A W	9	3602
+1570	Bahnar-Kontum	bdq	to wash -hands, things		ʔɲaːw	ʔ ɲ aː w	7 H a w	H N V W	H N A W	9	3602
+1571	Bahnar-Pleiku	bdq	to wash -hands, things		ʔɲaːw	ʔ ɲ aː w	7 H a w	H N V W	H N A W	9	3602
+1572	Bru-Talan	oog	to wash -hands, things		raˀaw	r aˀa w	r a w	R V W	R A W	8	3601
+1573	Bru-Ubon	bru	to wash -hands, things		ʔaːriaw	ʔ aː r ia w	7 a r i w	H V R V W	H A R I W	8	3601
+1574	Khmer-Surin	kxm	to wash -hands, things		liːaŋ	l iːa ŋ	l i N	R V N	L I N	17	3589
+1575	Khmer-Standard	khm	to wash -hands, things		liəŋ	l iə ŋ	l i N	R V N	L I N	17	3589
+1576	Mon	mnw	to wash -hands, things		krat	k r a t	k r a t	K R V T	K R A T	26	3595
+1577	Vietnamese	vie	to wash -hands, things		rửa	r u a	r u a	R V V	R Y A	8	3601
+1578	Bahnar-Golar	bdq	to weave		taːɲ	t aː ɲ	t a H	T V N	T A N	2	3605
+1579	Bahnar-Kontum	bdq	to weave		taːɲ	t aː ɲ	t a H	T V N	T A N	2	3605
+1580	Bahnar-Pleiku	bdq	to weave		taːɲ	t aː ɲ	t a H	T V N	T A N	2	3605
+1581	Bru-Talan	oog	to weave		taˀan	t aˀa n	t a n	T V N	T A N	2	3605
+1582	Bru-Ubon	bru	to weave		təntaːn	t ə n t aː n	t I n t a n	T V N T V N	T E N T A N	2	3605
+1583	Khmer-Surin	kxm	to weave		tbaːɲ	t b aː ɲ	t b a H	T P V N	T P A N	2	3605
+1584	Khmer-Standard	khm	to weave		tbaːɲ	t b aː ɲ	t b a H	T P V N	T P A N	2	3605
+1585	Mon	mnw	to weave		tɑc	t ɑ c	t o T	T V K	T A C	2	3605
+1586	Vietnamese	vie	to weave		đan	đ a n	8 a n	T V N	D A N	2	3605
+1587	Bahnar-Golar	bdq	tongue		rəpjɛt	r ə p j ɛ t	r I p y E t	R V P J V T	R E P J E T	3	3609
+1588	Bahnar-Kontum	bdq	tongue		rəpjɛt	r ə p j ɛ t	r I p y E t	R V P J V T	R E P J E T	3	3609
+1589	Bahnar-Pleiku	bdq	tongue		rəpjɛt	r ə p j ɛ t	r I p y E t	R V P J V T	R E P J E T	3	3609
+1590	Bru-Talan	oog	tongue		ntaˀaʔ	n t aˀa ʔ	n t a 7	N T V H	N T A H	1	3607
+1591	Bru-Ubon	bru	tongue		le̤as	l e̤a s	l e s	R V S	L E S	2	3608
+1592	Khmer-Surin	kxm	tongue		naːt	n aː t	n a t	N V T	N A T	4	3610
+1593	Khmer-Standard	khm	tongue		ʔɑndaət	ʔ ɑ n d aə t	7 o n d a t	H V N T V T	H A N T A T	4	3610
+1594	Mon	mnw	tongue		katəc	k a t ə c	k a t I T	K V T V K	K A T E C	1	3607
+1595	Vietnamese	vie	tongue		lưỡi	l u õ i	l u o i	R V V V	L Y U I	2	3608
+1596	Bahnar-Golar	bdq	tooth		sənɛɲ	s ə n ɛ ɲ	s I n E H	S V N V N	S E N E N	5	3620
+1597	Bahnar-Kontum	bdq	tooth		sənɛɲ	s ə n ɛ ɲ	s I n E H	S V N V N	S E N E N	5	3620
+1598	Bahnar-Pleiku	bdq	tooth		sənɛɲ	s ə n ɛ ɲ	s I n E H	S V N V N	S E N E N	5	3620
+1599	Bru-Talan	oog	tooth		kənɛˀɛŋ	k ə n ɛˀɛ ŋ	k I n E N	K V N V N	K E N E N	8	3623
+1600	Bru-Ubon	bru	tooth		kənɛːŋ	k ə n ɛː ŋ	k I n E N	K V N V N	K E N E N	8	3623
+1601	Khmer-Surin	kxm	tooth		tʰmeɲ	tʰ m e ɲ	t m e H	T M V N	T M E N	1	3612
+1602	Khmer-Standard	khm	tooth		tmɨɲ	t m ɨ ɲ	t m I H	T M V N	T M I N	1	3612
+1603	Mon	mnw	tooth		ŋèak	ŋ èa k	N e k	N V K	N E K	11	3614
+1604	Vietnamese	vie	tooth		răng	r ă n g	r a n g	R V N K	R A N K	20	3619
+1605	Bahnar-Golar	bdq	tree		ʔlɔːŋ	ʔ l ɔː ŋ	7 l o N	H R V N	H L U N	3	3632
+1606	Bahnar-Kontum	bdq	tree		ʔlɔːŋ	ʔ l ɔː ŋ	7 l o N	H R V N	H L U N	3	3632
+1607	Bahnar-Pleiku	bdq	tree		ʔlɔːŋ	ʔ l ɔː ŋ	7 l o N	H R V N	H L U N	3	3632
+1608	Bru-Talan	oog	tree		tənɔːmlɔˀɔŋ	tənɔːm lɔˀɔŋ	t l	T R	T L	3	3632
+1609	Bru-Ubon	bru	tree		ka̤lʔaːluaŋ	ka̤l ʔaːluaŋ	k 7	K H	K H	3	3632
+1610	Khmer-Surin	kxm	tree		dʌːmcʰəː	dʌːm cʰəː	d T	T K	T C	1	3625
+1611	Khmer-Standard	khm	tree		daəmcʰəː	daəm cʰəː	d T	T K	T C	1	3625
+1612	Mon	mnw	tree		cʰuʔ	cʰ u ʔ	T u 7	K V H	C Y H	1	3625
+1613	Vietnamese	vie	tree		cây	c â y	T a i	K V V	C A Y	6	3634
+1614	Bahnar-Golar	bdq	two		ɓaːr	ɓ aː r	b a r	P V R	P A R	1	3637
+1615	Bahnar-Kontum	bdq	two		ɓaːr	ɓ aː r	b a r	P V R	P A R	1	3637
+1616	Bahnar-Pleiku	bdq	two		ɓaːr	ɓ aː r	b a r	P V R	P A R	1	3637
+1617	Bru-Talan	oog	two		baˀar	b aˀa r	b a r	P V R	P A R	1	3637
+1618	Bru-Ubon	bru	two		baːr	b aː r	b a r	P V R	P A R	1	3637
+1619	Khmer-Surin	kxm	two		piːr	p iː r	p i r	P V R	P I R	1	3637
+1620	Khmer-Standard	khm	two		piː	p iː	p i	P V	P I	1	3637
+1621	Mon	mnw	two		ba	b a	b a	P V	P A	1	3637
+1622	Vietnamese	vie	two		hai	h ai	h a	H V	H A	7	3641
+1623	Bru-Talan	oog	village		weːl	w eː l	w e l	W V R	W E L	7	3662
+1624	Bru-Ubon	bru	village		wiːl	w iː l	w i l	W V R	W I L	7	3662
+1625	Khmer-Surin	kxm	village		srɔɁ	s r ɔ Ɂ	s r o 7	S R V H	S R U H	10	3643
+1626	Khmer-Standard	khm	village		pʰuːm	pʰ uː m	p u m	P V M	P Y M	11	3644
+1627	Mon	mnw	village		kwan	k w a n	k w a n	K W V N	K W A N	17	3650
+1628	Bahnar-Golar	bdq	water		ɗaːk	ɗ aː k	d a k	T V K	T A K	6	3667
+1629	Bahnar-Kontum	bdq	water		ɗaːk	ɗ aː k	d a k	T V K	T A K	6	3667
+1630	Bahnar-Pleiku	bdq	water		ɗaːk	ɗ aː k	d a k	T V K	T A K	6	3667
+1631	Bru-Talan	oog	water		dəˀəʔ	d əˀə ʔ	d I 7	T V H	T E H	6	3667
+1632	Bru-Ubon	bru	water		dəːʔ	d əː ʔ	d I 7	T V H	T E H	6	3667
+1633	Khmer-Surin	kxm	water		tɯɁ	t ɯ Ɂ	t u 7	T V H	T I H	6	3667
+1634	Khmer-Standard	khm	water		tɨk	t ɨ k	t I k	T V K	T I K	6	3667
+1635	Mon	mnw	water		dac	d a c	d a T	T V K	T A C	6	3667
+1636	Vietnamese	vie	water		nước	n u o c	n u o T	N V V K	N Y U C	6	3667
+1637	Bahnar-Golar	bdq	white		kɔːk	k ɔː k	k o k	K V K	K U K	5	3686
+1638	Bahnar-Kontum	bdq	white		kɔːk	k ɔː k	k o k	K V K	K U K	5	3686
+1639	Bahnar-Pleiku	bdq	white		kɔːk	k ɔː k	k o k	K V K	K U K	5	3686
+1640	Bru-Talan	oog	white		blaˀaj	b l aˀa j	b l a y	P R V J	P L A J	8	3689
+1641	Bru-Ubon	bru	white		klɔːʔ	k l ɔː ʔ	k l o 7	K R V H	K L U H	7	3688
+1642	Khmer-Surin	kxm	white		sɑː	s ɑː	s o	S V	S A	12	3672
+1643	Khmer-Standard	khm	white		sɑː	s ɑː	s o	S V	S A	12	3672
+1644	Mon	mnw	white		pùʔ	p u ʔ	p u 7	P V H	P Y H	4	3685
+1645	Vietnamese	vie	white		trắng	t r a n g	t r a n g	T R V N K	T R A N K	32	3684
+1646	Bahnar-Golar	bdq	wind/air		kjaːl	k j aː l	k y a l	K J V R	K J A L	6	3703
+1647	Bahnar-Kontum	bdq	wind/air		kjaːl	k j aː l	k y a l	K J V R	K J A L	6	3703
+1648	Bahnar-Pleiku	bdq	wind/air		kjaːl	k j aː l	k y a l	K J V R	K J A L	6	3703
+1649	Bru-Talan	oog	wind/air		kəjaˀal	k ə j aˀa l	k I y a l	K V J V R	K E J A L	6	3703
+1650	Bru-Ubon	bru	wind/air		kəjaːl	k ə j aː l	k I y a l	K V J V R	K E J A L	6	3703
+1651	Khmer-Surin	kxm	wind/air		kjɑl	k j ɑ l	k y o l	K J V R	K J A L	6	3703
+1652	Khmer-Standard	khm	wind/air		kjɑl	k j ɑ l	k y o l	K J V R	K J A L	6	3703
+1653	Mon	mnw	wind/air		ca	c a	T a	K V	C A	6	3703
+1654	Vietnamese	vie	wind/air		gió	g i ó	g i o	K V V	K I U	6	3703
+1655	Bahnar-Golar	bdq	wing		pənar	p ə n a r	p I n a r	P V N V R	P E N A R	6	3719
+1656	Bahnar-Kontum	bdq	wing		pənar	p ə n a r	p I n a r	P V N V R	P E N A R	6	3719
+1657	Bahnar-Pleiku	bdq	wing		pənar	p ə n a r	p I n a r	P V N V R	P E N A R	6	3719
+1658	Bru-Talan	oog	wing		hanaŋˀ	h a n a ŋˀ	h a n a N	H V N V N	H A N A N	8	3720
+1659	Bru-Ubon	bru	wing		sanaŋ	s a n a ŋ	s a n a N	S V N V N	S A N A N	8	3720
+1660	Khmer-Surin	kxm	wing		slaːp	s l aː p	s l a p	S R V P	S L A P	11	3709
+1661	Khmer-Standard	khm	wing		slaːp	s l aː p	s l a p	S R V P	S L A P	11	3709
+1662	Mon	mnw	wing		hneaŋ	h n ea ŋ	h n e N	H N V N	H N E N	8	3720
+1663	Vietnamese	vie	wing		cánh	c á n h	T a n h	K V N H	C A N H	22	3716
+1664	Bahnar-Golar	bdq	woman		draʔkan	d r a ʔ k a n	d r a 7 k a n	T R V H K V N	T R A H K A N	7	3745
+1665	Bahnar-Kontum	bdq	woman		draʔkan	d r a ʔ k a n	d r a 7 k a n	T R V H K V N	T R A H K A N	7	3745
+1666	Bahnar-Pleiku	bdq	woman		ʔakan	ʔ a k a n	7 a k a n	H V K V N	H A K A N	7	3745
+1667	Bru-Talan	oog	woman		kan	k a n	k a n	K V N	K A N	7	3745
+1668	Bru-Ubon	bru	woman		mənseːm	m ə n s eː m	m I n s e m	M V N S V M	M E N S E M	11	3723
+1669	Khmer-Surin	kxm	woman		srɛj	s r ɛ j	s r E y	S R V J	S R E J	8	3746
+1670	Khmer-Standard	khm	woman		srəj	s r ə j	s r I y	S R V J	S R E J	8	3746
+1671	Mon	mnw	woman		makì	m a k ì	m a k i	M V K V	M A K I	22	3731
+1672	Vietnamese	vie	woman		đànbà	đàn bà	8 b	T P	D P	47	3743
+1673	Bahnar-Golar	bdq	year		hənam	h ə n a m	h I n a m	H V N V M	H E N A M	1	3748
+1674	Bahnar-Kontum	bdq	year		hanam	h a n a m	h a n a m	H V N V M	H A N A M	1	3748
+1675	Bahnar-Pleiku	bdq	year		sənam	s ə n a m	s I n a m	S V N V M	S E N A M	1	3748
+1676	Bru-Talan	oog	year		kəmɔˀɔ	k ə m ɔˀɔ	k I m o	K V M V	K E M U	3	3751
+1677	Bru-Ubon	bru	year		kəmɔ̤ː	k ə m ɔ̤ː	k I m o	K V M V	K E M U	3	3751
+1678	Khmer-Surin	kxm	year		ʨhnam	ʨ h n a m	C h n a m	K H N V M	C H N A M	1	3748
+1679	Khmer-Standard	khm	year		cnam	c n a m	T n a m	K N V M	C N A M	1	3748
+1680	Mon	mnw	year		hnam	h n a m	h n a m	H N V M	H N A M	1	3748
+1681	Vietnamese	vie	year		năm	n ă m	n a m	N V M	N A M	1	3748
+1682	Bahnar-Pleiku	bdq	yellow		drɛːŋ	d r ɛː ŋ	d r E N	T R V N	T R E N	4	3770
+1683	Bru-Talan	oog	yellow		raˀaʔ	r aˀa ʔ	r a 7	R V H	R A H	3	3768
+1684	Khmer-Surin	kxm	yellow		lɤːŋ	l ɤː ŋ	l o N	R V N	L E N	11	3757
+1685	Khmer-Standard	khm	yellow		lɨəŋ	l ɨə ŋ	l I N	R V N	L I N	11	3757
+1686	Mon	mnw	yellow		sacmic	sac mic	s m	S M	S M	17	3762
+1687	Vietnamese	vie	yellow		vàng	v à n g	v a n g	W V N K	B A N K	30	3769
+1688	Bahnar-Golar	bdq	you -pl.		ʔjɛm	ʔ j ɛ m	7 y E m	H J V M	H J E M	9	3789
+1689	Bahnar-Kontum	bdq	you -pl.		ʔjɛm	ʔ j ɛ m	7 y E m	H J V M	H J E M	9	3789
+1690	Bahnar-Pleiku	bdq	you -pl.		ʔjɛm	ʔ j ɛ m	7 y E m	H J V M	H J E M	9	3789
+1691	Bru-Ubon	bru	you -pl.		maɲi̤a	m a ɲ i̤a	m a H i	M V N V	M A N I	17	3780
+1692	Mon	mnw	you -pl.		mənɛ̀h	m ə n ɛ̀ h	m I n E h	M V N V H	M E N E H	27	3787
+1693	Bahnar-Golar	bdq	you -sing.		ʔɛː	ʔ ɛː	7 E	H V	H E	7	3802
+1694	Bahnar-Kontum	bdq	you -sing.		ʔɛː	ʔ ɛː	7 E	H V	H E	7	3802
+1695	Bahnar-Pleiku	bdq	you -sing.		ʔɛː	ʔ ɛː	7 E	H V	H E	7	3802
+1696	Bru-Talan	oog	you -sing.		maj	m a j	m a y	M V J	M A J	1	3790
+1697	Bru-Ubon	bru	you -sing.		mɤj	m ɤ j	m o y	M V J	M E J	1	3790
+1698	Khmer-Surin	kxm	you -sing.		Ɂɛːɲ	Ɂ ɛː ɲ	7 E H	H V N	H E N	14	3794
+1699	Khmer-Standard	khm	you -sing.		ʔaeŋ	ʔ ae ŋ	7 a N	H V N	H A N	14	3794
+1700	Mon	mnw	you -sing.		pèh	p è h	p e h	P V H	P E H	17	3796
+1701	Vietnamese	vie	you -sing.		mày	m à y	m a i	M V V	M A Y	1	3790

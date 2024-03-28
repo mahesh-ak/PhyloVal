@@ -1,0 +1,215 @@
+#NEXUS
+begin data;
+dimensions ntax=12 nchar=1060;
+format datatype=protein missing=? gap=- interleave;
+matrix
+Armenian            -MKR---HNK------WKN--------KP---NT--VNTPSIRK--MRN----MS--VT-----KR----
+Greek_Anc           -TPR---PNT-PP-----------------HRPT-----PSVIT----TNSKKRS---TKSS--PST--V
+Latin               --KNS--KNK----------TM----RK--IK---KMT---KN---MR----KR----TKSTR--RT--S
+Old_French          --KNTR-KNK-------KRNT-----RI----KT-KMNT--KNT--MR----KR----TSTR-------S
+Old_Norse           VSK----PM-------VK------PNT----KST-KW----SNKW---TI--KIT--HKR-----RK--W
+Old_High_German     VSK----PMP--PRKT--------PNT---WRP--KW----SNK-STRP---PRSKRKT----SPR----
+Old_English         VS----PP----------VNTRT---TI--WRP--------SNK-SWRT---PRS-SWTR----PRK--W
+Old_Irish           ---RT----KK-----VK-----KNKR----RK--KLKRT-KN---------PR----TS----KRKK--
+Old_Church_Slavonic -PPR---PT---PI----------WS----WRS-KK---------VMR-----MS---TSN--VKR----
+Sanskrit            --PSMN-PNKNPP-----------PNT----KSP-KTM---KI---MRI----MS---TKSN----TWI-
+Pali                --PSM--PNTS---------TR--PNT----KP--KT----KI---MR-----MS---TKN---KR----
+Middle_Persian      VTRSTR-PNK----------TRS-PS---VPKN--KIN---SR---MR----KST-RST--------WS-
+
+Armenian            -----KK--VS---KSR-TW---PSK---WRPHTW--KIR---MTK-----HT---NR--TR-----KN-
+Greek_Anc           RSTRS-----RK-NKS-PTRKS-----VM-TT------PT---NTN-----MTSTNS-----KSRS-KN-
+Latin               NSTR-------TKNKS-----VR----WM-KT----VMPR----TRSM--KM--VNKSTS-SKS--VKSR
+Old_French          NSTR---------NIT-----VR----WMKR-------PSM---TS--VWK---VSTRT--SK-----PM
+Old_Norse           NSTR------SKI-NT---WNKR-SPI---VT---KNK-----PK------MT--MIR--TR-----KN-
+Old_High_German     ---RNK----SK-NKT-PTRK----SPW-WNT-----------PK------MT-VNK---TRKN----PR
+Old_English         NSTR------STKNST-PTR-----SPW-PR-----------HRTK-----MT---NR--TRI----WP-
+Old_Irish           -----KRRPR----VTKVT-----SKH--VR------SPR----TRM------KWNK---TRM-----PN
+Old_Church_Slavonic -RW------RS--NST----KRR--PRW---------KT-----KRPT------VSK----SK-----SN
+Sanskrit            -SWI------WK--RTR--PKS-----WM------------PRST-----SH--VH----SSK-----PT
+Pali                --WM------WT--RT---PK------WMIWT------TSR--PT-----SH---------SK-----PR
+Middle_Persian      --HI-----KPTN--SP--PRK-----WM-RI-----RP---PST---VPK---TNK---HSK-----SN
+
+Armenian            -PH-------WS--HS-WSKR---KR--VR--HR----PS----VRK------------RS---HR----
+Greek_Anc           ---VK--VKN----HR-VSTN--HTR-HMR-MKRN--KNS--VNTR---RKS---VTSKRT---PR---P
+Latin               ----TN---KRM--PR-VS----VK--TS----RNKPRWS--VNTSTNVRPS----VS-RNKW-VKNS-S
+Old_French          ----TN---KR---KR-VS---IW----KR---RNK--PSIRVNTRR---PRNK--VR-RNK--PW--VS
+Old_Norse           --HRT----HRS-STRM--PN--WTN-TKR-PIR----TST-VNPR-----KWTR-HN-TNK--VRTR-T
+Old_High_German     --HRT----HRS--PRK--KNK-WSR-TK---PRN----STP--TRM---WS----VR-KN---PR---T
+Old_English         --HRT----SWR--PRW--PN--WTR-TI---PR----TST---TRMS----MT-----TNK--PR---T
+Old_Irish           ----KNK-MNR----RT--KNW-VSK---RT--KN---RT--VNTT----PN-------TNK---TN--T
+Old_Church_Slavonic ----TRS---WI--TS-KST---WT--TN---TRTSPRK----VTRP---PR----VN-ISK--VKN--T
+Sanskrit            N---TR---KR---SR-VST---VP--TN---TR---RN---VNTR-----SWT-------KHWVKN---
+Pali                I---TR---KW---TW-VT-----TSRTW---TR---RN---VNTWT----SK------TSWH-VK----
+Middle_Persian      ----TS---KRTN--RKVST---VP----RS-TR---KRT-----RTK-SPT----VI-VSWN-VTKS--
+
+Armenian            -HST-IRKR---RK---KRW----KR-----VSPN-PTR----PT--WRS--KT-----IRK------RW
+Greek_Anc           KNS---MKRS--RMN--PRS-----RTS----KTN-PTRN--VR---TNS-KNT------------VKTS
+Latin               PSS--RNKS---RKS--KRTKS---RPS---VKT--PN--KT-----VRK----PNK----------PNS
+Old_French          PS---RNK----RK-VSKRK---PIR-----VKR--PRM-KW-----KRKS---PNRT---TWS---PN-
+Old_Norse           KR---RNKR---WTN--PRKR------STN---TRPPITR--HR--NKRR--STNK-----TW----KTR
+Old_High_German     KK---RNK----RK----RNT------STN---TT-PTR--STRTS---SM-STK------KWN---KT-
+Old_English         K----RNK---MR-----RNT------STN--KWR-PTR--TIR-----SM-STNK-----TWIN--KT-
+Old_Irish           K---PT------RK---KRT----KRK------MRPKRT---VRPRVKN---ST------------TK--
+Old_Church_Slavonic PR---TRK--ISR----KR----------KM---VPPR----VPS---------PS-----TW---TPR-
+Sanskrit            KN---TRK---SRS------TWK---VSMN---HN-PRN----PT--KNKT-WT-------TW-------
+Pali                KN----TK---SR-------TTS---VSM----MR-PN-----PTS-KTS---TSRIHN--TW--PTK--
+Middle_Persian      KRPT-TRS---WR-----PST------SNK--KS--PR---TMP---KNT----PR-------------W
+
+Armenian            ---RSVMSN---VISTR---WRS-IS--PT-----TR--PR-KRK-----WTPRN--IRNK---HT----
+Greek_Anc           --VK---VNR---VNT------TRVK---VMPRS-TT--VRS--KPR-----SKNN--VNKS--VSPRN-
+Latin               --VT----MRTS---HK---WN--VK---HPS------PT----KPT---NN--PNS-VNKWS-VRPK--
+Old_French          --------MR--------KKI--------VMS---TN--KW-----TSIP--KRT---VNKR-SNT----
+Old_Norse           --HR---PNT-----HR-PK----VK-----SRIRKW--KRW--HWT---VK-RP----NKR---TW---
+Old_High_German     --HR---PRTKM---HR-IK----VK-----SR---KP-KRP--HPT------RP----NKR---RK---
+Old_English         -IHR----WR-----HR---HNT-VK-----STMPSR--TRW--HWT------RP----NIR--STNK--
+Old_Irish           --KRN---KR---SNT-SRK-----------MR---T--KRT--KN-------RWN--VNKN----PR--
+Old_Church_Slavonic --SRS-MS------ST---RW---VS---TP--------KP---KRW-----WRW----NKT---TS--P
+Sanskrit            --SRN--PT-----VTRMRKI---VHMKNT-----TT--KN-SRS--------RT----NK--KKR----
+Pali                ---SN--PT-----VT--MKW---VH-KNT-----TT--KN-SR---------RTS---NK--KNT----
+Middle_Persian      H-VSN--KTR----VTR-SKR---VN-KNT---------KN-SR---------RSN---NKN----PI--
+
+Armenian            SN-------KN---IRK-SRT--KT-----VTK---VTM---MRT---WTK-RK-----MSVPR------
+Greek_Anc           -KN--VIN-KN---TR--KRT-------VPTRMS--VTS--VNTRPSPS----MSTSTRKS-----ST-T
+Latin               -KNS-VWM---PMNTR--KR----HRP----VKRS--TNS-HM----PS--PRNS---PRS------WWM
+Old_French          -KN---WP---TM-TR-KWR----VRP------VR--TNT-VM--------PRN---KWR-------WWM
+Old_Norse           -HNTRVK--KWN--TRIKIRT---KRS----VK----TN---MTR--PTR-PRR----HR---RP-----
+Old_High_German     -HNT-----KWN--TR--HRK---KRS----VK----KNT--MN---PS--PR-----HR---RP-----
+Old_English         -HNT-VI---WP--TR--HRT---KRS----VK---TT----MN---PT--PR-----HR---RP-----
+Old_Irish           -----VK----PN-TR--KRT-----PR-----SR-PK-----TN---TRK-RN----PRT---------
+Old_Church_Slavonic S----VITSSN---TRI-SRTTS-TRW----VK--SP------KRWK--NKPRN----WRS---------
+Sanskrit            SWN--VNT--STR-TRN-HRTI--TRN----VKS---TNT--MNSI-PT--PRN-----KS-----KW--
+Pali                -KKR-VNT--VT--TI--HTI---TN-----VK----TNT--MNS--PT--PN------KS----TSW--
+Middle_Persian      SK---KIK-SN-------TR---KI-------KSM--TNTN--KS--PI--PR------MI----SS---
+
+Armenian            KK----SR--------KR-----HSW-KNR------PRK---HN-VKNK---SW-----KRK-------R
+Greek_Anc           KN-VKSS-------VRK----VRTM-PRS------------PRS--VS--MRS------PRKS-------
+Latin               RT-VKTS----------WN-NMR--------KRWS--IK---WTS-VRSNKR-------PRWS------R
+Old_French          RT----TRNKNT-----WN--KNT--PSNT------KS----WIR-VRR--NR------KRT-------R
+Old_Norse           PT---SKRPR------KM-----TRI---TNKR----RKIKMR---VR----SWRTRSTTR----WSK--
+Old_High_German     -PS--SKRP-------KWM--KR-------SWR----RK--VRT--VR----SWRK--SKRT---WSK--
+Old_English         PT----SRP-------KM-----TR-----HWI---RTK--VRT--VR----SWRT---SRT---WSK--
+Old_Irish           KN----KR----TT--------RW-----TRM-----RK---SN-----------TP--PR-----NK--
+Old_Church_Slavonic KP--VSTR--------KRS----TSS---TSK----RS----STRVK---KRN------KRTK-------
+Sanskrit            -TSTKSN--------VKM---KNI-------KR--------KRN--KRN-KRSN-----HRSW----KSR
+Pali                -TSTK---------VI-----KN--------KR---------WT--KN--KNH----------TP-----
+Middle_Persian      KS---TS-------VM---VSMR--------KRN-NPS---PR---KS----SI-------KK---SS--
+
+Armenian            WVT------IRKIR---KM--KNK-MTK---VRW---MRKR---VSTR---VIR-----VNTR---KNKN
+Greek_Anc           -VPS-----KRS---PN----KN--------HRS--VMKR----VSTR---VRS---HR-----HST---
+Latin               W--SRPNS-KRN---PP----KN-KKT----SR-----NPR----STR---VRTR--SRW-----ST---
+Old_French          W--SRPNT-KRN---PW----KNR-PNS---SRR-----PRM--VSTR---VRTR--PRST---RW----
+Old_Norse           -SNKR----HRN--TRK----KN---TKI--SR------TK----STIRN-VNR-SKKR------STNT-
+Old_High_German     ---SRNK--HRN--TRNK---KN---TNK----SN---NPR----STRN--VNTR--PRST----ST---
+Old_English         --NTR----HRN--TRNK---KNW--TNK----SN--MST-----STR---VTR-----WT----STNT-
+Old_Irish           --NTR---VTRK--VP----KRN--SMN---KRN--------------RNTVR----KR----VRS----
+Old_Church_Slavonic ---SMI----RK--------KRN---MSR--SRNTS-MKR--TSWST----VN-----RS-----STI--
+Sanskrit            I--SRP---SRNK--PP----KN---MNI--SRI---MH----NKSTR---VNI-----WN---TST---
+Pali                ---SP----SNK---PW---TSN---TSNT-SRI---MHK------TRK--VPR-----WN---TTT---
+Middle_Persian      ---MR----SR------KWR-SNKHNTS--KWRST--MH------STRK--VPRK---RSR---VST---
+
+Armenian            --SRIT---MT---RSN--KRMR-VRT----RR----KRK--VM-----SRP--PIT----PRNVR----
+Greek_Anc           --KRSTRS-VNKSSRN---VRTRS-VKSN------VNTS---VN----PS--HRPTS---STM-HRS---
+Latin               --KRKS----PRP-RN----RPR---TM---------PRS--VT---TRK----PKRM-VS---SR----
+Old_French          --KRK-----PRS-RN----RK---VNPR---NW---PRR--VT----VSII--PSTN---PTSSR----
+Old_Norse           ---VS-----NR--TNKR--RTR----SWR-SWM---PRM--WT---TRK-----STWR-MNR-SRT---
+Old_High_German     ---VS----NH---MN----RT-----SWR-SWMM--PRM--VS----WSK----STK--MNT-SRK---
+Old_English         ---VS-----NK--MN----RT-----SWR-SWM---PRSTMVT----WP-----STK--MT--SRT---
+Old_Irish           ---VK-----VKS-VSK---RT---VT----SNH---PRT--VK----------SRT----PR-SRN---
+Old_Church_Slavonic ----RT----PRS-MSTSTSRWRN------PRW----TSWT------TR-----PRTS-VST--SR----
+Sanskrit            HM-------NT---MS----RKT----SWIPRW----PSP-------MRS------TNTWKTR--RWN--
+Pali                ----PT--VNTK--TSNT--RHT-------PRW---PP---------MTS-----RT---MK---RN---
+Middle_Persian      ---IK---NSTK--MH--SKR----PT----SNS---KR---PTVWSTR----KP------THN---NMK
+
+Armenian            KRK------TSNVIS--MK---WTR---KNT---KNTN---TK------KT-RR---KST--SPKK----
+Greek_Anc           KR----HR----HT---HN---PTR--KRRS----STIN-HMS--RS-----VRS--VRTSTRPSKRKS-
+Latin               ---MNS--WT--HK---VNM--PTS--WRTS---VNMR---WS--NSS----MNS--RKTSPRK-WRMS-
+Old_French          ---MN--------KST-VN----PR--WRT----PST----WS--NS-----MNTN-PN--PRT-WRM-T
+Old_Norse           ---HNT-------TS--VN----RS--KRN------TR---TR-----NP-PIR----RTRKN--VRMR-
+Old_High_German     ---HNT-------TSR-VN----RS--KRN------TR---VR--NS-----PRK--RKT--RP-WRM--
+Old_English         ---HNT---IS--TS--VN----RS--KRN-----NTN-------NS-----PRK--RST-KNT-WRM--
+Old_Irish           -RW-----VTK------VN----MR--KRS----VNWNT---SP--SRN---SRP--KRT-MR--KRW--
+Old_Church_Slavonic -RK-----WT------ITN----WS--SRN-----SWR-------NS-----KR---PRW-TR-TSRW--
+Sanskrit            ---HST---PS-VTM--VKMIK-----HRT----PS---IIM---NS-----PRWT--STTKRS-KRM--
+Pali                ----HT---TK-VT---VK-VK-----HR-------MK---TMH-NS-----PPT---VT-KS--KM---
+Middle_Persian      ---TST------VN---VK-----SPS---SPSKINWR---VSMH--WNK-KP---TRST-MS--KRM--
+
+Armenian            ----PRRRIRT--NST-HR--KW-----HR----PRK---VIRWR----VNT---ITTRMRTVMP-----
+Greek_Anc           --P-S--HPR--KTST---VT----TRS--KTN--RPTS-------------------VNR--NPS----
+Latin               -VMNS--IKR----ST-PR------MR-HMS---KRKRS-VR--------KT-------WR--NPS----
+Old_French          T----------------PS------MR--TR--MKR----VRT---------------VM---NIK----
+Old_Norse           ----VRRRPR----STIKRNTHW------IRT-----TNR---PRN---KWT--VP---KRR---SK---
+Old_High_German     ----VR-RPR----ST--SKP--------VRT-----TN----PRN-----WS-VP--KM---WRKN---
+Old_English         ----VR-RWR----ST--SW---------VRT-----TN----PRN----MT---IP--WR--WRKN---
+Old_Irish           ----VR--------ST---VK----MR--TRW-----TN-----RSK---KT-------PR--NR--SRN
+Old_Church_Slavonic ---WS--ITRTS--ST--RW-----MR-SMR------TNK---KRT-----TSTVST--MS-VPRK----
+Sanskrit            ----SRWIKRT---ST---NT--SMTR--MRT-----TN------THT-KM----IT--PRS-MK-----
+Pali                ----SP-IKN---NST---NT--SMT--PM---------------THT-------IT--PRS-MK-----
+Middle_Persian      ---WSP-KKR---NSS--RNN----SRI-KK---PRK--------SKTN-----VKR--MRTVPR-----
+
+Armenian            -KK--WTK-----TR----TRS-TK-VINTR-VRIN----NRNKVRMT---KR--VWS----VNN--TT-
+Greek_Anc           -HRK--SKRS-VTS----TSR---PTVK--------HM-VT----RST-TNTRN-VMS---VNM--HKRS
+Latin               -TRH---KRS-VNS----KTR--SP-VP------SNKWS------RTKS--VRPR-HRN---NMN-VMTS
+Old_French          -TR----KMP-VN-----KTR-VSKP--------SNK--VR----RKN---VRPRSPRN---NM---MRI
+Old_Norse           -TRK--RKR----VR--PIKR--SPI---TR---PRT---TR---RT----TR----SNTR-NPN-WTR-
+Old_High_German     --KH-----PN--IR----PR--SPW---TR---PRT-------WRK------PM--SNT--NM----NS
+Old_English         -----SNK-----IR---PWR--SPT---TR---PRT-------WRT----TRW---SNT--NM--WT--
+Old_Irish           KT-----KS----PRTN-KTR--SR----TR---KR--------PRN----KRN---KNW-VNM---PRK
+Old_Church_Slavonic -WRS--NK------RT--KTR--PRW--------KRW--VN---KRN----TRW--PSK---VM--MKR-
+Sanskrit            -KRS-KNK---WTSR--KTWR--STW---TTR---RKT------MR-----WRKS-PS----NMNVRTR-
+Pali                KT--TSNK----WS---TSTR-VTP----TT----RHT------MR------RK---SKT--NM--VT--
+Middle_Persian      --KS-----PI--SR---KHR--TP-VNH-----KN---VWSN--RSK---TRKT--RK---NM---TR-
+
+Armenian            -RIN--PTR-----KRR----VIN-VW-KN-------SRMN--KK-----------KT--------KK--
+Greek_Anc           VRS-KRPS-----KKRS----VKNS-TSKTT---SPRM------KPNS-VRK---PTMS------VKTS-
+Latin               -RTS--PRKTS----RTNTS-VR-------TRM----SMN--PMS-----PK---PRMN-----PSKS--
+Old_French          ------PRIT-----RNT--KST-------TRM---KRN---PM------------RWIR----PSN---
+Old_Norse           -WTR--VWKTRKRNKRTR----TT-KWR--SW---PRI-----RKR----PR------------PSKR--
+Old_High_German     -WT--VPS------KRSK----INR-WR--SRPN---SM------RH--------PRT------PSK---
+Old_English         -WT----WSTM-SNWRT-----TT------SRP--ST-----SMK-----PW------------PS----
+Old_Irish           -RTN---TRT----KRNT----SN------TR-----SR-----------PKN-VP--------VSK---
+Old_Church_Slavonic SRK---PRT----VKRKR-------KT---SP-----SM---TM--------MR--RK-----RP-----
+Sanskrit            VR----PR------WRT----VTS------SWP--PK-----TM----VRP-----NT--TWM---MTSI
+Pali                VR----PR------KR------TT------SP---PTS----TM-----VP-----NT--TW----MTS-
+Middle_Persian      PRK---MWK-----KRT-----VN----KP------TM---TT--------KM---RT------MHK---
+
+Armenian            -VR---KRK-IW------TRWTK---KRP----VRR--MT---RR--TRT------KR---KIN--MSK-
+Greek_Anc           -------KN---------PRN-TRMS--TMS--VTS-VN----PR--PSKRSHRPT------KN----TR
+Latin               -VP--SKP-----VT---PRM-KRTSKRSS--RKTS-VN----PRT-PRKTS-----------NKS--KT
+Old_French          ------KRT----VT---PR--KWT-KRS-----TRTVN----PRT-PRT------KST----NP--PR-
+Old_Norse           KWR---KR-----VK----RW-KRR----MR---PN-------PRITKRTR--SM-------SNIR--HT
+Old_High_German     KWR---KRK---VNT----RP-WRM---SMRK-STRKVN--SWP---KRT----NI------SN----HT
+Old_English         -MR---KRW---VNT----RP-WRM--RSR--RST--VN----PRT-KRT---SW-------SNW---HT
+Old_Irish           -----SKRP----VKS--TR-TH---KR------TRK----SNH---VR------VK-----SNKT--KN
+Old_Church_Slavonic KT-TSS----------RST--TPR------TK--PRW------PRW-STTN-----------SNK---KS
+Sanskrit            KTR----RK--------PTR-TPT--PWS------RK------PRW-ST----SWI---HM-------KR
+Pali                KT-----RK-----TS-PT----KM----MT--VTS-VNTR--PRW-ST----SP----HM--------T
+Middle_Persian      -------RNT---VT---WRK-KRM-KRPSN-RST--VNTRSNWR--SRT-----TK------WPR-PST
+
+Armenian            ---SRKW-VNKRW-----------TRN--MKHRT------SRTNR-KT------IRK---IRKNK-IRP-
+Greek_Anc           M----TRP--HTS----HTS-KSNTS--HMS-RS-----PKN-NS-VT------PS----VRNS----PT
+Latin               S--WRT----PRW--------PRWS----NS-RWS-----KR-NWS---SK---PR----KRM--KWNT-
+Old_French          -----TRN--PRW----RT-LKWN-----NS-RS------KR-NWR---SW-VNPNT--KIR----KNT-
+Old_Norse           ---SNSK----RKNWKR----KRR---WR--SRTR--PRIS--NR-WT------PRN--HMN---KWNR-
+Old_High_German     -----TR----RKNWK-----KR----WR--KRT----PRS--NW-----KN--KNT--HMR----WN--
+Old_English         ---WNT-----RINWI-----IR--------SMT----PRS--NW-----KN--KRT--HWN----MN--
+Old_Irish           S--SH-----PRK----PTR---PT---SN----MN-----RTNH-------RRP----SPR----KN--
+Old_Church_Slavonic --VPRT-----TST---PT---SRT------KRTK--------NW-WT-----VTRTS-NP----KKT--
+Sanskrit            MN-WRT----WRS----PT----PT--WIM-SRKSN----SI-NW-----KN--PR---VKS----KT--
+Pali                SM--WT-----WS----PT----PT---VMH---SNH---SI-NW---TSN---PRK--VKS----KRH-
+Middle_Persian      --WS------WRN---RH----SRT---VMH-------VPSR-NK--TNS---WK---VSMN----KI--
+
+Armenian            --VT---ST-
+Greek_Anc           --VSTPRS--
+Latin               --VT--MRT-
+Old_French          MNKI--MRT-
+Old_Norse           --VT--MRKR
+Old_High_German     --VK--MNK-
+Old_English         --VT--MNI-
+Old_Irish           --VT--VR--
+Old_Church_Slavonic ---IS-MNK-
+Sanskrit            --KT-PH---
+Pali                --VT-PH---
+Middle_Persian      --KWR-WS--
+
+;
+end;

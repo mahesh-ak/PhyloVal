@@ -1,0 +1,1 @@
+/usr/bin/c++  -march=native -g -O3 -Wall -rdynamic CMakeFiles/testQDist.dir/testQDist.cpp.o CMakeFiles/testQDist.dir/NewickParser.cpp.o CMakeFiles/testQDist.dir/QDist.cpp.o CMakeFiles/testQDist.dir/TreeUtil.cpp.o CMakeFiles/testQDist.dir/Util.cpp.o -o testQDist  -lopenblas 
