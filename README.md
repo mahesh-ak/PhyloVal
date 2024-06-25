@@ -46,3 +46,6 @@ The results are tabulated in `results/summary_<task>.tsv`. The primary results a
 
 Analysis on Nostratic is performed manually using the `.fa` files from `processed/aligned/` on MEGA11 GUI with model Poisson+I.
 
+## Citation
+V.S.D.S.Mahesh Akavarapu and Arnab Bhattacharya. 2024. A Likelihood Ratio Test of Genetic Relationship among Languages. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), pages 2559–2570, Mexico City, Mexico. Association for Computational Linguistics. [link](https://aclanthology.org/2024.naacl-long.141/)
+
