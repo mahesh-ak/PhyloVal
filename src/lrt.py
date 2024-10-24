@@ -66,7 +66,7 @@ def run_param_bootstrap(family, num_sim=20):
 def LRT(family):
     d, deltas = run_param_bootstrap(family)
 
-    pval = ttest_ind(d,deltas,equal_var=False)[1]
+    pval = ttest_ind(d,deltas,equal_var=False, alternative='greater')[1]
 
     print(f"Delta: {round(np.mean(d),3)}, p-val: {pval}")
     with open(f"results/lrt_{family}.json",'w') as fp:
